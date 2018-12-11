@@ -2,10 +2,8 @@
 layout: coffins
 permalink: /team/
 title: Meet the coffins project team
-id: root
+id: team
 ---
-
-## The team
 
 {% assign rows = site.team.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}

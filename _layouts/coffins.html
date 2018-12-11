@@ -54,6 +54,10 @@
         <div class="col-12   p-3 mb-5 mx-2  rounded">
             {{ content }}
         </div>
+        {% elsif page.id == 'team' %}
+        <div class="col-12   p-3 mb-5 mx-2  rounded">
+            {{ content }}
+        </div>
         {% elsif page.id != 'root'%}
         <div class="col-8 shadow-sm  p-3 mb-5 mx-2 bg-white rounded">
             <p class="page__meta float-right">
