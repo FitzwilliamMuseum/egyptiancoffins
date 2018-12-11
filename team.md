@@ -2,6 +2,7 @@
 layout: coffins
 permalink: /team/
 title: Meet the coffins project team
+id: root
 ---
 
 ## The team
