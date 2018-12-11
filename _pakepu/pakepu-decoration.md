@@ -2,10 +2,8 @@
 layout: coffins
 title: How were the coffins of Pakepu decorated
 permalink: /coffins/pakepu/decorated
-categories: pakepu
+category: pakepu
 ---
-
-# HOW WERE THE COFFINS OF PAKEPU DECORATED?
 
 There are two main components in the decoration of Pakepu’s coffins. This includes: (1) the creation of the surface preparation layers and (2) the application of the textual and decorative programme.
 
