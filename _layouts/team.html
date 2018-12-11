@@ -25,13 +25,18 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 col-xl-10">
-                <h1 class="typography-display-4 text-white" id="doc-main-h1">{{ page.title }}</h1>
+                <img src="{{ site.baseurl }}/images/logos/logo.png" class="align-self-center mr-3  float-left thumb-post"/>
             </div>
         </div>
     </div>
 </div>
-
-
+<div class="container">
+  <div class="row">
+        <div class="col-12  mb-2 ">
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+</div>
 <div class="container">
     <div class="row">
         <div class="col-12 ">
@@ -42,7 +47,6 @@
                             <img class="align-self-center mr-3 rounded-circle float-right thumb-post"
                                  src="{{site.baseurl}}{{page.image}}"
                                  alt="{{page.title}}'s profile image" height="150" width="150">
-                            <h5 class="card-title">{{page.title}} </h5>
                             {% if page.job-title %}
                             <h6 class="text-muted">{{ page.job-title}} </h6>
                             {% endif %}
