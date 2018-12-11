@@ -1,21 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Required meta tags -->
+     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
-
-    <!-- CSS -->
-    <!-- Add Material font (Roboto) and Material icon as needed -->
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i|Roboto+Mono:300,400,700|Roboto+Slab:300,400,700"
-          rel="stylesheet">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
-    <!-- Add Material CSS, replace Bootstrap CSS -->
-    <link href="{{site.baseurl}}/css/material.min.css" rel="stylesheet">
-    <link href="{{site.baseurl}}/css/site.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
-          integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <title>{{page.title}}</title>
+    {% include /structure/css.html %}
 </head>
 <body class="doc-body">
 <!-- Screen reader skip to main -->
@@ -24,32 +14,7 @@
         <span class="doc-skip-text">Skip to main content</span>
     </div>
 </a>
-<nav class="navbar navbar-expand-lg navbar-dark bg-black fixed-top">
-    <a class="navbar-brand order-md-last" href="#">The Egyptian Coffins Project</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
-            aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarText">
-        <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="{{site.baseurl}}/">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="{{site.baseurl}}/coffins">Coffins</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="{{site.baseurl}}/team">The team</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="{{site.baseurl}}/resources">Resources</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="{{site.baseurl}}/coffins/glossary">Glossary</a>
-            </li>
-        </ul>
-    </div>
-</nav>
+{% include /structure/navigation.html %}
 
 <div class="row mb-5 bg-black ">
       <video controls autoplay loop muted  class="embed-responsive-16by9 mx-auto" height="400px">
@@ -76,80 +41,8 @@
 {% include front_page.html %}
 
 
-<div class="bg-white mt-3">
-    <div class="row">
-        <div class="mx-auto">
-            <p class="rtecenter">
-                <a href="http://www.museums.cam.ac.uk"><img alt=""
-                                                            src="{{site.baseurl}}/images/logos/uocmuseumsandbot.jpg"
-                                                            style="height:50px; margin:10px; width:178px"></a><a
-                    href="http://www.artscouncil.org.uk/what-we-do/raising-standards/designation-scheme/"><img
-                    alt=""
-                    src="{{site.baseurl}}/images/logos/designation.jpg"
-                    style="height:50px; margin:10px; width:50px"></a><a
-                    href="http://www.artscouncil.org.uk/what-we-do/supporting-museums/accreditation-scheme/"><img
-                    alt=""
-                    src="{{site.baseurl}}/images/logos/accred.jpg"
-                    style="height:50px; margin:10px; width:53px"></a><a
-                    href="http://www.cam.ac.uk/"><img alt="" src="{{site.baseurl}}/images/logos/iiplogo.jpg"
-                                                      style="height:50px; margin:10px; width:167px"></a>&nbsp;<a
-                    href="http://www.cambridge.gov.uk/"><img alt="" src="{{site.baseurl}}/images/logos/camcity_logo.jpg"
-                                                             style="height:50px; margin:10px; width:40px"></a><a
-                    href="http://www.artscouncil.org.uk/" style="line-height: 23.1111106872559px;"><img alt=""
-                                                                                                        src="{{site.baseurl}}/images/logos/ace_logo.gif"
-                                                                                                        style="height:50px; margin:10px; width:197px"></a><a
-                    href="https://re.ukri.org/"><img alt=""
-                                                     src="{{site.baseurl}}/images/logos/research-england-logo.jpg"></a>
-            </p>
-        </div>
-    </div>
-</div>
-
-<footer class="text-white">
-
-    <div class="container ">
-        <div class="row">
-            <div class="col-sm mt-2 mb-2 border-right border-white">
-                <p>The Fitzwilliam Museum,<br/>
-                    Trumpington Street,<br/>
-                    Cambridge<br/>
-                    CB2 1RB<br/>
-                    Tel: +44 (0)1223 332900</p>
-            </div>
-            <div class="col-sm mt-2 mb-2 border-right border-white">
-                <ul>
-                    <li>University of Cambridge Museums</li>
-                    <li>Support the Fitz</li>
-                    <li>Website Terms of Use</li>
-                    <li>Privacy and cookies</li>
-                </ul>
-            </div>
-            <div class="col-sm mt-2 mb-2 border-dotted border-right border-white ">
-                <p>
-                    <i class="fas fa-share-alt "></i> #fitzEgyptCoffins </p>
-                <p>
-                    <i class="fab fa-twitter fa-2x"></i> <i class="fab fa-instagram fa-2x"></i> <i
-                        class="fab fa-youtube fa-2x"></i> <i class="fab fa-vimeo fa-2x"></i>
-                    <i class="fab fa-sketchab fa-2x"></i>
-                </p>
-            </div>
-            <div class="col-sm mt-2 mb-2 ">
-                <img src="{{site.baseurl}}/images/logos/FitzwilliamLogoFooter.png" class="rounded d-block"/>
-                <p>&copy; 2018 The University of Cambridge</p>
-            </div>
-        </div>
-    </div>
-
-</footer>
-
-
-<!-- Optional JavaScript -->
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
-
-<!-- Then Material JavaScript on top of Bootstrap JavaScript -->
-<script src="{{site.baseurl}}/js/material.min.js"></script>
+{% include structure/footer_logos.html %}
+{% include structure/footer.html %}
+{% include structure/javascript.html %}
 </body>
 </html>
