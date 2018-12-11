@@ -25,14 +25,16 @@ description: >- # The Fitzwilliam Egyptian Coffins project
 
 words_per_minute: 300
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/egyptiancoffins" # the subpath of your site, e.g. /blog
+url: "https://fitzwilliammuseum.github.io"
+
 twitter_username: fitzwilliam_uk
 github_username:  fitzwilliammuseum
-permalink: pretty
 
+permalink: pretty
 encoding: "utf-8"
 read_time: true
+
 # Build settings
 markdown: kramdown
 theme: minima
