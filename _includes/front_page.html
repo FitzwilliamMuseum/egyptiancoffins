@@ -1,0 +1,89 @@
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <h2>Coffins in the spotlight</h2>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-sm-6  mt-3">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">Nahktefmut</h5>
+                    <p class="card-text">The mummy case of Nakhtefmut is constructed of cartonnage and was found in excavations by Quibell at the Ramesseum in 1896.
+</p>
+                    <a href="/coffins/nakhtefmut" class="btn btn-dark">Read about Nahktefmut</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6  mt-3">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">Pakepu</h5>
+                    <img class="align-self-center mr-3 rounded-circle float-right thumb-post"
+                         src="{{site.baseurl}}/images/pakepu-outer.jpg"
+                         alt="{{page.title}}'s profile image" height="150" width="150">
+
+                    <p class="card-text">This coffin set belongs to a man named Pakepu who worked as a 'water pourer on
+                        the west of Thebes' around c.680-664 BC. The coffins were discovered during excavations in Luxor
+                        in 1869 and subsequently gifted to the Museum by Prince Edward (later Edward VII) in the same
+                        year.</p>
+                    <a href="/coffins/pakepu" class="btn btn-dark">Read about Pakepu</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-sm-6 mt-3">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">Nespawershefyt</h5>
+                    <img class="align-self-center mr-3 rounded-circle float-right thumb-post"
+                         src="{{site.baseurl}}/images/Nes1.jpg"
+                         alt="{{page.title}}'s profile image" height="150" width="150">
+                    <p class="card-text">The yellow anthropoid coffin set of Nespawershefyt is one of the best-known
+                        surviving examples of its kind from the 21st Dynasty. Comprising a mummy board, inner coffin and
+                        outer coffin, it was one of the first objects to be acquired into the fledgling Fitzwilliam
+                        Museum's ancient Egyptian collection in 1822.</p>
+                    <a href="/coffins/nespawershefyt" class="btn btn-dark">Read about Nespawershefyt</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 mt-3">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">Senuitef</h5>
+                    <p class="card-text">The long boards grouped under this accession number belong to the coffin of Senu-itif.
+(FN Name not in Ranke, Personennamen) The boards from the short sides may belong to a
+different coffin. The long boards, with their four vertical columns, conform to Willems'
+type IV, while each short end piece with its single vertical column belongs to type III.</p>
+                    <a href="/coffins/senuitef" class="btn btn-dark">Read more about Senuitef</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-12">
+            <h2>Video</h2>
+        </div>
+    </div>
+</div>
+<div class="container mt-3">
+    <div class="row">
+        {% for video in page.videos %}
+        <div class="card col-sm p-0 m-2">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe src="https://player.vimeo.com/video/{{video}}" class="embed-responsive-item"
+                        webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>

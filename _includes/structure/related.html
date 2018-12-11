@@ -1,0 +1,31 @@
+<div class="col-3 shadow-sm  p-3 mb-5 bg-white rounded">
+    <h3>Further reading</h3>
+    <ul>
+        {% if page.category contains "pakepu" %}
+        {% for coffin in site.pakepu %}
+        <li>
+            <a href="{{ coffin.url }}">{{ coffin.title }}</a>
+        </li>
+        {% endfor %}
+        {% endif %}
+
+        {% if page.category contains "nahktefmut" %}
+        {% for coffin in site.nahktefmut %}
+        <li>
+            <a href="{{ coffin.url }}">{{ coffin.title }}</a>
+        </li>
+        {% endfor %}
+        {% endif %}
+
+        {% if page.category contains "nespawershefyt" %}
+        {% for coffin in site.nespawershefyt %}
+        <li>
+            <a href="{{ coffin.url }}">{{ coffin.title }}</a>
+        </li>
+        {% endfor %}
+        {% endif %}
+    </ul>
+
+    <h3>Technical reports</h3>
+
+</div>

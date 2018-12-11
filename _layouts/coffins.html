@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
+    <title>{{page.title}}</title>
+    {% include /structure/css.html %}
+
+
+</head>
+<body class="doc-body">
+
+<!-- Screen reader skip to main -->
+<a class="sr-only sr-only-focusable doc-skip" href="#doc-main-h1">
+    <div class="container">
+        <span class="doc-skip-text">Skip to main content</span>
+    </div>
+</a>
+
+{% include /structure/navigation.html %}
+
+<!-- Jumbotron -->
+<div class="jumbotron jumbotron-fluid mb-5 doc-jumbotron head">
+    <div class="container">
+        <div class="row ">
+            <div class="col-lg-12 col-xl-12">
+                <img src="/images/logos/logo.png" class="align-self-center mr-3  float-left thumb-post"/>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-12  mb-2 ">
+
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+
+    {% if page.id == 'coffins' %}
+    {% include structure/carousel.html %}
+    {% endif %}
+
+    <div class="row">
+
+        {% if page.id == 'root' %}
+        <div class="col-12 shadow-sm  p-3 mb-5 mx-2 bg-white rounded">
+            {{ content }}
+        </div>
+        {% elsif page.id == 'coffins' %}
+        <div class="col-12   p-3 mb-5 mx-2  rounded">
+            {{ content }}
+        </div>
+        {% elsif page.id != 'root'%}
+        <div class="col-8 shadow-sm  p-3 mb-5 mx-2 bg-white rounded">
+            <p class="page__meta float-right">
+                <span class="chip"><i class="chip-icon"><i class="far fa-clock" aria-hidden="true"></i></i>{% include read_time.html %}</span>
+            </p>
+            {{ content }}
+        </div>
+        {% include structure/related.html %}
+        {% endif %}
+    </div>
+</div>
+
+{% include structure/footer_logos.html %}
+{% include structure/footer.html %}
+{% include structure/javascript.html %}
+
+
+</body>
+</html>
