@@ -4,7 +4,7 @@
         {% if page.category contains "pakepu" %}
         {% for coffin in site.pakepu %}
         <li>
-            <a href="{{ coffin.url }}">{{ coffin.title }}</a>
+            <a href="{{site.baseurl}}{{ coffin.url }}">{{ coffin.title }}</a>
         </li>
         {% endfor %}
         {% endif %}
@@ -12,7 +12,7 @@
         {% if page.category contains "nahktefmut" %}
         {% for coffin in site.nahktefmut %}
         <li>
-            <a href="{{ coffin.url }}">{{ coffin.title }}</a>
+            <a href="{{site.baseurl}}{{ coffin.url }}">{{ coffin.title }}</a>
         </li>
         {% endfor %}
         {% endif %}
@@ -20,7 +20,7 @@
         {% if page.category contains "nespawershefyt" %}
         {% for coffin in site.nespawershefyt %}
         <li>
-            <a href="{{ coffin.url }}">{{ coffin.title }}</a>
+            <a href="{{site.baseurl}}{{ coffin.url }}">{{ coffin.title }}</a>
         </li>
         {% endfor %}
         {% endif %}
