@@ -120,3 +120,7 @@ video {
 .thumb-post img {
     object-fit: cover;
 }
+
+.carousel-control-prev, .carousel-control-next, .carousel-indicators li {
+    background-color: hsla(0, 93%, 31%, 0.98)
+}

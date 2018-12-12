@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-     <!-- Required meta tags -->
+    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
     <title>{{page.title}}</title>
@@ -17,16 +17,18 @@
 {% include /structure/navigation.html %}
 
 <div class="row mb-5 bg-black ">
-      <video controls autoplay loop muted  class="embed-responsive-16by9 mx-auto" height="400px">
-                    <source src="{{site.baseurl}}/assets/video/splash.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
+    <div class="embed-responsive embed-responsive-16by9">
+        <video controls autoplay loop muted class="mx-auto" height="500px">
+            <source src="{{site.baseurl}}/assets/video/splash.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
 </div>
 
 
 <div class="container">
     <div class="row mb-3">
-        <h1>{{ page.title }}</h1>
+        <h1 id="doc-main-h1">{{ page.title }}</h1>
     </div>
 
 </div>

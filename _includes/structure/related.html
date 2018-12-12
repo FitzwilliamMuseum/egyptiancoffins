@@ -1,4 +1,4 @@
-<div class="col-3 shadow-sm  p-3 mb-5 bg-white rounded">
+<div class="col-md-3 shadow-sm p-3 mb-5 bg-white rounded">
     <h3>Further reading</h3>
     <ul>
         {% if page.category contains "pakepu" %}
@@ -19,6 +19,14 @@
 
         {% if page.category contains "nespawershefyt" %}
         {% for coffin in site.nespawershefyt %}
+        <li>
+            <a href="{{site.baseurl}}{{ coffin.url }}">{{ coffin.title }}</a>
+        </li>
+        {% endfor %}
+        {% endif %}
+
+        {% if page.category contains "senuitef" %}
+        {% for coffin in site.senuitef %}
         <li>
             <a href="{{site.baseurl}}{{ coffin.url }}">{{ coffin.title }}</a>
         </li>

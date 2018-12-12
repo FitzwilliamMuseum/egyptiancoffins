@@ -41,12 +41,17 @@
             <h1>Latest news</h1>
         </div>
     </div>
-    {% for post in site.news %}
+    {% for post in site.news reversed %}
+    <div class="card col-md-12 mb-3">
+        <div class="card-body">
+            <h3>{{ post.title }}</h3>
+            <p>{{ post.date | date_to_string }}</p>
+            <p>{{ post.excerpt }}</p>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-dark">Read more</a>
+        </div>
+    </div>
 
-    <a href="{{ site.baseurl }}{{ post.url }}">
-        <h2>{{ post.title }}</h2>
-        <p>{{ post.date | date_to_string }}</p>
-    </a>
+
     {% endfor %}
     {% else %}
     <div class="row">
