@@ -1,5 +1,5 @@
 ---
-layout: coffins
+layout: news
 title: Glossary
 permalink: /coffins/glossary
 id: root

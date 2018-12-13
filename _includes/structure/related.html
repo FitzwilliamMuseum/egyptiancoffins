@@ -1,4 +1,4 @@
-<div class="col-md-3 shadow-sm p-3 mb-5 bg-white rounded">
+<div class="col-md-3 shadow-sm p-3 mb-5 bg-white rounded h-100">
     <h3>Further reading</h3>
     <ul>
         {% if page.category contains "pakepu" %}
@@ -33,7 +33,14 @@
         {% endfor %}
         {% endif %}
     </ul>
-
+    {% if page.technical %}
     <h3>Technical reports</h3>
-
+    <ul>
+        {% for file in page.technical %}
+        <li>
+            <a href="{{site.baseurl}}/assets/pdfs/{{ file.file }}">{{ file.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+    {% endif %}
 </div>

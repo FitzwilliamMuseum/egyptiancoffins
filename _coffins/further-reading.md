@@ -1,6 +1,6 @@
 ---
 title: Further reading
-layout: coffins
+layout: news
 permalink: /further-reading/
 id: root
 ---

@@ -3,6 +3,10 @@ layout: coffins
 title: The recent history of the coffins of Pakepu
 permalink: coffins/pakepu/history
 category: pakepu
+technical:
+  - 
+    file: /pakepu/PakepuCompleteTranslationsDescription.pdf
+    title: Complete Translations and Description
 ---
 
 The story of the discovery of Pakepu’s coffins has become confused over time. We know Prince Edward (later Edward VII) gifted the coffins to the Museum in 1869 following a visit to Luxor (ancient Thebes) in Egypt, but different travellers’ accounts has made piecing together the finer details problematic.

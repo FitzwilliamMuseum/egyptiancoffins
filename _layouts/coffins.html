@@ -47,19 +47,19 @@
     <div class="row">
 
         {% if page.id == 'root' %}
-        <div class="col-md-12 shadow-sm  p-3 mb-5 mx-2 bg-white rounded">
+        <div class="col-md-12 shadow-sm  p-3 mb-3 mx-2 bg-white rounded">
             {{ content }}
         </div>
         {% elsif page.id == 'coffins' %}
-        <div class="col-md-12 p-3 mb-5 mx-2  rounded">
+        <div class="col-md-12 p-3 mb-3 mx-2  rounded">
             {{ content }}
         </div>
         {% elsif page.id == 'team' %}
-        <div class="col-md-12 p-3 mb-5 mx-2  rounded">
+        <div class="col-md-12 p-3 mb-3 mx-2  rounded">
             {{ content }}
         </div>
         {% elsif page.id != 'root'%}
-        <div class="col-md-8 shadow-sm  p-3 mb-5 mx-2 bg-white rounded">
+        <div class="col-md-8 shadow-sm  p-3 mb-3 mx-2 bg-white rounded">
             <p class="page__meta float-right">
                 <span class="chip"><i class="chip-icon"><i class="far fa-clock" aria-hidden="true"></i></i>{% include read_time.html %}</span>
             </p>
