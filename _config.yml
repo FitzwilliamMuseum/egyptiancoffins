@@ -65,6 +65,14 @@ collections:
    team:
       output: true
 
+feed:
+  collections:
+    - pakepu
+    - nespawershefyt
+    - senuitef
+    - coffins
+    - news
+
 categories:
     - pakepu
     - nespawershefyt
