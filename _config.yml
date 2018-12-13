@@ -35,8 +35,8 @@ twitter:
   username: fitzwilliam_uk
   card: summary
 
-logo: "/images/logos/logo.png"
-
+logo: https://fitzwilliammuseum.github.io/images/logos/logo.png
+google_analytics: UA-298202-21
 
 permalink: pretty
 encoding: "utf-8"
