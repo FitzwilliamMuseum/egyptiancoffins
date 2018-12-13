@@ -30,11 +30,6 @@ url: "https://fitzwilliammuseum.github.io"
 
 twitter_username: fitzwilliam_uk
 github_username:  fitzwilliammuseum
-
-twitter:
-  username: fitzwilliam_uk
-  card: summary
-
 logo: https://fitzwilliammuseum.github.io/images/logos/logo.png
 google_analytics: UA-298202-21
 
@@ -47,7 +42,10 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-seo-tag
+  - jemoji
+  - jekyll-mentions
 
 collections:
    coffins:
