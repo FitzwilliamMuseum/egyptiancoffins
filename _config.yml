@@ -23,13 +23,20 @@ email: your-email@example.com
 description: >- # The Fitzwilliam Egyptian Coffins project
 
 
-words_per_minute: 300
+words_per_minute: 200
 
-baseurl: "/egyptiancoffins" # the subpath of your site, e.g. /blog
+baseurl: "/egyptiancoffins"
 url: "https://fitzwilliammuseum.github.io"
 
 twitter_username: fitzwilliam_uk
 github_username:  fitzwilliammuseum
+
+twitter:
+  username: fitzwilliam_uk
+  card: summary
+
+logo: "/egyptiancoffins/images/logos/logo.png
+
 
 permalink: pretty
 encoding: "utf-8"
@@ -37,9 +44,10 @@ read_time: true
 
 # Build settings
 markdown: kramdown
-theme: minima
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 collections:
    coffins:

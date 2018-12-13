@@ -6,7 +6,7 @@
     <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
     <title>{{page.title}}</title>
     {% include /structure/css.html %}
-
+    {% seo %}
 
 </head>
 <body class="doc-body">
@@ -25,13 +25,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 col-xl-10">
-                <img src="{{ site.baseurl }}/images/logos/logo.png" class="align-self-center mr-3  float-left thumb-post"/>
+                <img src="{{ site.baseurl }}/images/logos/logo.png"
+                     class="align-self-center mr-3  float-left thumb-post"/>
             </div>
         </div>
     </div>
 </div>
 <div class="container">
-  <div class="row">
+    <div class="row">
         <div class="col-12  mb-2 ">
             <h1>{{ page.title }}</h1>
         </div>
