@@ -1,6 +1,9 @@
 ---
 layout: news
 title: Complex layered structures on Pakepu's inner coffin
+date: 2018-10-10
+category: news
+author: Melanie Pitkin
 ---
 
 At the Second Vatican Coffin Conference in 2017, the Fitzwilliam Museum's coffins project team presented a paper about a striking feature of the inner coffin of Pakepu. The coffin appears to have been completely encased in layers of paste, glue and linen, so that the body was sealed inside the case prior to the application of the decoration and texts.

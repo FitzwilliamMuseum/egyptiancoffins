@@ -1,9 +1,11 @@
 ---
 layout: news
 title: Melanie Pitkin reports on her visit to Cairo
+date: 2018-10-19
+author: Melanie Pitkin
+category: news
 ---
 
-REPORT ON MELANIE'S VISIT TO EGYPT
 Between 9-18th October, I travelled to Egypt with the support of a Marlay Travel Grant to share the latest research for the Fitzwilliam Museum's Egyptian Coffins Project and soft launch the project's new online resource. Particular focus was placed on the findings of two coffin sets from the Museum's collection - the 21st Dynasty yellow coffin set of Nespawershefyt and the 25th Dynasty coffin set of Pakepu, in order to highlight the types of discoveries that we have made by taking a collaborative and interdisciplinary approach to the study of ancient Egyptian coffins. That is, one that brings together advanced imaging techniques, such as Computed Tomography (CT) scanning and X-radiography, with a range of subject specialists, including Egyptologists, conservators, a pigment specialist, an expert in ancient woodworking techniques, an expert in historical painting techniques and a consultant radiologist.
 
 The coffin sets of Nespawershefyt and Pakepu were selected as focal points for this particular outreach initiative for several reasons. Firstly, the coffin set of Nespawershefyt survives as perhaps one of the best-known examples of a 21st Dynasty yellow coffin set. It was also among the very first ancient Egyptian objects to be acquired by the Fitzwilliam Museum in 1822. The coffin set of Pakepu, on the other hand, comprises a very unique inner coffin which bears an unusual cartonnage-like decorative layer adhered to the wooden carcass. While similar coffins are known, the detailed technology of this material had not been investigated prior to the current project. We are calling this type of a coffin a 'pseudo-cartonnage'.

@@ -3,6 +3,7 @@ layout: news
 title: Soft launch of the Egyptian Coffins Project in Cairo
 author: Melanie Pitkin
 category: news
+date: 2018-10-08
 tags: [cairo, launch]
 ---
 

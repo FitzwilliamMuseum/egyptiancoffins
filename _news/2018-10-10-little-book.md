@@ -1,6 +1,9 @@
 ---
 layout: news
 title: How to make an Egyptian coffin
+category: news
+date: 2018-10-10
+author: Melanie Pitkin
 ---
 
 Our latest book, featuring the work of the Fitzwilliam Museum's Egyptian coffins project, has just been published. 
