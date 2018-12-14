@@ -36,28 +36,4 @@ Also known as through-and-through or slash sawing. The trunk or log is sawn down
 be recognised by the slash-grain pattern on the planks. It is the most economical way to cut up timber, but the planks
 are prone to 'cup' because the wood dries and shrinks unevenly across the width of the plank.
 
-### Joints
 
-The Fitzwilliam's Egyptian coffins contain examples of the following wood working joints:
-
-butt joint
-
-mitre
-
-tied mitre
-
-dovetail
-
-mortise and tenon
-
-pegged mortise and tenon
-
-mortise with loose tenon
-
-edge joint with dowels
-
-scarf joint
-
-coopered construction
-
-pegged spliced scarf joint
