@@ -8,13 +8,13 @@ category: news
 tags: [cairo, coffins, mansoura]
 images:
   - 
-    image: mansoura.jpg
+    image: Mansoura.jpg
     caption: Visit to Mansoura University
   - 
     image: randa.jpg
     caption: Melanie with Dr Randa Baligh
   -
-    image: mansoura3.jpg
+    image: Mansoura3.jpg
     caption: Melanie with Dr Ayman Wahby
 ---
 
