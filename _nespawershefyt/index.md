@@ -7,6 +7,13 @@ technical:
   - 
     file: /nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
+images:
+  - 
+    image: nespawershefytnestedlarge.jpg
+    caption: The nested coffins of Nespawershefyt
+  - 
+    image: nespamummyboarddisplaylarge.jpg
+    caption: Mummy board of Nespawershefyt on display in the Egyptian galleries at the Fitzwilliam Museum.
 ---
 
 ## Coffin metadata

@@ -1,8 +1,8 @@
 ---
-title: Mummy case of Nakhtefmut
-category: nakhtefmut
-permalink: /coffins/nakhtefmut
 layout: coffins
+title: Mummy case of Nakhtefmut
+permalink: /coffins/nakhtefmut
+category: nakhtefmut
 ---
 
 ## Coffin meta data

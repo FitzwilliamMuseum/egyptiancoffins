@@ -48,7 +48,6 @@
     </div>
 
 
-
     <div class="row">
 
         {% if page.id == 'root' %}
@@ -72,6 +71,32 @@
         </div>
         {% include structure/related.html %}
         {% endif %}
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="mb-2 mx-2  rounded">
+            {% if page.images %}
+            {% assign rows = page.images.size | divided_by: 2.0 | ceil %}
+            {% for i in (1..rows) %}
+            {% assign offset = forloop.index0 | times: 2 %}
+            <div class="row mb-3">
+                {% for image in page.images limit:2 offset:offset %}
+                <div class="col-md-6 mt-3">
+                    <div class="card h-100 w-100 mx-auto">
+                        <div class="card-body">
+                            <img class="mx-auto d-block"
+                                 src="{{site.baseurl}}/images/{{page.category}}/{{image.image}}">
+                            <p class="text-center">{{ image.caption }}</p>
+
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            {% endfor %}
+            {% endif %}
+        </div>
     </div>
 </div>
 

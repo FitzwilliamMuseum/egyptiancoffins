@@ -50,7 +50,7 @@ plugins:
 collections:
    coffins:
       output: true
-   nahktefmut:
+   nakhtefmut:
       output: true
    nespawershefyt:
       output: true
@@ -68,6 +68,7 @@ feed:
     - pakepu
     - nespawershefyt
     - senuitef
+    - nakhtefmut
     - coffins
     - news
 
