@@ -2,6 +2,7 @@
 layout: news
 title: Melanie Pitkin reports on her visit to Cairo
 date: 2018-10-19
+updated: 2018-12-12
 author: Melanie Pitkin
 category: news
 tags: [cairo, coffins, mansoura]

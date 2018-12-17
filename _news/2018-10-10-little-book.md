@@ -3,6 +3,7 @@ layout: news
 title: How to make an Egyptian coffin
 category: news
 date: 2018-10-10
+updated: 2012-12-12
 author: Melanie Pitkin
 tags: [book, coffins]
 ---
