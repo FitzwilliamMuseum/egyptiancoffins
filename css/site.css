@@ -176,3 +176,7 @@ video {
 .max-coffins {
     max-width: 100%;
 }
+.share li {
+    list-style: none;
+    margin-left: -40px;
+}
