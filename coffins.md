@@ -12,6 +12,10 @@ id: coffins
             <div class="card h-100">
                 <div class="card-body">
                     <h5 class="card-title">Nahktefmut</h5>
+                    <img class="align-self-center mr-3 rounded-circle float-right thumb-post"
+                         src="{{site.baseurl}}/images/nakhtefmut/nakhtefmutHead.png"
+                         alt="{{page.title}}'s profile image" height="150" width="150">
+
                     <p class="card-text">The mummy case of Nakhtefmut is constructed of cartonnage and was found in 
                     excavations by Quibell at the Ramesseum in 1896.</p>
                     <a href="{{ site.baseurl }}/coffins/nakhtefmut" class="btn btn-dark">Read about Nahktefmut</a>
