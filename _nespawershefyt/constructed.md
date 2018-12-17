@@ -5,10 +5,10 @@ permalink: coffins/nespawershefyt/how-were-the-coffins-constructed
 category: nespawershefyt
 images: 
  -
-   image: nespawershefytsidr.jpg
+   image: nespawershefytsidrlarge.jpg
    caption: Christ’s Thorn or sidr (Ziziphus spina-christi)
  - 
-   image: images/coffins/nespawershefyt/
+   image: nespawershefytsycfiglarge.jpg
    caption: Sycomore fig (Ficus sycomorus)
 ---
 
