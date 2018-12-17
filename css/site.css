@@ -129,3 +129,11 @@ video {
     margin-right: 10px;
     margin-bottom: 10px;
 }
+
+.carousel-item img {
+   min-width: auto;
+ }
+.btn-wine {
+    background-color: #731200;
+    color: #fff;
+}

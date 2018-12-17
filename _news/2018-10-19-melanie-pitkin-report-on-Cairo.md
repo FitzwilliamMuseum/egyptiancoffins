@@ -6,13 +6,20 @@ updated: 2018-12-12
 author: Melanie Pitkin
 category: news
 tags: [cairo, coffins, mansoura]
+images:
+  - 
+    image: mansoura.jpg
+    caption: Visit to Mansoura University
+  - 
+    image: randa.jpg
+    caption: Melanie with Dr Randa Baligh
+  -
+    image: mansoura3.jpg
+    caption: Melanie with Dr Ayman Wahby
 ---
 
 
 Between 9-18th October, I travelled to Egypt with the support of a Marlay Travel Grant to share the latest research for the Fitzwilliam Museum's Egyptian Coffins Project and soft launch the project's new online resource. Particular focus was placed on the findings of two coffin sets from the Museum's collection - the 21st Dynasty yellow coffin set of Nespawershefyt and the 25th Dynasty coffin set of Pakepu, in order to highlight the types of discoveries that we have made by taking a collaborative and interdisciplinary approach to the study of ancient Egyptian coffins. That is, one that brings together advanced imaging techniques, such as Computed Tomography (CT) scanning and X-radiography, with a range of subject specialists, including Egyptologists, conservators, a pigment specialist, an expert in ancient woodworking techniques, an expert in historical painting techniques and a consultant radiologist.
-
-![]({{site.baseurl}}/images/news/mansoura.jpg){:.image-fluid .float-right .mx-2}
-
 
 The coffin sets of Nespawershefyt and Pakepu were selected as focal points for this particular outreach initiative for several reasons. Firstly, the coffin set of Nespawershefyt survives as perhaps one of the best-known examples of a 21st Dynasty yellow coffin set. It was also among the very first ancient Egyptian objects to be acquired by the Fitzwilliam Museum in 1822. The coffin set of Pakepu, on the other hand, comprises a very unique inner coffin which bears an unusual cartonnage-like decorative layer adhered to the wooden carcass. While similar coffins are known, the detailed technology of this material had not been investigated prior to the current project. We are calling this type of a coffin a 'pseudo-cartonnage'.
 
@@ -34,28 +41,3 @@ A particular highlight of the trip was my time spent at Mansoura University and 
 Finally, the trip provided an opportunity to publicise the Museum's latest publication - 'How to make an Egyptian Coffin. The construction and decoration of Nespawershefyt's coffin set' written by the Museum's Head of Conservation, Julie Dawson. Complimentary copies were distributed amongst University libraries and Departments, as well as individual researchers, but it is planned to make the book freely available online as a PDF some time in the New Year. Further copies will be distributed to other institutions in Cairo, Minya, Luxor and Aswan in the coming months.
 
 *Cairo and Mansoura were the only venues for this particular trip owing to budget constraints.*
-
-<div class="container mt-3 mb-3">
-    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        </ol>
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img class="d-block w-100" src="{{ site.baseurl }}/images/carousel/Nespawershefyt1.jpg" alt="First slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="{{ site.baseurl }}/images/carousel/pakepuinnerfulllarge.jpg" alt="Second slide">
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-    </div>
-</div>
