@@ -172,3 +172,7 @@ video {
     background-size: cover;
     padding-top: 8rem;
 }
+
+.max-coffins {
+    max-width: 100%;
+}
