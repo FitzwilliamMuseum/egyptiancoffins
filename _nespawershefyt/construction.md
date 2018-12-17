@@ -3,6 +3,10 @@ title: Construction of the Nespawershefyt coffin set
 layout: coffins
 category: nespawershefyt
 permalink: /coffins/nespawershefyt/construction
+technical:
+  - 
+    file: /nespawershefyt/nespawershefytComplete.pdf
+    title: Complete Translations and Description
 ---
 ## Summary of materials and manufacture
 

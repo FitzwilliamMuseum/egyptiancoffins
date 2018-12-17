@@ -3,6 +3,11 @@ title: Decoding the text and decoration of the coffins of Nespawershefyt
 layout: coffins
 category: nespawershefyt
 permalink: /coffins/nespawershefyt/decoding
+technical:
+  - 
+    file: /nespawershefyt/nespawershefytComplete.pdf
+    title: Complete Translations and Description
+
 ---
 
 Common to Nespawershefyt’s mummy board and inner and outer coffins is the dense arrangement of rich decoration and text,

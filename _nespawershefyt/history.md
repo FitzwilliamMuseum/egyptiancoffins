@@ -3,6 +3,11 @@ layout: coffins
 title: The recent history of the coffins of Nespawershefyt
 category: nespawershefyt
 permalink: /coffins/nespawershefyt/history
+technical:
+  - 
+    file: /nespawershefyt/nespawershefytComplete.pdf
+    title: Complete Translations and Description
+
 ---
 
 Nespawershefyt’s coffin set was one of the first objects to be acquired into the 

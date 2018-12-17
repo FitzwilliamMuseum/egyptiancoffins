@@ -3,6 +3,10 @@ layout: coffins
 title: How were the coffins of Nespawershefyt constructed?
 permalink: coffins/nespawershefyt/how-were-the-coffins-constructed
 category: nespawershefyt
+technical:
+  - 
+    file: /nespawershefyt/nespawershefytComplete.pdf
+    title: Complete Translations and Description
 images: 
  -
    image: nespawershefytsidrlarge.jpg
