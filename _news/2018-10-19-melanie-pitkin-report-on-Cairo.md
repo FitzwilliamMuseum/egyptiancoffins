@@ -5,6 +5,7 @@ date: 2018-10-19
 updated: 2018-12-12
 author: Melanie Pitkin
 category: news
+description: Melanie Pitkin reports on her visit to Cairo
 tags: [cairo, coffins, mansoura]
 images:
   - 
