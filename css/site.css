@@ -124,3 +124,7 @@ video {
 .carousel-control-prev, .carousel-control-next, .carousel-indicators li {
     background-color: hsla(0, 93%, 31%, 0.98)
 }
+#sponsors img {
+    height: 50px;
+    margin-right: 10px;
+}

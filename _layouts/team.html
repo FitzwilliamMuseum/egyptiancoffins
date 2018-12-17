@@ -7,7 +7,7 @@
     <title>{{page.title}}</title>
     {% include /structure/css.html %}
     {% seo %}
-
+    {% include /structure/feeds.html %}
 </head>
 <body class="doc-body">
 <!-- Screen reader skip to main -->
@@ -34,7 +34,7 @@
 <div class="container">
     <div class="row">
         <div class="col-12  mb-2 ">
-            <h1>{{ page.title }}</h1>
+            <h1 id="doc-main-h1">{{ page.title }}</h1>
         </div>
     </div>
 </div>
@@ -65,11 +65,8 @@
         </div>
     </div>
 </div>
-
-
 {% include structure/footer_logos.html %}
 {% include structure/footer.html %}
 {% include structure/javascript.html %}
-
 </body>
 </html>

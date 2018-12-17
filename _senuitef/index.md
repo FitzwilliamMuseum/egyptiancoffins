@@ -1,8 +1,11 @@
 ---
 layout: coffins
-title: Senuitif
+title: Senuitef
 permalink: /coffins/senuitef
+category: senuitef
 ---
+
+## Brief description 
 
 The long boards grouped under this accession number belong to the coffin of Senu-itif. 
 (FN Name not in Ranke, Personennamen) The boards from the short sides may belong to a 

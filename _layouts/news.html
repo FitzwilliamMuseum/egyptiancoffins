@@ -7,6 +7,7 @@
     <title>{{page.title}}</title>
     {% include /structure/css.html %}
     {% seo %}
+    {% include /structure/feeds.html %}
 </head>
 <body class="doc-body">
 
@@ -25,7 +26,7 @@
         <div class="row ">
             <div class="col-lg-12 col-xl-12">
                 <img src="{{ site.baseurl }}/images/logos/logo.png"
-                     class="align-self-center mr-3  float-left thumb-post"/>
+                     class="align-self-center mr-3 float-left thumb-post"/>
             </div>
         </div>
     </div>
@@ -36,8 +37,7 @@
     {% if page.url == "/news" %}
     <div class="row">
         <div class="col-12 mb-2 ">
-
-            <h1>Latest news</h1>
+            <h1 id="doc-main-h1">Latest news</h1>
         </div>
     </div>
     {% for post in site.news reversed %}
@@ -53,7 +53,7 @@
     {% elsif page.url == '/coffins/glossary' %}
     <div class="row">
         <div class="col-12  mb-2 ">
-            <h1>{{ page.title }}</h1>
+            <h1 id="doc-main-h1">{{ page.title }}</h1>
         </div>
     </div>
     <div class="col-12 shadow-sm  p-3 mb-3 mx-2 bg-white rounded">
@@ -63,23 +63,28 @@
     {% else %}
     <div class="row">
         <div class="col-12  mb-2 ">
-
-            <h1>{{ page.title }}</h1>
+            <h1 id="doc-main-h1">{{ page.title }}</h1>
         </div>
     </div>
 
     <div class="col-12 shadow-sm  p-3 mb-3 mx-2 bg-white rounded">
         {{ content }}
+        <p>
+            <span class="chip"><i class="chip-icon"><i class="material-icons">create</i></i> Created: {{ page.date | date_to_string }}</span>
+            {% if page.updated %}
+            <span class="chip"><i class="chip-icon"><i class="material-icons">update</i></i>Updated: {{ page.updated | date_to_string }}</span>
+            {% endif %}
+            <span class="chip"><i class="chip-icon"><i
+                    class="material-icons small">category</i></i>Category: {{ page.category }}</span>
+            {% for tags in page.tags %}
+            <span class="chip"><i class="chip-icon"><i class="material-icons small">label</i></i>{{ tags }}</span>
+            {% endfor %}
+        </p>
     </div>
     {% endif %}
-
-
 </div>
-
 {% include structure/footer_logos.html %}
 {% include structure/footer.html %}
 {% include structure/javascript.html %}
-
-
 </body>
 </html>

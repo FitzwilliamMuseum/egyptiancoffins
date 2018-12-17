@@ -7,15 +7,12 @@ technical:
   - 
     file: /nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
- 
 ---
 
-Accession number
-E.1.1822
+## Coffin metadata
 
-Other numbers and markings
-None
-
+* Accession number: E.1.1822
+* Other numbers and markings: None
 
 Wooden anthropoid coffin set of Nespawershefyt comprising a mummy board, inner coffin and outer coffin complete with lids
 and boxes. The mummy board, which once had a wooden rim support fixed to the underside of the head, would have been placed
@@ -25,7 +22,8 @@ and densely decorated inside and out in just a few bold colours with various rel
 from the Book of the Dead and the owner making offerings before different gods and goddesses. The texts describe the
 types of offerings Nespawershefyt will receive in the afterlife, his titles, spells to assist the deceased in his successful passage to the netherworld and invocations to the gods.
 
-Brief description
+## Brief description
+
 The coffin set of Nespawershefyt consists of the following elements, which are each discussed separately:
 
 * outer (or intermediate) coffin box

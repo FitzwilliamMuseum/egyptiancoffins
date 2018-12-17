@@ -12,9 +12,13 @@ technical:
 
 ![]({{site.baseurl}}/images/pakepu/pakepu-inner-leadimage.jpg){:.img-fluid}
 
-Accession number: E.2.1869
 
-Other markings: None
+## Coffin metadata
+
+* Accession number: E.2.1869
+* Other markings: None
+
+## Brief description
 
 Wooden coffin set belonging to a man named Pakepu comprising two anthropoid coffins complete with lids and boxes. The coffin set is attributed to Thebes and on stylistic grounds dates to the Late Period (probably the end of the 25th Dynasty). The smaller coffin of the two, known as the inner coffin, nests inside the larger, intermediate one. Both coffins were probably then housed inside a larger, outer 'qersu' coffin.
 

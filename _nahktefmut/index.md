@@ -5,10 +5,12 @@ permalink: /coffins/nakhtefmut
 layout: coffins
 ---
 
-* Accession number E.64.1896
-* Other numbers and markings None
+## Coffin meta data
 
-### Brief description
+* Accession number E.64.1896
+* Other numbers and markings: None
+
+## Brief description
 
 The mummy case of Nakhtefmut is constructed of cartonnage and was found in excavations by Quibell at the Ramesseum in 1896.
 The burial was intact. The mummy case, with the body of Nakhtefmut inside, was found inside three wooden coffins,
