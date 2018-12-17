@@ -44,7 +44,9 @@
     <div class="card col-md-12 mb-3">
         <div class="card-body">
             <h3>{{ post.title }}</h3>
+            {% if post.date %}
             <p>{{ post.date | date_to_string }}</p>
+            {% endif %}
             <p>{{ post.excerpt }}</p>
             <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-dark">Read more</a>
         </div>
@@ -70,8 +72,9 @@
     <div class="col-12 shadow-sm  p-3 mb-3 mx-2 bg-white rounded">
         {{ content }}
         <p>
+            {% if page.date %}
             <span class="chip"><i class="chip-icon"><i class="material-icons">create</i></i> Created: {{ page.date | date_to_string }}</span>
-
+            {% endif %}
             <span class="chip"><i class="chip-icon"><i
                     class="material-icons small">category</i></i>Category: {{ page.category }}</span>
             {% for tags in page.tags %}
