@@ -71,9 +71,7 @@
         {{ content }}
         <p>
             <span class="chip"><i class="chip-icon"><i class="material-icons">create</i></i> Created: {{ page.date | date_to_string }}</span>
-            {% if page.updated %}
-            <span class="chip"><i class="chip-icon"><i class="material-icons">update</i></i>Updated: {{ page.updated | date_to_string }}</span>
-            {% endif %}
+
             <span class="chip"><i class="chip-icon"><i
                     class="material-icons small">category</i></i>Category: {{ page.category }}</span>
             {% for tags in page.tags %}

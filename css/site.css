@@ -1,5 +1,5 @@
 .head {
-    background-image: url(../images/eyes.jpeg);
+    background-image: url(../images/layouts/eyes.jpeg);
     background-position: 50% 20%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -70,7 +70,7 @@ video {
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
-  background: rgba(232, 98, 86, 0.8) url(../images/arrow.svg) no-repeat center 50%;
+  background: rgba(232, 98, 86, 0.8) url(../images/layouts/arrow.svg) no-repeat center 50%;
   visibility: hidden;
   opacity: 0;
   -webkit-transition: opacity .3s 0s, visibility 0s .3s, background-color .3s 0s;
@@ -127,4 +127,5 @@ video {
 #sponsors img {
     height: 50px;
     margin-right: 10px;
+    margin-bottom: 10px;
 }
