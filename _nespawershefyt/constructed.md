@@ -10,6 +10,12 @@ images:
  - 
    image: nespawershefytsycfiglarge.jpg
    caption: Sycomore fig (Ficus sycomorus)
+ - 
+   image: nespawershefyttamarisklarge.jpg
+   caption: Tamarisk (Tamarix aphylla)
+ - 
+   image: Userhat.jpg
+   caption: The Middle Kingdom anthropoid coffin of Userhet made by hollowing out a single large piece of sycomore fig wood, Beni Hasan. Fitzwilliam Museum collection E.88.1903.
 ---
 
 Examination of Nespawershefyt’s coffin set reveals that the main structural elements are made from three different 
