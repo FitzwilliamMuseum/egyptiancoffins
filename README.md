@@ -15,16 +15,16 @@ team at the Fitzwilliam Museum, Cambridge University.
    
 ## To make changes
 
-All instructions for this will be found in the wiki for this site (To be written.)
+All instructions for this will be found in the [wiki](https://github.com/FitzwilliamMuseum/egyptiancoffins/wiki) for this site. This covers setting up your machine to run Jekyll and Git, how to transfer changes from local machine to remote website and how the site works and fits together.
 
 ## Credits
 
-Content by Helen Strudwick, Julie Dawson, Melanie Pitkin
+Content by Helen Strudwick, Julie Dawson, Melanie Pitkin, Jennifer Marchant. Copyright the University of Cambridge unless noted otherwise. 
 
-Video by Gavin Toomey, Patricia Wheatley
+Video by Gavin Toomey and Patricia Wheatley. 
 
 Website by [@portableant](https://github.com/portableant)
 
 ## License
 
-CC-BY for code, CC-BY-NC-SA for content. 
+CC-BY for code, CC-BY-NC-SA-ND for content (text and images) unless stated otherwise.
