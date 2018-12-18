@@ -63,11 +63,10 @@ id: coffins
                          src="{{site.baseurl}}/images/senuitef/senuitef.jpeg"
                          alt="{{page.title}}'s profile image" />
                     <p class="card-text">This group of two long boards and two short boards are inscribed with the names of two
-                    different people: Senuitef and Warethetep. Investigations into why this is are still going on.</p>
+                    different people: Senuitef and Warethetep. Investigations into why this is are still on-going.</p>
                     <a href="{{ site.baseurl }}/coffins/senuitef" class="btn btn-dark">Read more about Senuitef</a>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
