@@ -185,3 +185,8 @@ video {
     object-fit: cover;
     width: 100%;
 }
+
+.coffin  {
+    height: 150px;
+    width: 150px;
+}
