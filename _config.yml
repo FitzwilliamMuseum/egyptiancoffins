@@ -26,7 +26,7 @@ description: >- # The Fitzwilliam Egyptian Coffins project
 
 words_per_minute: 200
 
-baseurl: "/egyptiancoffins"
+baseurl: ""
 
 url: "https://fitzwilliammuseum.github.io"
 
