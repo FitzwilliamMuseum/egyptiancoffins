@@ -7,16 +7,15 @@ category: senuitef
 
 ## Brief description 
 
-The long boards grouped under this accession number belong to the coffin of Senu-itif. 
-(FN Name not in Ranke, Personennamen) The boards from the short sides may belong to a 
-different coffin. The long boards, with their four vertical columns, conform to Willems'
-type IV, while each short end piece with its single vertical column belongs to type III.
+The long boards grouped under this accession number belong to the coffin of a person named Senu-itif. 
+However, the boards from the short sides give the name of the owner as Warethetep. 
+The texts on the long boards are arranged in four vertical columns. This is an arrangement that Wolfram Grajetzki 
+suggests is later in date to the arrangement of the texts on the short boards, which are written in a single vertical column.
   
-The latter also give the name of a different person, Warethetep, confirming the impression
-that they belong to another coffin. Since the coffin comes from a tomb that contained 
-several burials, it is possible that, while emptying the tomb, pieces from two different 
-coffins were merged together for selling to a museum.
-
-(CHECK WITH WOLFRAM: but it wasn't being sold to a museum; it went to Hilton Price; 
-Janine B has suggested that the coffin may have got messed up when it was being assembled
- originally).
+It is not clear why two people are named on these fragments of coffin. The tomb in which they were found contained several burials, 
+so it may be that two coffins were confused by the people clearing out the tomb. 
+Or perhaps the parts were wrongly assembled originally. Another option could be that the short ends of the coffin were taken
+from an earlier coffin that was no longer needed, but the inscriptions were not changed. In that case, study of the dowel holes 
+connecting the pieces of the coffin might provide some assistance in clarifying the picture. However, so far the evidence
+has not helped to us understand why two people are named on the pieces of this coffin, and why they are apparently slightly different 
+in date.
