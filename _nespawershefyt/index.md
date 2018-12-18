@@ -3,6 +3,7 @@ layout: coffins
 title: The coffin set of Nespawershefyt
 category: nespawershefyt
 permalink: /coffins/nespawershefyt
+order: 1
 technical:
   - 
     file: /nespawershefyt/nespawershefytComplete.pdf

@@ -38,6 +38,7 @@ logo: https://fitzwilliammuseum.github.io/images/logos/logo.png
 
 google_analytics: UA-3319190-12
 
+lang: EN_GB
 timezone: Europe/London
 permalink: pretty
 encoding: "utf-8"

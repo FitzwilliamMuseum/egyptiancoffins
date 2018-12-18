@@ -14,6 +14,12 @@ coffins:
 - Senuitef
 ---
 
+<div class="col-md-4 float-right p-3">
+    <div class="embed-responsive embed-responsive-16by9">
+    <iframe src="https://player.vimeo.com/video/307004713" class="embed-responsive-item float-right" height="100%"
+                            webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+</div>
 
 This website presents the results of the Fitzwilliam Museum's cutting-edge 
 interdisciplinary research into its internationally significant collection of more than 
