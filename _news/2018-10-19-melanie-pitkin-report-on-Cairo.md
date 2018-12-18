@@ -9,13 +9,13 @@ description: Melanie Pitkin reports on her visit to Cairo
 tags: [cairo, coffins, mansoura]
 images:
   - 
-    image: Mansoura.jpg
+    image: news/Mansoura.jpg
     caption: Visit to Mansoura University
   - 
-    image: randa.jpg
+    image: news/randa.jpg
     caption: Melanie with Dr Randa Baligh
   -
-    image: Mansoura3.jpg
+    image: news/Mansoura3.jpg
     caption: Melanie with Dr Ayman Wahby
 ---
 
