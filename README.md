@@ -8,7 +8,7 @@ team at the Fitzwilliam Museum, Cambridge University.
 ## To run locally 
 
 * Install Jekyll on your machine following these [instructions](https://jekyllrb.com/docs/installation/)
-* Install Git on your machine following these []instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* Install Git on your machine following these [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Clone the code for this repository:
    `git clone https://github.com/FitzwilliamMuseum/egyptiancoffins.git egyptiancoffins`
 * Change to the directory and then run this command in terminal `jekyll server`
