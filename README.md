@@ -23,7 +23,7 @@ Content by Helen Strudwick, Julie Dawson, Melanie Pitkin
 
 Video by Gavin Toomey, Patricia Wheatley
 
-Website by @portableant
+Website by [@portableant](https://github.com/portableant)
 
 ## License
 
