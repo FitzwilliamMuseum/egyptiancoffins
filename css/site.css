@@ -190,3 +190,8 @@ video {
     height: 150px;
     width: 150px;
 }
+
+.contact .btn {
+    background-color: #731200;
+    color: #fff;
+}
