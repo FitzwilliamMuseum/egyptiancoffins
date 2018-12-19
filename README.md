@@ -25,6 +25,12 @@ Video by Gavin Toomey and Patricia Wheatley.
 
 Website by [@portableant](https://github.com/portableant)
 
+CSS framework: http://daemonite.github.io/material/ 
+
 ## License
 
 CC-BY for code, CC-BY-NC-SA-ND for content (text and images) unless stated otherwise.
+
+## Contributing guidelines
+
+If you want to contribute fixes to this site, you are very welcome to do so. To do this, either add a [bug report under issues](https://github.com/FitzwilliamMuseum/egyptiancoffins/issues) or fork the repository and create a new branch for proposed fixes and then submit a pull request. 
