@@ -60,7 +60,7 @@ id: coffins
                 <div class="card-body">
                     <h5 class="card-title">Senuitef</h5>
                      <img class="align-self-center mr-3 coffin rounded-circle float-right thumb-post"
-                         src="/images/senuitef/senuitef.jpeg"
+                         src="/images/senuitef/senuitef.jpg"
                          alt="{{page.title}}'s profile image" />
                     <p class="card-text">This group of two long boards and two short boards are inscribed with the names of two
                     different people: Senuitef and Warethetep. Investigations into why this is are still on-going.</p>
