@@ -4,7 +4,7 @@
         {% if page.category contains "pakepu" %}
         {% for coffin in site.pakepu %}
         <li>
-            <a href="{{site.baseurl}}{{ coffin.url }}">{{ coffin.title }}</a>
+            <a href="{{ coffin.url }}">{{ coffin.title }}</a>
         </li>
         {% endfor %}
         {% endif %}
@@ -13,7 +13,7 @@
         {% for coffin in site.nakhtefmut %}
 
         <li>
-            <a href="{{site.baseurl}}{{ coffin.url }}">{{ coffin.title }}</a>
+            <a href="{{ coffin.url }}">{{ coffin.title }}</a>
         </li>
         {% endfor %}
         {% endif %}
@@ -21,7 +21,7 @@
         {% if page.category contains "nespawershefyt" %}
         {% for coffin in site.nespawershefyt %}
         <li>
-            <a href="{{site.baseurl}}{{ coffin.url }}">{{ coffin.title }}</a>
+            <a href="{{ coffin.url }}">{{ coffin.title }}</a>
         </li>
         {% endfor %}
         {% endif %}
@@ -29,7 +29,7 @@
         {% if page.category contains "senuitef" %}
         {% for coffin in site.senuitef %}
         <li>
-            <a href="{{site.baseurl}}{{ coffin.url }}">{{ coffin.title }}</a>
+            <a href="{{ coffin.url }}">{{ coffin.title }}</a>
         </li>
         {% endfor %}
         {% endif %}
@@ -39,7 +39,7 @@
     <ul>
         {% for file in page.technical %}
         <li>
-            <a href="{{site.baseurl}}/assets/pdfs/{{ file.file }}">{{ file.title }}</a>
+            <a href="/assets/pdfs/{{ file.file }}">{{ file.title }}</a>
         </li>
         {% endfor %}
     </ul>

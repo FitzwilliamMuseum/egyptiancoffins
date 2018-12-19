@@ -10,7 +10,7 @@ tags: [conference, egyptology, vatican, addenbrookes]
 
 
 At the Second Vatican Coffin Conference in 2017, the Fitzwilliam Museum's coffins project team presented a paper about a
-striking feature of the inner coffin of [Pakepu]({{site.baseurl}}/coffins/pakepu). 
+striking feature of the inner coffin of [Pakepu](/coffins/pakepu). 
 
 ![](/images/news/Pakepu-inner-head.jpg){:. .float-right .img-fluid .mx-2 }
 
@@ -26,4 +26,4 @@ serve any structural purpose, and that there may be an intention to create a car
 wooden carcase. 
 
 This suggests that the inner coffin, although made of wood, was conceived of as a mummy case similar to 
-the cartonnage examples like the mummy case of [Nakhtefmut]({{site.baseurl}}/coffins/nakhtefmut) at the Fitzwilliam.
+the cartonnage examples like the mummy case of [Nakhtefmut](/coffins/nakhtefmut) at the Fitzwilliam.

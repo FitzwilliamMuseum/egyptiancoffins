@@ -13,7 +13,7 @@ id: team
      <div class="col-md-6 mt-3">
           <div class="card h-100">
               <div class="card-body">
-              <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="{{site.baseurl}}{{author.image}}"
+              <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="{{author.image}}"
                              alt="{{page.title}}'s profile image" height="150" width="150">
                 <h5 class="card-title">{{author.title}} </h5>
                                     {% if author.job-title %}
@@ -24,7 +24,7 @@ id: team
 
                 <p><span class="chip"><i class="chip-icon"><i class="fas fa-sitemap"></i></i>{{ author.institution}}</span></p>
 
-                <a href="{{site.baseurl}}{{ author.url }}" class="btn btn-dark">Read full bio</a>
+                <a href="{{ author.url }}" class="btn btn-dark">Read full bio</a>
               </div>
           </div>
     </div>

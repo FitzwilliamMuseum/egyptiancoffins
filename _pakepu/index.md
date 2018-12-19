@@ -10,7 +10,7 @@ technical:
  
 ---
 
-![]({{site.baseurl}}/images/pakepu/pakepu-inner-leadimage.jpg){:.img-fluid}
+![](/images/pakepu/pakepu-inner-leadimage.jpg){:.img-fluid}
 
 
 ## Coffin metadata
