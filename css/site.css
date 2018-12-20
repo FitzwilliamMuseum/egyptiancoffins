@@ -134,12 +134,18 @@ video {
    min-width: auto;
    max-height:auto;
  }
+
 .badge-wine {
     background-color: #731200;
     color: #fff;
     padding: 10px;
 }
 
+.btn-wine {
+    background-color: #731200;
+    color: #fff;
+    padding: 10px;
+}}
 .nakhtefmut {
     background-image: url(../images/nakhtefmut/nakhtefmut.jpeg);
     background-position: 50% 20%;
