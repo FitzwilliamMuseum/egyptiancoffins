@@ -70,6 +70,8 @@ collections:
    team:
       output: true
 
+mailchimp-list: https://cam.us17.list-manage.com/subscribe/post?u=f30da66801c7549a27ffb3357&amp;id=741e719b5c
+
 feed:
   collections:
     - pakepu

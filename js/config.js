@@ -107,17 +107,8 @@ var klaroConfig = {
             // cookies set by this app. If the user withdraws consent for a
             // given app, Klaro will then automatically delete all matching
             // cookies.
-            cookies : [
-                // you can also explicitly provide a path and a domain for
-                // a given cookie. This is necessary if you have apps that
-                // set cookies for a path that is not "/" or a domain that
-                // is not the current domain. If you do not set these values
-                // properly, the cookie can't be deleted by Klaro
-                // (there is no way to access the path or domain of a cookie in JS)
-                [/^_pk_.*$/, '/', 'egyptiancoffins.org'], //for the production version
-                [/^_pk_.*$/, '/', 'localhost'], //for the local version
-                'piwik_ignore'],
-            
+            cookies : [/^ga/i],
+
             // An optional callback function that will be called each time
             // the consent state for the app changes (true=consented). Passes
             // the `app` config as the second parameter as well.
