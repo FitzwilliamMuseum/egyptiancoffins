@@ -19,5 +19,5 @@ title: Sign up to our mailing list
     <label for="LNAME">Last name</label>
     <input type="LNAME" name="LNAME" class="form-control" id="LNAME" placeholder="Enter your last name">
   </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
+  <button type="submit" class="btn btn-wine">Submit</button>
 </form>
