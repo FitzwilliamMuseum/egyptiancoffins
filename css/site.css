@@ -195,3 +195,7 @@ video {
     background-color: #731200;
     color: #fff;
 }
+
+label.cm-app-label {
+    color: white;
+}
