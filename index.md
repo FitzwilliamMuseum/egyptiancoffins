@@ -22,10 +22,6 @@ coffins:
 </div>
 </div>
 
-This website presents the results of the Fitzwilliam Museum's cutting-edge 
-interdisciplinary research into its internationally significant collection of more than 
-200 ancient Egyptian coffins and coffin fragments.
-
 Since 2014, the Fitzwilliam Museum has been conducting cutting-edge interdisciplinary 
 research into its collection of more than 200 ancient Egyptian coffins and coffin 
 fragments. Bringing together a team of Egyptologists, conservators, a pigment analyst, 
