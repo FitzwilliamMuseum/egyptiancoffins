@@ -8,6 +8,9 @@ technical:
   - 
     file: /nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
+  - 
+    file: /nespawershefyt/newfile.pdf
+    title: CT scan of joints
 images:
   - 
     image: nespawershefytnestedlarge.jpg
