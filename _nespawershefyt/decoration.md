@@ -7,7 +7,9 @@ technical:
   - 
     file: /nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
-
+  -
+    file: /nespawershefyt/Innercoffindecsummary.pdf
+    title: Inner Coffin Decoration Summary
 ---
 
 
