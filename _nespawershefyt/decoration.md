@@ -9,7 +9,7 @@ technical:
     title: Complete Translations and Description
   -
     file: /nespawershefyt/Innercoffindecsummary.pdf
-    title: Inner Coffin Decoration Summary
+    title: Inner Coffin Box Decoration Summary
 ---
 
 
