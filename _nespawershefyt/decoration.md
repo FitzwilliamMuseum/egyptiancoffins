@@ -10,6 +10,9 @@ technical:
   -
     file: /nespawershefyt/Innercoffindecsummary.pdf
     title: Inner Coffin Box Decoration Summary
+  -
+    file: /nespawershefyt/Innercoffinliddec.pdf
+    title: Inner Coffin Lid Decoration Summary
 ---
 
 
