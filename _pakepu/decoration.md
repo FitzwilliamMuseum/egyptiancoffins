@@ -9,6 +9,8 @@ technical:
     title: Complete Translations and Description
   - file: /pakepu/Pakepuinnerdec.pdf
     title: Pakepu Inner Decoration Summary
+  - file: /pakepu/Pakepuouterdec.pdf
+    title: Pakepu Outer Decoration Summary
 ---
 
 There are two main components in the decoration of Pakepu’s coffins. This includes: (1) the creation of the surface preparation layers and (2) the application of the textual and decorative programme.
