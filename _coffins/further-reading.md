@@ -14,6 +14,8 @@ Cooney, K. M., "Gender Transformation in Death: A Case Study of Coffins from Ram
 
 Cooney, K. M., "Changing Burial Practices at the End of the New Kingdom: Defensive Adaptations in Tomb Commissions, Coffin Commissions, Coffin Decoration, and Mummification" in Journal of the American Research Center in Egypt 47 (2011): 3-44.
 
+Dodson, A., ["Egyptian Coffins in Provincial Collections of the United Kingdom"] (http://www.bris.ac.uk/archanth/research/dodson/ecpuk), University of Bristol (2002-2019).
+
 Dodson, A., "On the Burial of Maihirpri and Certain Coffins of the Eighteenth Dynasty" in C. J. Eyre (ed.), Proceedings of the Seventh International Congress of Egyptologists (Leuven, 1998): 331-338.
 
 Sheikholeslami, C. M., "Some Theban Choachytes of the Third Intermediate Period" in C. Jurman, B. Bader and D. Aston., Essays on First Millennium Egypt in Honour of Anthony Leahy (Leuven/Paris/Bristol, 2017): 415-445.
