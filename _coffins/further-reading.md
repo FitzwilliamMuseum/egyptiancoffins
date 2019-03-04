@@ -22,7 +22,7 @@ Sheikholeslami, C. M., "Sokar-Osiris and the Goddesses: some twenty-fifth–twen
 
 Strudwick, H. M., "Egyptian Coffins at the Fitzwilliam Museum: a Case Study in Collection Formation" in M. Tomorad and J. Popielska-Grzybowska, Proceedings of the Seventh European Conference of Egyptologists, 2nd-7th June 2015, Zagreb, Croatia (Oxford, 2017): 97-115.
 
-Strudwick, H. M., "The enigmatic owner of the coffins of Nespawershefyt at the Fitzwilliam Museum, Cambridge" in A. Amenta and H. Guichard, Proceedings of the First Vatican Coffin Conference, 19-22 June 2013, vol.1 (Vatican, 2017): 521-529.
+Strudwick, H. M., ["The enigmatic owner of the coffins of Nespawershefyt at the Fitzwilliam Museum, Cambridge"](http://www.academia.edu/33566355/Enigmatic_owner_of_the_coffins_of_Nespawershefyt_..){: target="_blank" } in A. Amenta and H. Guichard, Proceedings of the First Vatican Coffin Conference, 19-22 June 2013, vol.1 (Vatican, 2017): 521-529.
 
 Strudwick, H and Dawson, J., Death on the Nile: Uncovering the Afterlife of Ancient Egypt (London, 2016).
 
