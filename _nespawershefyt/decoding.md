@@ -3,8 +3,8 @@ title: Decoding the text and decoration of the coffins of Nespawershefyt
 layout: coffins
 category: nespawershefyt
 permalink: /coffins/nespawershefyt/decoding
-technical:
 order: 5
+technical:
   - 
     file: /nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
