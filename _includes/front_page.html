@@ -1,9 +1,3 @@
-<div class="container">
-    <div class="col-md-12">
-        <h2>Coffins in the spotlight</h2>
-    </div>
-</div>
-
 <div class="container mt-3">
     <div class="row">
         <div class="col-sm-6 mt-3">
@@ -42,6 +36,7 @@
         </div>
     </div>
 </div>
+{% if page.url != "/" %}
 <div class="container mt-3">
     <div class="row">
 
@@ -67,8 +62,8 @@
                     <img class="align-self-center mr-3 rounded-circle coffin float-right thumb-post"
                          src="/images/senuitef/senuitef.jpg"
                          alt="{{page.title}}'s profile image"/>
-                    <p class="card-text">This group of two long boards and two short boards are inscribed with the 
-                        names of two different people: Senuitef and Warethetep. 
+                    <p class="card-text">This group of two long boards and two short boards are inscribed with the
+                        names of two different people: Senuitef and Warethetep.
                         Investigations into why this is are still on-going.</p>
                     <a href="/coffins/senuitef" class="btn btn-dark">Read more about Senuitef</a>
                 </div>
@@ -76,7 +71,7 @@
         </div>
     </div>
 </div>
-
+{% endif %}
 
 <div class="container mt-3 mb-3">
     <div class="row">
