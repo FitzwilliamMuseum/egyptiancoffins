@@ -20,7 +20,7 @@ images:
     caption: Mummy board of Nespawershefyt on display in the Egyptian galleries at the Fitzwilliam Museum.
 ---
 
-## Brief Description
+## Brief description
 
 * Accession number: E.1.1822
 * Other numbers and markings: None
