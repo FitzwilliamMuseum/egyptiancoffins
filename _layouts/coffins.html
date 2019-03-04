@@ -85,7 +85,7 @@
                 <div class="col-md-6 mt-3">
                     <div class="card  w-100 mx-auto">
                         <div class="card-body">
-                            <img class="mx-auto d-block max-coffins"
+                            <a href="/images/{{page.category}}/{{image.image}}"><img class="mx-auto d-block max-coffins"
                                  src="/images/{{page.category}}/{{image.image}}">
                             <p class="text-center">{{ image.caption }}</p>
 
@@ -106,7 +106,6 @@
 {% include structure/footer.html %}
 {% include structure/javascript.html %}
 {% include analytics/google_analytics.html %}
-
-
+{% include lightbox.html %}
 </body>
 </html>
