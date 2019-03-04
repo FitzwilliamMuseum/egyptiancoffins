@@ -4,6 +4,7 @@ layout: coffins
 category: nespawershefyt
 permalink: /coffins/nespawershefyt/decoding
 technical:
+order: 5
   - 
     file: /nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
