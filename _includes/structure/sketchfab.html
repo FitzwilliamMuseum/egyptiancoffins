@@ -1,0 +1,14 @@
+<div class="row">
+        <h2>3D models</h2>
+        <div class="row mb-2">
+            {% for threed in page.sketchfab %}
+            <div class="card col-sm p-0 m-2">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item"
+                            src="https://sketchfab.com/models/{{ threed.id }}/embed" allow="autoplay; fullscreen; vr"
+                            mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+</div>

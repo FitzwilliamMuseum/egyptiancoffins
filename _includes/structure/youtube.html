@@ -1,0 +1,14 @@
+<div class="row">
+        <h2>YouTube videos</h2>
+        <div class="row mb-2">
+            {% for video in page.youtube %}
+            <div class="card col-sm p-0 m-2">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.youtube.com/embed/{{ video.id }}" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen class="embed-responsive-item"></iframe>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+</div>

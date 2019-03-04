@@ -1,0 +1,27 @@
+<div class="container">
+    <div class="row">
+        <div class="col-12 ">
+            <div class="row">
+                <div class="col-md-12 mt-3 mb-3">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <img class="align-self-center mr-3 rounded-circle float-right thumb-post"
+                                 src="{{page.image}}"
+                                 alt="{{page.title}}'s profile image" height="150" width="150">
+                            {% if page.job-title %}
+                            <h6 class="text-muted">{{ page.job-title}} </h6>
+                            {% endif %}
+
+                            <p class="card-text">{{ page.content }}</p>
+
+                            <p><span class="chip"><i class="chip-icon"><i class="fas fa-sitemap"></i></i>{{ page.institution}}</span>
+                            </p>
+
+                            <a href="{{ author.url }}" class="btn btn-dark">Read full bio</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

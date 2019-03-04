@@ -1,7 +1,7 @@
 ---
 title: Further reading
 layout: news
-permalink: /further-reading/
+permalink: /resources/further-reading/
 id: root
 ---
 Cooney, K. M., The Cost of Death: The Social and Economic Value of Ancient Egyptian Funerary Art in the Ramesside Period (Leiden, 2007).
