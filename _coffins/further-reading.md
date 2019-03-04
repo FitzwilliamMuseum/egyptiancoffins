@@ -4,7 +4,7 @@ layout: news
 permalink: /resources/further-reading/
 id: root
 ---
-Cooney, K. M., The Cost of Death: The Social and Economic Value of Ancient Egyptian Funerary Art in the Ramesside Period (Leiden, 2007).
+Cooney, K. M., _The Cost of Death: The Social and Economic Value of Ancient Egyptian Funerary Art in the Ramesside Period_ (Leiden, 2007).
 
 Cooney, K. M., "The Functional Materialism of Death: A Case Study of Funerary Material in the Ramesside Period" in M. Fitzenreiter (ed.), Das Heilige und die Ware (London, 2008): 273-299.
 
