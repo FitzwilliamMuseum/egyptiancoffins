@@ -2,7 +2,8 @@
     <h3>Further reading</h3>
     <ul>
         {% if page.category contains "pakepu" %}
-        {% for coffin in site.pakepu %}
+        {% assign sorted = (site.pakepu | sort: 'order')  %}
+        {% for coffin in sorted %}
         <li>
             <a href="{{ coffin.url }}">{{ coffin.title }}</a>
         </li>
@@ -10,7 +11,8 @@
         {% endif %}
 
         {% if page.category contains "nakhtefmut" %}
-        {% for coffin in site.nakhtefmut %}
+        {% assign sorted = (site.nakhtefmut | sort: 'order')  %}
+        {% for coffin in sorted  %}
 
         <li>
             <a href="{{ coffin.url }}">{{ coffin.title }}</a>
@@ -19,7 +21,8 @@
         {% endif %}
 
         {% if page.category contains "nespawershefyt" %}
-        {% for coffin in site.nespawershefyt %}
+        {% assign sorted = (site.nespawershefyt | sort: 'order')  %}
+        {% for coffin in sorted %}
         <li>
             <a href="{{ coffin.url }}">{{ coffin.title }}</a>
         </li>
@@ -27,7 +30,9 @@
         {% endif %}
 
         {% if page.category contains "senuitef" %}
-        {% for coffin in site.senuitef %}
+        {% assign sorted = (site.senuitef | sort: 'order')  %}
+
+        {% for coffin in sorted %}
         <li>
             <a href="{{ coffin.url }}">{{ coffin.title }}</a>
         </li>
