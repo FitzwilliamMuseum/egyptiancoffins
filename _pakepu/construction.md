@@ -3,6 +3,7 @@ layout: coffins
 permalink: /coffins/pakepu/construction
 category: pakepu
 title: How were the coffins of Pakepu constructed?
+order: 5
 technical:
   - 
     file: /pakepu/PakepuCompleteTranslationsDescription.pdf
