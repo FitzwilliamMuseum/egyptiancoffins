@@ -5,8 +5,8 @@ category: nespawershefyt
 permalink: /coffins/nespawershefyt/construction
 order: 6
 technical:
-  - 
-    file: /nespawershefyt/nespawershefytComplete.pdf
+  -
+    file: nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
 ---
 ## Summary of materials and manufacture
@@ -24,10 +24,10 @@ It is important to note that some of the smaller pieces of wood and many of the 
 | Outer coffin box | Sycomore fig, tamarisk       | Sycomore fig, sidr, acacia  |
 {: .table }
 Table 1: Summary of woods used in the construction of the coffin set
-	
-The following joints were used to put the coffins of this set together: 
 
-* edge joint with dowels 
+The following joints were used to put the coffins of this set together:
+
+* edge joint with dowels
 * mortise with loose tenon
 * mortise with pegged tenon
 * butt joint

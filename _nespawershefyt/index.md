@@ -6,10 +6,10 @@ permalink: /coffins/nespawershefyt
 order: 1
 technical:
   -
-    file: /nespawershefyt/nespawershefytComplete.pdf
+    file: nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
   -
-    file: /nespawershefyt/newfile.pdf
+    file: nespawershefyt/newfile.pdf
     title: CT scan of joints
 images:
   -

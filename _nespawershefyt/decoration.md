@@ -5,42 +5,42 @@ category: nespawershefyt
 permalink: /coffins/nespawershefyt/decoration
 order: 4
 technical:
-  - 
-    file: /nespawershefyt/nespawershefytComplete.pdf
+  -
+    file: nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
   -
-    file: /nespawershefyt/Innercoffindecsummary.pdf
+    file: nespawershefyt/Innercoffindecsummary.pdf
     title: Inner Coffin Box Decoration Summary
   -
-    file: /nespawershefyt/Innercoffinliddec.pdf
+    file: nespawershefyt/Innercoffinliddec.pdf
     title: Inner Coffin Lid Decoration Summary
-  - 
-    file: /nespawershefyt/Outercoffinboxdec.pdf
+  -
+    file: nespawershefyt/Outercoffinboxdec.pdf
     title: Outer Coffin Box Decoration Summary
   -
-    file: /nespawershefyt/Outercoffinliddec.pdf
+    file: nespawershefyt/Outercoffinliddec.pdf
     title: Outer Coffin Lid Decoration Summary
 ---
 
 
-The technical expertise demonstrated by the craftsmen and the aesthetic effect achieved 
-on Nespawershefyt’s coffin set is exceptional. Using a very limited, but bold palette, 
-the decoration has been painted onto one or more layers of calcite paste applied to the 
-wooden carcass over strips of linen fabric. The painting was carried out using a variety 
-of pens made from single hollow stems and brushes made from plant fibres or sticks of 
+The technical expertise demonstrated by the craftsmen and the aesthetic effect achieved
+on Nespawershefyt’s coffin set is exceptional. Using a very limited, but bold palette,
+the decoration has been painted onto one or more layers of calcite paste applied to the
+wooden carcass over strips of linen fabric. The painting was carried out using a variety
+of pens made from single hollow stems and brushes made from plant fibres or sticks of
 fibrous wood bundled together.
 
-A very thin wash of lemon yellow orpiment (an arsenic sulphide mineral commonly used as a 
-substitute to gold) was applied over the white preparation layer on the mummy board and 
-inner coffin, while the white layer has been left exposed as the background on the outer 
+A very thin wash of lemon yellow orpiment (an arsenic sulphide mineral commonly used as a
+substitute to gold) was applied over the white preparation layer on the mummy board and
+inner coffin, while the white layer has been left exposed as the background on the outer
 coffin. The rear of the mummy board is painted a deep red-brown.
 
 The outline for the decoration and text was laid out with great care and precision using
- red earth paint (a few setting out lines in black also appear on the inner coffin box). 
- After the drawing was complete, the red, blue and green areas of the design were filled 
+ red earth paint (a few setting out lines in black also appear on the inner coffin box).
+ After the drawing was complete, the red, blue and green areas of the design were filled
  in. Each colour was applied in turn; suggesting a single batch of paint was produced and
-  used across the coffin in the workshop before mixing the next colour. This may have 
-  been because the gums and glue mixed with the pigments to make paint had a tendency 
+  used across the coffin in the workshop before mixing the next colour. This may have
+  been because the gums and glue mixed with the pigments to make paint had a tendency
   to congeal, dry or need re-heating.
 
 The different blue and green shapes in the text and iconography have been built up in high

@@ -5,8 +5,8 @@ category: nespawershefyt
 permalink: /coffins/nespawershefyt/decoding
 order: 5
 technical:
-  - 
-    file: /nespawershefyt/nespawershefytComplete.pdf
+  -
+    file: nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
 
 ---
