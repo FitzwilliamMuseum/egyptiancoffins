@@ -22,7 +22,7 @@ images:
 * Accession number: E.1.1822
 * Other numbers and markings: None
 
-Wooden anthropoid ![coffin set](/images/nespawershefyt/nespawershefytnestedlarge.jpg){: .lightbox } of Nespawershefyt comprising a mummy board, inner coffin and outer coffin complete with lids
+Wooden anthropoid ![coffin set](/images/nespawershefyt/nespawershefytnestedlarge.jpg){:.lightbox} of Nespawershefyt comprising a mummy board, inner coffin and outer coffin complete with lids
 and boxes. The mummy board, which once had a wooden rim support fixed to the underside of the head, would have been placed
 over the mummy, before being interred in the smaller inner coffin, which nested inside the larger outer one. The coffin
 set is attributed to Thebes and on stylistic grounds dates to the Third Intermediate Period (Dynasty 21). It is richly
