@@ -3,6 +3,7 @@ layout: coffins
 title: The recent history of the coffins of Nespawershefyt
 category: nespawershefyt
 permalink: /coffins/nespawershefyt/history
+order: 3
 technical:
   - 
     file: /nespawershefyt/nespawershefytComplete.pdf

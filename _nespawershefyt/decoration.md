@@ -3,6 +3,7 @@ layout: coffins
 title: How were the coffins of Nespawershefyt decorated?
 category: nespawershefyt
 permalink: /coffins/nespawershefyt/decoration
+order: 4
 technical:
   - 
     file: /nespawershefyt/nespawershefytComplete.pdf

@@ -17,7 +17,7 @@ vimeo:
     order: 2
 youtube: 
   - 
-    title: Studying Egyptian coffins from Luxor by Dr.Helen Strudwick
+    title: Studying Egyptian coffins from Luxor by Helen Strudwick
     id: M8KeRQUmcXs
     order: 1
   -

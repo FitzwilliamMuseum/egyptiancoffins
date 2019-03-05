@@ -1,6 +1,6 @@
 ---
 layout: coffins
-title: Brief description
+title: Nespawershefyt's coffin set
 category: nespawershefyt
 permalink: /coffins/nespawershefyt
 order: 1
