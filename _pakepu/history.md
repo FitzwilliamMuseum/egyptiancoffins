@@ -3,6 +3,7 @@ layout: coffins
 title: The recent history of the coffins of Pakepu
 permalink: coffins/pakepu/history
 category: pakepu
+order: 3
 technical:
   - 
     file: /pakepu/PakepuCompleteTranslationsDescription.pdf
