@@ -1,8 +1,9 @@
 ---
 layout: coffins
-title: Coffin set of Pakepu
+title: Pakepu's coffin set
 permalink: coffins/pakepu
 category: pakepu
+order: 1
 technical:
   - 
     file: /pakepu/PakepuCompleteTranslationsDescription.pdf
