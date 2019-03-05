@@ -3,6 +3,7 @@ layout: coffins
 permalink: /coffins/pakepu/who-was-he
 category: pakepu
 title: Who was Pakepu?
+order: 2
 technical:
   - 
     file: /pakepu/PakepuCompleteTranslationsDescription.pdf
