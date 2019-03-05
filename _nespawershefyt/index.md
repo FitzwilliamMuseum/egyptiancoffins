@@ -5,23 +5,20 @@ category: nespawershefyt
 permalink: /coffins/nespawershefyt
 order: 1
 technical:
-  - 
+  -
     file: /nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
-  - 
+  -
     file: /nespawershefyt/newfile.pdf
     title: CT scan of joints
 images:
-  - 
+  -
     image: nespawershefytnestedlarge.jpg
     caption: The nested coffins of Nespawershefyt
-  - 
+  -
     image: nespamummyboarddisplaylarge.jpg
     caption: Mummy board of Nespawershefyt on display in the Egyptian galleries at the Fitzwilliam Museum.
 ---
-
-## Brief description
-
 * Accession number: E.1.1822
 * Other numbers and markings: None
 
