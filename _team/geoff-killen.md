@@ -3,7 +3,7 @@ title: Geoff Killen
 image: /images/staff/GeoffKillen.jpg
 layout: team
 institution: External member
-job-title: Woodworking genius
+job-title: Ancient woodworking specialist
 ---
 
  Dr Geoffrey Killen is a leading Egyptologist, wood technologist and furniture historian. He studied Design and Technology
