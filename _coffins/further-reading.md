@@ -28,7 +28,7 @@ Strudwick, H. M., ["The enigmatic owner of the coffins of Nespawershefyt at the 
 
 Strudwick, H and Dawson, J., _Death on the Nile: Uncovering the Afterlife of Ancient Egypt_ (London, 2016).
 
-Tooley, A., ["Coffin of a dog from Beni Hasan"](https://www.academia.edu/755703/_Coffin_of_a_dog_from_Beni_Hasan_JEA_74_1988_207-211_pls._XXVI_2_XXVII_1-2) in _Journal of Egyptian Archaeology _ 74 (London, 1988): 207-211.
+Tooley, A., ["Coffin of a dog from Beni Hasan"](https://www.academia.edu/755703/_Coffin_of_a_dog_from_Beni_Hasan_JEA_74_1988_207-211_pls._XXVI_2_XXVII_1-2) in _Journal of Egyptian Archaeology_ 74 (London, 1988): 207-211.
 
 Willems, H., _Chests of Life: A Study of the Typology and Conceptual Development of Middle Kingdom Standard Class Coffins_ (Leiden, 1988).
 
