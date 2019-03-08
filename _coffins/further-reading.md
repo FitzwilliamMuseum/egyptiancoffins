@@ -14,7 +14,7 @@ Cooney, K. M., "Gender Transformation in Death: A Case Study of Coffins from Ram
 
 Cooney, K. M., "Changing Burial Practices at the End of the New Kingdom: Defensive Adaptations in Tomb Commissions, Coffin Commissions, Coffin Decoration, and Mummification" in _Journal of the American Research Center in Egypt_ 47 (2011): 3-44.
 
-Dodson, A., ["Egyptian Coffins in Provincial Collections of the United Kingdom"](http://www.bris.ac.uk/archanth/research/dodson/ecpuk){: target="_blank"}, University of Bristol (2002ff).
+Dodson, A., ["Egyptian Coffins in Provincial Collections of the United Kingdom"](http://www.bris.ac.uk/archanth/research/dodson/ecpuk), University of Bristol (2002ff).
 
 Dodson, A., "On the Burial of Maihirpri and Certain Coffins of the Eighteenth Dynasty" in C. J. Eyre (ed.), _Proceedings of the Seventh International Congress of Egyptologists_ (Leuven, 1998): 331-338.
 
@@ -24,11 +24,11 @@ Sheikholeslami, C. M., "Sokar-Osiris and the Goddesses: some twenty-fifth–twen
 
 Strudwick, H. M., "Egyptian Coffins at the Fitzwilliam Museum: a Case Study in Collection Formation" in M. Tomorad and J. Popielska-Grzybowska, _Proceedings of the Seventh European Conference of Egyptologists, 2nd-7th June 2015, Zagreb, Croatia_ (Oxford, 2017): 97-115.
 
-Strudwick, H. M., ["The enigmatic owner of the coffins of Nespawershefyt at the Fitzwilliam Museum, Cambridge"](http://www.academia.edu/33566355/Enigmatic_owner_of_the_coffins_of_Nespawershefyt_..){: target="_blank" } in A. Amenta and H. Guichard, _Proceedings of the First Vatican Coffin Conference, 19-22 June 2013,_ vol.1 (Vatican, 2017): 521-529.
+Strudwick, H. M., ["The enigmatic owner of the coffins of Nespawershefyt at the Fitzwilliam Museum, Cambridge"](http://www.academia.edu/33566355/Enigmatic_owner_of_the_coffins_of_Nespawershefyt_..) in A. Amenta and H. Guichard, _Proceedings of the First Vatican Coffin Conference, 19-22 June 2013,_ vol.1 (Vatican, 2017): 521-529.
 
 Strudwick, H and Dawson, J., _Death on the Nile: Uncovering the Afterlife of Ancient Egypt_ (London, 2016).
 
-Tooley, A., ["Coffin of a dog from Beni Hasan"](https://www.academia.edu/755703/_Coffin_of_a_dog_from_Beni_Hasan_JEA_74_1988_207-211_pls._XXVI_2_XXVII_1-2){ target="_blank" } in _Journal of Egyptian Archaeology _ 74 (London, 1988): 207-211.
+Tooley, A., ["Coffin of a dog from Beni Hasan"](https://www.academia.edu/755703/_Coffin_of_a_dog_from_Beni_Hasan_JEA_74_1988_207-211_pls._XXVI_2_XXVII_1-2) in _Journal of Egyptian Archaeology _ 74 (London, 1988): 207-211.
 
 Willems, H., _Chests of Life: A Study of the Typology and Conceptual Development of Middle Kingdom Standard Class Coffins_ (Leiden, 1988).
 
