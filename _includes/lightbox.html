@@ -107,26 +107,13 @@ function is_imagelink(url) {
 	var p = /([a-z\-_0-9\/\:\.]*\.(jpg|jpeg|png|gif))/i;
 	return (url.match(p)) ? true : false;
 }
-function is_vimeolink(url,el) {
-	var id = false;
-	$.ajax({
-	  url: 'https://vimeo.com/api/oembed.json?url='+url,
-	  async: true,
-	  success: function(response) {
-		if(response.video_id) {
-		  id = response.video_id;
-		  $(el).addClass('lightbox-vimeo').attr('data-id',id);
-		}
-	  }
-	});
-}
+
 
 $(document).ready(function() {
 	//add classes to links to be able to initiate lightboxes
 	$("a").each(function(){
 		var url = $(this).attr('href');
 		if(url) {
-			if(url.indexOf('vimeo') !== -1 && !$(this).hasClass('no-lightbox')) is_vimeolink(url,$(this));
 			if(is_youtubelink(url) && !$(this).hasClass('no-lightbox')) $(this).addClass('lightbox-youtube').attr('data-id',is_youtubelink(url));
 			if(is_imagelink(url) && !$(this).hasClass('no-lightbox')) {
 				$(this).addClass('lightbox-image');
@@ -170,11 +157,7 @@ $(document).ready(function() {
 		event.preventDefault();
 		$('<div class="lightbox"><a id="close"></a><a id="next">&rsaquo;</a><a id="prev">&lsaquo;</a><div class="img" style="background: url('+$(this).attr('href')+') center center / contain no-repeat;" title="'+$(this).attr('title')+'" ><img src="'+$(this).attr('href')+'" alt="'+$(this).attr('title')+'" /></div><span>'+$(this).attr('title')+'</span></div>').appendTo('body');
 	});
-	//add the vimeo lightbox on click
-	$("body").on("click", "a.lightbox-vimeo", function(event){
-		event.preventDefault();
-		$('<div class="lightbox"><a id="close"></a><a id="next">&rsaquo;</a><a id="prev">&lsaquo;</a><div class="videoWrapperContainer"><div class="videoWrapper"><iframe src="https://player.vimeo.com/video/'+$(this).attr('data-id')+'/?autoplay=1&byline=0&title=0&portrait=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div></div>').appendTo('body');
-	});
+
 
 	$("body").on("click", "a[class*='lightbox-']", function(){
 		var link_elements = $(this).parent().find("a[class*='lightbox-']");
