@@ -7,11 +7,12 @@ author: Melanie Pitkin
 category: news
 description: Melanie Pitkin reports on her visit to Cairo
 tags: [cairo, coffins, mansoura]
+thumbnail: /images/news/Mansoura.jpg
 images:
-  - 
+  -
     image: news/Mansoura.jpg
     caption: Visit to Mansoura University
-  - 
+  -
     image: news/randa.jpg
     caption: Melanie with Dr Randa Baligh
   -
