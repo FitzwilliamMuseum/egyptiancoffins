@@ -51,7 +51,7 @@
             </div>
           </div>
           {% endif %}
-          
+
             <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 
             {% if post.date %}
@@ -62,7 +62,9 @@
             <a href="{{ post.url }}" class="btn btn-dark">Read more</a>
         </div>
     </div>
+
     {% endfor %}
+    
     {% elsif page.url == '/contactus' %}
      <div class="row">
         <div class="col-12  mb-2 ">

@@ -63,19 +63,28 @@
             {{ content }}
         </div>
         {% elsif page.id != 'root'%}
-        <div class="col-md-8 shadow-sm  p-3 mb-3 mx-2 bg-white rounded">
+          {% if page.technical %}
+            {% assign class = '8' %}
+          {% else %}
+            {% assign class = '12' %}
+          {% endif %}
+        <div class="col-md-{{ class }} shadow-sm p-3 mr-2 mb-3 bg-white rounded">
             <p class="page__meta float-right">
                 <span class="chip"><i class="chip-icon"><i class="far fa-clock" aria-hidden="true"></i></i>{% include read_time.html %}</span>
             </p>
             {{ content }}
         </div>
-        {% include structure/related.html %}
+
+          {% if page.technical%}
+            {% include structure/related.html %}
+          {% endif %}
+
         {% endif %}
     </div>
 </div>
 <div class="container">
     <div class="row">
-        <div class="mb-2 mx-2  rounded">
+        <div class="mb-2 rounded">
             {% if page.images %}
             {% assign rows = page.images.size | divided_by: 2.0 | ceil %}
             {% for i in (1..rows) %}
@@ -83,7 +92,7 @@
             <div class="row mb-3">
                 {% for image in page.images limit:2 offset:offset %}
                 <div class="col-md-6 mt-3">
-                    <div class="card  w-100 mx-auto">
+                    <div class="card w-100 mx-auto">
                         <div class="card-body">
                             <a href="/images/{{page.category}}/{{image.image}}"><img class="mx-auto d-block max-coffins"
                                  src="/images/{{page.category}}/{{image.image}}">
