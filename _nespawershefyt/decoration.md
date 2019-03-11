@@ -29,7 +29,7 @@ images:
     caption: Detail from the inner coffin box showing the preparation surface layers.
   -
     image: reedpens.jpg
-    caption: Replica pens made from the rush _Junctus maritimus_.
+    caption: Replica pens made from the rush Junctus maritimus.
   - 
     image: reedbrushes.jpg
     caption: Replica brushes made from bundles of vegetable fibres (thin rope).
