@@ -22,6 +22,18 @@ technical:
     title: Outer Coffin Lid Decoration Summary
 images:
   -
+    image: pigments.jpg
+    caption: The different range of pigments, and varnish, used in Nespawershefyt's coffin set.
+  -
+    image: declayers.jpg
+    caption: Detail from the inner coffin box showing the preparation surface layers.
+  -
+    image: reedpens.jpg
+    caption: Replica pens made from the rush _Junctus maritimus_.
+  - 
+    image: reedbrushes.jpg
+    caption: Replica brushes made from bundles of vegetable fibres (thin rope).
+  -
     image: fingerprint.jpg
     caption: Detail of Nespawershefyt's mummy board bearing an ancient fingerprint. 
   -
