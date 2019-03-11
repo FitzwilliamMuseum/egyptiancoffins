@@ -9,8 +9,8 @@ images:
     image: news/IMG_7717.jpg
     caption: The Egyptian Museum Cairo
   -
-    image: news/IMG_7707.jpg
-    caption: Helen Strudwick delivering her lecture on coffin typology. 
+    image: news/IMG_7716.jpg
+    caption: Julie Dawson delivering her lecture on the application of advanced imaging techniques to coffins.
   -
     image: news/IMG_7662.jpg
     caption: The team enjoying koshary for lunch with GEM conservator, Nour Badr.
