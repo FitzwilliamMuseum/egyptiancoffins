@@ -35,10 +35,9 @@ images:
 
 The technical expertise demonstrated by the craftsmen and the aesthetic effect achieved
 on Nespawershefyt’s coffin set is exceptional. Using a very limited, but bold [palette](/images/nespawershefyt/pigments.jpg),
-the decoration has been painted onto one or more layers of calcite paste applied to the
+the decoration has been painted onto one or more [layers](/images/nespawershefyt/declayers.jpg) of calcite paste applied to the
 wooden carcass over strips of linen fabric. The painting was carried out using a variety
-of pens made from single hollow stems and brushes made from plant fibres or sticks of
-fibrous wood bundled together.
+of [pens](/images/nespawershefyt/reedpens.jpg) made from single hollow stems and [brushes](/images/nespawershefyt/reedbrushes.jpg) made from plant fibres or sticks of fibrous wood bundled together.
 
 A very thin wash of lemon yellow orpiment (an arsenic sulphide mineral commonly used as a
 substitute to gold) was applied over the white preparation layer on the mummy board and
