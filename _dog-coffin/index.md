@@ -15,4 +15,4 @@ This small wooden box coffin, believed to be for a dog, was discovered by John G
 
 A replica of this coffin was made by ancient woodworking specialist, Dr Geoffrey Killen, in March 2019 for a 'Pop-Up' Egyptian Coffins outreach project in Wisbech and the Fens. See images and video below. 
 
-The coffin has also been published by Angela Tooley in the 1988 edition of the _Journal of Egyptian Archaeology_.
+The coffin has also been published by Angela Tooley in the 1988 edition of the [_Journal of Egyptian Archaeology_](https://www.academia.edu/755703/_Coffin_of_a_dog_from_Beni_Hasan_JEA_74_1988_207-211_pls._XXVI_2_XXVII_1-2).
