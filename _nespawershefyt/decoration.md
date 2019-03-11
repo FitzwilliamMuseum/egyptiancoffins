@@ -24,6 +24,12 @@ images:
   -
     image: fingerprint.jpg
     caption: Detail of Nespawershefyt's mummy board bearing an ancient fingerprint. 
+  -
+    image: handprint.jpg
+    caption: Handprints on the underside of Nespawershefyt's inner coffin lid where someone with their hands covered in varnish picked up the lid.
+  -
+    image: wedjateye.jpg
+    caption: A _wedjat_-eye doodle on the underside of Nespawershefyt's inner coffin box.
 ---
 
 
