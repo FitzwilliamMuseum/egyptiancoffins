@@ -8,6 +8,16 @@ technical:
   -
     file: nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
+images:
+  -
+    image: Nname.jpg
+    caption: The name of the owner, Nespawershefyt true of voice, written in Egyptian hieroglyphs.
+  -
+    image: Nesyamun.jpg
+    caption: The abbreviated name of the owner, Nesamun, written in Egyptian hieroglyphs.
+  -
+    image: Ntitle.jpg
+    caption: One of the areas of Nespawershefyt's coffin set showing where changes have been made to his titles.
 ---
 [Nespawershefyt](/images/nespawershefyt/Nname.jpg) (‘The one who belongs to the Great One of the Ram’s Head’), also known as [Nesamun](/images/nespawershefyt/Nesyamun.jpg) (‘The one who belongs to Amun’), was a high-ranking official who worked at the Temple of Karnak in ancient Thebes. While the inscriptions on his coffin set tell us he held a number of different honorary and functional titles (they are inscribed more than 40 times on his coffins!), his principal roles at the time of his death were ‘supervisor of craftsmen’s workshops (in Karnak)’ and ‘supervisor of scribes in the house of Amun’. Interestingly, however, these titles were [added](/images/nespawershefyt/Ntitle.jpg) at some point after the coffin set was complete, perhaps as the result of a promotion. In several places on the coffin set, for example, the text has been re-varnished to conceal the earlier title - 'Great One of the Water of the House of Amun'. Unusually, this title is not attested from any other ancient source.
 
