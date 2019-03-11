@@ -4,6 +4,7 @@ author: Melanie Pitkin
 layout: news
 tags: [cairo, coffins, egyptian museum, collaboratin, GCRF, Global Challenges Research Fund]
 thumbnail: /images/news/IMG_7717.jpg
+permalink: /news/new-collaborative-project-with-the-Egyptian-Museum-Cairo
 images:
   -
     image: news/IMG_7717.jpg
