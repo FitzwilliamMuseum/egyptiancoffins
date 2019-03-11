@@ -3,7 +3,7 @@ title: New collaborative project with the Egyptian Museum Cairo
 author: Melanie Pitkin
 layout: news
 tags: [cairo, coffins, egyptian museum, collaboratin, GCRF, Global Challenges Research Fund]
-thumbnail: 
+thumbnail: egyptiancoffins/images/news/IMG_7717.jpg
 images:
   -
     image: egyptiancoffins/images/news/IMG_7717.jpg
