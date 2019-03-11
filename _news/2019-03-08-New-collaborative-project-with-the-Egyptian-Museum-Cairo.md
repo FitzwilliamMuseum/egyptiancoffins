@@ -3,19 +3,19 @@ title: New collaborative project with the Egyptian Museum Cairo
 author: Melanie Pitkin
 layout: news
 tags: [cairo, coffins, egyptian museum, collaboratin, GCRF, Global Challenges Research Fund]
-thumbnail: egyptiancoffins/images/news/IMG_7717.jpg
+thumbnail: /images/news/IMG_7717.jpg
 images:
   -
     image: egyptiancoffins/images/news/IMG_7717.jpg
     caption: The Egyptian Museum Cairo
   -
-    image: egyptiancoffins/image/news/IMG_7707.jpg
+    image: /images/news/IMG_7707.jpg
     caption: Helen Strudwick delivering her lecture on coffin typology. 
   -
-    image: egyptiancoffins/image/news/IMG_7662.jpg
+    image: /images/news/IMG_7662.jpg
     caption: The team enjoying koshary for lunch with GEM conservator, Nour Badr.
   -
-    image: egyptiancoffins/image/news/IMG_7723.jpg
+    image: /images/news/IMG_7723.jpg
     caption: (L-R) Melanie Pitkin, Helen Strudwick, Julie Dawson, Dan Pett and his Mum, Gillian, outside the British Ambassador's     Residence in Cairo. 
 ---
 With the generous support of the [Global Challenges Research Fund](https://www.ukri.org/research/global-challenges-research-fund/), a small team from the Fitzwilliam Egyptian Coffins Project (Helen Strudwick, Julie Dawson, Melanie Pitkin and Daniel Pett) travelled to Cairo late last month (February 25-March 2, 2019) to deliver a series of lectures to curators and conservators currently engaged in their own coffins research project at the Egyptian Museum Cairo. The visit followed on from Melanie’s [earlier trip](https://egyptiancoffins.org/news/2018-10-19-melanie-pitkin-report-on-Cairo/) to Cairo and Mansoura in October 2018 where she soft launched the Fitzwilliam Museum’s new online Egyptian coffins resource. During this visit, many attendees expressed interest in learning further from the Museum’s research, particularly from a methodological perspective, and how we might be able to work collaboratively and exchange collections knowledge and experience. 
