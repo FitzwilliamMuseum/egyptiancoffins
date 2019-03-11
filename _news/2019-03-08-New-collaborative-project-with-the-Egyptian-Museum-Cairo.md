@@ -6,10 +6,10 @@ layout: news
 With the generous support of the [Global Challenges Research Fund](https://www.ukri.org/research/global-challenges-research-fund/), a small team from the Fitzwilliam Egyptian Coffins Project (Helen Strudwick, Julie Dawson, Melanie Pitkin and Daniel Pett) travelled to Cairo late last month (February 25-March 2, 2019) to deliver a series of lectures to curators and conservators currently engaged in their own coffins research project at the Egyptian Museum Cairo. The visit followed on from Melanie’s [earlier trip](https://egyptiancoffins.org/news/2018-10-19-melanie-pitkin-report-on-Cairo/) to Cairo and Mansoura in October 2018 where she soft launched the Fitzwilliam Museum’s new online Egyptian coffins resource. During this visit, many attendees expressed interest in learning further from the Museum’s research, particularly from a methodological perspective, and how we might be able to work collaboratively and exchange collections knowledge and experience. 
 
 During our visit, the following lectures were delivered:
-•	Helen Strudwick “History of the development of ancient Egyptian coffins”
-•	Melanie Pitkin “Some methodological approaches to studying, interpreting and communicating ancient Egyptian coffins”
-•	Daniel Pett “Digital: participatory Egyptology”
-•	Julie Dawson “CT scanning ancient Egyptian coffins” and “Pigment analysis and decoration practices of ancient Egyptian coffins”
+- Helen Strudwick “History of the development of ancient Egyptian coffins”
+- Melanie Pitkin “Some methodological approaches to studying, interpreting and communicating ancient Egyptian coffins”
+- Daniel Pett “Digital: participatory Egyptology”
+- Julie Dawson “CT scanning ancient Egyptian coffins” and “Pigment analysis and decoration practices of ancient Egyptian coffins”
 
 The visit also enabled an afternoon discussion session with curators to ascertain current limitations and challenges of their coffins research and documentation project, and to identify specific resources we might be able to provide in the form of publications, computer hardware and software and other technical skills training. We also met with His Excellency Sir Geoffrey Adams, British Ambassador to Egypt, to raise awareness of our work and explore possible ideas for future initiatives.
 
