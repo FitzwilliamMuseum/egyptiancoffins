@@ -20,6 +20,10 @@ technical:
   -
     file: nespawershefyt/Outercoffinliddec.pdf
     title: Outer Coffin Lid Decoration Summary
+images:
+  -
+    image: fingerprint.jpg
+    caption: Detail of Nespawershefyt's mummy board bearing an ancient fingerprint. 
 ---
 
 
@@ -49,4 +53,4 @@ The different blue and green shapes in the text and iconography have been built 
 
 There are several clues in the paint and varnish to indicate how the painter oriented the coffin during the painting process. For example, the Egyptian blue and green pigments were often applied thickly as a viscous paint which tended to gather in incipient drips as it dried. Based on this, it is perhaps no surprise then that the interiors of the coffin boxes appear to have been painted standing upright on the foot ends, while the scenes of the exterior sides were painted with the boxes lying flat on their base boards.
 
-The craftsmen have also left a number of very human touches on Nespawershefyt’s coffin set. Some fingerprints, for example, appear in the varnished surface on the upper side of the mummy board and on the underside of the inner coffin lid rim there are handprints where someone with their hands covered in varnish, picked up the lid. There is also a small protective wedjat-eye sign doodled on the underside of the inner coffin box.
+The craftsmen have also left a number of very human touches on Nespawershefyt’s coffin set. Some [fingerprints](images/nespawershefyt/fingerprint.jpg), for example, appear in the varnished surface on the upper side of the mummy board and on the underside of the inner coffin lid rim there are handprints where someone with their hands covered in varnish, picked up the lid. There is also a small protective _wedjat_-eye sign doodled on the underside of the inner coffin box.
