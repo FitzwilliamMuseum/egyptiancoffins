@@ -1,8 +1,8 @@
 {% if page.url == '/' %}
 <div class="mb-2 container">
 {% else %}
-<div class="mb-2"> 
-{% endif %}    
+<div class="mb-2">
+{% endif %}
     <div class="row">
         <div class="col-sm-6">
             <div class="card h-100">
@@ -43,21 +43,21 @@
 {% if page.url != "/" %}
 <div class="mb-2">
     <div class="row">
+      <div class="col-sm-6 ">
+          <div class="card h-100">
+              <div class="card-body">
+                  <h5 class="card-title">Dog coffin</h5>
+                  <img class="align-self-center mr-3 rounded-circle coffin float-right thumb-post"
+                       src="/images/dog-coffin/Finaldogcoffin.jpg"
+                       alt="{{page.title}}'s profile image"/>
+                  <p class="card-text">
+                    This small wooden box coffin, believed to be for a dog, was discovered by John Garstang at Beni Hasan in 1902.
+                  </p>
+                  <a href="/coffins/dog-coffin" class="btn btn-dark">Read about the dog coffin</a>
+              </div>
+          </div>
+      </div>
 
-        <div class="col-sm-6 ">
-            <div class="card h-100">
-                <div class="card-body">
-                    <h5 class="card-title">Nahktefmut</h5>
-                    <img class="align-self-center mr-3 rounded-circle coffin float-right thumb-post"
-                         src="/images/nakhtefmut/nakhtefmutHead.png"
-                         alt="{{page.title}}'s profile image"/>
-                    <p class="card-text">The mummy case of Nakhtefmut is constructed of cartonnage and was found in
-                        excavations by Quibell at the Ramesseum in 1896.
-                    </p>
-                    <a href="/coffins/nakhtefmut" class="btn btn-dark">Read about Nahktefmut</a>
-                </div>
-            </div>
-        </div>
 
         <div class="col-sm-6">
             <div class="card h-100">
@@ -76,29 +76,30 @@
     </div>
 </div>
 
+<!--
 <div>
     <div class="row">
+      <div class="col-sm-6 ">
+          <div class="card h-100">
+              <div class="card-body">
+                  <h5 class="card-title">Nahktefmut</h5>
+                  <img class="align-self-center mr-3 rounded-circle coffin float-right thumb-post"
+                       src="/images/nakhtefmut/nakhtefmutHead.png"
+                       alt="{{page.title}}'s profile image"/>
+                  <p class="card-text">The mummy case of Nakhtefmut is constructed of cartonnage and was found in
+                      excavations by Quibell at the Ramesseum in 1896.
+                  </p>
+                  <a href="/coffins/nakhtefmut" class="btn btn-dark">Read about Nahktefmut</a>
+              </div>
+          </div>
+      </div>
 
-        <div class="col-sm-6 ">
-            <div class="card h-100">
-                <div class="card-body">
-                    <h5 class="card-title">Dog coffin</h5>
-                    <img class="align-self-center mr-3 rounded-circle coffin float-right thumb-post"
-                         src="/images/dog-coffin/Finaldogcoffin.jpg"
-                         alt="{{page.title}}'s profile image"/>
-                    <p class="card-text">
-                      This small wooden box coffin, believed to be for a dog, was discovered by John Garstang at Beni Hasan in 1902.
-                    </p>
-                    <a href="/coffins/dog-coffin" class="btn btn-dark">Read about the dog coffin</a>
-                </div>
-            </div>
-        </div>
 
     </div>
-</div>
+</div> -->
 
 {% endif %}
-
+{% if page.url == '/' %}
 <div class="container">
     <div class="row">
         {% for video in page.videos %}
@@ -111,3 +112,4 @@
         {% endfor %}
     </div>
 </div>
+{% endif %}
