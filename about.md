@@ -17,5 +17,5 @@ the hieroglyphic text, descriptions of the iconography, raw and interpreted resu
 
 This project has been generously funded by:
 
-![Isaac Newton Trust](/images/logos/INTwordapple.png)
-![GCRF](/images/logos/gcrf.jpeg)
+![Isaac Newton Trust](/images/logos/INTwordapple.png){: .img-fluid }
+![GCRF](/images/logos/gcrf.jpeg){: .img-fluid }
