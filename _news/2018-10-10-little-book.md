@@ -6,6 +6,7 @@ date: 2018-10-10
 updated: 2012-12-12
 author: Melanie Pitkin
 tags: [book, coffins]
+permalink: /news/how-to-make-an-egyptian-coffin
 thumbnail: /images/news/littlebooklarge.jpg
 ---
 
