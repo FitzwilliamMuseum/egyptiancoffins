@@ -6,7 +6,10 @@ category: dog-coffin
 images:
   -
     image: IMG_7969.jpg
-    caption: Dog coffin showing the original (left) and the replica made by Geoffrey Killen (right)
+    caption: Dog coffin showing the original (left) and the replica (right) made by Geoffrey Killen.
+  -
+    image: IMG_7941.jpg
+    caption: Geoffrey Killen assembling the replica dog coffin. 
 ---
 This small wooden box coffin, believed to be for a dog, was discovered by John Garstang at Beni Hasan and gifted to the Museum in 1902. Measuring H. 27cm, W. 70cm and D. 20cm, the coffin is made from twelve pieces of Lebanese cedar wood (_Cedrus Libani_), although only eight are preserved, with mitred corners held together by dowels. The exterior of the coffin is painted yellow with a band of hieroglyphic text extending around each side and on the lid. The text indicates the owner of the coffin was named Heb.
 
