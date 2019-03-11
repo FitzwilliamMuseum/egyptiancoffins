@@ -42,7 +42,7 @@ of [pens](/images/nespawershefyt/reedpens.jpg) made from single hollow stems and
 A very thin wash of lemon yellow orpiment (an arsenic sulphide mineral commonly used as a
 substitute to gold) was applied over the white preparation layer on the mummy board and
 inner coffin, while the white layer has been left exposed as the background on the outer
-coffin. The rear of the mummy board is painted a deep red-brown.
+coffin. The [rear](/images/nespawershefyt/rearofmummyboard.jpg) of the mummy board is painted a deep red-brown.
 
 The outline for the decoration and text was laid out with great care and precision using
  red earth paint (a few setting out lines in black also appear on the inner coffin box).
