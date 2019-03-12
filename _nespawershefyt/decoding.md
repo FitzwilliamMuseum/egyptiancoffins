@@ -11,7 +11,7 @@ technical:
 
 ---
 
-Common to Nespawershefyt’s mummy board and inner and outer coffins is the dense arrangement of rich decoration and text,
+Common to Nespawershefyt’s mummy board and inner and outer coffins is the [dense arrangement](/images/ of rich decoration and text,
 which shows Nespawershefyt worshipping various gods and scenes from the magical spells of the Book of the Dead.
 Among these is a scene of the deceased being judged before Osiris, including the weighing of his heart.
 
