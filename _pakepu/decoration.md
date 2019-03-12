@@ -6,11 +6,11 @@ category: pakepu
 order: 4
 technical:
   - 
-    file: /pakepu/PakepuCompleteTranslationsDescription.pdf
+    file: pakepu/PakepuCompleteTranslationsDescription.pdf
     title: Complete Translations and Description
-  - file: /pakepu/Pakepuinnerdec.pdf
+  - file: pakepu/Pakepuinnerdec.pdf
     title: Pakepu Inner Coffin Decoration Summary
-  - file: /pakepu/Pakepuouterdec.pdf
+  - file: pakepu/Pakepuouterdec.pdf
     title: Pakepu Outer Coffin Decoration Summary
 ---
 
