@@ -24,9 +24,7 @@ images:
 ---
 
 Examination of Nespawershefyt’s coffin set reveals that the main structural elements are made from three different
-species of wood – Christ’s Thorn or sidr (Ziziphus spina-christi), sycomore fig (Ficus sycomorus) and tamarisk (Tamarix
-aphylla), all of which occur naturally in Egypt. Unlike some coffins, which are made by hollowing out a log, Nespawershefyt’s
-coffin set has been constructed entirely from roughly cut planks and pieces of wood (some of which have been reused from
+species of wood – Christ’s Thorn or sidr (Ziziphus spina-christi), sycomore fig (Ficus sycomorus) and tamarisk (Tamarix aphylla), all of which occur naturally in Egypt. Unlike some coffins, which are made by hollowing out a log, Nespawershefyt’s coffin set has been constructed entirely from roughly cut planks and pieces of wood (some of which have been reused from
 other objects) attached to each other using joints, connectors and a layer of animal glue. The flaws and gaps in between
 the structure have been filled with many smaller blocks and slivers of wood, as well as two different types of paste -a
 rough brown calcite and clay paste and a coarse pink calcite paste. While, on the one hand, this rather piecemeal construction
