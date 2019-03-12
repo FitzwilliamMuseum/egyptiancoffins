@@ -8,7 +8,6 @@ technical:
   -
     file: nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
-
 ---
 
 Nespawershefyt’s coffin set was one of the first objects to be acquired into the
