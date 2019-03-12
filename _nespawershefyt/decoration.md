@@ -41,7 +41,7 @@ images:
     caption: Handprints on the underside of Nespawershefyt's inner coffin lid where someone with their hands covered in varnish picked up the lid.
   -
     image: wedjateye.jpg
-    caption: A _wedjat_-eye doodle on the underside of Nespawershefyt's inner coffin box.
+    caption: A wedjat-eye doodle on the underside of Nespawershefyt's inner coffin box.
 ---
 
 
