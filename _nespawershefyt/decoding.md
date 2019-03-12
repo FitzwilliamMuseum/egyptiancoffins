@@ -8,12 +8,14 @@ technical:
   -
     file: nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
-
+images:
+  -
+    image: nespa7.jpg
+    caption: Detail of the proper left side of Nespawershefyt's inner coffin box showing the weighing of the heart scene.
 ---
 
-Common to Nespawershefyt’s mummy board and inner and outer coffins is the [dense arrangement](/images/ of rich decoration and text,
-which shows Nespawershefyt worshipping various gods and scenes from the magical spells of the Book of the Dead.
-Among these is a scene of the deceased being judged before Osiris, including the weighing of his heart.
+Common to Nespawershefyt’s mummy board and inner and outer coffins is the dense arrangement of rich decoration and text, which shows Nespawershefyt worshipping various gods and scenes from the magical spells of the Book of the Dead.
+Among these is a scene of the deceased being judged before Osiris, including the [weighing of his heart](/images/nespawershefyt/nespa7.jpg).
 
 This appears on the proper right side of the box of the inner coffin. On the opposite side to this is a striking scene
 of the earth separated from the sky; the sky goddess Nut appears naked, arched over the god Shu, who represents the air,
