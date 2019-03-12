@@ -4,6 +4,7 @@ image: /images/staff/HelenStrudwick.jpg
 institution: The Fitzwilliam Museum
 job-title: Associate Curator (Egyptian Antiquities)
 layout: team
+order: 4
 ---
 Helen Strudwick Helen Strudwick is Associate Curator (Egyptian Antiquities) at the Fitzwilliam Museum.
  She studied Egyptology and eastern Mediterranean archaeology at the University of Liverpool and has been the field
