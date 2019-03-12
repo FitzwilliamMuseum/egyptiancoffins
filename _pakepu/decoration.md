@@ -14,7 +14,10 @@ technical:
     title: Pakepu Outer Coffin Decoration Summary
 ---
 
-There are two main components in the decoration of Pakepu’s coffins. This includes: (1) the creation of the surface preparation layers and (2) the application of the textual and decorative programme.
+There are two main components in the decoration of Pakepu’s coffins. This includes: 
+
+1. the creation of the surface preparation layers
+2. the application of the textual and decorative programme.
 
 Using microscopic examination and a range of imaging techniques, in combination with a suite of instrumental analytical methods, it was possible to reconstruct the order in which the surfaces of Pakepu’s coffins were prepared and decorated.
 
