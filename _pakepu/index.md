@@ -6,7 +6,7 @@ category: pakepu
 order: 1
 technical:
   - 
-    file: /pakepu/PakepuCompleteTranslationsDescription.pdf
+    file: pakepu/PakepuCompleteTranslationsDescription.pdf
     title: Complete Translations and Description
 images:
   - 
