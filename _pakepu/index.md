@@ -10,7 +10,7 @@ technical:
     title: Complete Translations and Description
 images:
   - 
-    image: /images/pakepu/pakepu-inner-leadimage.jpg
+    image: pakepu-inner-leadimage.jpg
     caption: The inner coffin of Pakepu
 ---
 
