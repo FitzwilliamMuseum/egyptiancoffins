@@ -20,4 +20,4 @@ This project has been generously funded by:
 ![Isaac Newton Trust](/images/logos/INTwordapple.png){: .img-fluid }
 ![GCRF](/images/logos/gcrf.jpeg){: .img-fluid }
 ![University of Cambridge](/images/logos/unicam.png){: .img-fluid }
-![British Academy](/images/logos/britacademy.jpeg){: .img-fluid }
+![British Academy](/images/logos/TBA.png){: .img-fluid }
