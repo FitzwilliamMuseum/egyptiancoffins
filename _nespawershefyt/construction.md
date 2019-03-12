@@ -3,7 +3,7 @@ title: Construction of the Nespawershefyt coffin set
 layout: coffins
 category: nespawershefyt
 permalink: /coffins/nespawershefyt/construction
-order: 6
+order: 7
 technical:
   -
     file: nespawershefyt/nespawershefytComplete.pdf
@@ -19,7 +19,7 @@ images:
     file: face.jpg
     caption: Detail of Nespawershefyt's face depicted on the inner coffin lid. 
 ---
-## Summary of materials and manufacture
+## Technical summary of materials and manufacture
 
 Identification of the woods used in the construction of the coffins was undertaken by the examination of samples by scanning electron microscopy (Cartwright, in press).
 
