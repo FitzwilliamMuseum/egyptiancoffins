@@ -8,6 +8,10 @@ technical:
   -
     file: nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
+images:
+  -
+    file: nespawershefyt/brokenfoot.jpg
+    caption: The broken foot of Nespawershefyt's mummy board.
 ---
 ## Summary of materials and manufacture
 
@@ -39,7 +43,7 @@ The following joints were used to put the coffins of this set together:
 The construction of the mummy board and the outer coffin were determined by direct observation and X-radiography.
 
 ### Mummy board
-The mummy board is constructed from two long, almost flat planks, held together with loose tenon joints. The face and hands are dowelled on. The foot section is lost, but there are dowel holes and the remains of original filler paste along the broken bottom edge of the board NOBBY IMAGE. On the back of the board, a bare wood surface with animal glue, eight small dowel holes and a ridge of coarse filler paste along the inner edge are all that remain of a rim around the head.
+The mummy board is constructed from two long, almost flat planks, held together with loose tenon joints. The face and hands are dowelled on. The [foot section](/images/nespawershefyt/brokenfoot.jpg) is lost, but there are dowel holes and the remains of original filler paste along the broken bottom edge of the board. On the back of the board, a bare wood surface with animal glue, eight small dowel holes and a ridge of coarse filler paste along the inner edge are all that remain of a rim around the head.
 
 ### Outer coffin
 The main structural elements (single foundation board and rims) of the outer coffin lid are of sycomore fig. Each rim has a short section of a separate board, added to the foot end with a scarf joint [D&T FIG.3; COULD LB FIG 48 MORPH LB FIG 49?]. The dowelled-on face and the right hand are also sycomore fig, but the five-piece footboard and the left hand are made of tamarisk. Two patches added to the proper left side of the wig are one of cedar, one of tamarisk. In the eight rim mortises, three of the loose tenons used for closing the box and lid together survive. Two are cedar and one is sycomore fig.
