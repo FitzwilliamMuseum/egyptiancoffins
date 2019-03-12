@@ -9,7 +9,8 @@ id: team
 {% for i in (1..rows) %}
   {% assign offset = forloop.index0 | times: 2 %}
   <div class="row">
-    {% for author in site.team limit:2 offset:offset %}
+  {% assign sorted = site.team | sort:"order" %}
+  {% for author in sorted limit:2 offset:offset %}
      <div class="col-md-6 mt-3">
           <div class="card h-100">
               <div class="card-body">
@@ -31,5 +32,3 @@ id: team
     {% endfor %}
   </div>
 {% endfor %}
-
-
