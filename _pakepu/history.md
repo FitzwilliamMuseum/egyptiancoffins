@@ -5,8 +5,8 @@ permalink: coffins/pakepu/history
 category: pakepu
 order: 3
 technical:
-  - 
-    file: /pakepu/PakepuCompleteTranslationsDescription.pdf
+  -
+    file: pakepu/PakepuCompleteTranslationsDescription.pdf
     title: Complete Translations and Description
 ---
 

@@ -5,8 +5,8 @@ category: pakepu
 title: Who was Pakepu?
 order: 2
 technical:
-  - 
-    file: /pakepu/PakepuCompleteTranslationsDescription.pdf
+  -
+    file: pakepu/PakepuCompleteTranslationsDescription.pdf
     title: Complete Translations and Description
 ---
 
