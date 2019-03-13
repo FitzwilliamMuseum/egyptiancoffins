@@ -10,13 +10,13 @@ technical:
     title: Complete Translations and Description
 images:
   -
-    file: nespawershefyt/brokenfoot.jpg
+    image: brokenfoot.jpg
     caption: The broken foot of Nespawershefyt's mummy board.
   -
-    file: innerlid.jpg
+    image: innerlid.jpg
     caption: Nespawershefyt's inner coffin lid.
   - 
-    file: face.jpg
+    image: face.jpg
     caption: Detail of Nespawershefyt's face depicted on the inner coffin lid. 
 ---
 ## Technical summary of materials and manufacture
