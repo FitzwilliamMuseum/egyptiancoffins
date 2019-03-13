@@ -11,9 +11,6 @@ images:
     image: IMG_4273.jpg
     caption: Original dog coffin showing hieroglyphic text.
   - 
-    image: IMG_7546.jpg
-    caption: Original dog coffin showing hieroglyphic text.
-  - 
     image: IMG_7941.jpg
     caption: Dr Geoffrey Killen inserting a dowel joint into the replica coffin box. 
 ---
