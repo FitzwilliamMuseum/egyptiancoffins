@@ -19,7 +19,7 @@ images:
 * Accession number: E.2.1869
 * Other markings: None
 
-Wooden coffin set belonging to a man named Pakepu comprising [two anthropoid coffins](/images/pakepu/Pakepunested.jpg) complete with lids and boxes. The coffin set is attributed to Thebes and on stylistic grounds dates to the Late Period (probably the end of the 25th Dynasty). The smaller coffin of the two, known as the inner coffin, nests inside the larger, intermediate one. Both coffins were probably then housed inside a larger, outer 'qersu' coffin.
+Wooden coffin set belonging to a man named Pakepu comprising [two anthropoid coffins](/images/pakepu/Pakepunested.jpg) complete with lids and boxes. The coffin set is attributed to Thebes and on stylistic grounds dates to the Late Period (probably the end of the 25th Dynasty). The smaller coffin of the two, known as the [inner coffin](/images/pakepu/pakepu-inner-leadimage.jpg), nests inside the larger, intermediate one. Both coffins were probably then housed inside a larger, outer 'qersu' coffin.
 
 The coffins are painted and decorated in a colour palette of red, blue, green and two different shades of yellow and bear a range of inscriptions and iconography, many of which are appeals to the gods, especially Osiris, for the provision of food offerings and all good, sweet and delicious things.
 
