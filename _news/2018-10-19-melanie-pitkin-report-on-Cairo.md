@@ -8,6 +8,7 @@ category: news
 description: Melanie Pitkin reports on her visit to Cairo
 tags: [cairo, coffins, mansoura]
 thumbnail: /images/news/Mansoura.jpg
+permalink: /news/melanie-pitkin-report-on-cairo
 images:
   -
     image: news/Mansoura.jpg

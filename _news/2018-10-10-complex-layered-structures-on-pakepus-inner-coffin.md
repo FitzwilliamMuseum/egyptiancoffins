@@ -7,6 +7,7 @@ category: news
 author: Melanie Pitkin
 tags: [conference, egyptology, vatican, addenbrookes]
 thumbnail: /images/news/Pakepu-inner-head.jpg
+permalink: /news/complex-layered-structures-on-pakepus-inner-coffin
 ---
 
 

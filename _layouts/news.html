@@ -9,6 +9,7 @@
     {% include /structure/css.html %}
     {% seo %}
     {% include /structure/feeds.html %}
+    
 </head>
 <body class="doc-body">
 
@@ -64,7 +65,7 @@
     </div>
 
     {% endfor %}
-    
+
     {% elsif page.url == '/contactus' %}
      <div class="row">
         <div class="col-12  mb-2 ">
@@ -83,7 +84,7 @@
     <div class="col-12 shadow-sm p-3 mb-3 bg-white rounded">
         {{ content }}
     </div>
-    {% elsif page.url == '/coffins/glossary' %}
+    {% elsif page.url == '/resources/glossary' %}
     <div class="row">
         <div class="col-12  mb-2 ">
             <h1 id="doc-main-h1">{{ page.title }}</h1>

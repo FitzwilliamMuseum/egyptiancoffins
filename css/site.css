@@ -236,3 +236,10 @@ label.cm-app-label {
   width: 100%;
   height: auto;
 }
+
+.row-hack {
+    -ms-flex-wrap: wrap;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+}

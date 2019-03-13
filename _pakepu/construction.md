@@ -5,10 +5,10 @@ category: pakepu
 title: How were the coffins of Pakepu constructed?
 order: 5
 technical:
-  - 
-    file: /pakepu/PakepuCompleteTranslationsDescription.pdf
+  -
+    file: pakepu/PakepuCompleteTranslationsDescription.pdf
     title: Complete Translations and Description
- 
+
 ---
 
 Advanced imaging techniques, such as CT-scanning and X-radiography, reveal some notable differences in the construction of Pakepu’s inner and intermediate coffins. While the inner coffin has been very well made from relatively few, large pieces of wood with tight joins between them, the intermediate coffin consists of many pieces, some very small, which are generally ill-fitting.

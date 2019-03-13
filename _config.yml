@@ -54,6 +54,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-mentions
+  - jekyll-paginate
 
 collections:
    coffins:
