@@ -19,6 +19,12 @@ images:
   -
     image: abbreviatedtitle.jpg
     caption: Abbreviated writing of Pakepu's title which reads 'the water pourer'. 
+  -
+    image: father.jpg
+    caption: Pakepu's father's name, Amenhotep-iu-initu, preceded by his title, which is also 'the water pourer'.
+  -
+    image: mother.jpg
+    caption: Pakepu's mother's name, Irty-aru.
 ---
 
 
@@ -28,4 +34,4 @@ The hieroglyphic text and decorative programme on Pakepu’s coffins provide us 
 
 The earliest evidence for the wAH-mw’s come from the Ramesside Period (late Dynasty 20, c. 1100-1077 BC) at Deir el-Medina and can be traced in the funerary and archaeological records until Roman times. The title appears to have been passed down through the family, from at least the Third Intermediate Period, as we can also see in the case of Pakepu given that his father is similarly identified as a wAH-mw on the exterior of the inner coffin box.
 
-Pakepu’s father was a man called Amenhotep-iu-initu and his mother was the ‘noble lady of the house’, Irty-aru. Based on the style of Pakepu’s coffin set, in addition to his title, we know that he lived in Thebes at the end of the 25th Dynasty (c. 680 – 664 BC). At this time in Egypt’s history, a family of rulers originating from the Kingdom of Kush in ancient Nubia (modern day Upper Egypt/northern Sudan) ruled the country.
+Pakepu’s father was a man called [Amenhotep-iu-initu](/images/pakepu/father.jpg) and his mother was the ‘noble lady of the house’, [Irty-aru](/images/pakepu/mother.jpg). Based on the style of Pakepu’s coffin set, in addition to his title, we know that he lived in Thebes at the end of the 25th Dynasty (c. 680 – 664 BC). At this time in Egypt’s history, a family of rulers originating from the Kingdom of Kush in ancient Nubia (modern day Upper Egypt/northern Sudan) ruled the country.
