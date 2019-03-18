@@ -1,6 +1,6 @@
 ---
 layout: coffins
-title: How were the coffins of Pakepu decorated
+title: How were the coffins of Pakepu decorated?
 permalink: /coffins/pakepu/decorated
 category: pakepu
 order: 4
