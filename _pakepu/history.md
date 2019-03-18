@@ -8,9 +8,13 @@ technical:
   -
     file: pakepu/PakepuCompleteTranslationsDescription.pdf
     title: Complete Translations and Description
+images:
+  -
+    image: PrinceofWales.jpg
+    caption: Photograph of the Prince of Wales with his wife, Princess Alexandra, in 1863.
 ---
 
-The story of the discovery of Pakepu’s coffins has become confused over time. We know Prince Edward (later Edward VII) gifted the coffins to the Museum in 1869 following a visit to Luxor (ancient Thebes) in Egypt, but different travellers’ accounts has made piecing together the finer details problematic.
+The story of the discovery of Pakepu’s coffins has become confused over time. We know [Prince Edward (later Edward VII)](/images/pakepu/PrinceofWales.jpg) gifted the coffins to the Museum in 1869 following a visit to Luxor (ancient Thebes) in Egypt, but different travellers’ accounts has made piecing together the finer details problematic.
 
 The most notable sources for the Prince’s travels in Egypt and his involvement in excavations, mummies and coffins are the journals of Mrs William Grey (Journal of a Visit to Egypt, Constantinople, the Crimea, Greece, &c. in the Suite of the Prince and Princess of Wales, 1869-1870) and William H. Russell (A Diary in the East during the Tour of the Prince and Princess of Wales) and the transactions of a lecture delivered to the Royal Society of Literature in London, 1870 by Samuel Birch, Keeper of Egyptian Antiquities at the British Museum. References to coffins are also made in newspaper clippings of the time and archives, including purchase receipts, held by the Royal Collection in London.
 
