@@ -8,7 +8,6 @@ technical:
   -
     file: pakepu/PakepuCompleteTranslationsDescription.pdf
     title: Complete Translations and Description
-  -
 images:
   -
     image: pakepuname.jpg
