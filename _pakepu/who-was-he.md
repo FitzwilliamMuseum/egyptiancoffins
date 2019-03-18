@@ -12,7 +12,7 @@ technical:
 images:
   -
     image: pakepuname.jpg
-    caption: Pakepu's name as shown on the exterior of the inner coffin box.
+    caption: Pakepu's name as shown on the exterior of the intermediate coffin box.
   -
     image: waterpourer.jpg
     caption: Intermediate coffin lid of Pakepu showing his title 'to the kA of the Osiris, the water pourer on the west of Thebes'.
