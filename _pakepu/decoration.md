@@ -20,6 +20,9 @@ images:
     image: brushstroke2.jpg
     caption: Detail of Pakepu's inner coffin showing the thinly applied painted decoration, which looks almost watercolour-like.
   -
+    image: myringfinger.jpg
+    caption: Simple and sparse decoration showing the under-drawings in carbon-based black paint.
+  -
     image: brushstroke3.jpg
     caption: Detail showing the beginning and end of the brushstrokes on Pakepu's inner coffin.
   -
@@ -44,7 +47,7 @@ On Pakepu’s inner coffin, the painted decoration was applied over an unusual, 
 
 The surface layer on the intermediate coffin is quite different. Over the wooden support and partial pink paste layer, there is just one preparation layer of white calcite paste onto which the decorative scheme is painted.
 
-Common to both coffins is a thinly applied painted decoration with the pigments probably mixed with a binding medium such as gum Arabic, which gives a [watercolour-like appearance](/images/pakepu/brushstroke2.jpg). The decoration is simple and sparse with the under-drawings, where present, executed in carbon-based black paint with a straight edge used to make marking out lines.
+Common to both coffins is a thinly applied painted decoration with the pigments probably mixed with a binding medium such as gum Arabic, which gives a [watercolour-like appearance](/images/pakepu/brushstroke2.jpg). The decoration is simple and sparse with the [under-drawings](/images/pakepu/myringfinger.jpg), where present, executed in carbon-based black paint with a straight edge used to make marking out lines.
 
 The figures on the coffins have been crudely painted with rapid, clumsy brushstrokes using a very limited palette of pigments: red earth, Egyptian blue, copper-based green and two different yellows (orpiment and yellow earth). White areas are made simply by leaving the calcite preparation layer exposed.
 
