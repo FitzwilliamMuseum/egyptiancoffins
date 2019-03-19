@@ -16,6 +16,9 @@ images:
   -
     image: preparationlayers.jpg
     caption: Visual diagram showing the complex layered structure on Pakepu's inner coffin.
+  -
+    image: brushstroke2.jpg
+    caption: Detail of Pakepu's inner coffin showing the thinly applied painted decoration, which looks almost watercolour-like.
 ---
 
 There are two main components in the decoration of Pakepu’s coffins. This includes: 
@@ -29,7 +32,7 @@ On Pakepu’s inner coffin, the painted decoration was applied over an unusual, 
 
 The surface layer on the intermediate coffin is quite different. Over the wooden support and partial pink paste layer, there is just one preparation layer of white calcite paste onto which the decorative scheme is painted.
 
-Common to both coffins is a thinly applied painted decoration with the pigments probably mixed with a binding medium such as gum Arabic, which gives a watercolour-like appearance. The decoration is simple and sparse with the under-drawings, where present, executed in carbon-based black paint with a straight edge used to make marking out lines.
+Common to both coffins is a thinly applied painted decoration with the pigments probably mixed with a binding medium such as gum Arabic, which gives a [watercolour-like appearance](/images/pakepu/brushstroke2.jpg). The decoration is simple and sparse with the under-drawings, where present, executed in carbon-based black paint with a straight edge used to make marking out lines.
 
 The figures on the coffins have been crudely painted with rapid, clumsy brushstrokes using a very limited palette of pigments: red earth, Egyptian blue, copper-based green and two different yellows (orpiment and yellow earth). White areas are made simply by leaving the calcite preparation layer exposed.
 
