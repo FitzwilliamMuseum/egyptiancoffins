@@ -12,6 +12,10 @@ technical:
     title: Pakepu Inner Coffin Decoration Summary
   - file: pakepu/Pakepuouterdec.pdf
     title: Pakepu Outer Coffin Decoration Summary
+images:
+  -
+    image: preparationlayers.jpg
+    caption: Visual diagram showing the complex layered structure on Pakepu's inner coffin.
 ---
 
 There are two main components in the decoration of Pakepu’s coffins. This includes: 
@@ -21,7 +25,7 @@ There are two main components in the decoration of Pakepu’s coffins. This incl
 
 Using microscopic examination and a range of imaging techniques, in combination with a suite of instrumental analytical methods, it was possible to reconstruct the order in which the surfaces of Pakepu’s coffins were prepared and decorated.
 
-On Pakepu’s inner coffin, the painted decoration was applied over an unusual, complex layered structure (on the exterior only) comprising a thick layer of fibrous glue, a layer of linen then non-fibrous glue followed by a layer of white calcite paste, a further layer of linen, and then two more white paste layers. There is also an enigmatic black patchy layer visible immediately over the fibrous glue in some places. This structure (best demonstrated by this image [here](/images/pakepu/preparationlayers.jpg), which somewhat resembles the material known as cartonnage, masks the wooden carcass that it encases.
+On Pakepu’s inner coffin, the painted decoration was applied over an unusual, complex layered structure (on the exterior only) comprising a thick layer of fibrous glue, a layer of linen then non-fibrous glue followed by a layer of white calcite paste, a further layer of linen, and then two more white paste layers. There is also an enigmatic black patchy layer visible immediately over the fibrous glue in some places. This structure, which somewhat resembles the material known as cartonnage, masks the wooden carcass that it encases (you can see a clearer visual diagram of these structural layers [here](/images/pakepu/preparationlayers.jpg)).
 
 The surface layer on the intermediate coffin is quite different. Over the wooden support and partial pink paste layer, there is just one preparation layer of white calcite paste onto which the decorative scheme is painted.
 
