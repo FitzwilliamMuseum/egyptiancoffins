@@ -22,6 +22,15 @@ images:
   -
     image: brushstroke3.jpg
     caption: Detail showing the beginning and end of the brushstrokes on Pakepu's inner coffin.
+  -
+    image: paintdrip.jpg
+    caption: Smeared drips of red paint from the kneeling figures of Isis on Pakepu's inner coffin lid.
+  -
+    image: anotherpaintdrip.jpg
+    caption: The interior of Pakepu's inner coffin box showing drips of red paint indicating the box was painted on its side.
+  -
+    image: brushstroke5.jpg
+    caption: Painted decoration on Pakepu's inner coffin showing the overlaps between the lid and box.
 ---
 
 There are two main components in the decoration of Pakepu’s coffins. This includes: 
@@ -39,6 +48,6 @@ Common to both coffins is a thinly applied painted decoration with the pigments 
 
 The figures on the coffins have been crudely painted with rapid, clumsy brushstrokes using a very limited palette of pigments: red earth, Egyptian blue, copper-based green and two different yellows (orpiment and yellow earth). White areas are made simply by leaving the calcite preparation layer exposed.
 
-The [motion of the paintbrush](/images/pakepu/brushstroke3.jpg) is visible on the coffins, showing the beginning and end of the brushstrokes, and often helping indicate where the artist was positioned whilst he worked. Streaks in some of the drawing lines that coincide with the paint brushstrokes indicate that some of the colours were applied to the coffins while the drawing was still wet. Drips in the thick blue paint on the intermediate coffin lid suggest it was painted whilst standing on its rim. The orientation of the box, however, was changed several times as the artist tackled the decoration of the interior (as you can see [here](/images/pakepu/paintdrip.jpg) and [here]).
+The [motion of the paintbrush](/images/pakepu/brushstroke3.jpg) is visible on the coffins, showing the beginning and end of the brushstrokes, and often helping indicate where the artist was positioned whilst he worked. Streaks in some of the drawing lines that coincide with the paint brushstrokes indicate that some of the colours were applied to the coffins while the drawing was still wet. Drips in the thick blue paint on the intermediate coffin lid suggest it was painted whilst standing on its rim. The orientation of the box, however, was changed several times as the artist tackled the decoration of the interior (as you can see [here](/images/pakepu/paintdrip.jpg) and [here](/images/pakepu/anotherpaintdrip.jpg)).
 
-While the lid and box of the intermediate coffin were painted separately before closing, the inner coffin was clearly decorated after it was closed with the body inside. This is apparent owing to the decoration, which runs over the join between the lid and the box and was cut when the coffin was opened. No varnish has been applied to either exterior surfaces of the coffins.
+While the lid and box of the intermediate coffin were painted separately before closing, the inner coffin was clearly decorated after it was closed with the body inside. This is apparent owing to the decoration, which [runs over the join](/images/pakepu/brushstroke5.jpg) between the lid and the box and was cut when the coffin was opened. No varnish has been applied to either exterior surfaces of the coffins.
