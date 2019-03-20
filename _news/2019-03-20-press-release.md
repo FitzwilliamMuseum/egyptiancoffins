@@ -17,8 +17,10 @@ Traditionally Egyptological research has focussed on either the iconography, the
 Associate Curator, Egyptian Antiquities and project lead Helen Strudwick said: 
 
 >"It's about people rather than weird gods that sometimes appear on ancient Egyptian coffins. Although we will cover the usual hieroglyphs and funerary beliefs of ancient Egyptians, what we're looking at is people. The people who made the coffins, the construction of them and what we've found out about the people for whom they were made. We're offering a whole new perspective on Egyptology.
+{: .blockquote }
 
 >"Our collaborative approach, plus the use of Computed Tomography (CT) scanning and X-radiography to the study of coffins, has allowed us to make sense of the things people normally can't see - for example, the different types of joints and carpentry techniques used to make coffins and the order in which pigments were applied. We can even tell that the Egyptians reused wood from older objects, including other coffins, in the production of new ones!"
+{: .blockquote }
 
 It's hoped that the website will become a portal into Egyptian coffin projects around the world, giving researchers the opportunity to compare their results with those of the Fitzwilliam team. 
 
