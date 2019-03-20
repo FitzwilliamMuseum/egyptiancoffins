@@ -1,22 +1,24 @@
 ---
-title: Fitzwilliam Egyptian Coffins Press Release
+title: Launch of the Egyptian Coffins project website
 author: Melanie Pitkin
 layout: news
 tags: [media, press release, website, pop-up museum, pop-up project, wisbech, museum outreach, coffins, ancient egypt]
 thumbnail: /images/news/coffinslogo.png
-permalink: /news/Fitzwilliam-Egyptian-Coffins-Press-Release
+permalink: /news/fitzwilliam-egyptian-coffins-press-release
 images:
   -
     image: news/popupwetherspoons.jpg
     caption: The Fitzwilliam Museum's Pop-Up Egyptian coffins experience in Wetherspoons, Wisbech.
 ---
-The Fitzwilliam Museum reveals the results of its in-depth study of its ancient Egyptian coffins collection. A new website, The Egyptian Coffins Project (www.egyptiancoffins.org), featuring high-resolution images, films, virtual models and technical reports of the construction and decoration of coffins is now available (March 2019). Website users will be able to discover ancient Egyptian coffins like never before! The website launch is accompanied by a series of pop-up events in secret locations in and around Wisbech.
+The Fitzwilliam Museum reveals the results of its in-depth study of its ancient Egyptian coffins collection. A new website, [The Egyptian Coffins Project](https://egyptiancoffins.org), featuring high-resolution images, films, virtual models and technical reports of the construction and decoration of coffins is now available (March 2019). Website users will be able to discover ancient Egyptian coffins like never before! The website launch is accompanied by a series of pop-up events in secret locations in and around Wisbech.
 
 Traditionally Egyptological research has focussed on either the iconography, the textual content of the decoration, or the technology of the structure and decoration. The Fitzwilliam Egyptian coffins research is unique because it has brought together Egyptologists, conservators and scientists in a collaborative project and uses advanced scientific imaging techniques to produce a new holistic understanding of not just the coffins, but also the people who were buried in them and the artisans and craftsmen who made them. 
 
-Associate Curator, Egyptian Antiquities and project lead Helen Strudwick said: "It's about people rather than weird gods that sometimes appear on ancient Egyptian coffins. Although we will cover the usual hieroglyphs and funerary beliefs of ancient Egyptians, what we're looking at is people. The people who made the coffins, the construction of them and what we've found out about the people for whom they were made. We're offering a whole new perspective on Egyptology.
+Associate Curator, Egyptian Antiquities and project lead Helen Strudwick said: 
 
-"Our collaborative approach, plus the use of Computed Tomography (CT) scanning and X-radiography to the study of coffins, has allowed us to make sense of the things people normally can't see - for example, the different types of joints and carpentry techniques used to make coffins and the order in which pigments were applied. We can even tell that the Egyptians reused wood from older objects, including other coffins, in the production of new ones!"
+>"It's about people rather than weird gods that sometimes appear on ancient Egyptian coffins. Although we will cover the usual hieroglyphs and funerary beliefs of ancient Egyptians, what we're looking at is people. The people who made the coffins, the construction of them and what we've found out about the people for whom they were made. We're offering a whole new perspective on Egyptology.
+
+>"Our collaborative approach, plus the use of Computed Tomography (CT) scanning and X-radiography to the study of coffins, has allowed us to make sense of the things people normally can't see - for example, the different types of joints and carpentry techniques used to make coffins and the order in which pigments were applied. We can even tell that the Egyptians reused wood from older objects, including other coffins, in the production of new ones!"
 
 It's hoped that the website will become a portal into Egyptian coffin projects around the world, giving researchers the opportunity to compare their results with those of the Fitzwilliam team. 
 
