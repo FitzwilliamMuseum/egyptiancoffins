@@ -8,7 +8,7 @@ permalink: /news/Fitzwilliam-Egyptian-Coffins-Press-Release
 images:
   -
     image: news/popupwetherspoons.jpg
-    caption: The Egyptian Museum Cairo
+    caption: The Fitzwilliam Museum's Pop-Up Egyptian coffins experience in Wetherspoons, Wisbech.
 ---
 The Fitzwilliam Museum reveals the results of its in-depth study of its ancient Egyptian coffins collection. A new website, The Egyptian Coffins Project (www.egyptiancoffins.org), featuring high-resolution images, films, virtual models and technical reports of the construction and decoration of coffins is now available (March 2019). Website users will be able to discover ancient Egyptian coffins like never before! The website launch is accompanied by a series of pop-up events in secret locations in and around Wisbech.
 
