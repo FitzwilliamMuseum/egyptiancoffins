@@ -13,9 +13,6 @@ images:
     image: Pakepunested.jpg
     caption: The coffin set of Pakepu
 ---
-
-## Brief description
-
 * Accession number: E.2.1869
 * Other markings: None
 
