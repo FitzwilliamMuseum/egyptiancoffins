@@ -5,11 +5,11 @@ permalink: coffins/pakepu
 category: pakepu
 order: 1
 technical:
-  - 
+  -
     file: pakepu/PakepuCompleteTranslationsDescription.pdf
     title: Complete Translations and Description
 images:
-  - 
+  -
     image: Pakepunested.jpg
     caption: The coffin set of Pakepu
 ---
@@ -24,3 +24,10 @@ Wooden coffin set belonging to a man named Pakepu comprising [two anthropoid cof
 The coffins are painted and decorated in a colour palette of red, blue, green and two different shades of yellow and bear a range of inscriptions and iconography, many of which are appeals to the gods, especially Osiris, for the provision of food offerings and all good, sweet and delicious things.
 
 The inner coffin interestingly bears a complex layered structure above the wooden carcass made from a combination of fibrous glue, linen and layers of calcite paste, reminiscent of the technique of cartonnage. This association is supported by the presence of a substantial plinth under Pakepu's feet, like those used to attach the footboard in cartonnage coffins.
+
+<div class="embed-responsive">
+  <div class="sketchfab-embed-wrapper embed-responsive-item">
+    <iframe src="https://sketchfab.com/models/ae2d8bf0ddaf4360b86f71c332fcbdcd/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true">
+    </iframe>
+  </div>
+</div>
