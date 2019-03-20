@@ -9,3 +9,4 @@ images:
   -
     image: news/popupwetherspoons.jpg
     caption: The Egyptian Museum Cairo
+---
