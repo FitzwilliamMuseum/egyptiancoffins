@@ -1,6 +1,6 @@
 ---
 title: Melanie Pitkin
-twitter: melaniemisr
+twitter: "@melanie_misr"
 image: /images/staff/MPitkin.jpg
 institution: The Fitzwilliam Museum
 job-title: Postdoctoral Research Associate
