@@ -243,3 +243,6 @@ label.cm-app-label {
     display: flex;
     flex-wrap: wrap;
 }
+.shareTwitter a {
+    color: #000;
+}
