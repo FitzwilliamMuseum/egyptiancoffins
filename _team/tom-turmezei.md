@@ -5,6 +5,7 @@ title: Tom Turmezei
 permalink: /team/tom-turmezei
 image: /images/staff/tom.jpg
 job-title: Consultant Radiologist
+twitter: "@tomturmezei"
 order: 10
 ---
 Consultant Radiologist, Norfolk and Norwich University Hospitals NHS Foundation Trust, UK Honorary Senior Lecturer,
