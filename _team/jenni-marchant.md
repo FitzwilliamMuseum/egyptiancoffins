@@ -4,6 +4,7 @@ image: /images/staff/JennyMarchant.jpg
 institution: The Fitzwilliam Museum
 job-title: Antiquities Conservator
 layout: team
+twitter: "@SpinninJen"
 order: 2
 ---
 Jennifer Marchant is an Antiquities Conservator at the Fitzwilliam Museum where she has worked since 2012. Her work
