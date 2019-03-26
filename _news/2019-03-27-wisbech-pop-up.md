@@ -11,7 +11,7 @@ images:
     caption: The Fitzwilliam Museum's Pop-Up Egyptian coffins experience in Wetherspoons, Wisbech.
   -
     image: news/popup3.jpg
-    caption: "Some of the Museum's Egyptian Coffins team. From L-R: Melanie Pitkin, Charlotte Thompson and Helen Strudwick."
+    caption: Some of the Museum's Egyptian Coffins team. From L-R: Melanie Pitkin, Charlotte Thompson and Helen Strudwick.
   - 
     image: news/popup6.jpg
     caption: Detail of painting with replica ancient Egyptian paintbrushes.
