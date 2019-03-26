@@ -15,8 +15,11 @@ images:
   - 
     image: news/popup6.jpg
     caption: Detail of painting with replica ancient Egyptian paintbrushes.
+  -
+    image: news/popup5.jpg
+    caption: Three generations - Mary (centre), her daughter Sally (left) and grandson Nicky (right) - visiting our Pop-Up exhibition at    The Wheatsheaf Inn.
 ---
 
-With the generous support of Cambridge University's Arts and Humanities Impact Fund, the Fitzwilliam Egyptian Coffins Project will be 'popping-up' in a range of surprising venues across Wisbech between now and the end of June. This includes a pub, supermarket, shopping centre, hardware store, community centre and schools. The idea is to trial bringing aspects of the Museum's research into communities that might not otherwise be aware of, or have access, to our work. The pop-up includes some real ancient Egyptian objects from the Museum's collection, replica tools and joints to explain ancient Egyptian carpentry, demonstrations in how to make and use your own ancient Egyptian paintbrush and the chance to speak to real Egyptologists and conservators. While the aim is to suprise our audiences, due to popular demand, we will reveal upcoming venues, dates and times here, and on social media. 
+With the generous support of Cambridge University's Arts and Humanities Impact Fund, the Fitzwilliam Egyptian Coffins Project will be 'popping-up' in a range of surprise venues across Wisbech between now and the end of June. This includes a pub, supermarket, shopping centre, hardware store, community centre and schools. The idea is to trial bringing aspects of the Museum's research into communities that might not otherwise be aware of, or have access, to our work. The pop-up includes some real ancient Egyptian objects from the Museum's collection, replica tools and joints explaining ancient Egyptian carpentry, demonstrations in how to make and use your own ancient Egyptian paintbrush and the chance to speak to real Egyptologists and conservators. While the aim is to suprise our audiences, due to popular demand we will be revealing upcoming venues, dates and times here, as well as on the Fitzwilliam Museum's official Facebook and Twitter channels. 
 
-The next Egyptian Coffins Pop-Up will take place at the Marketplace in Wisbech on Thursday 28th March, 2019 between 11am-3pm. Look out for us outside the local Costas Coffee shop. 
+The next Egyptian Coffins Pop-Up will take place at the Marketplace in Wisbech on Thursday 28th March, 2019. Look out for us outside the local Costas coffee shop between 11am and 3pm. 
