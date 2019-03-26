@@ -1,11 +1,11 @@
 ---
 layout: news
-title: Melanie Pitkin reports on her visit to Cairo
+title: Melanie Pitkin reports on her visit to Cairo and Mansoura
 date: 2018-10-19
 updated: 2018-12-12
 author: Melanie Pitkin
 category: news
-description: Melanie Pitkin reports on her visit to Cairo
+description: Melanie Pitkin reports on her visit to Cairo and Mansoura
 tags: [cairo, coffins, mansoura]
 thumbnail: /images/news/Mansoura.jpg
 permalink: /news/melanie-pitkin-report-on-cairo
