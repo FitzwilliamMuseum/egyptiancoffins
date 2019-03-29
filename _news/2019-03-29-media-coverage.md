@@ -3,8 +3,8 @@ title: Pop-Up Museum in the BBC news
 author: Melanie Pitkin
 layout: news
 tags: [media, pop-up museum, pop-up project, wisbech, museum outreach, coffins, ancient egypt, BBC, BBC Cambridgeshire, media]
-thumbnail: /images/news/popup.jpg
-permalink: /news/wisbech-pop-up-museum
+thumbnail: /images/news/screenshot.jpg
+permalink: /news/media-coverage
 images:
   -
     image: news/screenshot.jpg
