@@ -15,7 +15,7 @@ images:
     caption: Visit to Mansoura University
   -
     image: news/randa.jpg
-    caption: Melanie with Dr Randa Baligh
+    caption: Melanie with (L-R) Faten Kamal, Dr Randa Baligh and Sally Adel.
   -
     image: news/Mansoura3.jpg
     caption: Melanie with Dr Ayman Wahby
