@@ -1,8 +1,8 @@
 ---
 layout: coffins
-permalink: /team/
-title: Meet the coffins project team
-id: team
+permalink: /catalogue/
+title: Catalogue of coffins
+id: catalogue
 ---
 
 {% assign rows = site.team.size | divided_by: 2.0 | ceil %}
