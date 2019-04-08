@@ -5,11 +5,11 @@ title: Catalogue of coffins
 id: catalogue
 ---
 
-{% assign rows = site.team.size | divided_by: 2.0 | ceil %}
+{% assign rows = site.catalogue.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
   {% assign offset = forloop.index0 | times: 2 %}
   <div class="row">
-  {% assign sorted = site.team | sort:"order" %}
+  {% assign sorted = site.catalogue | sort:"order" %}
   {% for author in sorted limit:2 offset:offset %}
      <div class="col-md-6 mt-3">
           <div class="card h-100">
