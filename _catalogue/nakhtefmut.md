@@ -1,7 +1,7 @@
 ---
 title: Nakhtefmut catalogue entry
 image: /images/nakhtefmut/nakhtefmutHead.png
-layout: catalogue
+layout: coffins
 coffin-type: mummy case
 order: 1
 ---
