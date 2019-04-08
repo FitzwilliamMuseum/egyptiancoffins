@@ -1,6 +1,6 @@
 ---
 title: Nakhtefmut catalogue entry
-image: /images/staff/CharlotteHunkeler.jpg
+image: /images/nakhtefmut/nakhtefmutHead.png
 layout: catalogue
 coffin-type: mummy case
 order: 1
