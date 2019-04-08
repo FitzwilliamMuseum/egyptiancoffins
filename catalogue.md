@@ -17,13 +17,13 @@ id: catalogue
               <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="{{author.image}}"
                              alt="{{page.title}}'s profile image" height="150" width="150">
                 <h5 class="card-title">{{author.title}} </h5>
-                                    {% if author.job-title %}
-                                    <h6 class="text-muted">{{ author.job-title}} </h6>
+                                    {% if author.coffin-type %}
+                                    <h6 class="text-muted">{{ author.coffin-type }} </h6>
                                     {% endif %}
 
                 <p class="card-text">{{ author.content | strip_html | truncatewords: 20}}</p>
 
-                <p><span class="chip"><i class="chip-icon"><i class="fas fa-sitemap"></i></i>{{ author.institution}}</span></p>
+                <p><span class="chip"><i class="chip-icon"><i class="fas fa-sitemap"></i></i>{{ author.coffin-type }}</span></p>
 
                 <a href="{{ author.url }}" class="btn btn-dark">Read full bio</a>
               </div>
