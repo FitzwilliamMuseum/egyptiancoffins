@@ -10,7 +10,7 @@ images:
     image: news/myringfinger.jpg
     caption: Detail of Pakepu's inner coffin lid as seen outside a museum showcase. 
   -
-    image: news/Pakepunested.jpg
+    image: news/BTS3.jpg
     caption: The 25th Dynasty nested coffin set of Pakepu.
 ---
 On Friday 24th and Saturday 25th May, 2019, the Museum is organising a FREE special viewing of the 25th Dynasty coffin set 
