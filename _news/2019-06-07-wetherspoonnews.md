@@ -14,7 +14,7 @@ images:
     caption: Article on p.55 featuring the Museum's Pop-Up Egyptian coffins project.
 ---
 
-The Fitzwilliam Museum's Pop-Up Egyptian coffins project has been featured in the 2019 summer edition of the Wetherspoon News! The Wetherspoon News is the official magazine of the UK and Ireland pub chain J D Wetherspoon (affectionately known as Spoons), which was founded in 1979 and today comprises almost 900 pubs. The article appears on page 55 and reads:
+The Fitzwilliam Museum's Pop-Up Egyptian coffins project has been featured in the 2019 summer edition of the Wetherspoon News! The Wetherspoon News is the official magazine of the UK and Ireland pub chain [J D Wetherspoon](https://www.jdwetherspoon.com) (affectionately known as Spoons), which was founded in 1979 and today comprises almost 900 pubs. The article appears on page 55 and reads:
 
 'ARTEFACTS AND ALE AT POP-UP MUSEUM'
 
