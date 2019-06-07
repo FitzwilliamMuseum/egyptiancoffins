@@ -15,7 +15,7 @@ images:
 ---
 
 The Fitzwilliam Museum's Pop-Up Egyptian coffins project has been featured in the 2019 summer edition of the Wetherspoon News! The Wetherspoon News is the official magazine of the UK and Ireland pub chain [J D Wetherspoon](https://www.jdwetherspoon.com) (affectionately known as Spoons), which was founded in 1979 and today comprises almost 900 pubs. The article appears on page 55 and reads:
-
+ 
 'ARTEFACTS AND ALE AT POP-UP MUSEUM'
 
 Your local pub might not be the obvious place to enjoy ancient artefacts with your ale, but The Wheatsheaf Inn was an Egyptologist's exception. 
