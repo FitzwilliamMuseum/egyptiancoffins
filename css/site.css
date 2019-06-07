@@ -246,3 +246,5 @@ label.cm-app-label {
 .shareTwitter a {
     color: #000;
 }
+
+#map { height: 400px; }
