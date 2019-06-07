@@ -22,7 +22,7 @@ Your local pub might not be the obvious place to enjoy ancient artefacts with yo
 
 The pub in Wisbech was the venue for a pop-up museum, an outreach initiative project in conjunction with the Fitzwilliam Museum in Cambridge. 
 
-Pub Manager Martin Baldiwn pictured (standing centre) said: "After speaking to the museum and getting the OK from Wetherspoon, this unusual collaboration was a great idea and brilliant for our customers, as well as staff". 
+Pub Manager Martin Baldwin pictured (standing centre) said: "After speaking to the museum and getting the OK from Wetherspoon, this unusual collaboration was a great idea and brilliant for our customers, as well as staff". 
 
 With generous funding from Cambridge University's Arts and Humanities Impact Fund, Dr Melanie Pitkin, Research Associate (Egyptian Antiquities) at Fitzwilliam Museum, University of Cambridge, together with two colleagues, Helen Strudwick and Charlotte Thompson, organised and curated the pop-up event. 
 
