@@ -10,10 +10,10 @@ lon: 0.160770
 images:
   -
     image: news/wisbechmuseum.jpg
-    caption: XXX
+    caption: Location of the Pop-Up Egyptian Coffins project outside the Wisbech and Fenland Museum.
   -
     image: news/wisbechmuseum2.jpg
-    caption: XXX
+    caption: A group of young adults engaging with the Pop-Up outside the Wisbech and Fenland Museum.
 ---
 
 Opened in 1847 as one of the first purpose built museums in the UK, and still very much retaining its period charm, the Wisbech and Fenland Museum is home to a rich and diverse collection spanning local and social history, decorative and fine arts, ethnography, photography, costume and textiles, natural history, numismatics, archaeology and Egyptology. It's located in Museum Square between the town library, St Peter and St Paul's Parish and [Wisbech Castle](http://wisbechcastle.org).   
