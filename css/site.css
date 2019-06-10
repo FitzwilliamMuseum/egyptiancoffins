@@ -251,3 +251,11 @@ label.cm-app-label {
     height: 400px;
     z-index: 1;
 }
+
+.popup {
+    background-image: url(../images/layouts/popup.jpg);
+    background-position: 50% 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 8rem;
+}
