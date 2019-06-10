@@ -247,4 +247,7 @@ label.cm-app-label {
     color: #000;
 }
 
-#map { height: 400px; }
+#map { 
+    height: 400px;
+    z-index: 1;
+}
