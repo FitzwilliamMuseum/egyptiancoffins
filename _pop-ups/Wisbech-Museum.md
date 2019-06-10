@@ -3,6 +3,7 @@ layout: pop-ups
 title: Wisbech and Fenland Museum
 category: pop-ups
 author: Melanie Pitkin
+thumbnail: 
 permalink: /pop-ups/wisbech-museum
 lat: 52.664370
 lon: 0.160770
