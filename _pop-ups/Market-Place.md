@@ -16,7 +16,7 @@ images:
   caption: Popping up next to the local butchers in the Wisbech Market Place!
  -
   image: news/marketplace3.jpg
-  caption: Coffins and coffee go hand-in-hand at the Wisbech Market Place!
+  caption: Bric-a-brac, coffins and sushi at the Wisbech Market Place!
  -
   image: news/marketplace4.jpg
   caption: Melanie Pitkin with Trevor Emmett, Geologist and consultant for the Fitzwilliam Museum's collection.
