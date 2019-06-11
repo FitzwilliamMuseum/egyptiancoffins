@@ -15,9 +15,6 @@ images:
   image: news/horsefair1.jpg
   caption:
  -
-  image: news/horsefair2.jpg
-  caption:
- -
   image: news/horsefair4.jpg
   caption:
  - 
