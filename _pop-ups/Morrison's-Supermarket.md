@@ -1,7 +1,7 @@
 ---
 layout: pop-ups
 title: Morrison's Supermarket
-thumbnail: /images/news/morrisons1.jpg
+thumbnail: /images/news/morrisons3.jpg
 permalink: /pop-ups/morrisons
 lat: 52.666220
 lon: 0.159400
