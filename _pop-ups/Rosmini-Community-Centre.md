@@ -17,6 +17,6 @@ images:
   caption: (L-R) Melanie Pitkin, Helen Strudwick and Charlotte Thompson-Mitchell with their inaugural Pop-Up at the Rosmini Centre in Wisbech, March 14, 2019.
 ---
 
-The Rosmini Community Centre is a community based organisation in Wisbech which provides employment support and translation services, legal advice, community transport and a range of activities spanning basketball, table tennis, woodworking and day trips. Located on Queens Road, on the other side of the town to the Oasis Community Centre, it provides a particular refuge for Wisbech's migrant communities, who predominantly comprise people from Latvia, Lithuania and Poland.
+The <a href="https://www.rosminicentrewisbech.org">Rosmini Community Centre</a> is a community based organisation in Wisbech which provides employment support and translation services, legal advice, community transport and a range of activities for local residents spanning basketball, table tennis, football, woodworking and day outings. Located on Queens Road, on the other side of the town to the Oasis Community Centre, it provides a particular refuge for Wisbech's migrant communities, who predominantly comprise Polish, Latvians and Lithuanians.
 
 To date, we have held three Pop-Up Museums at the Rosmini Community Centre on March 14, April 4 and 18, 2019. 
