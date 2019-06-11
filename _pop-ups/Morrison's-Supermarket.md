@@ -1,6 +1,8 @@
 ---
 layout: pop-ups
 title: Morrison's Supermarket
+category: pop-ups
+author: Melanie Pitkin
 thumbnail: /images/news/morrisons3.jpg
 permalink: /pop-ups/morrisons
 lat: 52.666220
