@@ -14,7 +14,7 @@ images:
   caption: The Pop-Up Egyptian Coffins project in the Rosmini Centre, Wisbech. 
  -
   image: news/rosminiteam.jpg
-  caption: (L-R) Melanie Pitkin, Helen Strudwick and Charlotte Thompson with their inaugural Pop-Up at the Rosmini Centre in March.
+  caption: (L-R) Melanie Pitkin, Helen Strudwick and Charlotte Thompson at the Rosmini Centre in March.
 ---
 
 The <a href="https://www.rosminicentrewisbech.org">Rosmini Community Centre</a> is a community based organisation in Wisbech which provides employment support and translation services, legal advice, community transport and a range of activities for local residents spanning basketball, table tennis, football, woodworking and day outings. Located on Queens Road, on the other side of the town to the Oasis Community Centre, it provides a particular refuge for Wisbech's migrant communities, who predominantly comprise Polish, Latvians and Lithuanians.
