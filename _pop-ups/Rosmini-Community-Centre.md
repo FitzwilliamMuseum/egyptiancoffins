@@ -10,6 +10,9 @@ images:
   image: news/rosminisign.jpg
   caption: Entrance sign to the Rosmini Community Centre in Wisbech.
  -
+  image: news/rosminipopup.jpg
+  caption: The Pop-Up Egyptian Coffins project in the Rosmini Centre, Wisbech. 
+ -
   image: news/X.jpg
   caption:
 ---
