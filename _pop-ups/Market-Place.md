@@ -19,7 +19,7 @@ images:
   caption: Bric-a-brac, coffins and sushi at the Wisbech Market Place!
  -
   image: news/marketplace4.jpg
-  caption: Melanie Pitkin with Trevor Emmett, Geologist and consultant for the Fitzwilliam Museum's collection.
+  caption: Melanie Pitkin with Trevor Emmett, Geologist and consultant for the Fitzwilliam Museum.
 ---
 
 The Wisbech Market Place, managed by Wisbech Town Council, is a bustling market area with stalls selling a range of goods from fruit and vegetables, fresh meat and fast food to bric-a-brac and clothing. On three occasions throughout March, April and May, we popped-up with our Egyptian coffins research opposite Costa coffee, suprising local shoppers. 
