@@ -10,16 +10,16 @@ lon: 0.16097450000006575
 images:
  -
   image: news/horsefair3.jpg
-  caption:
+  caption: These lovely children and their Mum spent more than 45 minutes with us!
  - 
   image: news/horsefair1.jpg
-  caption:
+  caption: Our Pop-Up between Argos and the bus bay at the Horsefair Shopping Centre.
  -
   image: news/horsefair4.jpg
-  caption:
+  caption: The Pop-Up Egyptian coffins project at the Horsefair Easter Event 2019.
  - 
   image: news/horsefair5.jpg
-  caption:
+  caption: Melanie Pitkin discussing ancient joinery at the Horsefair Easter Event.
 ---
 
 
