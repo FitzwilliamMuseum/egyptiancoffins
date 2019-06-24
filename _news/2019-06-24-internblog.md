@@ -15,7 +15,7 @@ images:
 ---
 
 
-Hello, my name is Charlotte Thompson-Mitchell and I am an intern working on the Fitzwilliam Egyptian Coffins Project. Since March I have been helping to share current research into ancient Egyptian coffins in Wisbech through a pop-up museum. 
+Hello, my name is [Charlotte Thompson-Mitchell](https://egyptiancoffins.org/team/charlotte-thompson/) and I am an intern working on the Fitzwilliam Egyptian Coffins Project. Since March I have been helping to share current research into ancient Egyptian coffins in Wisbech through a pop-up museum. 
 
 About The Egyptian Coffins Project
 Since 2014, the Fitzwilliam Museum has been conducting interdisciplinary research into its ancient Egyptian coffins. By combining the expertise of many specialists, including Egyptologists, conservators, a woodworking specialist, a pigment analyst and a consultant radiologist, we have been able to uncover the fascinating stories of these objects and the people who made them. Now, this research is being shared with the public through a pop-up museum along with the launch of a new website: www.egyptiancoffins.org
