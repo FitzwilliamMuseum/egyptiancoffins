@@ -7,7 +7,7 @@ thumbnail: /images/news/IMG_0792 (2).jpg
 permalink: /news/internblog
 images:
   -
-    image: news/unnamed (19).jpg
+    image: news/popup6.jpg
     caption: Painting activity.
   -
     image: news/unnamed (42).jpg
