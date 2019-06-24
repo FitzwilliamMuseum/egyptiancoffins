@@ -1,5 +1,5 @@
 ---
-title: Intern Experience of the Pop-up Musuem
+title: An Intern's Experience of the Pop-up Musuem
 author: Charlotte Thompson-Mitchell
 layout: news
 tags: [media, pop-up museum, pop-up project, wisbech, museum outreach, coffins, ancient egypt, intern, museum experience, professional development]
@@ -15,7 +15,7 @@ images:
 ---
 
 
-**Hello, my name is [Charlotte Thompson-Mitchell](https://egyptiancoffins.org/team/charlotte-thompson/) and I am an intern working on the Fitzwilliam Egyptian Coffins Project. Since March I have been helping to share current research into ancient Egyptian coffins in Wisbech through a pop-up museum.** 
+* *Hello, my name is [Charlotte Thompson-Mitchell](https://egyptiancoffins.org/team/charlotte-thompson/) and I am an intern working on the Fitzwilliam Egyptian Coffins Project. Since March I have been helping to share current research into ancient Egyptian coffins in Wisbech through a pop-up museum.* * 
 
 **About The Egyptian Coffins Project**
 
