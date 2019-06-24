@@ -8,7 +8,7 @@ permalink: /news/internblog
 images:
   -
     image: news/unnamed (19).jpg
-    caption: Craft replica Egyptian paintbrushes.
+    caption: Painting activity.
   -
     image: news/unnamed (42).jpg
     caption: Pop-up Museum at the Marketplace.
