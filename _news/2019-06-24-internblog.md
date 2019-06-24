@@ -15,7 +15,7 @@ images:
 ---
 
 
-_ _Hello, my name is [Charlotte Thompson-Mitchell](https://egyptiancoffins.org/team/charlotte-thompson/) and I am an intern working on the Fitzwilliam Egyptian Coffins Project. Since March I have been helping to share current research into ancient Egyptian coffins in Wisbech through a Pop-Up Museum._ _ 
+_Hello, my name is [Charlotte Thompson-Mitchell](https://egyptiancoffins.org/team/charlotte-thompson/) and I am an intern working on the Fitzwilliam Egyptian Coffins Project. Since March I have been helping to share current research into ancient Egyptian coffins in Wisbech through a Pop-Up Museum._ 
 
 **About The Egyptian Coffins Project**
 
