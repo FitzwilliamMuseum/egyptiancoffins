@@ -3,7 +3,7 @@ title: Intern Experience of the Pop-up Musuem
 author: Charlotte Thompson-Mitchell
 layout: news
 tags: [media, pop-up museum, pop-up project, wisbech, museum outreach, coffins, ancient egypt, intern, museum experience, professional development]
-thumbnail: /images/news/IMG 0792 (2).jpg
+thumbnail: /images/news/IMG_0792 (2).jpg
 permalink: /news/internblog
 images:
   -
