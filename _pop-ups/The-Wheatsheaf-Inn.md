@@ -5,7 +5,13 @@ thumbnail: /images/news/pubshot.jpg
 permalink: /pop-ups/wheatsheaf-inn
 lat: 52.65999900000001
 lon: 0.16097450000006575
-engagements: 30 visitors
+images:
+ -
+  image: news/wetherspoons External.jpg
+  caption: Exterior of the Wheatsheaf Inn in Wisbech.
+ -
+  image: news/Jeanie.jpg
+  caption: Helen engaging with a visitor.
 ---
 
 [The Wheatsheaf Inn](https://www.jdwetherspoon.com/pubs/all-pubs/england/cambridgeshire/the-wheatsheaf-inn-wisbech), owned by Wetherspoon's pub, has been one of our best received Pop-Up locations. With huge thanks to Manager Martin Baldwin, we held four Pop-Ups here on March 19, 21, 26 and June 26, 2019. 
