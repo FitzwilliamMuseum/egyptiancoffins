@@ -22,4 +22,7 @@ images:
   caption: Melanie Pitkin discussing ancient joinery at the Horsefair Easter Event.
 ---
 
+Situated on the historic site of the Horse Fair, the Horsefair Shopping Centre is a hub of activity. With 26 retail outlets, this is where most Wisbech residents indulge in retail therapy. 
+
+We ‘popped-up’ at the Horsefair Easter event on April 17th 2019 which received over 2000 visitors. The event featured an Easter egg hunt, a choir, face-painting and other activities. Similar to the Rosmini Easter Event, the majority of our demographic was composed of families and children which meant making lots of Egyptian paintbrushes! Overall we had 43 meaningful engagements with visitors though made an impression on around 1500 people! 
 
