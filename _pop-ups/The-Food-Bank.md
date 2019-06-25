@@ -25,4 +25,8 @@ images:
   caption: The Fitzwilliam Egyptian Coffins project reaching out to audiences in unexpected places.
 ---
 
-On June 12, 2019 the Pop-Up Egyptian coffins project brought their research to the Wisbech Baptist Church where every Monday, Wednesday and Friday (during specified hours) The Trussell Trust run a food bank. 
+On June 12, 2019 the Pop-Up Egyptian coffins project brought their research to the Wisbech Baptist Church where every Monday, Wednesday and Friday (during specified hours) [The Trussell Trust](https://www.trusselltrust.org/) run a food bank. The Wisbech Food Bank gave 3006 emergency food supplies and support to people in need throughout 2018.
+
+We were situated in the main entrance area of the church which made us more accessible to passers-by. The food bank was open between 14:00-16:00 on the day of the Pop-Up, so we anticipated to have minimal visitors before 2 pm. We enticed a few passers-by to visit the pop-up through word-of-mouth in the street outside the church.
+
+Even though the visitors to the food bank didn’t interact with the Pop-Up as much as we hoped, our presence still made an impression on approximately 20 people passing through. A recurring theme of conversation at the Foodbank Pop-Up was knife-crime, something we had not experienced at any of our other venues and which was incited by our replica tool display, which features a replica pull saw. 
