@@ -19,6 +19,18 @@ images:
   -
     image: news/Mansoura3.jpg
     caption: Melanie with Dr Ayman Wahby
+  -
+    image: news/IMG_4601.jpg
+    caption:
+  -
+    image: news/IMG_4593.jpg
+    caption:
+  -
+    image: news/IMG_4602.jpg
+    caption:
+  -
+    image: news/IMG_4632.jpg
+    caption:
 ---
 
 
