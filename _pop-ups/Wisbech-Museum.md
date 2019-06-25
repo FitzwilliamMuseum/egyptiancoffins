@@ -16,7 +16,7 @@ images:
     caption: Location of the Pop-Up Egyptian Coffins project outside the Wisbech and Fenland Museum.
 ---
 
-Opened in 1847 as one of the first purpose built museums in the UK, and still very much retaining its period charm, the Wisbech and Fenland Museum is home to a rich and diverse collection spanning local and social history, decorative and fine arts, ethnography, photography, costume and textiles, natural history, numismatics, archaeology and Egyptology. It's located in Museum Square between the town library, St Peter and St Paul's Parish and [Wisbech Castle](http://wisbechcastle.org).   
+Opened in 1847 as one of the first purpose built museums in the UK, and still very much retaining its period charm, the [Wisbech and Fenland Museum](https://www.wisbechmuseum.org.uk) is home to a rich and diverse collection spanning local and social history, decorative and fine arts, ethnography, photography, costume and textiles, natural history, numismatics, archaeology and Egyptology. It's located in Museum Square between the town library, St Peter and St Paul's Parish and [Wisbech Castle](http://wisbechcastle.org).   
 
 Since we first conceived the idea of the Pop-Up project in mid-2018, we have collaborated and consulted with staff and volunteers at the Wisbech and Fenland Museum. This has mainly been in regard to identifying venues for our Pop-Up in Wisbech, developing a small display at the Museum of some 21st Dynasty yellow coffin fragments in their collection, which directly relates to our research and identifying ways in which we can help grow visitation to the Museum. We also provide consultative support and technical assistance with aspects of their Egyptology collection.
 
