@@ -15,6 +15,9 @@ images:
  -
   image: news/IMG_8141.jpg
   caption: Pub visitor, Jeanie, enjoying a pint with her copy of 'How to Make an Egyptian Coffin'.
+ -
+  image: news/nicky.jpg
+  caption: Pop-Up regular Nicky (pictured right) with his Mum, Sally (far left) and grandma, Mary (centre).
 ---
 
 [The Wheatsheaf Inn](https://www.jdwetherspoon.com/pubs/all-pubs/england/cambridgeshire/the-wheatsheaf-inn-wisbech), owned by Wetherspoon's pub, has been one of our best received Pop-Up locations. With huge thanks to Manager Martin Baldwin, we held four Pop-Ups here on March 19, 21, 26 and June 26, 2019. 
