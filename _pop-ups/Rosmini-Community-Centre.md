@@ -17,10 +17,10 @@ images:
   caption: (L-R) Melanie Pitkin, Helen Strudwick and Charlotte Thompson at the Rosmini Centre in March.
  -
   image: news/rosminivisit1.jpg
-  caption:
+  caption: The Rosmini bus group enjoying a tour of the Egyptian galleries at the Fitzwilliam Museum with Helen Strudwick.
  -
   image: news/rosminivisit2.jpg
-  caption:
+  caption: The Rosmini bus group enjoy a tea break at the Fitzwilliam Museum. 
 ---
 
 The <a href="https://www.rosminicentrewisbech.org">Rosmini Community Centre</a> is a community based organisation in Wisbech which provides employment support and translation services, legal advice, community transport and a range of activities for local residents spanning basketball, table tennis, football, woodworking and day outings. Located on Queens Road, on the other side of the town to the [Oasis Community Centre](https://egyptiancoffins.org/popups/oasis-community), it provides a particular refuge for Wisbech's migrant communities, who predominantly comprise Polish, Latvians and Lithuanians.
