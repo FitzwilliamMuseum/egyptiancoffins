@@ -22,8 +22,6 @@ images:
 
 [The Wheatsheaf Inn](https://www.jdwetherspoon.com/pubs/all-pubs/england/cambridgeshire/the-wheatsheaf-inn-wisbech), owned by Wetherspoon's pub, has been one of our best received Pop-Up locations. With huge thanks to Manager Martin Baldwin, we held four Pop-Ups here on March 19, 21, 26 and June 26, 2019. 
 
-Many Weatherspoon pubs are restored from interesting and unique buildings. The Wheatsheaf Inn is a former furniture and decorating store which ties in well with our Egyptian carpentry theme. The wooden chairs and tables at the venue were frequently referred to as examples of carpentry joints!
+During our four Pop-Up sessions at the pub (which, quite fittingly, is the former site of a furniture and decorating store), we had over 100 meaningful engagements (3 minutes or more) and over 300 impressions (engagements of 3 minutes or less, including passers-by). One of the more rewarding aspects of this venue was getting to know regular pubgoers, including Nicky, his Mum, Sally, and Grandmother, Mary - pictured below.  
 
-We had over 100 meaningful engagements during our four Pop-Up sessions at this venue. Pop-Ups at The Wheatsheaf Inn also received more media and social media attention than any other venue. We made impressions (engagements of 3 minutes or less) with over 300 people passing by our Pop-Up. The best thing about this venue is that you get to interact with a more time rich audience in a relaxed environment. This is where we met our first Pop-Up regular, Nicky, with his family (pictured below). 
-
-The Egyptian Coffins Project featured in the [Wetherspoon News](https://egyptiancoffins.org/news/wetherspoonnews) magazine, which has a readership of over 2 million!
+The Egyptian Coffins Pop-Up Museum featured in the [Wetherspoon News](https://egyptiancoffins.org/news/wetherspoonnews) magazine in June-August 2019, which has a readership of over 2 million! We were also interviewed by [BBC Cambridgeshire radio](https://www.bbc.co.uk/news/uk-england-cambridgeshire-47720757) in late March.
