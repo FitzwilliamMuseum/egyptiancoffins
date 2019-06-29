@@ -24,4 +24,4 @@ images:
 
 During our four Pop-Up sessions at the pub (which, quite fittingly, is the former site of a furniture and decorating store), we had over 100 meaningful engagements (3 minutes or more) and over 300 impressions (engagements of 3 minutes or less, including passers-by). One of the more rewarding aspects of this venue was getting to know regular pubgoers, including Nicky, his Mum, Sally, and Grandmother, Mary - pictured below.  
 
-The Egyptian Coffins Pop-Up Museum featured in the [Wetherspoon News](https://egyptiancoffins.org/news/wetherspoonnews) magazine in June-August 2019, which has a readership of over 2 million! We were also interviewed by [BBC Cambridgeshire radio](https://www.bbc.co.uk/news/uk-england-cambridgeshire-47720757) in late March.
+The Egyptian Coffins Pop-Up Museum featured in the [Wetherspoon News](https://egyptiancoffins.org/news/wetherspoonnews) magazine in June-August 2019, which has a readership of over 2 million! We were also interviewed by [BBC Cambridgeshire](https://www.bbc.co.uk/news/uk-england-cambridgeshire-47720757) in late March.
