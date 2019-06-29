@@ -1,6 +1,6 @@
 ---
 layout: pop-ups
-title: Morrison's Supermarket
+title: Morrisons Supermarket
 category: pop-ups
 author: Melanie Pitkin
 thumbnail: /images/news/Morrisons3.jpg
@@ -10,22 +10,22 @@ lon: 0.159400
 images:
  -
   image: news/Morrisons1.jpg
-  caption: Morrison's Community Champion, Debbie, who provided much help in organising our visit.
+  caption: Morrisons Community Champion, Debbie, who provided much help in organising our visit.
  -
   image: news/Morrisons2.jpg
-  caption:
+  caption: Supermarket shoppers engage with the Pop-Up Museum with shopping trolley in tow!
  -
   image: news/Morrisons3.jpg
-  caption:
+  caption: The exterior of Morrisons supermarket in Wisbech.
  -
   image: news/Morrisons4.jpg
-  caption:
+  caption: Helen Strudwick talks about the X-radiographs of a coffin fragment with an interested Morrisons shopper.
  -
   image: news/Morrisons5.jpg
-  caption:
+  caption: Alastair Dunnett, Outreach Officer of the Wisbech & Fenland Archaeological Society at the Pop-Up in Morrisons, Wisbech.
  -
   image: news/Morrisonsagain.jpg
-  caption:
+  caption: Bread, bananas, milk and...Egyptian coffins please!
 ---
 On the 24th of April, we took our pop-up to [Morrisons Supermarket](https://my.morrisons.com/storefinder/511). Morrisons is a major supermarket retailer in the U.K, with over 500 stores across the country. Wisbech Morrisons lies outside of the town centre. It was made clear from our visitors that people in this part of town do not visit Wisbech town centre very often due to a dislike of the town and its anti-social behaviour and crime levels. 
 
