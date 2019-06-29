@@ -22,7 +22,7 @@ images:
   caption: Helen Strudwick talks about the X-radiographs of a coffin fragment with an interested Morrisons shopper.
  -
   image: news/Morrisons5.jpg
-  caption: Alastair Dunnett, Outreach Officer of the Wisbech & Fenland Archaeological Society at the Pop-Up in Morrisons, Wisbech.
+  caption: Alastair Dunnett, Outreach Officer of the Wisbech & Fenland Archaeological Society at the Pop-Up Museum in Wisbech.
  -
   image: news/Morrisonsagain.jpg
   caption: Bread, bananas, milk and...Egyptian coffins please!
