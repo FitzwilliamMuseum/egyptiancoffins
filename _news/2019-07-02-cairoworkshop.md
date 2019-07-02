@@ -37,3 +37,7 @@ images:
     image: news/GCRF12.jpg
     caption: Group shot following the award ceremony at the Egyptian Museum Cairo. 
 ---
+
+Between 15 and 22nd June, six members of the Fitzwilliam Egyptian coffins team travelled to Cairo to undertake the second phase of a knowledge transfer project (generously funded by a grant from the Global Challenges Research Fund) working with curators and conservators at the Egyptian Museum Cairo on their internationally significant collection of ancient Egyptian coffins. The members of the team were Helen Strudwick, Julie Dawson, Geoffrey Killen, Elsbeth Geldhof, Daniel Pett and Melanie Pitkin. 
+
+
