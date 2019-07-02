@@ -55,4 +55,9 @@ A very special treat which also took place during the workshop was an afternoon 
 
 *The team would like to thank the Egyptian Museum Cairo and the Global Challenges Research Fund for helping to make this workshop possible, especially Mrs Sabah Abdelraziq, Director of the Egyptian Museum Cairo and Dr Moaman Othmann, Head of Conservation, Egyptian Museum Cairo. We would also like to extend special thanks to Professor Nesrin El-Hadidy, Professor of Conservation at Cairo University and Dr Nour Badr, Conservator at the Grand Egyptian Museum for helping to organise and oversee the production of the replica tools and source many authentic materials for the painting activity.* 
 
+<div class="embed-responsive"><iframe class="responsive-item" src=" https://sketchfab.com/models/3cea6ba3fb084f4880ca2ba4dbb6e10f/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
 
+ <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> 
+    <a href=" https://sketchfab.com/3d-models/30th-dynasty-egyptian-coffin-lid-3cea6ba3fb084f4880ca2ba4dbb6e10f?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">30th dynasty Egyptian coffin lid</a> 
+</p> 
+</div> 
