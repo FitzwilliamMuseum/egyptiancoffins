@@ -36,6 +36,13 @@ images:
   -
     image: news/GCRF12.jpg
     caption: Group shot following the award ceremony at the Egyptian Museum Cairo. 
+ 
+<div class="embed-responsive"><iframe class="responsive-item" src=" https://sketchfab.com/models/3cea6ba3fb084f4880ca2ba4dbb6e10f/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> 
+    <a href=" https://sketchfab.com/3d-models/30th-dynasty-egyptian-coffin-lid-3cea6ba3fb084f4880ca2ba4dbb6e10f?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">30th dynasty Egyptian coffin lid</a> 
+</p> 
+</div> 
 ---
 
 Between 15-22nd June, six members of the Fitzwilliam Egyptian coffins team travelled to Cairo to undertake the second phase of a knowledge transfer project (generously funded by a grant from the [Global Challenges Research Fund](https://www.ukri.org/research/global-challenges-research-fund/)) to work with curators and conservators at the Egyptian Museum Cairo on their internationally significant collection of ancient Egyptian coffins (for phase one of the project, see [here](https://egyptiancoffins.org/news/new-collaborative-project-with-the-Egyptian-Museum-Cairo)). The members of the team were [Helen Strudwick](https://egyptiancoffins.org/team/helen-strudwick/), [Julie Dawson](https://egyptiancoffins.org/team/julie-dawson/), [Geoffrey Killen](https://egyptiancoffins.org/team/geoff-killen/), [Elsbeth Geldhof](https://egyptiancoffins.org/team/elsbeth-geldhof/), [Daniel Pett](https://egyptiancoffins.org/team/daniel-pett/) and [Melanie Pitkin](https://egyptiancoffins.org/team/melanie-pitkin/). This phase of the project focused on the successful delivery of a 4-day coffin making workshop where 27 participants from the Egyptian Museum Cairo had the opportunity to learn (in a very hands-on fashion!) aspects of ancient Egyptian woodworking, painting, coffin identification and methods for their interpetation and analysis.
