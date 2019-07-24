@@ -8,7 +8,7 @@ permalink: /news/popupmuseum
 images:
   -
     image: news/training.JPG
-    caption: The bilingual lecture at the Egyptian Museum Cairo presented by Melanie Pitkin, Sara Hany Abed and Charlotte Thompson.
+    caption: The bilingual lecture at the Egyptian Museum Cairo presented by Melanie Pitkin, Sara Abed and Charlotte Thompson.
   -
     image: news/EMpopup.jpg
     caption: 
