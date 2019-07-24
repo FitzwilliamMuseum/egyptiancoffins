@@ -7,7 +7,7 @@ thumbnail: /images/news/EMpopup.jpg
 permalink: /news/popupmuseum
 images:
   -
-    image: news/training.jpg
+    image: news/training.JPG
     caption: The bilingual lecture at the Egyptian Museum Cairo presented by Melanie Pitkin, Sara Hany Abed and Charlotte Thompson.
   -
     image: news/EMpopup.jpg
@@ -31,16 +31,16 @@ images:
     image: news/pinocchio1.jpg
     caption: 
   -
-    image: news/pinocchio8.jpg
+    image: news/pinocchio8.JPG
     caption:  
   -
-    image: news/pinocchio9.jpg
+    image: news/pinocchio9.JPG
     caption: 
   -
-    image: news/pinocchio10.jpg
+    image: news/pinocchio10.JPG
     caption:
   -
-    image: news/pinocchio2.jpg
+    image: news/pinocchio2.JPG
     caption:
   -
     image: news/pinocchio3.jpg
