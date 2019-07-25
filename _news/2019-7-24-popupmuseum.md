@@ -29,22 +29,19 @@ images:
     caption:  These American tourists were thrilled with their experience of the 'Pop-Up' Museum and asked for some group photos.
   -
     image: news/pinocchio1.jpg
-    caption: 
+    caption: Exterior of the Pinocchio furniture store in Maadi where we held our second 'Pop-Up' Museum on Friday 19th July.
   -
     image: news/pinocchio8.JPG
-    caption:  
+    caption:  Helen Strudwick with visitors to the 'Pop-Up' Museum at the Pinocchio furniture store in Maadi. 
   -
     image: news/pinocchio9.JPG
-    caption: 
+    caption: We were delighted to welcome famous Egyptian novelist, Salwa Bakr, to our 'Pop-Up' Museum in Maadi.
   -
     image: news/pinocchio10.JPG
-    caption:
+    caption: Lots of lively discussion around ancient Egyptian woodworking at the 'Pop-Up' Museum in Maadi.
   -
     image: news/pinocchio2.JPG
-    caption:
-  -
-    image: news/pinocchio3.jpg
-    caption:
+    caption: Partial group photo with Fitzwilliam Museum and Egyptian Museum colleagues in Maadi. 
 ---
 
 A small team from the Fitzwilliam Egyptian coffins project recently travelled to Cairo (July 16-22, 2019) to pilot their successful 'Pop-Up' Egyptian coffins Museum with colleagues at the Egyptian Museum Cairo.
