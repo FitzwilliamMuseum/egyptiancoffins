@@ -44,4 +44,8 @@ images:
     caption: Partial group photo with Fitzwilliam Museum and Egyptian Museum colleagues in Maadi. 
 ---
 
-A small team from the Fitzwilliam Egyptian coffins project recently travelled to Cairo (July 16-22, 2019) to pilot their successful 'Pop-Up' Egyptian coffins Museum with colleagues at the Egyptian Museum Cairo.
+A small team from the Fitzwilliam Egyptian coffins project recently travelled to Cairo (July 16-22, 2019) to pilot their successful 'Pop-Up' Egyptian coffins Museum with colleagues at the Egyptian Museum Cairo. The team comprised Helen Strudwick, Melanie Pitkin, Charlotte Thompson-Mitchell and our local contact and Project Manager in Egypt, Sara Hany Abed.
+
+Following on from our previous visits to Egypt, which focused on sharing our methodologies and findings from our research into the Fitzwilliam Museum's Egyptian coffins collection (which you can read about here and here), this trip was all about how we can share this academic work with non-academic audiences through community outreach and engagement - namely in the form of the 'Pop-Up' Museum that we previously developed and delivered over a 6 month period to the people of Wisbech (see here). 
+
+
