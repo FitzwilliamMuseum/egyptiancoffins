@@ -14,7 +14,7 @@ images:
     caption: Demonstrating the content of the 'Pop-Up' Egyptian coffins project to colleagues at the Egyptian Museum Cairo.
   -
     image: news/EMpopup6.jpg
-    caption: Members of the public curiously look on during our live training session at the Egyptian Museum Cairo.
+    caption: Members of the public actively engaging with the 'Pop-Up' Museum content at the Egyptian Museum Cairo.
   -
     image: news/EMpopup8.jpg
     caption:  Egyptian Museum conservator, Eid Mertah, talks with Museum visitors about tools used in ancient Egyptian carpentry. 
