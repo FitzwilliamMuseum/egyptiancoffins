@@ -3,7 +3,7 @@ title: Digital 3D animation of Nespawershefyt's coffin box
 author: Melanie Pitkin
 layout: news
 tags: [3D animation, digital model, Nespawershefyt, CT scans, ThinkSee3D, AHRC fellowship, creative industry partner]
-thumbnail: /images/news/XXX.jpg 
+thumbnail: /images/news/Steveshot.jpg 
 permalink: /news/digitalanimation
 ---
 
