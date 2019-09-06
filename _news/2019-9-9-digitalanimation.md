@@ -7,4 +7,6 @@ thumbnail: /images/news/XXX.jpg
 permalink: /news/digitalanimation
 ---
 
+Blah blah
+
 <iframe src="https://player.vimeo.com/video/356279697" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> 
