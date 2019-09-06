@@ -4,21 +4,25 @@ title: Coffin study resources
 permalink: /resources
 vimeo:
   -
+    title: "Digital animation showing the assemblage of Nespawershefyt's inner coffin box"
+    id: <iframe src="https://player.vimeo.com/video/356279697" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    order: 1
+  -
     title: "In the spotlight: Coffins Research"
     id: 307004713
-    order: 1
+    order: 2
   -
     title: Carpentry of coffins
     id: 305722937
-    order: 3
+    order: 4
   -
     title: A symbol of rebirth
     id: 305722885
-    order: 2
+    order: 3
   -
     title: Ancient Egyptian toolkit
     id: 305722898
-    order: 4
+    order: 5
 youtube:
   -
     title: Studying Egyptian coffins from Luxor by Helen Strudwick
