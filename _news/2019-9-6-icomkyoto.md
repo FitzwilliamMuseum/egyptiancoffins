@@ -3,7 +3,7 @@ title: 2019 ICOM-CIPEG meeting in Kyoto
 author: Melanie Pitkin
 layout: news
 tags: [CIPEG, ICOM, Kyoto, conference, Egyptology, presentation, paper]
-thumbnail: /images/news/Kyotologo.jpg 
+thumbnail: /images/news/Kyotologo2.jpg 
 permalink: /news/icomkyoto
 ---
 
