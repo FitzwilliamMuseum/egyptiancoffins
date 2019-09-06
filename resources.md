@@ -5,7 +5,7 @@ permalink: /resources
 vimeo:
   -
     title: "Digital animation showing the assemblage of Nespawershefyt's inner coffin box"
-    id: <iframe src="https://player.vimeo.com/video/356279697" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    id: 356279697
     order: 1
   -
     title: "In the spotlight: Coffins Research"
