@@ -10,7 +10,8 @@ images:
     image: news/Alexworkshop.jpg
     caption: Egyptian Museum colleagues demonstrate ancient Egyptian craft replica tools, including the pull saw.
   -
-    image: 
+    image: news/dailynews.jpg
+    caption: Daily News Egypt article on the collaborative delivery of the Egyptian coffins workshop between the Fitzwilliam Museum and Egyptian Museum Cairo in Alexandria, dated Wednesday 20th November 2019. 
 ---
 
 
