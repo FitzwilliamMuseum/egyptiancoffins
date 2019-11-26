@@ -7,7 +7,7 @@ thumbnail: /images/news/Alexworkshop.jpg
 permalink: /news/Alexandriaworkshop
 images:
   -
-    image: news/Coffin workshop Daily News Egypt.pdf
+    image: news/DailyNews.pdf
 ---
 
 
