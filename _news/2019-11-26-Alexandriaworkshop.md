@@ -8,6 +8,9 @@ permalink: /news/Alexandriaworkshop
 images:
   -
     image: news/Alexworkshop.jpg
+    caption: Egyptian Museum colleagues demonstrate ancient Egyptian craft replica tools, including the pull saw.
+  -
+    image: 
 ---
 
 
