@@ -10,8 +10,17 @@ images:
     image: news/Alexworkshop.jpg
     caption: Egyptian Museum colleagues demonstrate ancient Egyptian craft replica tools, including the pull saw.
   -
-    image: news/dailynews.jpg
-    caption: Daily News Egypt article on the collaborative delivery of the Egyptian coffins workshop between the Fitzwilliam Museum and Egyptian Museum Cairo in Alexandria, dated Wednesday 20th November 2019. 
+    image: news/HSJD.jpg
+    caption: Fitzwilliam Museum Egyptologist, Helen Strudwick, and Head of Conservation, Julie Dawson delivering the opening lecture for the workshop.
+  -
+    image: news/Group.jpg
+    caption:
+  -
+    image: news/Group2.jpg
+    caption:
+  - 
+    image: news/Demonstration2.jpg
+    caption:
 ---
 
 
