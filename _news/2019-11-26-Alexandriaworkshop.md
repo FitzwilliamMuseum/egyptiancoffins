@@ -7,7 +7,7 @@ thumbnail: /images/news/Alexworkshop.jpg
 permalink: /news/Alexandriaworkshop
 images:
   -
-    image: news/DailyNews.pdf
+    image: news/Alexworkshop.jpg
 ---
 
 
