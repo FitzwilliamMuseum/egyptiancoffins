@@ -1,5 +1,5 @@
 ---
-title: 'Understanding Ancient Egyptian Coffins' workshop in Alexandria, Egypt
+title: Coffins workshop in Alexandria, Egypt
 author: Melanie Pitkin
 layout: news
 tags: [Cambridge University, Bibliotheca Alexandrina, Alexandria library, Egyptian Museum Cairo, coffins workshop, ancient Egypt, understanding ancient Egyptian coffins]
