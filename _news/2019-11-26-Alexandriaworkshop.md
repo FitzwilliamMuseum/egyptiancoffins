@@ -7,7 +7,7 @@ thumbnail: /images/news/XXX.jpg
 permalink: /news/Alexandriaworkshop
 images:
   -
-    image: news/groupphoto1.jpg
+    image: news/Coffin workshop Daily News Egypt.pdf
 ---
 
-The Fitzwilliam Egyptian coffins team has been awarded the prestigious
+
