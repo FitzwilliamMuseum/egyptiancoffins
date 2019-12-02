@@ -3,10 +3,30 @@ layout: coffins
 title: Study and conservation of a miniature Egyptian coffin
 permalink: /coffins/miniature
 category: miniature coffin
----
 images:
   -
     image: mincoffin1.jpg
+    caption: XXX
+  -
+    image: mincoffin2.jpg
+    caption: XXX
+  -
+    image: mincoffin3.jpg
+    caption: XXX
+  - 
+    image: mincoffin4.jpg
+    caption: XXX
+  - 
+    image: mincoffin5.jpg
+    caption: XXX
+  - 
+    image: mincoffin6.jpg
+    caption: XXX
+  - 
+    image: mincoffin7.jpg
+    caption: XXX
+  -
+    image: mincoffin8.jpg
     caption: XXX
 ---
 By Flavia Ravioli, Conservator
