@@ -2,10 +2,37 @@
 layout: coffins
 title: Study and conservation of a miniature Egyptian coffin
 permalink: /coffins/miniature
-thumbnail: /images/miniature/mincoffin8.jpg
 category: miniature coffin
 ---
-In 2016 the Fitz made the headlines with a remarkable discovery: a miniature Egyptian coffin that had been thought to hold mummified organs was found to contain an embalmed human foetus, the youngest ever known to be buried in Ancient Egypt. The coffin had been x-rayed in preparation for the Death on the Nile exhibition, but when the results appeared inconclusive it was decided to CT-scan its contents. This revealed a mummified foetus only 18 weeks into gestation, its arms ritually folded over its chest. It was wrapped in bandage, over which molten back resin had been poured before the coffin was closed.
+images:
+  -
+    image: mincoffin1.jpg
+    caption: XXX
+  -
+    image: mincoffin2.jpg
+    caption: XXX
+  - 
+    image: mincoffin3.jpg
+    caption: XXX
+  - 
+    image: mincoffin4.jpg
+    caption: XXX
+  -
+    image: mincoffin5.jpg
+    caption: XXX
+  -
+    image: mincoffin6.jpg
+    caption: XXX
+  -
+    image: mincoffin7.jpg
+    caption: XXX
+  -
+    image: mincoffin8.jpg
+    caption: XXX
+---
+By Flavia Ravioli, Conservator
+
+In 2016 the Fitzwilliam Museum made the headlines with a remarkable discovery: a miniature Egyptian coffin that had been thought to hold mummified organs was found to contain an embalmed human foetus, the youngest ever known to be buried in Ancient Egypt. The coffin had been x-rayed in preparation for the 'Death on the Nile' exhibition, but when the results appeared inconclusive it was decided to CT-scan its contents. This revealed a mummified foetus only 18 weeks into gestation, its arms ritually folded over its chest. It was wrapped in bandage, over which molten back resin had been poured before the coffin was closed.
 
 The coffin that holds the bundle is of interest in itself. Excavated in Giza by the British School of Archaeology in 1907, it came to the museum in the same year. Though the wood is poorly preserved, and the painted surface entirely lost, surviving details of the face and ears show that it was skilfully carved. Measuring only 43 cm in length, it is a fine example of an anthropoid coffin of the Late Period (664-525 BC), built on a tiny scale.
 
