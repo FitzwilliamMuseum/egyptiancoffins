@@ -75,6 +75,8 @@ collections:
       output: true
    pop-ups:
       output: true
+   miniature:
+      output: true
 
 mailchimp-list: https://cam.us17.list-manage.com/subscribe/post?u=f30da66801c7549a27ffb3357&amp;id=741e719b5c
 
@@ -88,6 +90,7 @@ feed:
     - news
     - dog-coffin
     - pop-ups
+    - miniature
 
 categories:
     - pakepu
@@ -95,6 +98,7 @@ categories:
     - nakhtefmut
     - senuitef
     - dog-coffin
+    - miniature
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
