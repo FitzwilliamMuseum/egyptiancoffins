@@ -5,7 +5,7 @@ permalink: /coffins/miniature
 category: miniature coffin
 images:
   -
-    image: mincoffin1.jpg
+    image/miniature-coffins: mincoffin1.jpg
     caption: XXX
 ---
 By Flavia Ravaioli, Conservator
