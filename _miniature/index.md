@@ -7,6 +7,27 @@ images:
   -
     image: mincoffin1.jpg
     caption: XXX
+  -
+    image: mincoffin2.jpg
+    caption:
+  -
+    image: mincoffin3.jpg
+    caption:
+  -
+    image: mincoffin4.jpg
+    caption:
+  -
+    image: mincoffin5.jpg
+    caption:
+  - 
+    image: mincoffin6.jpg
+    caption:
+  -
+    image: mincoffin7.jpg
+    caption:
+  - 
+    image: mincoffin8.jpg
+    caption:
 ---
 By Flavia Ravaioli, Conservator
 
