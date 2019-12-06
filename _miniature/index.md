@@ -6,36 +6,33 @@ category: miniature-coffin
 images:
   -
     image: mincoffin1.jpg
-    caption: XXX
-  -
-    image: mincoffin2.jpg
-    caption:
-  -
+    caption: Miniature coffin with contents.  
+-
     image: mincoffin3.jpg
-    caption:
+    caption: Detail of the head end of the miniature coffin. 
   -
     image: mincoffin4.jpg
-    caption:
+    caption: X-ray image of the coffin showing deep crevices which is indicative of deterioration to the wood.
   -
     image: mincoffin5.jpg
-    caption:
+    caption: Detail of the coffin showing traces of powdery white material and Egyptian blue pigment.
   - 
     image: mincoffin6.jpg
-    caption:
+    caption: Remains of a black fingerprint left by one of the craftsmen. 
   -
     image: mincoffin7.jpg
-    caption:
+    caption: Advanced imaging techniques help to detect the presence of coloured pigments, varnishes and resins. 
   - 
     image: mincoffin8.jpg
-    caption:
+    caption: Conservator, Flavia Ravaioli, microscopically examining the miniature coffin.
 ---
 By Flavia Ravaioli, Conservator
 
-In 2016 the Fitzwilliam Museum made the headlines with a remarkable discovery: a miniature Egyptian coffin that had been thought to hold mummified organs was found to contain an embalmed human foetus, the youngest ever known to be buried in Ancient Egypt. The coffin had been x-rayed in preparation for the 'Death on the Nile' exhibition, but when the results appeared inconclusive it was decided to CT-scan its contents. This revealed a mummified foetus only 18 weeks into gestation, its arms ritually folded over its chest. It was wrapped in bandage, over which molten back resin had been poured before the coffin was closed.
+In 2016 the Fitzwilliam Museum made the [headlines](https://www.independent.co.uk/news/science/ancient-egypt-foetus-mummified-coffin-fitzwilliam-museum-cambridge-a7024171.html) with a remarkable discovery: a miniature Egyptian coffin that had been thought to hold mummified organs was found to contain an embalmed human foetus, the youngest ever known to be buried in Ancient Egypt. The coffin had been X-rayed in preparation for the ['Death on the Nile'](https://www.fitzmuseum.cam.ac.uk/gallery/deathonthenile/) exhibition, but when the results appeared inconclusive it was decided to CT-scan its contents. This revealed a mummified foetus only 18 weeks into gestation, its arms ritually folded over its chest. It was wrapped in bandage, over which molten back resin had been poured before the coffin was closed.
 
-The coffin that holds the bundle is of interest in itself. Excavated in Giza by the British School of Archaeology in 1907, it came to the museum in the same year. Though the wood is poorly preserved, and the painted surface entirely lost, surviving details of the face and ears show that it was skilfully carved. Measuring only 43 cm in length, it is a fine example of an anthropoid coffin of the Late Period (664-525 BC), built on a tiny scale.
+The coffin that holds the bundle is of interest in itself. Excavated in Giza by the British School of Archaeology in 1907, it came to the Museum in the same year. Though the wood is poorly preserved, and the painted surface entirely lost, surviving details of the face and ears show that it was skilfully carved. Measuring only 43 cm in length, it is a fine example of an anthropoid coffin of the Late Period (664-525 BC), built on a tiny scale.
 
-I recently re-examined the artefact with the aim of completing its technical study and assessing the condition of the vulnerable surface. X-ray examination confirmed that box and lid are each carved out of a single piece of cedar wood, joined by four pegged tenons on each side. The deterioration of the wood is so severe that deep crevices are visible in X-rays of the box.
+I recently re-examined the artefact with the aim of completing its technical study and assessing the condition of the vulnerable surface. X-ray examination confirmed that the box and lid are each carved out of a single piece of cedar wood, joined by four pegged tenons on each side. The deterioration of the wood is so severe that deep crevices are visible in X-rays of the box.
 
 A powdery white material can be seen on the ears, face, chest and feet, particularly in recessed areas. This shows that the surface would have been covered in a white preparation layer (typically calcite mixed with animal glue), applied over the wood to create a smooth surface for painting. Traces of black resin are also visible, which may be unintentional “splashes” from when the burial bundle was coated.
 
