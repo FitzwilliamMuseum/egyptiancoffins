@@ -1,7 +1,7 @@
 ---
 layout: coffins
 title: Study and conservation of a miniature Egyptian coffin
-permalink: /coffins/miniature
+permalink: /coffins/miniature-coffin
 category: miniature-coffin
 images:
   -
