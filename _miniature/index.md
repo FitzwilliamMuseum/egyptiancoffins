@@ -7,7 +7,7 @@ images:
   -
     image: mincoffin1.jpg
     caption: Miniature coffin with contents.  
--
+  -
     image: mincoffin3.jpg
     caption: Detail of the head end of the miniature coffin. 
   -
