@@ -68,13 +68,17 @@ Cooney has identified a range of different types of re-use on 21st Dynasty coffi
 
 N.B. There are 19th and 20th century repairs on all three elements of the set were used primarily to reinforce weak elements and joints. They consist of:
 
-### Mummy board
+#### Mummy board
 
 A metal bar screwed across the width of the mummy board, to secure the structure above the break at the feet; and two small nails at the shoulder (all now removed).
 
-Inner coffin lid: one screw and one nail in the rim pieces at the head end; a single screw and a metal plate screwed into the foot section of the inner coffin lid; and two short modern wooden dowels, substituting for broken-off ancient dowels, which attached the footboard to the central plank of the foundation board.
+### Inner coffin lid
 
-Outer coffin box: numerous handmade iron nails holding the base boards to the side panels and the side panels to each other; three large, modern oak dowels (in ancient dowel holes) holding the proper right side panels to the head end. All the evidence discussed below is found under original paste and varnish layers and would appear to show ancient re-use of wood.
+One screw and one nail in the rim pieces at the head end; a single screw and a metal plate screwed into the foot section of the inner coffin lid; and two short modern wooden dowels, substituting for broken-off ancient dowels, which attached the footboard to the central plank of the foundation board.
+
+### Outer coffin box
+
+Numerous handmade iron nails holding the base boards to the side panels and the side panels to each other; three large, modern oak dowels (in ancient dowel holes) holding the proper right side panels to the head end. All the evidence discussed below is found under original paste and varnish layers and would appear to show ancient re-use of wood.
 
 ### Mummy board
 The only feature of the mummy board that may indicate refashioned or re-used wood is a redundant dowel hole, filled with a dense material (presumably paste) and revealed as a pale, opaque feature on the X-radiograph along the internal join of the two long planks.
