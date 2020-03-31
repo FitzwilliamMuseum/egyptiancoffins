@@ -45,5 +45,5 @@ on the external surface.
 
 ### Papyrus
 
-A writing material made from the inner pith of papyrus plant (Cyperus papyrus) stems. The term papyrus (plural: papyri) 
+A writing material made from the inner pith of papyrus plant (_Cyperus papyrus_) stems. The term papyrus (plural: papyri) 
 is used also to describe documents made from this material.
