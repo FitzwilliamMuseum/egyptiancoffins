@@ -68,7 +68,7 @@ Cooney has identified a range of different types of re-use on 21st Dynasty coffi
 
 N.B. There are 19th and 20th century repairs on all three elements of the set were used primarily to reinforce weak elements and joints. They consist of:
 
-#### Mummy board
+##### Mummy board
 
 A metal bar screwed across the width of the mummy board, to secure the structure above the break at the feet; and two small nails at the shoulder (all now removed).
 
