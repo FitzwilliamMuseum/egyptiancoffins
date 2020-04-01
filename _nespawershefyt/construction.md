@@ -69,22 +69,20 @@ Cooney has identified a range of different types of re-use on 21st Dynasty coffi
 N.B. There are 19th and 20th century repairs on all three elements of the set were used primarily to reinforce weak elements and joints. They consist of:
 
 ##### Mummy board
-
 A metal bar screwed across the width of the mummy board, to secure the structure above the break at the feet; and two small nails at the shoulder (all now removed).
 
-### Inner coffin lid
-
+##### Inner coffin lid
 One screw and one nail in the rim pieces at the head end; a single screw and a metal plate screwed into the foot section of the inner coffin lid; and two short modern wooden dowels, substituting for broken-off ancient dowels, which attached the footboard to the central plank of the foundation board.
 
-### Outer coffin box
-
+##### Outer coffin box
 Numerous handmade iron nails holding the base boards to the side panels and the side panels to each other; three large, modern oak dowels (in ancient dowel holes) holding the proper right side panels to the head end. All the evidence discussed below is found under original paste and varnish layers and would appear to show ancient re-use of wood.
 
-### Mummy board
+### Re-used materials: Mummy board
 The only feature of the mummy board that may indicate refashioned or re-used wood is a redundant dowel hole, filled with a dense material (presumably paste) and revealed as a pale, opaque feature on the X-radiograph along the internal join of the two long planks.
 
-### Inner coffin
-Box - footboard. A fairly simple example of re-use is illustrated by the stack of CT images through the depth of the footboard. Two horizontal planks are held together with dowels to create the footboard. However, also within the depth of the top plank, immediately behind the proper right side dowel, there are remains of half a redundant mortise, with a pegged tenon still in place, but sliced across. Clearly this is re-used wood from a wider plank that has been cut down.
+### Re-used materials: Inner coffin
+#### Box - footboard
+A fairly simple example of re-use is illustrated by the stack of CT images through the depth of the footboard. Two horizontal planks are held together with dowels to create the footboard. However, also within the depth of the top plank, immediately behind the proper right side dowel, there are remains of half a redundant mortise, with a pegged tenon still in place, but sliced across. Clearly this is re-used wood from a wider plank that has been cut down.
 
 Box rim mortises 
 The current rim mortises (marked by blue arrows) of the box are all about 40 to 50mm in length. These line up with the rim mortises on the lid. But, covered with a paste and varnish layer and scarcely visible to the naked eye, there is a second set (marked with red arrows), each about 60 to 70mm long and each filled or part-filled with a piece of wood that is wedged into the gap and covered over with paste. The CT images of the rim and of a section of the side wall of the coffin box, help clarify the features and also show that these fill pieces are not old tenons. The grain in a tenon is always perpendicular to the grain of the piece of wood in which it is sitting in order to give strength to the joint. The grain in all of these pieces runs in the same direction as the grain in the side panel. They are just fill pieces.
