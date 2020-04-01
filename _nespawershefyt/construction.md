@@ -84,7 +84,7 @@ The only feature of the mummy board that may indicate refashioned or re-used woo
 #### Box - footboard
 A fairly simple example of re-use is illustrated by the stack of CT images through the depth of the footboard. Two horizontal planks are held together with dowels to create the footboard. However, also within the depth of the top plank, immediately behind the proper right side dowel, there are remains of half a redundant mortise, with a pegged tenon still in place, but sliced across. Clearly this is re-used wood from a wider plank that has been cut down.
 
-Box rim mortises 
+#### Box rim mortises 
 The current rim mortises (marked by blue arrows) of the box are all about 40 to 50mm in length. These line up with the rim mortises on the lid. But, covered with a paste and varnish layer and scarcely visible to the naked eye, there is a second set (marked with red arrows), each about 60 to 70mm long and each filled or part-filled with a piece of wood that is wedged into the gap and covered over with paste. The CT images of the rim and of a section of the side wall of the coffin box, help clarify the features and also show that these fill pieces are not old tenons. The grain in a tenon is always perpendicular to the grain of the piece of wood in which it is sitting in order to give strength to the joint. The grain in all of these pieces runs in the same direction as the grain in the side panel. They are just fill pieces.
 
 The top plank on each side of the box is a single piece of wood from the foot end up to the point where the side joins the coopered head of the coffin box. The shape of these planks coupled with the position and alignment of the four old mortises on each side strongly suggests that the panels are from another coffin. It is possible of course that the carpenter of Nespawershefyt's coffin simply misplaced the rim mortises when he first cut them and had to reposition them. However, the inference that these panels have been adapted from an earlier coffin is further supported by the positioning of the new mortises. Examination of the addition and subtraction of pieces of wood to accommodate this and possibly to change the profile of the sides also confirms it.
@@ -97,22 +97,21 @@ Where the side planks join the coopered head, the opposite mechanism appears to 
 
 There may have been some shaving down of the interior wall along the length of the coffin, but the effect as seen in the CT scan transverse images is slight and not entirely consistent. It is most obvious where the wall of an internal mortise and tenon joint, which holds the bottom and top planks together, has been penetrated and the holes in the wall that this has created have then been filled up with paste. This is the case in three of these eight internal mortise and tenon joints. It is slight and subtle and may be only a final thinning of the wall, but it may also indicate a reshaping of the wall from a straighter to a more outwardly flared profile.
 
-Box - head end
+#### Box - head end
 The coopered head of the box also shows signs of adaptation. The central panel has been attached to the outer panels with relatively well-fitting mortise and tenon joints on each side, marked by blue arrows on the image. There is one towards the top of the structure, the other towards the bottom. But where the outer coopered panels attach to the long side panels of the box there are remnants of much bigger mortise and tenon connectors that are now redundant and have been cut across. The head end is now attached to the sides with four very long dowels that cut right through all this earlier structure.
 
-Inner coffin
-Lid - p.l. rim
+#### Lid - p.l. rim
 On either side of the lid the rim consists of a long piece of wood that is attached to the big foundation board. Marked with blue arrows on the CT image are the current rim mortises and in them (except for the proper left side head end mortise, which is empty) the tenons that make the current closure system of the lid to the box. But on the left hand side only, there are, as on the box, four longer mortises (marked by red arrows), that have been cut across, filled with pieces of wood and covered with paste. In reshaping the outer profile of the rim piece, the carpenter has cut rather severely into the second old mortise from the head end. The resulting hole was then filled with a new piece of wood, stuck in with glue and paste, and decorated over. This piece of wood has long been detached from the coffin and the relationship apparently not understood until recently. It has the accession number E.1.1867.
 
 When the CT image of the lid rim is put onto that of the box rim it is notable that these old mortises line up remarkably well, possibly suggesting that this lid rim and the proper left side panels of the box may originally have been part of the same earlier coffin.
 
-Lid - foundation board
+#### Lid - foundation board
 There are other more minor examples of re-used wood, for example, the central fill piece in the leg area of the foundation board has an old cut-through mortise that has been filled up with a fragment of wood and a mass of paste.
 
-Lid - footboard
+#### Lid - footboard
 The construction of the footboard appears to be partially re-cut and is extensively patched, but the precise nature of the re-use is not yet clear. On the foundation board of the lid there are four redundant dowel holes (three filled with cut-off dowels) that penetrate only the depth of this board and that are not used at all in the current connection to the feet of the coffin. However, their position and regular spacing suggest that this may have been their original function.
 
-Interpretation of re-use
+### Interpretation of re-use of inn
 In summary, is it possible that these are the sides of an older coffin box that originally had straighter, more upright walls that have been made into a curvier, slightly more flared shape and also that the left hand rim of the current lid and the left hand side of the current box both come from the same older coffin.
 
 Outer coffin
