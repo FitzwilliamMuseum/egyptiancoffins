@@ -111,10 +111,10 @@ There are other more minor examples of re-used wood, for example, the central fi
 #### Lid - footboard
 The construction of the footboard appears to be partially re-cut and is extensively patched, but the precise nature of the re-use is not yet clear. On the foundation board of the lid there are four redundant dowel holes (three filled with cut-off dowels) that penetrate only the depth of this board and that are not used at all in the current connection to the feet of the coffin. However, their position and regular spacing suggest that this may have been their original function.
 
-### Interpretation of re-use of inn
+#### Interpretation of re-use
 In summary, is it possible that these are the sides of an older coffin box that originally had straighter, more upright walls that have been made into a curvier, slightly more flared shape and also that the left hand rim of the current lid and the left hand side of the current box both come from the same older coffin.
 
-Outer coffin
+### Outer coffin
 The size and structural fragility of the outer coffin have thus far precluded the possibility of undertaking CT scanning on either the box or the lid. However, the visible evidence and the images from X-radiography have revealed a number of features that suggest re-used wood. On the box these include both empty and paste-filled halves of mortises and dowel holes on the foot end boards. Also, the scarf-jointed section on the foot end of the lower plank on the proper left side ends in a dowel hole cut through the centre of its long axis. As with the inner coffin box, the exterior sides of the shoulders have been thickened with thin wood pieces glued and dowelled to the main side panels and supplemented with patches of paste to make them fit to the profile of the head end. The attachment on each side of the head end to its side panels is with three long dowels (on the proper right side these are filled with modern oak dowels, but the holes themselves appear to be ancient and to match those on the proper left side).
 
 However, on the proper left side these partly cut across three rectangular voids. The latter have no obvious function in the current structure and their shape and position suggest that they may be mortises from the joining mechanism of an earlier object.
