@@ -7,7 +7,38 @@ id: root
 
 ## Terms in use throughout our project
 
-This page gives a short glossary and visual aid to terms our project uses when discussing coffin fabrication.
+This page gives a glossary to terms our project uses when discussing coffin fabrication.
+
+### Types of coffins
+
+#### Box coffin
+
+A rectangular coffin, with no shaping. Often with an eye panel on one side at the head end of the coffin.
+#### Anthropoid coffin
+
+A human-shaped coffin. Middle Kingdom anthropoid coffins were meant to lie on their side. Post-Middle Kingdom coffins were designed to lie on their backs.
+
+#### Rishi coffin
+
+An anthropoid coffin type from the Second Intermediate Period, introduced at Thebes, characterised by a pattern of feathers covering the exterior of the coffin (rishi is derived from the Arabic term for ‘feather’). This type of coffin seems to have developed at Thebes.
+
+#### Qersu
+
+A rectangular four-poster type of outer coffin, with a vaulted lid, typical of the 25th/26th dynasty (Late Period).
+
+#### Inner/outer/intermediate coffin
+
+25th/26th dynasty coffins usually consist of an outer qersu coffin, plus one or more anthropoid coffins inside, one of which may be a cartonnage mummy case.
+
+#### Bivalve coffin
+
+An anthropoid coffin with a box that has a shaped underside, rather than a flat underside. Made in two pieces (box and lid)
+
+#### Mummy case
+
+An anthropoid coffin, often made of cartonnage, usually the inner coffin within a nested set of coffins. Often, but not exclusively, made in one piece.
+
+## Coffin parts
 
 ### Coffin box
 
