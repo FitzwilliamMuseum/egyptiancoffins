@@ -59,9 +59,9 @@ The bottom (long axis) of the coffin box.
 The short panel at the foot end of the coffin box and lid.
 
 
-## Wood working terminology
+### Wood working terminology
 
-### Tangential Sawing
+#### Tangential Sawing
 
 Also known as through-and-through or slash sawing. The trunk or log is sawn down its long axis. Timber cut this way can
 be recognised by the slash-grain pattern on the planks. It is the most economical way to cut up timber, but the planks
