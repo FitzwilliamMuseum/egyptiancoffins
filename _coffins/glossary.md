@@ -88,7 +88,7 @@ When it has not been possible to characterise pigments fully, their elemental ma
 
 **Earths** This is an umbrella term used to describe a range of pigments derived from naturally occurring deposits containing clay minerals, iron oxides and manganese oxides. They can be found in a range of shades depending on the purity and specific chemical structure of the natural sources, and can include red, yellow, orange and green pigments. The term 'earth' may be confused with ochre, which is a member of the earth pigments group, consisting of earths rich in iron oxide and iron hydroxide. Earths on ancient Egyptian objects may contain one or more of the following:
 
-•	Yellow earths The iron sulphates jarosite/natrojarosite (KFe<sub>3</sub>(OH)<sub>6</sub>(SO<sub>4</sub>)<sub>2</sub>/ NaFe<sub>3</sub>(SO<sub>4</sub>)<sub>2</sub>(OH)<sub>6</sub>), and the iron oxides goethite (α-FeO·OH) and limonite (FeO(OH)·nH<sub>2</sub>O).
+* **Yellow earths** The iron sulphates jarosite/natrojarosite (KFe<sub>3</sub>(OH)<sub>6</sub>(SO<sub>4</sub>)<sub>2</sub>/ NaFe<sub>3</sub>(SO<sub>4</sub>)<sub>2</sub>(OH)<sub>6</sub>), and the iron oxides goethite (α-FeO·OH) and limonite (FeO(OH)·nH<sub>2</sub>O).
 •	Red earths The iron oxides haematite (Fe<sub>2</sub>O<sub>3</sub>) and ilmenite (FeTiO<sub>3</sub>). 
 •	Green earths Celadonite and glauconite (iron magnesium silicates belonging to the mica group).  
 As these pigments arise from naturally occurring deposits, they often occur as a mixture and are not always easily classifiable. Where it has been possible to further identify particular pigments, this has been indicated. 
