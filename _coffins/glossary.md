@@ -59,6 +59,44 @@ The bottom (long axis) of the coffin box.
 
 The short panel at the foot end of the coffin box and lid.
 
+## Other coffin terminology
+
+### Masks
+A mask is an object that lies directly over the face of a mummy.
+This term should not be used for a coffin face.
+
+### Sarcophagus (English usage)
+This term is used only for a coffin made of stone.
+All sarcophagi are coffins, but not all coffins are sarcophagi.
+
+### Dowel
+Rounded wooden cylindrical peg'.
+NB: 'dowel' is used instead of 'peg', but 'peg' can be used as a verb, e.g. 'dowels were used to peg things together'.
+
+### Wood vs. wooden
+Wood is a material; 'wooden' is an adjective. Items made of wood should be described as 'wooden' or '(made) of wood', e.g. 'a wooden statue', 'a panel of wood'.
+
+### Adhesive
+Material used to stick things together, e.g. glue, gum
+
+### Binder
+Material holding paint together, often called 'medium'.
+
+### Paint
+Paint is made up of pigment plus a binder.
+
+### Varnish
+In Egypt, usually a resin intended to give a glossy sheen to a surface.
+
+### Infill
+'Infill' used for pieces of wood or other material used to fill large gaps in construction.
+
+### Fill
+A 'fill' will usually be of paste and may be part of a preparation layer.
+
+### Inlay
+A piece of decoration made completely separately and usually inset within a retaining framework.
+
 ## Wood working terminology
 
 ### Tangential Sawing
