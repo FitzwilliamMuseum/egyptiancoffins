@@ -76,9 +76,9 @@ known as a 'ground' layer.
 
 When it has not been possible to characterise pigments fully, their elemental make up has been recorded as, for example, 'calcium-based' or 'copper-based'. 
 
-**Egyptian blue** and **Egyptian green** Manufactured pigments, prepared by firing copper minerals or metal with a calcium compound (like powdered limestone), silica and soda at high temperature. The principal colour component in Egyptian blue is calcium copper tetrasilicate (CaCuSi<sub>4</sub>O<sub>10</sub>), and in Egyptian green is cupro-wollastonite (CaSiO_3 with copper in the structure). 
+**Egyptian blue** and **Egyptian green** Manufactured pigments, prepared by firing copper minerals or metal with a calcium compound (like powdered limestone), silica and soda at high temperature. The principal colour component in Egyptian blue is calcium copper tetrasilicate (CaCuSi<sub>4</sub>O<sub>10</sub>), and in Egyptian green is cupro-wollastonite (CaSiO<sub>3</sub> with copper in the structure). 
 
-**Malachite (Cu2CO3(OH)2)** A mineral pigment, giving a pale green colour.
+**Malachite (Cu<sub>2</sub>CO<sub>3</sub>(OH)<sub>2</sub>)** A mineral pigment, giving a pale green colour.
 
 **Chrysocolla (Cu2H2Si2O5(OH)4)** A mineral pigment with a turquoise blue colour. 
 
