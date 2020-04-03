@@ -38,23 +38,23 @@ An anthropoid coffin with a box that has a shaped underside, rather than a flat 
 
 An anthropoid coffin, often made of cartonnage, usually the inner coffin within a nested set of coffins. Often, but not exclusively, made in one piece.
 
-## Coffin parts
+### Coffin parts
 
-### Coffin box
+#### Coffin box
 
 The part of the coffin in which the body was placed. The term is used here for both rectangular box coffins and anthropoid
 coffins.
 
-### Coffin lid
+#### Coffin lid
 
 The part of the coffin that was placed on top of the box. In an anthropoid coffin, this would be the part that resembles
 the front of the head and body of the person.
 
-### Coffin base
+#### Coffin base
 
 The bottom (long axis) of the coffin box.
 
-### Footboard
+#### Footboard
 
 The short panel at the foot end of the coffin box and lid.
 
@@ -67,30 +67,30 @@ Also known as through-and-through or slash sawing. The trunk or log is sawn down
 be recognised by the slash-grain pattern on the planks. It is the most economical way to cut up timber, but the planks
 are prone to 'cup' because the wood dries and shrinks unevenly across the width of the plank.
 
-## Materials
+### Materials
 
-### Cartonnage
+#### Cartonnage
 
 A laminated material constructed of layers of linen or papyrus soaked in glue, with a layer of paste on the internal and 
 on the external surface.
 
-### Papyrus
+#### Papyrus
 
 A writing material made from the inner pith of papyrus plant (_Cyperus papyrus_) stems. The term papyrus (plural: papyri) 
 is used also to describe documents made from this material.
 
-### Faience 
+#### Faience 
 A term that has been used to describe a range of glazed composition materials, but is usually defined as a shaped core made 
 of crushed quartz or sand mixed with small quantities of lime and natron or plant ash, coated with a glaze and fired in a 
 kiln. The glazes usually contain copper, which gives the faience a blue-green colour.
 
-### Frit
+#### Frit
 
 A name commonly applied to Egyptian glassy materials. Frit has the same composition and structure all the way through the 
 material (as opposed to the distinct core and glaze layer of faience). The pigment Egyptian blue is a frit. If it was ground 
 up, mixed to a paste with water, then shaped and refired, an object made of blue frit (e.g., an amulet) could be produced.
 
-### Paste 
+#### Paste 
 
 In describing Egyptian objects, the term 'plaster' is often used rather loosely to cover both true plasters (made from lime 
 or gypsum cements) and pastes made from a binder (such as animal glue) mixed with calcium sulphate (often called gesso) or 
@@ -98,12 +98,12 @@ with calcium carbonate (often called whiting). To avoid confusion and to address
 these materials can be present, together with clay minerals and vegetable fibres, the term 'paste is used in our research 
 project as it implies no particular chemistry or technology. 
 
-### Preparation layer 
+#### Preparation layer 
 
 A layer of paste applied across the coffin to provide a smooth, neutral surface to which paint can be applied. Sometimes 
 known as a 'ground' layer. 
 
-## Egyptian painting materials: A quick guide to the principal pigments 
+### Egyptian painting materials: A quick guide to the principal pigments 
 
 When it has not been possible to characterise pigments fully, their elemental make up has been recorded as, for example, 'calcium-based' or 'copper-based'. 
 
@@ -182,7 +182,7 @@ In contrast, the following techniques require a small sample to be removed from 
 * Raman spectroscopy
 * Fourier transform infrared spectroscopy (FTIR)
 * Gas chromatography–mass spectrometry (GC-MS)
-* Wood identification.
+* Wood identification
 
 **Visible-light induced luminescence (VIL) photography** Egyptian blue pigment emits particular bands of infrared radiation when lit with visible light. VIL photography captures this emission using a sensitive camera filtered to let only those bands of infrared light through. All the Egyptian blue (even minute particles) shows up as bright white on the photograph, enabling identification of lost areas of decoration or traces of inscription (fig. XX).
 
