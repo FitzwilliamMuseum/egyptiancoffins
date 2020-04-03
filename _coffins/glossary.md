@@ -108,7 +108,7 @@ As these pigments arise from naturally occurring deposits, they often occur as a
 
 *	**Bassanite (CaSO<sub>4</sub>· ½H<sub>2</sub>O)** Made from roasting gypsum at high temperatures, sometimes found naturally. The modern equivalent is plaster of Paris. 
 
-*	**Anhydrite (CaSO<sub>4</sub>)** Completely dehydrated version of gypsum sometimes found naturally, or produced by heating above 200oC (392oF).
+*	**Anhydrite (CaSO<sub>4</sub>)** Completely dehydrated version of gypsum sometimes found naturally, or produced by heating above 200°C (392°F).
 
 **Lead white (PbCO<sub>3</sub>Pb(OH)<sub>2</sub>)** Lead carbonate, an opaque white pigment. 
 
