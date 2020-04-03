@@ -127,3 +127,52 @@ As these pigments arise from naturally occurring deposits, they often occur as a
 *	**Madder** Pink dyestuff made from the root of the madder plant Rubia tinctorum fixed on a mineral base such as aluminium sulphate. 
 
 *	**Indigo** Blue dyestuff from plants of the Indigofera species fixed on a mineral base.
+
+## Imaging and Analytical techniques 
+
+All the techniques described here are based on examining the interaction of the materials of the object with radiation from various parts of the electromagnetic spectrum and recording the results. 
+
+The following techniques can be carried out directly on the object: 
+
+ * Visible-light induced luminescence (VIL) photography
+ * Ultraviolet fluorescence
+ * Infrared (IR) reflectography
+ * UV-VIS-NIR fibre optic reflectance spectroscopy (FORS)
+ * X-Ray fluorescence spectrometry (XRF)
+ * X-radiography
+ * CT scanning
+
+In contrast, the following techniques require a small sample to be removed from the object: 
+
+* PLM
+* Cross-section analysis
+* SEM-EDX
+* XRD
+* Raman spectroscopy
+* FTIR
+* GC-MS
+* Wood identification.
+
+**Visible-light induced luminescence (VIL) photography** Egyptian blue pigment emits particular bands of infrared radiation when lit with visible light. VIL photography captures this emission using a sensitive camera filtered to let only those bands of infrared light through. All the Egyptian blue (even minute particles) shows up as bright white on the photograph, enabling identification of lost areas of decoration or traces of inscription (fig. XX).
+
+**Ultraviolet (UV) fluorescence** When subjected to ultraviolet radiation, some materials emit (fluoresce) visible light in characteristic colours. For example, under UV light, pistacia resin varnish fluoresces greenish-yellow and the pink pigment madder fluoresces bright orange. This technique clarifies where these materials are located on the object (fig. XX) and also shows up areas of restoration, which are often made of materials that do not fluoresce (fig. XX).
+
+**Infrared (IR) reflectography** Infrared radiation is absorbed by certain painting and drawing materials, especially carbon-based black pigments. This type of radiation can penetrate through paint layers and can be captured photographically with a camera sensitive to infrared radiation. Underdrawings executed in carbon-based black show up as black on the image, even when not visible on the surface. It is possible, therefore, to see where they have been used in early drawing stages of the decoration (see cat. 22, fig. XX [IR photo. In the caption explain that the black areas are carbon black pigments]). 
+
+**UV-VIS-NIR fibre optic reflectance spectroscopy (FORS)** This method measures colour: the paint is illuminated with radiation from the ultraviolet, visible, and near-infrared regions of the electromagnetic spectrum. The light reflected off the surface is captured and the spectrum recorded by a computer. Many pigments produce spectra with key features that are specific to them, allowing the material to be identified through comparison with reference spectra (fig. XX). 
+
+**X-Ray fluorescence spectrometry (XRF)** A small area of the object is bombarded with X-rays. These X-rays excite atoms within the material, causing them to emit secondary X-rays. The energies of these secondary X-rays (fluorescence) are characteristic of the elements present, such as iron or calcium. This is a quick, sensitive method for identifying inorganic pigments containing heavy elements (e.g., orpiment, which contains arsenic). 
+
+X-radiography X-ray radiation penetrates through matter: the denser a material is, the more difficult it is for the X-rays to penetrate. A sheet of film is placed under the object and records the relative intensity of the X-rays that emerge after they have passed through the object. An X-radiograph shows the internal structure of the object and clarifies the assembly of a coffin. (fig. XX).
+Computed tomography (CT) imaging Conventional X-radiography provides a two-dimensional image of the interior of the object. CT, sometimes known as CAT scanning, is similar to standard X-radiography, but in this technique the data is collected simultaneously in different planes, producing cross-section slices (like the slices in a loaf of bread). Each slice can be examined individually and three-dimensional images of the object can be produced, providing a wealth of detail about internal structure (see cat. 27 [E.1.1822], fig. XX; cat. 55 [E.63.1903], fig. XX). 
+Polarised Light Microscopy (PLM) A tiny sample of pigment, taken from the coffin surface, is mounted in adhesive on a microscope slide. Light is passed through the particles, which are viewed down the optical microscope to record features such as size and shape. The use of polarising filters causes the particles to interact with light in different states. All these features can be diagnostic of specific pigments (fig. XX).
+Cross-section analysis A minute fragment from the painted surface is embedded in resin, ground and polished. This cross section is viewed in reflected light under an optical microscope. It can reveal information about the materials and techniques used by the artist and show up later restorations (fig. XX).
+Scanning electron microscopy–energy-dispersive X-ray spectroscopy (SEM/EDX) A powerful microscope irradiates a sample with a beam of electrons. These particles scatter on the surface and produce a high-magnification image of the sample. The electron beam also causes X-rays to be generated by the elements in the sample. When used on a cross section, this technique can show where inorganic pigments with heavy elements are located within a layer structure.
+
+X-Ray powder diffraction (XRD) When a tiny powdered sample of paint is bombarded with X-rays, the shape of the crystal structure causes the X-rays to change direction and intensity in distinctive patterns. These patterns can help identify pigments and pastes, and can differentiate between materials with similar chemical compositions but different structures (e.g., orpiment and realgar, both made of arsenic and sulphur but with different structures).
+Raman spectroscopy A tiny sample is subjected to a laser beam (wavelengths in the UV, visible or near-infrared parts of the electromagnetic spectrum). The resulting vibration of chemical bonds in the molecules gives information about their structure. It can identify materials and differentiate between certain molecules with similar chemical compositions but different structures.
+
+Fourier transform infrared spectroscopy (FTIR) Molecules in a sample all absorb infrared radiation at specific wavelengths. By measuring the energy absorbed by the movement of the bonds in the molecules, it is possible to identify the class of organic material present (e.g., a plant gum as opposed to a tree resin or animal glue). FTIR can distinguish between organic materials found in the binding media or varnish and identify certain pigments (such as calcite, indigo and lead white) which absorb energy in the infrared. 
+Gas chromatography–mass spectrometry (GC-MS) Gas chromatography separates out the individual molecules in a complex mixture. Then each of the individual molecular components is identified by mass spectrometry. The technique distinguishes between different species of organic material in the paint binding media or varnish layers: for example, determining whether a natural resin varnish is a pistacia or conifer resin. 
+
+Wood identification Tiny samples of ancient Egyptian wood are sectioned to reveal details of the cellular wood anatomy needed for scientific identifications. Transverse, radial longitudinal and tangential longitudinal sections are then examined under high magnifications using the optical microscope in reflected light mode as well as the variable pressure scanning electron microscope (fig. XX). Reference specimens and wood anatomy databases are used for comparison. 
