@@ -80,7 +80,7 @@ When it has not been possible to characterise pigments fully, their elemental ma
 
 **Malachite (Cu<sub>2</sub>CO<sub>3</sub>(OH)<sub>2</sub>)** A mineral pigment, giving a pale green colour.
 
-**Chrysocolla (Cu2H2Si2O5(OH)4)** A mineral pigment with a turquoise blue colour. 
+**Chrysocolla (Cu<sub>2</sub>H<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>(OH)<sub>4</sub>)** A mineral pigment with a turquoise blue colour. 
 
 **Copper-wax, copper-proteinate, copper carbohydrate** Green pigments produced from the reaction of copper salts with various organic media.
 
@@ -88,22 +88,22 @@ When it has not been possible to characterise pigments fully, their elemental ma
 
 **Earths** This is an umbrella term used to describe a range of pigments derived from naturally occurring deposits containing clay minerals, iron oxides and manganese oxides. They can be found in a range of shades depending on the purity and specific chemical structure of the natural sources, and can include red, yellow, orange and green pigments. The term 'earth' may be confused with ochre, which is a member of the earth pigments group, consisting of earths rich in iron oxide and iron hydroxide. Earths on ancient Egyptian objects may contain one or more of the following:
 
-•	Yellow earths The iron sulphates jarosite/natrojarosite (KFe3(OH)6(SO4)2/ NaFe3(SO4)2(OH)6), and the iron oxides goethite (α-FeO·OH) and limonite (FeO(OH)·nH2O).
-•	Red earths The iron oxides haematite (Fe2O3) and ilmenite (FeTiO3). 
+•	Yellow earths The iron sulphates jarosite/natrojarosite (KFe<sub>3</sub>(OH)<sub>6</sub>(SO<sub>4</sub>)<sub>2</sub>/ NaFe<sub>3</sub>(SO<sub>4</sub>)<sub>2</sub>(OH)<sub>6</sub>), and the iron oxides goethite (α-FeO·OH) and limonite (FeO(OH)·nH<sub>2</sub>O).
+•	Red earths The iron oxides haematite (Fe<sub>2</sub>O<sub>3</sub>) and ilmenite (FeTiO<sub>3</sub>). 
 •	Green earths Celadonite and glauconite (iron magnesium silicates belonging to the mica group).  
 As these pigments arise from naturally occurring deposits, they often occur as a mixture and are not always easily classifiable. Where it has been possible to further identify particular pigments, this has been indicated. 
-Calcite (CaCO3) Calcium carbonate. 
+Calcite (CaCO<sub>3</sub>) Calcium carbonate. 
 •	Micritic calcite Microscopy term to describe calcite visible as very fine particles, usually originating from chalk. 
 •	Sparitic calcite Microscopy term to describe calcite that forms into crystals, usually suggesting limestone origin.
-Huntite (Mg3Ca(CO3)4) Magnesium calcium carbonate, a bright white pigment. 
-Gyspum (CaSO4· 2H2O) Calcium sulphate.
-•	Bassanite (CaSO4· ½H2O) Made from roasting gypsum at high temperatures, sometimes found naturally. Modern equivalent is plaster of Paris. 
-•	Anhydrite (CaSO4) Completely dehydrated version of gypsum sometimes found naturally, or produced by heating above 200oC (392oF).
-Lead white (PbCO3Pb(OH)2) Lead carbonate, an opaque white pigment. 
-Red lead (Pb3O4) Lead tetroxide, a bright orange-red pigment. 
+Huntite (Mg<sub>3</sub>Ca(CO<sub>3</sub>)<sub>4</sub>) Magnesium calcium carbonate, a bright white pigment. 
+Gyspum (CaSO<sub>4</sub>· 2H<sub>2</sub>O) Calcium sulphate.
+•	Bassanite (CaSO<sub>4</sub>· ½H<sub>2</sub>O) Made from roasting gypsum at high temperatures, sometimes found naturally. Modern equivalent is plaster of Paris. 
+•	Anhydrite (CaSO<sub>4</sub>) Completely dehydrated version of gypsum sometimes found naturally, or produced by heating above 200oC (392oF).
+Lead white (PbCO<sub>3</sub>Pb(OH)<sub>2</sub>) Lead carbonate, an opaque white pigment. 
+Red lead (Pb<sub>3</sub>O<sub>4</sub>) Lead tetroxide, a bright orange-red pigment. 
 Cinnabar (HgS) Mercury sulphide, a vivid red mineral pigment.
-Orpiment (As2S3) Arsenic sulphide, a lemon yellow pigment.
-Realgar/pararealgar (As4S4) Arsenic sulphide (but different crystal structures), orange pigments. Pararealgar is a degradation product of realgar. 
+Orpiment (As<sub>2</sub>S<sub>3</sub>) Arsenic sulphide, a lemon yellow pigment.
+Realgar/pararealgar (As<sub>4</sub>S<sub>4</sub>) Arsenic sulphide (but different crystal structures), orange pigments. Pararealgar is a degradation product of realgar. 
 Carbon-based black A group of pigments made mainly of carbon. In Egypt, these are principally soot and charcoal. 
 Lake pigments Also known as dyestuffs, these are organic pigments that can be made from certain insect or plant matter. The colour is extracted and precipitated onto a metallic salt substrate. Lake pigments found on Egyptian objects include: 
 •	Madder Pink dyestuff made from the root of the madder plant Rubia tinctorum fixed on a mineral base such as aluminium sulphate. 
