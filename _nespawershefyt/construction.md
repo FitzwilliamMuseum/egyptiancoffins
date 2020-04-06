@@ -78,7 +78,7 @@ N.B. There are 19th and 20th century repairs on all three elements of the set we
 The only feature of the mummy board that may indicate refashioned or re-used wood is a redundant dowel hole, filled with a dense material (presumably paste) and revealed as a pale, opaque feature on the X-radiograph along the internal join of the two long planks.
 
 ### Re-used materials: Inner coffin
-#### Box [footboard](/resources/glossary#glossary-footboard)
+#### Box [footboard](/resources/glossary#footboard)
 A fairly simple example of re-use is illustrated by the stack of CT images through the depth of the footboard. Two horizontal planks are held together with dowels to create the footboard. However, also within the depth of the top plank, immediately behind the proper right side dowel, there are remains of half a redundant mortise, with a pegged tenon still in place, but sliced across. Clearly this is re-used wood from a wider plank that has been cut down.
 
 #### Box rim mortises 
