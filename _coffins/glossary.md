@@ -55,7 +55,7 @@ the front of the head and body of the person.
 
 The bottom (long axis) of the coffin box.
 
-### Footboard
+### [Footboard](#glossary-footboard)
 
 The short panel at the foot end of the coffin box and lid.
 
