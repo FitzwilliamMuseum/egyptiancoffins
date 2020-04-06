@@ -52,7 +52,7 @@ wooden carcass over strips of linen fabric. The painting was carried out using a
 of [pens](/images/nespawershefyt/reedpens.jpg) made from single hollow stems and [brushes](/images/nespawershefyt/reedbrushes.jpg) made from plant fibres or sticks of fibrous wood bundled together.
 
 A very thin wash of lemon yellow orpiment (an arsenic sulphide mineral commonly used as a
-substitute to gold) was applied over the white preparation layer on the mummy board and
+substitute to gold) was applied over the white [preparation layer](/resources/glossary#preparation-layer) on the mummy board and
 inner coffin, while the white layer has been left exposed as the background on the outer
 coffin. The [rear](/images/nespawershefyt/rearofmummyboard.jpg) of the mummy board is painted a deep red-brown.
 
