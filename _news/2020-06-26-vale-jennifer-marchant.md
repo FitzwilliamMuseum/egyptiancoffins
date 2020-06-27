@@ -8,7 +8,7 @@ permalink: /news/valejennifermarchant
 images:
   -
     image: news/Jenny1.jpg
-    caption: Jenny with a broken plate as part of a packing activity for want-to-be conservators at the 2018 Parker's Piece 'Big Day Out'.
+    caption: Jenny at the 2018 Parker's Piece 'Big Day Out'.
   -
     image: news/Jenny2.jpg
     caption: Jenny with the inner coffin lid of Nespawershefyt at Addenbrooke's Hospital.
@@ -16,6 +16,7 @@ images:
     image: news/Jenny3.jpg
     caption: Jenny at Tell el-Amarna, Egypt in April 2013.
 ---
+It is with great sadness that we announce the passing of Jennifer Marchant (1979-2020). Jennifer was a Conservator of Antiquities at the Fitzwilliam Museum and played a pivotal part in the Fitzwilliam Egyptian coffins project.
 
 After completing a degree in archaeological science at Sheffield University in 2001, Jenny worked in the heritage sector as a field archaeologist, a landscape archaeologist and a community archaeologist. But some years later she changed direction a little and undertook an MA at Lincoln University in the Conservation of Historic Objects.
 
