@@ -3,18 +3,18 @@ title: Vale Jennifer Marchant
 author: Melanie Pitkin
 layout: news
 tags: [Jennifer Marchant, obituary, conservation, Egyptian coffins]
-thumbnail: /images/news/jenny1.jpg
+thumbnail: /images/news/Jenny1.jpg
 permalink: /news/valejennifermarchant
 images:
   -
-    image: news/jenny1.jpg
-    caption: XXX
+    image: news/Jenny1.jpg
+    caption: Jenny with a broken plate as part of a packing activity for want-to-be conservators at the 2018 Parker's Piece 'Big Day Out'.
   -
-    image: news/jenny2.jpg
-    caption: XXX
+    image: news/Jenny2.jpg
+    caption: Jenny with the inner coffin lid of Nespawershefyt at Addenbrooke's Hospital.
   -
-    image: news/jenny3.jpg
-    caption: XXX
+    image: news/Jenny3.jpg
+    caption: Jenny at Tell el-Amarna, Egypt in April 2013.
 ---
 
 After completing a degree in archaeological science at Sheffield University in 2001, Jenny worked in the heritage sector as a field archaeologist, a landscape archaeologist and a community archaeologist. But some years later she changed direction a little and undertook an MA at Lincoln University in the Conservation of Historic Objects.
