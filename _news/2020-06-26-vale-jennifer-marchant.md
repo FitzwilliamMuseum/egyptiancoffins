@@ -10,9 +10,6 @@ images:
     image: news/Jenny1.jpg
     caption: Jenny at the 2018 Parker's Piece 'Big Day Out'.
   -
-    image: news/Jenny4.jpg
-    caption: Jenny with the inner coffin lid of Nespawershefyt on display at the Museum.
-  -
     image: news/Jenny3.jpg
     caption: Jenny at Tell el-Amarna, Egypt in April 2013.
 ---
