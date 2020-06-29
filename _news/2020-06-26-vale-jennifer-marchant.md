@@ -11,13 +11,13 @@ images:
     caption: Jenny at the 2018 Parker's Piece 'Big Day Out'.
   -
     image: news/JennyM2.jpg
-    caption: XXX
+    caption: Jenny with the inner coffin lid of Nespawershefyt at Addenbrooke's Hospital.
   -
     image: news/JennyM3.jpg
-    caption: XXX
+    caption: Jenny with the Museum's Head of Conservation, Julie Dawson, examining the coffin footboard of Nespawershefyt.
   -
     image: news/JennyM5.jpg
-    caption: XXX
+    caption: Jenny at Tell el-Amarna in April 2013.
 ---
 
 It is with great sadness that we announce the passing of Jennifer (Jenny) Marchant (1979-2020). Jenny was a Conservator of Antiquities at the Fitzwilliam Museum and played a pivotal part in the Fitzwilliam Egyptian coffins project. In this post we pay tribute to Jenny and share some reflections on her personal and professonal life.
