@@ -11,9 +11,12 @@ images:
     caption: Jenny at the 2018 Parker's Piece 'Big Day Out'.
   -
     image: news/JennyM2.jpg
-    caption: Jenny at Tell el-Amarna, Egypt in April 2013.
+    caption: XXX
   -
-    image: news/JennyM4.jpg
+    image: news/JennyM3.jpg
+    caption: XXX
+  -
+    image: news/JennyM5.jpg
     caption: XXX
 ---
 
