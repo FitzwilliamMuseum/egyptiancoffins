@@ -7,11 +7,14 @@ thumbnail: /images/news/Jenny1.jpg
 permalink: /news/valejennifermarchant
 images:
   -
-    image: news/Jenny1.jpg
+    image: news/JennyM1.jpg
     caption: Jenny at the 2018 Parker's Piece 'Big Day Out'.
   -
-    image: news/Jenny3.jpg
+    image: news/JennyM2.jpg
     caption: Jenny at Tell el-Amarna, Egypt in April 2013.
+  -
+    image: news/JennyM4.jpg
+    caption: XXX
 ---
 
 It is with great sadness that we announce the passing of Jennifer (Jenny) Marchant (1979-2020). Jenny was a Conservator of Antiquities at the Fitzwilliam Museum and played a pivotal part in the Fitzwilliam Egyptian coffins project. In this post we pay tribute to Jenny and share some reflections on her personal and professonal life.
