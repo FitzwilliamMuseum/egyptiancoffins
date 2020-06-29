@@ -14,7 +14,7 @@ images:
     caption: Jenny with the inner coffin lid of Nespawershefyt at Addenbrooke's Hospital.
   -
     image: news/JennyM3.jpg
-    caption: Jenny with the Museum's Head of Conservation, Julie Dawson, examining the coffin footboard of Nespawershefyt.
+    caption: Jenny at work with the Museum's Head of Conservation, Julie Dawson.
   -
     image: news/JennyM5.jpg
     caption: Jenny at Tell el-Amarna in April 2013.
