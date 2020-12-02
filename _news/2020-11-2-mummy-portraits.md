@@ -28,3 +28,5 @@ The first workshop to be delivered remotely by the Fitzwilliam team is scheduled
 The Fitzwilliam Egyptian Coffins team would like to thank Mr Moamen Othman, Head of the Museums Sector and Dr Sabah Abd el-Razeq, Director of the Egyptian Museum Cairo for their support and encouragement of this project, and personal interests in the mummy portraits. 
 
 To find out more about the project (beyond this website), please head over to Twitter and follow the hashtag #fitzmummyportraits.
+
+Images below courtesy of Julie Dawson and Sara Hany Abed.
