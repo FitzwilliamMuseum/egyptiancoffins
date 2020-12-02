@@ -8,13 +8,13 @@ permalink: /news/mummyportraits
 images:
   -
     image: news/Robepainting.jpg
-    caption: XXX.
+    caption: Dr Lucy Wrapson, Senior Conservator at the Hamilton Karr Institute, Fitzwilliam Museum recreating the mummy portrait of Demos from Hawara (collection: Egyptian Museum Cairo, CG 33237). Image courtesy Julie Dason.
   -
     image: news/GrouppicFeb2.jpg
-    caption: XXX.
+    caption: Members of the Fitzwilliam's Mummy Portraits project visiting the ancient town of Karanis in February 2020. (L-R) Sara Hany Abed, Dr Lucy Wrapson, Mahmoud Kamel, Ashraf Sobhy Rizkalla and Helen Strudwick. Image courtesy Sara Hany Abed.
   -
     image: news/Breakingthroughthepanel.jpg
-    caption: XXX.
+    caption: Filmmaker Gavin Toomey (left) videoing ancient Egyptian carpentry expert, Dr Geoffrey Killen who explains the benefits of using limewood for mummy portrait production. Image courtesy Julie Dawson.
 ---
 
 In late 2019, the Fitzwilliam Egyptian Coffins project was generously awarded funding from the [Global Challenges Research Fund (GCRF)](https://www.ukri.org/our-work/collaborating-internationally/global-challenges-research-fund/) for the project titled Reviving the art of ancient Egyptian mummy portraits in Cairo and the Faiyum: a curatorial, conservation and community collaboration.  As the title suggests, the aim of this project is to try and revive the craft of Roman-period mummy portraits by empowering colleagues at the Egyptian Museum Cairo (EMC), Kom Aushim Museum in the Faiyum and staff from the Ministry of Antiquities, with deep knowledge in how they were made and decorated to help prepare interpretation materials of their collections for museum audiences and local communities. Another key objective of the project is to share this knowledge with local craftsmen in the Faiyum, connect them to their heritage and potentially boost income and tourism to the area.
