@@ -14,7 +14,7 @@ images:
     caption: "Members of the Fitzwilliam's mummy portraits project at Karanis in February 2020."
   -
     image: news/Breakingthroughthepanel.jpg
-    caption: "Filmmaker Gavin Toomey (left) with Dr Geoffrey Killen explaining the benefits of limewood."
+    caption: "Filmmaker Gavin Toomey with Dr Geoffrey Killen explaining the benefits of limewood."
 ---
 
 In late 2019, members of the Fitzwilliam Egyptian Coffins team (led by [Helen Strudwick]((https://egyptiancoffins.org/team/helen-strudwick/))) were generously awarded funding from the [Global Challenges Research Fund (GCRF)](https://www.ukri.org/our-work/collaborating-internationally/global-challenges-research-fund/) for the project titled *Reviving the art of ancient Egyptian mummy portraits in Cairo and the Faiyum: a curatorial, conservation and community collaboration*.  As the title suggests, the aim of this project is to try and revive the craft of Roman-period mummy portraits by empowering colleagues at the Egyptian Museum Cairo (EMC), [Kom Aushim Museum](https://www.sca-egypt.org/eng/MUS_Kom_Aushim.html) in the Faiyum and staff from the Ministry of Antiquities, with deep knowledge in how they were made and decorated to help prepare interpretation materials of their collections for museum audiences and local communities. Another key objective of the project is to share this knowledge with local craftsmen in the Faiyum, connect them to their heritage and potentially boost income and tourism to the area.
