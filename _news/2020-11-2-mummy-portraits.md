@@ -3,17 +3,17 @@ title: Reviving the art of ancient Egyptian mummy portraits. The latest project 
 author: Melanie Pitkin
 layout: news
 tags: [Global Challenges Research Fund, gcrf, Roman Egypt, mummy portraits, Faiyum portraits, Fayum portraits]
-thumbnail: /images/news/Painting the robe_2.jpg
+thumbnail: /images/news/Paintingtherobe_2.jpg
 permalink: /news/mummyportraits
 images:
   -
-    image: news/Painting the robe_2.jpg
+    image: news/Paintingtherobe_2.jpg
     caption: XXX.
   -
-    image: news/Group pic Feb 2.jpg
+    image: news/GrouppicFeb2.jpg
     caption: XXX.
   -
-    image: news/Breaking through the panel.jpeg
+    image: news/Breakingthroughthepanel.jpg
     caption: XXX.
 ---
 
