@@ -11,7 +11,7 @@ images:
     caption: Dr Lucy Wrapson, Senior Conservator at the Hamilton Karr Institute, Fitzwilliam Museum recreating the mummy portrait of Demos from Hawara (collection: Egyptian Museum Cairo, CG 33237). Image courtesy Julie Dason.
   -
     image: news/GrouppicFeb2.jpg
-    caption: Members of the Fitzwilliam's Mummy Portraits project visiting the ancient town of Karanis in February 2020. (L-R) Sara Hany Abed, Dr Lucy Wrapson, Mahmoud Kamel, Ashraf Sobhy Rizkalla and Helen Strudwick. Image courtesy Sara Hany Abed.
+    caption: "Members of the Fitzwilliam's Mummy Portraits project visiting the ancient town of Karanis in February 2020. (L-R) Sara Hany Abed, Dr Lucy Wrapson, Mahmoud Kamel, Ashraf Sobhy Rizkalla and Helen Strudwick. Image courtesy Sara Hany Abed."
   -
     image: news/Breakingthroughthepanel.jpg
     caption: Filmmaker Gavin Toomey (left) videoing ancient Egyptian carpentry expert, Dr Geoffrey Killen who explains the benefits of using limewood for mummy portrait production. Image courtesy Julie Dawson.
