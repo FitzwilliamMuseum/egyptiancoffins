@@ -25,4 +25,4 @@ Shortly following this trip, however, the world changed and so did the nature of
 
 The first workshop to be delivered remotely by the Fitzwilliam team is scheduled to take place in May 2021 with a group of EMC curators and conservators. After participating in the 2-day workshop, which will involve Sara and Nour leading the demonstrations of the recreation in-person, this group will travel south to lead the training of their Faiyum colleagues and the local arts and crafts community. Members of the Fitzwilliam Museum’s project team in the UK will be on hand to provide support. This arrangement is part of a peer-to-peer training network we have been implementing since 2019 designed to empower and upskill our Egyptian colleagues, enabling wider reach to this knowledge from audiences in more geographically diverse locations.
 
-Over the coming months, we will continue to document the progress and impact of this project both here and via the hashtag #fitzmummyportraits on Twitter. 
+Over the coming months, we will continue to document the progress and impact of this project both here and via the hashtag #fitzmummyportraits on Twitter.  
