@@ -25,7 +25,7 @@ Shortly following this trip, however, the world changed and so did the nature of
 
 The first workshop to be delivered remotely by the Fitzwilliam team is scheduled to take place in May 2021 with a group of EMC curators and conservators. After participating in the 2-day workshop, which will involve Sara and Nour leading the demonstrations of the recreation in-person, this group will travel south to lead the training of their Faiyum colleagues and the local arts and crafts community. Members of the Fitzwilliam Museum’s project team in the UK will be on hand (even if only remotely!) to provide support. This arrangement is part of a peer-to-peer training network we have been working to establish since February 2019, which is designed to empower and upskill our Egyptian colleagues, enabling wider reach to this knowledge from audiences in more geographically diverse locations. 
 
-The Fitzwilliam Egyptian Coffins team would like to thank Mr Moamen Othman, Head of the Museums Sector and Dr Sabah Abd el-Razeq, Director of the Egyptian Museum Cairo for their support and encouragement of this project, and personal interests in the mummy portraits. 
+The Fitzwilliam Egyptian Coffins team would like to thank Mr Moamen Othman and Dr Sabah Abd el-Razeq for their support and encouragement of this project, and personal interest in the mummy portraits. 
 
 To find out more about the project (beyond this website), please head over to Twitter and follow the hashtag #fitzmummyportraits.
 
