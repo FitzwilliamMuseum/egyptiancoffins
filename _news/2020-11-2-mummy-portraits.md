@@ -27,6 +27,6 @@ The first workshop to be delivered remotely by the Fitzwilliam team is scheduled
 
 The Fitzwilliam Egyptian Coffins team would like to thank Mr Moamen Othman and Dr Sabah Abd el-Razeq for their support and encouragement of this project, and their personal interest in the mummy portraits. 
 
-To find out more about the project (beyond this website), please head over to Twitter and follow the hashtag #fitzmummyportraits.
+To find out more about the project (beyond this website), please head over to Twitter and follow the hashtag [#fitzmummyportraits](https://twitter.com/search?q=%23fitzmummyportraits&src=typed_query&f=live).
 
 Images below courtesy of Julie Dawson and Sara Hany Abed.
