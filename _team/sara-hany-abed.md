@@ -3,7 +3,7 @@ title: Sara Hany Abed
 institution: Fitzwilliam Museum
 image: /images/staff/SaraAbed.jpg
 layout: team
-job-title: Translator and Project Manager for the 'Pop-Up' Museum, Cairo
+job-title: Translator and Project Manager for the 'Pop-Up' Museum, Egypt
 twitter: "@sara_hany"
 order: 13
 ---
