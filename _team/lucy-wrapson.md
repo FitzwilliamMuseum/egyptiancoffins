@@ -1,7 +1,7 @@
 ---
 title: Lucy Wrapson
 institution: Fitzwilliam Museum
-image: /images/staff/LucyW.jpg
+image: /images/staff/LucyW2.jpg
 layout: team
 job-title: Senior Conservator, Hamilton Kerr Institute
 twitter: "@Salpotintirah"
