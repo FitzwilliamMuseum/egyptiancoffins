@@ -11,15 +11,24 @@ images:
     caption: Egyptian Museum colleagues demonstrate ancient Egyptian craft replica tools, including the pull saw.
   -
     image: news/HSJD.jpg
-    caption: Fitzwilliam Museum Egyptologist, Helen Strudwick, and Head of Conservation, Julie Dawson delivering the opening lecture for the workshop.
+    caption: Helen Strudwick and Julie Dawson delivering the opening lecture for the workshop.
   -
     image: news/Group.jpg
-    caption:
+    caption: Participants in the Alexandria coffins workshop.
   -
     image: news/Group2.jpg
-    caption:
+    caption: Helen and Julie with EMC conservator, Eid Mertah, at the Alexandria workshop.
   - 
     image: news/Demonstration2.jpg
+    caption: EMC colleagues demonstrating ancient Egyptian tools.
+  -
+    image: news/X.jpg
+    caption:
+  - 
+    image: news/X.jpg
+    caption:
+  -
+    image: news/X.jpg
     caption:
 ---
 As you’d recall from an earlier post (which you can read about [here](https://egyptiancoffins.org/news/popupmuseum_), in July 2019, some of the Fitzwilliam’s Egyptian coffins team travelled to Cairo to trial their successful ‘Pop-Up’ Museum. One of the key venues during this trip was the [Pinocchio furniture](https://pinocchio-furniture.com) showroom in Maadi, a high-end furniture store owned by Amr Orensa and Marwa Medhat that produces many handcrafted wooden pieces inspired by ancient Egyptian designs. The success of this visit, which was co-delivered with colleagues from the Egyptian Museum Cairo, led to some exciting new discussions with Amr and Marwa about bringing the ‘Pop-Up’ back to Egypt, but outside Cairo to the less densely populated Mediterranean coastal town of [Damietta](https://en.wikipedia.org/wiki/Damietta). 
