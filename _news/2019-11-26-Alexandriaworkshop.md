@@ -26,7 +26,7 @@ images:
     caption: Sara Hany Abed explaining the benefits of CT-scanning coffins to children in Damietta.
   - 
     image: news/pinocchiodamietta.jpg
-    caption: EMC colleagues discussing ancient Egyptian carpentry with modern day carpenters at the Pinocchio furniture factory.
+    caption: EMC colleagues discussing ancient Egyptian carpentry at the Pinocchio furniture factory.
   -
     image: news/groupshotmed.jpg
     caption: Members of the joint UK-Egyptian 'Pop-Up' team on the north coast of Egypt.
