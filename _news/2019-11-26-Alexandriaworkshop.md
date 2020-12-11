@@ -26,10 +26,10 @@ images:
     caption: Sara Hany Abed explaining the benefits of CT-scanning coffins to children in Damietta.
   - 
     image: news/pinocchiodamietta.jpg
-    caption: The 'Pop-Up' Museum with woodworking experts at the Pinocchio furniture factory.
+    caption: EMC colleagues discussing ancient Egyptian carpentry with modern day carpenters at the Pinocchio furniture factory.
   -
     image: news/groupshotmed.jpg
-    caption: Members of the joint UK-Egyptian 'Pop-Up' team by the Mediterranean Sea.
+    caption: Members of the joint UK-Egyptian 'Pop-Up' team on the north coast of Egypt.
   - 
     image: news/paintingactivity.jpg
     caption: Children enjoying the painting activity at the 'Pop-Up' Museum in Damietta.
