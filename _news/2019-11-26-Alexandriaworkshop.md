@@ -22,14 +22,17 @@ images:
     image: news/Demonstration2.jpg
     caption: EMC colleagues demonstrating ancient Egyptian tools.
   -
-    image: news/X.jpg
-    caption:
+    image: news/sarapopup.jpg
+    caption: Sara Hany Abed at the 'Pop-Up' Museum in Damietta.
   - 
-    image: news/X.jpg
-    caption:
+    image: news/pinocchiodamietta.jpg
+    caption: The 'Pop-Up' Museum with woodworking experts at the Pinocchio furniture factory.
   -
-    image: news/X.jpg
-    caption:
+    image: news/groupshotmed.jpg
+    caption: 
+  - 
+    image: news/paintingactivity.jpg
+    caption: 
 ---
 As you’d recall from an earlier post (which you can read about [here](https://egyptiancoffins.org/news/popupmuseum_), in July 2019, some of the Fitzwilliam’s Egyptian coffins team travelled to Cairo to trial their successful ‘Pop-Up’ Museum. One of the key venues during this trip was the [Pinocchio furniture](https://pinocchio-furniture.com) showroom in Maadi, a high-end furniture store owned by Amr Orensa and Marwa Medhat that produces many handcrafted wooden pieces inspired by ancient Egyptian designs. The success of this visit, which was co-delivered with colleagues from the Egyptian Museum Cairo, led to some exciting new discussions with Amr and Marwa about bringing the ‘Pop-Up’ back to Egypt, but outside Cairo to the less densely populated Mediterranean coastal town of [Damietta](https://en.wikipedia.org/wiki/Damietta). 
 
