@@ -8,7 +8,7 @@ permalink: /news/Alexandriaworkshop
 images:
   -
     image: news/Alexworkshop.jpg
-    caption: EMC colleagues demonstrate ancient Egyptian craft replica tools, including the pull saw.
+    caption: EMC colleagues demonstrating a craft replica pull saw.
   -
     image: news/HSJD.jpg
     caption: Helen Strudwick and Julie Dawson delivering the opening lecture for the workshop.
