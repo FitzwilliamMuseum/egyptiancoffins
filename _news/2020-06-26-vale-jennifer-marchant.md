@@ -1,6 +1,6 @@
 ---
 title: Vale Jennifer Marchant
-author: Melanie Pitkin
+author: Julie Dawson and Helen Strudwick
 layout: news
 tags: [Jennifer Marchant, obituary, conservation, Egyptian coffins]
 thumbnail: /images/news/Jenny1.jpg
