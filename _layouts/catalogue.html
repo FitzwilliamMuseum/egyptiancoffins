@@ -55,7 +55,7 @@
                             <p class="card-text">{{ page.content }}</p>
 
                             <p>
-                                <span class="badge badge-dark">{% octicon link height:16 %}{{ page.institution}}</span>
+                                <span class="badge badge-dark"><i class="fas fa-link"></i>{{ page.institution}}</span>
                                 {% if page.twitter %}
                                 <span class="badge badge-dark"><i class="fab fa-twitter"></i><a href="https://twitter.com/{{ page.twitter | replace: "@", "" }}" >{{ page.twitter }}</a></span>
                                 {% endif %}

@@ -37,9 +37,8 @@ github_username:  fitzwilliammuseum
 logo: https://egyptiancoffins.org/images/logos/logo.png
 
 google_analytics: UA-3319190-12
-gems:
-  - jekyll-octicons
-  
+
+
 lang: EN_GB
 timezone: Europe/London
 permalink: pretty
