@@ -148,15 +148,15 @@
 
 <p>
     {% if page.date %}
-    <span class="badge badge-dark"><i class="fas fa-file"></i> Created: {{ page.date | date_to_string }}</span>
+    <span class="badge badge-dark p-2 mb-2"><i class="fas fa-file"></i> Created: {{ page.date | date_to_string }}</span>
     {% endif %}
 
     {% if page.category %}
-    <span class="badge badge-dark"><i class="fas fa-tags"></i> Category: {{ page.category }}</span>
+    <span class="badge badge-dark p-2 mb-2"><i class="fas fa-tags"></i> Category: {{ page.category }}</span>
     {% endif %}
 
     {% for tags in page.tags %}
-    <span class="badge badge-dark"><i class="fas fa-tags"></i> {{ tags }}</span>
+    <span class="badge badge-dark p-2 mb-2"><i class="fas fa-tags"></i> {{ tags }}</span>
     {% endfor %}
 </p>
 </div>
