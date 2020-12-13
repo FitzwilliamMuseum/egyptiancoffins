@@ -4,7 +4,7 @@ title: Complex layered structures on Pakepu's inner coffin
 date: 2018-10-10
 updated: 2018-12-12
 category: news
-author: Melanie Pitkin
+author: Helen Strudwick
 tags: [conference, egyptology, vatican, addenbrookes]
 thumbnail: /images/news/Pakepu-inner-head.jpg
 permalink: /news/complex-layered-structures-on-pakepus-inner-coffin
