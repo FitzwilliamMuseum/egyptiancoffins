@@ -33,6 +33,16 @@ images:
   - 
     image: news/paintingactivity.jpg
     caption: Children enjoying the painting activity at the 'Pop-Up' Museum in Damietta.
+  -
+    image: news/buspic.jpg
+    caption: Members of the joint UK-Egyptian 'Pop-Up' team arriving in Damietta.
+  -
+    image: news/librarypic.jpg
+    caption: The 'Pop-Up' Museum at the local library in Damietta, Egypt.
+  -
+    image: news/librarypic2.jpg
+    caption: The 'Pop-Up' Museum at the local library in Damietta, Egypt.
+    
 ---
 As you’d recall from an earlier post (which you can read about [here](https://egyptiancoffins.org/news/popupmuseum_), in July 2019, some of the Fitzwilliam’s Egyptian coffins team travelled to Cairo to trial their successful ‘Pop-Up’ Museum. One of the key venues during this trip was the [Pinocchio furniture](https://pinocchio-furniture.com) showroom in Maadi, a high-end furniture store owned by Amr Orensa and Marwa Medhat that produces many handcrafted wooden pieces inspired by ancient Egyptian designs. The success of this visit, which was co-delivered with colleagues from the Egyptian Museum Cairo, led to some exciting new discussions with Amr and Marwa about bringing the ‘Pop-Up’ back to Egypt, but outside Cairo to the less densely populated Mediterranean coastal town of [Damietta](https://en.wikipedia.org/wiki/Damietta). 
 
@@ -51,7 +61,5 @@ Taking the ‘Pop-Up’ Museum, along with museum experts, research material, re
 But, our time in Damietta did not stop there! We were also introduced to furniture design students and professors from the [Danish Royal Fine Arts Academy](https://royaldanishacademy.com), who happened to be at a workshop in Damietta for the week with the Pinocchio furniture factory. We had a tour with them in Ras El Bar, 30 minutes away from Damietta, which is famous for its summer houses, where we explored the few remaining wooden houses that survive. In the evening Geoffrey and Julie gave a presentation to the Danish students about ancient Egyptian carpentry, design, painting and pigments.
 
 During this trip to Egypt, we also held a two-day workshop in Alexandria at the [Bibliotheca Alexandrina](https://www.bibalex.org/en/default) (17th-18th November) which was co-organised and delivered by members of the Fitzwilliam Egyptian coffins team, [Helen Strudwick](https://egyptiancoffins.org/team/helen-strudwick/) and [Julie Dawson](https://egyptiancoffins.org/team/julie-dawson/), curators and conservators from the Egyptian Museum Cairo, Nour Mohamed Badr of the Grand Egyptian Museum Conservation Center, as well as Nesrin El Hadidi, Professor of Conservation at the Faculty of Archaeology, Cairo University. Its main focus was looking at the structure of ancient Egyptian coffins as well as the painting techniques used back then. Initially, the plan was to have 20 participants but so many people registered from the Antiquities Museum, the National Museum of Alexandria and Alexandria University Antiquities Department that double the number of the participants had to be accommodated. Throughout the workshop there were many questions and interesting discussions between the participants and the presenters. The team from the Egyptian Museum Cairo team were eager to share what they had learned from an earlier workshop we ran in Cairo, and they gave an engaging demonstration of using the tools and explaining the woodworking process. A journalist from the Daily News Egypt also attended to write an article about the workshop. In an informal chat she said how much she was enjoying the workshop and that her aim of attending was no longer just to write her article, but also to learn more about the ancient Egyptians and the interesting techniques they used in woodworking, painting and making pigments. Next day after the workshop was over, Helen and Julie paid a visit to the National Museum of Alexandria, where they came across one of the workshop participants who works for the museum. She told them that she had already started planning how to make replicas that they could use in a similar workshop! We also received a lot of feedback from participants about how the workshop would shape the way they look at coffins in their own research in the future.
-
-Sara Hany Abed, Translator and Project Mananger, 'Pop-Up' Museum in Egypt
 
 You can also read Julie Dawson's account of her experiences of this outreach trip to Egypt [here](https://uk.icom.museum/resources/case-studies/fitzwilliam-museum-travels-to-egypt-with-icom-uk-british-council-travel-grant/). Julie's role in this strand of the project was generously supported by an ICOM UK - British Council travel grant.
