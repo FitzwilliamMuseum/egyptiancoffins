@@ -1,7 +1,7 @@
 ---
 title: Digital animation of Nespawershefyt's inner coffin box
 layout: coffins
-category: digital animation
+category: nespawershefyt
 permalink: /coffins/nespawershefyt/digitalanimation
 order: 8
 
