@@ -148,16 +148,15 @@
 
 <p>
     {% if page.date %}
-    <span class="chip"><i class="chip-icon"><i class="material-icons">create</i></i> Created: {{ page.date | date_to_string }}</span>
+    <span class="badge badge-dark">{% octicon file-badge height:16 %} Created: {{ page.date | date_to_string }}</span>
     {% endif %}
 
     {% if page.category %}
-    <span class="chip"><i class="chip-icon"><i
-            class="material-icons small">category</i></i>Category: {{ page.category }}</span>
+    <span class="badge badge-dark">{% octicon tag height:16 %}Category: {{ page.category }}</span>
     {% endif %}
 
     {% for tags in page.tags %}
-    <span class="chip"><i class="chip-icon"><i class="material-icons small">label</i></i>{{ tags }}</span>
+    <span class="badge badge-dark">{% octicon tag height:16 %} {{ tags }}</span>
     {% endfor %}
 </p>
 </div>

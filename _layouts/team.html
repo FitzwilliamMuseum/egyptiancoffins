@@ -55,9 +55,9 @@
                             <p class="card-text">{{ page.content }}</p>
 
                             <p>
-                                <span class="chip"><i class="chip-icon"><i class="fas fa-sitemap"></i></i>{{ page.institution}}</span>
+                                <span class="badge badge-dark">{{ page.institution}}</span>
                                 {% if page.twitter %}
-                                <span class="chip shareTwitter"><i class="chip-icon"><i class="fab fa-twitter"></i></i><a href="https://twitter.com/{{ page.twitter | replace: "@", "" }}" >{{ page.twitter }}</a></span>
+                                <span class="badge badge-dark shareTwitter"><i class="fab fa-twitter"></i><a href="https://twitter.com/{{ page.twitter | replace: "@", "" }}" >{{ page.twitter }}</a></span>
                                 {% endif %}
                             </p>
 
@@ -69,11 +69,11 @@
         </div>
     </div>
 </div>
- 
 
-   
-    
-<div class="container">    
+
+
+
+<div class="container">
     {% include share_buttons.html %}
 </div>
 

@@ -23,7 +23,7 @@ id: team
 
                 <p class="card-text">{{ author.content | strip_html | truncatewords: 20}}</p>
 
-                <p><span class="chip"><i class="chip-icon"><i class="fas fa-sitemap"></i></i>{{ author.institution}}</span></p>
+                <p><span class="badge badge-dark">{{ author.institution}}</span></p>
 
                 <a href="{{ author.url }}" class="btn btn-dark">Read full bio</a>
               </div>
