@@ -29,7 +29,7 @@ images:
     caption: EMC colleagues discussing ancient Egyptian carpentry at the Pinocchio furniture factory.
   -
     image: news/groupshotmed.jpg
-    caption: Members of the joint UK-Egyptian 'Pop-Up' team on the north coast of Egypt.
+    caption: Members of the joint UK-Egyptian 'Pop-Up' team at Ras-El Barr near Damietta.
   - 
     image: news/paintingactivity.jpg
     caption: Children enjoying the painting activity at the 'Pop-Up' Museum in Damietta.
