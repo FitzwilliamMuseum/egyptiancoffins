@@ -38,7 +38,7 @@ images:
     caption: Members of the joint UK-Egyptian 'Pop-Up' team arriving in Damietta.
   -
     image: news/librarypic.jpg
-    caption: The 'Pop-Up' Museum at the local library in Damietta, Egypt.
+    caption: EMC conservators share their knowledge of coffin construction at the 'Pop-Up' Museum in Damietta.
   -
     image: news/librarypic2.jpg
     caption: The 'Pop-Up' Museum at the local library in Damietta, Egypt.
