@@ -4,6 +4,7 @@ title: Death on the Nile
 description: "The Fitzwilliam Museum's Death on the Nile Exhibition"
 permalink: /deathonthenile
 id: deathonthenile
+category: deathonthenile
 ---
 {% assign rows = site.deathonthenile.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
