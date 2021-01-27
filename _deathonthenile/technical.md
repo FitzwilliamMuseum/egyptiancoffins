@@ -1,7 +1,7 @@
 ---
 title: 'Conservation and coffin technology'
 url: /deathonthenile/technical
-image: /images/deathonthenile/objectstudy.png
+image: /images/deathonthenile/ctscanner.jpg
 order: 3
 layout: coffins
 ---
