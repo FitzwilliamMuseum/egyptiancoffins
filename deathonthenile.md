@@ -3,6 +3,7 @@ layout: coffins
 title: Death on the Nile
 description: "The Fitzwilliam Museum's Death on the Nile Exhibition"
 permalink: /deathonthenile
+id: deathonthenile
 ---
 {% assign rows = site.deathonthenile.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
@@ -19,7 +20,7 @@ permalink: /deathonthenile
 
                 <p class="card-text">{{ death.content | strip_html | truncatewords: 20}}</p>
 
-                <a href="{{ death.url }}" class="btn btn-dark">Read more details</a>
+                <a href="{{ death.url }}" class="btn btn-dark">Read more </a>
               </div>
           </div>
     </div>
