@@ -1,6 +1,6 @@
 ---
-title: 'Introduction'
-url: /deathonthenile/introduction
+title: 'About the exhibition'
+url: /deathonthenile/about
 image: /images/nakhtefmut/nakhtefmutHead.png
 order: 1
 layout: coffins
