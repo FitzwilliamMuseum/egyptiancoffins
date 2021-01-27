@@ -1,7 +1,7 @@
 ---
 title: 'Short history of Egyptian coffins'
 url: /deathonthenile/shorthistory
-image: /images/Earlyburials.jpg
+image: /images/deathonthenile/Earlyburials.jpg
 order: 2
 layout: coffins
 ---
