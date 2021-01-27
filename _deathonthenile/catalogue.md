@@ -2,7 +2,7 @@
 title: Exhibition catalogue
 url: /deathonthenile/catalogue
 image: /images/deathonthenile/catalogue.jpg
-order: 4
+order: 5
 layout: coffins
 ---
 
