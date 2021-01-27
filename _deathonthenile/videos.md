@@ -1,7 +1,7 @@
 ---
 title: 'Videos'
 url: /deathonthenile/videos
-image: /images/deathonthenile/objectstudy.jpg
+image: /images/deathonthenile/video1.png
 order: 4
 layout: coffins
 ---
