@@ -1,7 +1,7 @@
 ---
 title: 'Short history of Egyptian coffins'
 url: /deathonthenile/shorthistory
-image: /images/nakhtefmut/nakhtefmutHead.png
+image: /images/Earlyburials.jpg
 order: 2
 layout: coffins
 ---
