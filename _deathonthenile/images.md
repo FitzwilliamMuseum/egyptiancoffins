@@ -1,7 +1,7 @@
 ---
 title: Images
 url: /deathonthenile/images
-image: /images/deathonthenile/catalogue.jpg
+image: /images/deathonthenile/DON1.jpg
 order: 7
 layout: coffins
 images:
