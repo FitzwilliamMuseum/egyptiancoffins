@@ -10,7 +10,7 @@ images:
     caption: A conservator examines the outer coffin box of Nespawershefyt with a stereomicroscope. 
   -
     image: deathonthenile/technical2.jpg
-    caption: Detail of a *wedjat*-eye from Nespawershefyt's outer coffin box viewed under magnification.
+    caption: Detail of a wedjat-eye from Nespawershefyt's outer coffin box viewed under magnification.
   -
     image: deathonthenile/technical3.jpg
     caption: 
