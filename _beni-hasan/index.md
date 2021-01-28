@@ -5,7 +5,7 @@ layout: coffins
 category: beni-hasan
 images:
   -
-    image: IMG_7969.jpg
-    caption: Dog coffin showing the original (left) and the replica (right) made by Geoffrey Killen.
+    image: boxcoffindetail.jpg
+    caption: Wooden box coffin belonging to a woman named Nakht. Fitzwilliam Museum collection: E.68.1903.
 ---
 Tell me about beni hasan...
