@@ -35,6 +35,36 @@ images:
   -
     image: deathonthenile/technical10.jpg
     caption:
+  -
+    image: deathonthenile/technical11.jpg
+    caption:
+  -
+    image: deathonthenile/technical12.jpg
+    caption:
+  -
+    image: deathonthenile/technical13.jpg
+    caption:
+  -
+    image: deathonthenile/techical14.jpg
+    caption:
+  -
+    image: deathonthenile/technical15.jpg
+    caption:
+  -
+    image: deathonthenile/technical16.jpg
+    caption:
+  -
+    image: deathonthenile/technical17.jpg
+    caption:
+  -
+    image: deathonthenile/technical18.jpg
+    caption:
+  -
+    image: deathonthenile/technical19.jpg
+    caption:
+  -
+    image: deathonthenile/technical20.jpg
+    caption:
 ---
 ---
 
