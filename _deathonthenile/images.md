@@ -10,5 +10,5 @@ images:
     caption: General exhibition shot showing the Middle Kingdom anthropoid coffin of Userhet from Beni Hasan in the foreground (E.88.1903).
 ---
 
-
+Featured here are a range of general exhibition shots and close ups of objects that were on display. All copyright Fitzwilliam Museum, Cambridge.
 
