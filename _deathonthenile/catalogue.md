@@ -4,6 +4,10 @@ url: /deathonthenile/catalogue
 image: /images/deathonthenile/catalogue.jpg
 order: 5
 layout: coffins
+images:
+  -
+    image: deathonthenile/catalogue.jpg
+    caption: The official 'Death on the Nile' exhibition catalogue. 
 ---
 
 'Death on the Nile: Uncovering the Afterlife of Ancient Egypt' explores the fascinating world of ancient Egyptian burial customs and practices. Examining objects from the Fitzwilliam Museum’s collection, with the aid of scientific analysis and imaging, this beautifully illustrated volume deepens our understanding of the lives and concerns of ancient Egyptians as they prepared themselves for death and burial.
