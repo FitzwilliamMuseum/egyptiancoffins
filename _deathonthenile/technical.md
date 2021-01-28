@@ -11,6 +11,30 @@ images:
   -
     image: deathonthenile/technical2.jpg
     caption: Detail of a *wedjat*-eye from Nespawershefyt's outer coffin box viewed under magnification.
+  -
+    image: deathonthenile/technical3.jpg
+    caption: 
+  -
+    image: deathonthenile/technical4.jpg
+    caption:
+  -
+    image: deathonthenile/technical5.jpg
+    caption:
+  -
+    image: deathonthenile/technical6.jpg
+    caption:
+  -
+    image: deathonthenile/technical7.jpg
+    caption:
+  -
+    image: deathonthenile/technical8.jpg
+    caption:
+  -
+    image: deathonthenile/technical9.jpg
+    caption:
+  -
+    image: deathonthenile/technical10.jpg
+    caption:
 ---
 ---
 
