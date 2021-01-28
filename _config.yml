@@ -80,6 +80,8 @@ collections:
       output: true
    deathonthenile:
       output: true
+   beni-hasan:
+      output: true
 
 mailchimp-list: https://cam.us17.list-manage.com/subscribe/post?u=f30da66801c7549a27ffb3357&amp;id=741e719b5c
 
@@ -95,6 +97,7 @@ feed:
     - pop-ups
     - miniature
     - deathonthenile
+    - beni-hasan
 
 categories:
     - pakepu
@@ -103,6 +106,7 @@ categories:
     - senuitef
     - dog-coffin
     - miniature
+    - beni-hasan
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
