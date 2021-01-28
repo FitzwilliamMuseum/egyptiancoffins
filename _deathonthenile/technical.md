@@ -4,6 +4,14 @@ url: /deathonthenile/technical
 image: /images/deathonthenile/pointer1.jpg
 order: 3
 layout: coffins
+images:
+  -
+    image: deathonthenile/technical1.jpg
+    caption: A conservator examines the outer coffin box of Nespawershefyt with a stereomicroscope. 
+  -
+    image: deathonthenile/technical2.jpg
+    caption: Detail of a *wedjat*-eye from Nespawershefyt's outer coffin box viewed under magnification.
+---
 ---
 
 These are some of the imaging and analytical techniques we use to reveal the methods and materials of ancient Egyptian craftsmen. Through these we discover the skill and ingenuity of the carpenters and artists, and the practical problems they faced.
