@@ -45,7 +45,7 @@ images:
     image: deathonthenile/technical13.jpg
     caption:
   -
-    image: deathonthenile/techical14.jpg
+    image: deathonthenile/technical14.jpg
     caption:
   -
     image: deathonthenile/technical15.jpg
