@@ -7,7 +7,7 @@ layout: coffins
 images:
   -
     image: deathonthenile/DON1.jpg
-    caption: General exhibition shot showing the Middle Kingdom coffin of Userhet in the foreground (E.X.XXXX).
+    caption: General exhibition shot showing the Middle Kingdom anthropoid coffin of Userhet from Beni Hasan in the foreground (E.88.1903).
 ---
 
 
