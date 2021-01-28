@@ -6,7 +6,7 @@ order: 7
 layout: coffins
 images:
   -
-    image: /images/deathonthenile/catalogue.jpg
+    image: news/popup3.jpg
     caption: The Fitzwilliam Museum's Pop-Up Egyptian coffins experience in Wetherspoons, Wisbech.
   -
     image: news/popup3.jpg
