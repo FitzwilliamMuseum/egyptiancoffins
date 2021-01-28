@@ -1,13 +1,12 @@
 ---
 title: Images
-author: Melanie Pitkin
-layout: news
-tags: [media, pop-up museum, pop-up project, wisbech, museum outreach, coffins, ancient egypt]
-thumbnail: /images/news/popup.jpg
-permalink: /news/wisbech-pop-up-museum
+url: /deathonthenile/images
+image: /images/deathonthenile/catalogue.jpg
+order: 7
+layout: coffins
 images:
   -
-    image: news/popup.jpg
+    image: /images/deathonthenile/catalogue.jpg
     caption: The Fitzwilliam Museum's Pop-Up Egyptian coffins experience in Wetherspoons, Wisbech.
   -
     image: news/popup3.jpg
@@ -19,3 +18,6 @@ images:
     image: news/popup5.jpg
     caption: "Three generations (L-R: Sally, Mary and Nicky) visiting our Pop-Up exhibition at The Wheatsheaf Inn."
 ---
+
+
+
