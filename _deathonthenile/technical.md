@@ -7,13 +7,13 @@ layout: coffins
 images:
   -
     image: deathonthenile/technical1.jpg
-    caption: "A conservator examines the outer coffin box of Nespawershefyt with a stereomicroscope, Fitzwilliam Museum collection: E.1.1822." 
+    caption: "A conservator examines the outer coffin box of Nespawershefyt with a stereomicroscope, Fitzwilliam Museum collection (E.1.1822)." 
   -
     image: deathonthenile/technical2.jpg
     caption: "Detail of a wedjat-eye from Nespawershefyt's outer coffin box viewed under magnification."
   -
     image: deathonthenile/technical3.jpg
-    caption: "Shabti box, Dynasty 19, Fitzwilliam Museum collection: E.205.1932." 
+    caption: "Shabti box, Dynasty 19, Fitzwilliam Museum collection (E.205.1932)." 
   -
     image: deathonthenile/technical4.jpg
     caption: "Detail of the shabti box owner."
@@ -25,19 +25,19 @@ images:
     caption: "Detail of the cartonnage of Nakhtefmut under raking light. Fitzwilliam Museum collection: E.64.1896."
   -
     image: deathonthenile/technical7.jpg
-    caption: "Detail of the outer coffin box of Nespawershefyt. Fitzwilliam Museum collection: E.1.1822."
+    caption: "Detail of the outer coffin box of Nespawershefyt. Fitzwilliam Museum collection (E.1.1822)."
   -
     image: deathonthenile/technical8.jpg
     caption: "Nespawershefyt's outer coffin box under ultraviolent fluorescence light."
   -
     image: deathonthenile/technical9.jpg
-    caption: "Coffin fragments of the mourning women. Fitzwilliam Museum collection: E.283.1900."
+    caption: "Coffin fragments of the mourning women. Fitzwilliam Museum collection (E.283.1900)."
   -
     image: deathonthenile/technical10.jpg
     caption: "Infrared reflectography applied to the coffin fragments of the mourning women."
   -
     image: deathonthenile/technical11.jpg
-    caption: "Inner coffin lid of Nespawershefyt. Fitzwilliam Museum collection: E.1.1822."
+    caption: "Inner coffin lid of Nespawershefyt. Fitzwilliam Museum collection (E.1.1822)."
   -
     image: deathonthenile/technical12.jpg
     caption: "Application of VIL photography highlighting Egyptian blue pigment on the inner coffin lid of Nespawershefyt".
@@ -55,7 +55,7 @@ images:
     caption: "Screenshot showing the output of XRF data."
   -
     image: deathonthenile/technical17.jpg
-    caption "Pigment sample sites on Nespawershefyt's outer coffin box. Fitzwilliam Museum collection: E.1.1822."
+    caption "Pigment sample sites on Nespawershefyt's outer coffin box. Fitzwilliam Museum collection (E.1.1822)."
   -
     image: deathonthenile/technical18.jpg
     caption: "A conservator examines a mounted sample using PLM (Polarised Light Microscopy)."
@@ -64,31 +64,31 @@ images:
     caption: "Particles of orpiment pigment in plane polarised light and cross polarised light."
   -
     image: deathonthenile/technical20.jpg
-    caption:
+    caption: "Cross-section sample from Nespawershefyt's inner coffin lid."
   -
     image: deathonthenile/technical21.jpg
-    caption:
+    caption: "Fragment of a face from a yellow coffin. Fitzwilliam Museum collection (E.GA.507.1947)."
   -
     image: deathonthenile/technical22.jpg
-    caption:
+    caption: "X-radiograph of a coffin fragment showing modern repair work in the form of metal nails in the chin."
   - 
     image: deathonthenile/technical23.jpg
-    caption:
+    caption: "CT-scanning the inner coffin lid of Nespawershefyt at Addenbrookes Hospital."
   -
     image: deathonthenile/technical24.jpg
-    caption:
+    caption: "Examining the images of the CT-scans."
   -
     image: deathonthenile/technical25.jpg
-    caption:
+    caption: "Inside the inner coffin box of Nespawershefyt. Fitzwilliam Museum collection (E.1.1822)."
   -
     image: deathonthenile/technical26.jpg
-    caption:
+    caption: "CT-scan of the base of Nespawershefyt's inner coffin box showing mortise and tenon joints."
   -
     image: deathonthenile/technical27.jpg
-    caption:
+    caption: "Wood sampling using a scalpal blade."
   -
     image: deathonthenile/technical28.jpg
-    caption:
+    caption: "SEM image of a transverse section of *Ficus sycomorus* wood. Copyright Caroline Cartwright: British Museum."
 ---
 ---
 
