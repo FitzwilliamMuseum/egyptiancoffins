@@ -1,4 +1,5 @@
 ---
+category: deathonthenile
 title: 'Short history of Egyptian coffins'
 url: /deathonthenile/shorthistory
 image: /images/deathonthenile/boxcoffindetail.jpg
