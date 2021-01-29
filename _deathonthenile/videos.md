@@ -6,7 +6,7 @@ order: 4
 layout: coffins
 ---
 
-As part of the exhibition experience, we developed a range of videos demonstating various ancient Egyptian painting and woodworking techniques. Click on the links below to watch these videos in YouTube.
+As part of the exhibition experience, the team developed a range of videos demonstating ancient Egyptian painting and woodworking techniques, as follows - 
 
 <div class="card col-sm p-0 m-2">
     <div class="embed-responsive embed-responsive-16by9">
