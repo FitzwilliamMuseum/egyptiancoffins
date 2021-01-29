@@ -1,4 +1,5 @@
 ---
+category: deathonthenile
 title: 'Videos'
 url: /deathonthenile/videos
 image: /images/deathonthenile/jvideo1.jpg
