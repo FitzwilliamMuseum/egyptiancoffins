@@ -31,13 +31,13 @@ images:
     caption: Nespawershefyt's outer coffin box under ultraviolent fluorescence light.
   -
     image: deathonthenile/technical9.jpg
-    caption:
+    caption: Coffin fragments of the mourning women. Fitzwilliam Museum collection: E.283.1900.
   -
     image: deathonthenile/technical10.jpg
-    caption:
+    caption: Infrared reflectography applied to the coffin fragments of the mourning women.
   -
     image: deathonthenile/technical11.jpg
-    caption:
+    caption: 
   -
     image: deathonthenile/technical12.jpg
     caption:
