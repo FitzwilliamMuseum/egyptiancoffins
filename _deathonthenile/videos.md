@@ -7,11 +7,11 @@ order: 4
 layout: coffins
 ---
 
-As part of the exhibition experience, the team developed a range of videos demonstating ancient Egyptian painting and woodworking techniques, as follows - 
+As part of the exhibition experience, the team developed a range of videos demonstating ancient Egyptian painting and woodworking techniques, as follows -
 
 <div class="card col-sm p-0 m-2">
     <div class="embed-responsive embed-responsive-16by9">
-        <iframe src="https://www.youtube.com/watch?v=poUyaK6JaJ8&feature=emb_logo" frameborder="0"
+        <iframe src="https://www.youtube.com/embed/poUyaK6JaJ8" frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen class="embed-responsive-item"></iframe>
     </div>
@@ -28,4 +28,3 @@ As part of the exhibition experience, the team developed a range of videos demon
 [Egyptian Painting: Roman Mummy Portraits](https://www.youtube.com/watch?v=5Ko6ZT5Kwx8&feature=emb_logo)
 
 [Egyptian Woodworking: Carpentry Techniques](https://www.youtube.com/watch?v=rETAATzTaZ0&feature=emb_logo)
-
