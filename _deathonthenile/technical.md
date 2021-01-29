@@ -61,7 +61,7 @@ images:
     caption: "A conservator examines a mounted sample using PLM (Polarised Light Microscopy)."
   -
     image: deathonthenile/technical19.jpg
-    caption: "
+    caption: "Particles of orpiment pigment in plane polarised light and cross polarised light."
   -
     image: deathonthenile/technical20.jpg
     caption:
