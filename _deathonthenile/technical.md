@@ -7,28 +7,28 @@ layout: coffins
 images:
   -
     image: deathonthenile/technical1.jpg
-    caption: A conservator examines the outer coffin box of Nespawershefyt with a stereomicroscope. 
+    caption: A conservator examines the outer coffin box of Nespawershefyt with a stereomicroscope, Fitzwilliam Museum collection: E.1.1822. 
   -
     image: deathonthenile/technical2.jpg
     caption: Detail of a wedjat-eye from Nespawershefyt's outer coffin box viewed under magnification.
   -
     image: deathonthenile/technical3.jpg
-    caption: 
+    caption: Shabti box, Dynasty 19, Fitzwilliam Museum collection: E.205.1932. 
   -
     image: deathonthenile/technical4.jpg
-    caption:
+    caption: Detail of the shabti box owner.
   -
     image: deathonthenile/technical5.jpg
-    caption:
+    caption: Detail of the leopard head worn by the shabti box owner at x30 magnification.
   -
     image: deathonthenile/technical6.jpg
-    caption:
+    caption: Detail of the cartonnage of Nakhtefmut under raking light. Fitzwilliam Museum collection: E.64.1896.
   -
     image: deathonthenile/technical7.jpg
-    caption:
+    caption: Detail of the outer coffin box of Nespawershefyt. Fitzwilliam Museum collection: E.1.1822.
   -
     image: deathonthenile/technical8.jpg
-    caption:
+    caption: Nespawershefyt's outer coffin box under ultraviolent fluorescence light.
   -
     image: deathonthenile/technical9.jpg
     caption:
