@@ -28,7 +28,7 @@ images:
     caption: "Detail of the outer coffin box of Nespawershefyt. Fitzwilliam Museum collection: E.1.1822."
   -
     image: deathonthenile/technical8.jpg
-    caption: "Nespawershefyt's outer coffin box under ultraviolent fluorescence light."
+    caption: "Nespawershefyt's outer coffin box under ultraviolet fluorescence light."
   -
     image: deathonthenile/technical9.jpg
     caption: "Coffin fragments of the mourning women. Fitzwilliam Museum collection: E.283.1900."
@@ -40,7 +40,7 @@ images:
     caption: "Inner coffin lid of Nespawershefyt. Fitzwilliam Museum collection: E.1.1822."
   -
     image: deathonthenile/technical12.jpg
-    caption: "Application of VIL photography highlighting Egyptian blue pigment on the inner coffin lid of Nespawershefyt".
+    caption: "Application of VIL photography highlighting Egyptian blue pigment on the inner coffin lid of Nespawershefyt."
   -
     image: deathonthenile/technical13.jpg
     caption: "Conservator Jenny Marchant examining a Middle Kingdom box coffin using FORS."
