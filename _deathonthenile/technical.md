@@ -7,34 +7,34 @@ layout: coffins
 images:
   -
     image: deathonthenile/technical1.jpg
-    caption: A conservator examines the outer coffin box of Nespawershefyt with a stereomicroscope, Fitzwilliam Museum collection: E.1.1822. 
+    caption: "A conservator examines the outer coffin box of Nespawershefyt with a stereomicroscope, Fitzwilliam Museum collection: E.1.1822." 
   -
     image: deathonthenile/technical2.jpg
-    caption: Detail of a wedjat-eye from Nespawershefyt's outer coffin box viewed under magnification.
+    caption: "Detail of a wedjat-eye from Nespawershefyt's outer coffin box viewed under magnification."
   -
     image: deathonthenile/technical3.jpg
-    caption: Shabti box, Dynasty 19, Fitzwilliam Museum collection: E.205.1932. 
+    caption: "Shabti box, Dynasty 19, Fitzwilliam Museum collection: E.205.1932." 
   -
     image: deathonthenile/technical4.jpg
-    caption: Detail of the shabti box owner.
+    caption: "Detail of the shabti box owner."
   -
     image: deathonthenile/technical5.jpg
-    caption: Detail of the leopard head worn by the shabti box owner at x30 magnification.
+    caption: "Detail of the leopard head worn by the shabti box owner at x30 magnification."
   -
     image: deathonthenile/technical6.jpg
-    caption: Detail of the cartonnage of Nakhtefmut under raking light. Fitzwilliam Museum collection: E.64.1896.
+    caption: "Detail of the cartonnage of Nakhtefmut under raking light. Fitzwilliam Museum collection: E.64.1896."
   -
     image: deathonthenile/technical7.jpg
-    caption: Detail of the outer coffin box of Nespawershefyt. Fitzwilliam Museum collection: E.1.1822.
+    caption: "Detail of the outer coffin box of Nespawershefyt. Fitzwilliam Museum collection: E.1.1822."
   -
     image: deathonthenile/technical8.jpg
-    caption: Nespawershefyt's outer coffin box under ultraviolent fluorescence light.
+    caption: "Nespawershefyt's outer coffin box under ultraviolent fluorescence light."
   -
     image: deathonthenile/technical9.jpg
-    caption: Coffin fragments of the mourning women. Fitzwilliam Museum collection: E.283.1900.
+    caption: "Coffin fragments of the mourning women. Fitzwilliam Museum collection: E.283.1900."
   -
     image: deathonthenile/technical10.jpg
-    caption: Infrared reflectography applied to the coffin fragments of the mourning women.
+    caption: "Infrared reflectography applied to the coffin fragments of the mourning women."
   -
     image: deathonthenile/technical11.jpg
     caption: 
