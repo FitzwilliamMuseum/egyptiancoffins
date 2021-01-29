@@ -1,4 +1,5 @@
 ---
+category: deathonthenile
 title: 'Media'
 url: /deathonthenile/media
 image: /images/deathonthenile/mediashot.jpg
