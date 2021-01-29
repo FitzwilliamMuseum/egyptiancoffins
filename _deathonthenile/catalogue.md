@@ -1,4 +1,5 @@
 ---
+category: deathonthenile
 title: Exhibition catalogue
 url: /deathonthenile/catalogue
 image: /images/deathonthenile/catalogue.jpg
