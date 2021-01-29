@@ -6,5 +6,5 @@ order: 2
 layout: coffins
 ---
 
-The content goes here
+Add content here
 
