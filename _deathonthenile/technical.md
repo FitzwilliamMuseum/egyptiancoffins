@@ -37,31 +37,31 @@ images:
     caption: "Infrared reflectography applied to the coffin fragments of the mourning women."
   -
     image: deathonthenile/technical11.jpg
-    caption: 
+    caption: "Inner coffin lid of Nespawershefyt. Fitzwilliam Museum collection: E.1.1822."
   -
     image: deathonthenile/technical12.jpg
-    caption:
+    caption: "Application of VIL photography highlighting Egyptian blue pigment on the inner coffin lid of Nespawershefyt".
   -
     image: deathonthenile/technical13.jpg
-    caption:
+    caption: "Conservator, Jenny Marchant, examining a Middle Kingdom box coffin using FORS."
   -
     image: deathonthenile/technical14.jpg
-    caption:
+    caption: "A FORS reading showing a comparison of sampled and reference spectra."
   -
     image: deathonthenile/technical15.jpg
-    caption:
+    caption: "Taking a reading using XRF."
   -
     image: deathonthenile/technical16.jpg
-    caption:
+    caption: "Screenshot showing the output of XRF data."
   -
     image: deathonthenile/technical17.jpg
-    caption:
+    caption "Pigment sample sites on Nespawershefyt's outer coffin box. Fitzwilliam Museum collection: E.1.1822."
   -
     image: deathonthenile/technical18.jpg
-    caption:
+    caption: "A conservator examines a mounted sample using PLM (Polarised Light Microscopy)."
   -
     image: deathonthenile/technical19.jpg
-    caption:
+    caption: "
   -
     image: deathonthenile/technical20.jpg
     caption:
