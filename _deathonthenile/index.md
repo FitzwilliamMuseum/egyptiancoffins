@@ -1,4 +1,5 @@
 ---
+category: deathonthenile
 title: 'About the exhibition'
 url: /deathonthenile/about
 image: /images/nakhtefmut/nakhtefmutHead.png
