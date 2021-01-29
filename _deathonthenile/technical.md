@@ -22,7 +22,7 @@ images:
     caption: "Detail of the leopard head worn by the shabti box owner at x30 magnification."
   -
     image: deathonthenile/technical6.jpg
-    caption: "Detail of the cartonnage of Nakhtefmut under raking light. Fitzwilliam Museum collection: E.64.1896."
+    caption: "Detail of the cartonnage of Nakhtefmut under raking light. Fitzwilliam Museum collection (E.64.1896)."
   -
     image: deathonthenile/technical7.jpg
     caption: "Detail of the outer coffin box of Nespawershefyt. Fitzwilliam Museum collection (E.1.1822)."
