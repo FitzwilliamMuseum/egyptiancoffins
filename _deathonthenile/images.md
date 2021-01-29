@@ -1,4 +1,5 @@
 ---
+category: deathonthenile
 title: Images
 url: /deathonthenile/images
 image: /images/deathonthenile/DON1.jpg
