@@ -1,4 +1,5 @@
 ---
+category: deathonthenile
 title: 'Conference'
 url: /deathonthenile/conference
 image: /images/deathonthenile/conferencebook.jpg
