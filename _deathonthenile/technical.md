@@ -55,7 +55,7 @@ images:
     caption: "Screenshot showing the output of XRF data."
   -
     image: deathonthenile/technical17.jpg
-    caption "Pigment sample sites on Nespawershefyt's outer coffin box. Fitzwilliam Museum collection (E.1.1822)."
+    caption: "Pigment sample sites on Nespawershefyt's outer coffin box. Fitzwilliam Museum collection (E.1.1822)."
   -
     image: deathonthenile/technical18.jpg
     caption: "A conservator examines a mounted sample using PLM (Polarised Light Microscopy)."
@@ -89,7 +89,6 @@ images:
   -
     image: deathonthenile/technical28.jpg
     caption: "SEM image of a transverse section of *Ficus sycomorus* wood. Copyright Caroline Cartwright: British Museum."
----
 ---
 
 These are some of the imaging and analytical techniques we use to reveal the methods and materials of ancient Egyptian craftsmen. Through these we discover the skill and ingenuity of the carpenters and artists, and the practical problems they faced.
