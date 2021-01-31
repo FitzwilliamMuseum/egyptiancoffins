@@ -266,3 +266,10 @@ label.cm-app-label {
     background-size: cover;
     padding-top: 8rem;
 }
+.beni-hasan {
+    background-image: url(../images/beni-hasan/benihasan.jpg);
+    background-position: 50% 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 8rem;
+}
