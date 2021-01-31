@@ -72,3 +72,9 @@ From 525 BC, Egypt came increasingly under the control of foreigners. In 332 BC 
 For most of this time, Egyptian burial customs remained relatively unchanged and images of gods such as Isis, Osiris and Anubis still appeared. Many coffins survive that are recognizably Egyptian. There are anthropoid and qersu coffins (with four corner posts) but, inside these, the dead were wrapped in decorated linen shrouds rather than laid in inner coffins.
 
 There were also some significant changes in decoration. The focus was no longer on inscriptions giving a person’s name and job titles; instead it became important to create more individualized images of the dead, including plaster masks or portraits, painted on the shrouds or on wooden panels. New materials, including pigments such as red lead and lead white were introduced. The plant-based deep blue indigo and bright pink madder had long been used as dyestuff in Egypt, but now the colour was extracted and fixed onto a ground mineral base, making additional vivid paints for the palette.
+
+**Re-used wood**
+
+Many of the coffins displayed in this exhibition incorporate pieces of re-used wood. These may have come from coffins that were recycled or from older coffins that were reworked into new ones. From the late New Kingdom (about 1170 BC) onwards, there is clear evidence that complete coffins from older burials were being re-modelled and repainted for use in new burials. 
+
+We cannot be certain what happened to the earlier burials from which these coffins originated. We do know from contemporary official records that tomb robbery seems to have been rife at the end of the New Kingdom and continued into the Third Intermediate Period (about 1070–715 BC). Since wood was an expensive material, it is likely that coffins would have been valuable items to steal and sell on.
