@@ -5,6 +5,7 @@ permalink: /beni-hasan/senuitef
 layout: coffins
 id: beni-hasan
 category: beni-hasan
+order: 7
 ---
 
 ## Brief description

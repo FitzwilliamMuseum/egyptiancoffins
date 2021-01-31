@@ -4,6 +4,8 @@ permalink: /beni-hasan/dog-coffin
 layout: coffins
 category: beni-hasan
 id: beni-hasan
+order: 8
+image: IMG_4273.jpg
 images:
   -
     image: IMG_7969.jpg

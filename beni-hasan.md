@@ -13,7 +13,7 @@ category: beni-hasan
   {% assign sorted = site.beni-hasan | sort:"order" %}
   {% for death in sorted limit:3 offset:offset %}
      <div class="col-md-4 mt-3">
-          <div class="card h-100">
+          <div class="card">
               <div class="card-body">
               <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="{{death.image}}"
                              alt="{{page.title}}'s image">
