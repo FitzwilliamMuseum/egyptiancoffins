@@ -1,10 +1,3 @@
----
-title: Beni Hasan
-permalink: /coffins/beni-hasan
-layout: coffins
-category: beni-hasan
----
-
 {% assign rows = site.benihasan.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
   {% assign offset = forloop.index0 | times: 2 %}
