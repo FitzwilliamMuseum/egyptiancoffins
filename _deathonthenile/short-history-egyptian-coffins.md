@@ -7,7 +7,7 @@ order: 2
 layout: coffins
 images:
   -
-    image: deathonthenile/Earlyburials.jpg
+    image: deathonthenile/potburial.jpg
     caption: "TBC." 
     
 ---
