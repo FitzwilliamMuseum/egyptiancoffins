@@ -2,7 +2,7 @@
 category: beni-hasan
 title: 'About'
 url: /beni-hasan/about
-image: /images/beni-hasan/benihasan.jpg
+image: /images/beni-hasan/benihassan.jpg
 order: 1
 layout: coffins
 ---
