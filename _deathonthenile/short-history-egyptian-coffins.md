@@ -19,9 +19,6 @@ images:
     image: userhet.jpg
     caption: "Early anthropoid coffin: XXX."
   -
-    image: Decoratedanthropoid.jpg
-    caption: "Decorated anthropoid coffin: XXX."
-  -
     image: Nakhtefmut.jpg
     caption: "Decorated anthropoid coffin: XXX."
   -
