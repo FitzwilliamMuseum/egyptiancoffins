@@ -12,6 +12,27 @@ images:
   -
     image: rectangularboxcoffin.jpg
     caption: "TBC."
+  -
+    image: MaskofTjay.jpg
+    caption: "TBC."
+  -
+    image: Userhet.jpg
+    caption: "TBC."
+  -
+    image: Decoratedanthropoid.jpg
+    caption: "TBC."
+  -
+    image: Nakhtefmut.jpg
+    caption: "TBC."
+  -
+    image: Nested.jpg
+    caption: "TBC."
+  - 
+    image: Foreign.jpg
+    caption: "TBC."
+  - 
+    image: Footcase.jpg
+    caption: "TBC."
 ---
 
 **Early Burials**
