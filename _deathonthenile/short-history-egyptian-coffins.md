@@ -9,7 +9,9 @@ images:
   -
     image: deathonthenile/potburial.jpg
     caption: "TBC." 
-    
+  -
+    image: deathonthenile/rectangularboxcoffin.jpg
+    caption: "TBC."
 ---
 
 **Early Burials**
