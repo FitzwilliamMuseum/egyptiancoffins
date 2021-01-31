@@ -8,31 +8,31 @@ layout: coffins
 images:
   -
     image: potburial.jpg
-    caption: "TBC."
+    caption: "Early burial: XXX."
   -
     image: rectangularboxcoffin.jpg
-    caption: "TBC."
+    caption: "Box coffins: XXX."
   -
     image: MaskofTjay.jpg
-    caption: "TBC."
+    caption: "Cartonnage: XXX."
   -
     image: userhet.jpg
-    caption: "TBC."
+    caption: "Early anthropoid coffin: XXX."
   -
     image: Decoratedanthropoid.jpg
-    caption: "TBC."
+    caption: "Decorated anthropoid coffin: XXX."
   -
     image: Nakhtefmut.jpg
-    caption: "TBC."
+    caption: "Decorated anthropoid coffin: XXX."
   -
     image: Nested.jpg
-    caption: "TBC."
+    caption: "Nested coffins: XXX."
   - 
     image: Foreign.jpg
-    caption: "TBC."
+    caption: "Egypt under foreign rule: XXX."
   - 
     image: Footcase.jpg
-    caption: "TBC."
+    caption: "Egypt under foreign rule: XXX."
 ---
 
 **Early Burials**
