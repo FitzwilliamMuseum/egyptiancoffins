@@ -2,7 +2,7 @@
 category: beni-hasan
 title: 'About Beni-Hasan'
 permalink: /coffins/beni-hasan/about
-image: /images/beni-hasan/benihassan.jpg
+image: /images/beni-hasan/benihasan.jpg
 order: 1
 layout: coffins
 id: beni-hasan
