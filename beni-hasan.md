@@ -1,7 +1,7 @@
 ---
 layout: coffins
-title: Death on the Nile
-description: "The Fitzwilliam Museum's Death on the Nile Exhibition"
+title: Beni Hasan
+description: "The site of Beni Hasan"
 permalink: /coffins/beni-hasan
 id: beni-hasan
 category: beni-hasan
