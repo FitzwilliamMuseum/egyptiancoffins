@@ -16,7 +16,7 @@ images:
     image: MaskofTjay.jpg
     caption: "TBC."
   -
-    image: Userhet.jpg
+    image: userhet.jpg
     caption: "TBC."
   -
     image: Decoratedanthropoid.jpg
