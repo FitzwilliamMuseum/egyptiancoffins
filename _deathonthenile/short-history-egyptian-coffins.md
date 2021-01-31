@@ -5,6 +5,11 @@ url: /deathonthenile/shorthistory
 image: /images/deathonthenile/boxcoffindetail.jpg
 order: 2
 layout: coffins
+images:
+  -
+    image: deathonthenile/technical1.jpg
+    caption: "A conservator examines the outer coffin box of Nespawershefyt with a stereomicroscope. Fitzwilliam Museum collection: E.1.1822." 
+    
 ---
 
 **Early Burials**
