@@ -3,7 +3,7 @@ category: beni-hasan
 title: 'Senumutef'
 url: /beni-hasan/senumutef
 image: /images/beni-hasan/senumutef.jpg
-order: 7
+order: 6
 layout: coffins
 id: beni-hasan
 ---
