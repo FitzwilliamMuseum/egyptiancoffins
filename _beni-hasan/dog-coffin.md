@@ -5,7 +5,7 @@ layout: coffins
 category: beni-hasan
 id: beni-hasan
 order: 8
-image: IMG_4273.jpg
+image: /images/dog-coffin/IMG_7546.jpg
 images:
   -
     image: IMG_7969.jpg

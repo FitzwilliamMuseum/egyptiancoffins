@@ -4,6 +4,7 @@ title: Senuitef
 permalink: /beni-hasan/senuitef
 layout: coffins
 id: beni-hasan
+image: /images/senuitef/senuitef.jpg
 category: beni-hasan
 order: 7
 ---
