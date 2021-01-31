@@ -4,7 +4,7 @@ title: 'About'
 url: /beni-hasan/about
 image: /images/beni-hasan/about.jpg
 order: 1
-layout: death
+layout: coffins
 ---
 
 Add text here
