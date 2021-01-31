@@ -17,9 +17,9 @@ The themes of the conference focused on three areas:
 
 The conference language was in English and was attended by over one hundred delegates from seventeen countries. The quality and quantity of papers proposed for the conference was extremely high. This meant that the organisers were forced to ask a large number of participants to present their work in the form of a poster, rather than as a spoken presentation. Happily, all the colleagues affected generously consented to this proposal. Abstracts of the posters are included in the publication of the conference proceedings, published by Oxbow Books Ltd, which can be purchased [here](https://www.amazon.com/Ancient-Egyptian-Coffins-Present-Future/dp/1785709186).
 
-The conference was preceded by a three-day practical event (The Coffins Workshop) at which a number of additional posters were presented.
+The conference was preceded by a three-day practical event (The Coffins Workshop) at which a number of additional [posters](https://www.fitzmuseum.cam.ac.uk/coffinconferenceposters) were presented.
 
-https://www.fitzmuseum.cam.ac.uk/coffinconferenceposters
+
 
 
 
