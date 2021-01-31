@@ -7,10 +7,10 @@ order: 2
 layout: coffins
 images:
   -
-    image: deathonthenile/potburial.jpg
-    caption: "TBC." 
+    image: potburial.jpg
+    caption: "TBC."
   -
-    image: deathonthenile/rectangularboxcoffin.jpg
+    image: rectangularboxcoffin.jpg
     caption: "TBC."
 ---
 
@@ -51,7 +51,3 @@ From 525 BC, Egypt came increasingly under the control of foreigners. In 332 BC 
 For most of this time, Egyptian burial customs remained relatively unchanged and images of gods such as Isis, Osiris and Anubis still appeared. Many coffins survive that are recognizably Egyptian. There are anthropoid and qersu coffins (with four corner posts) but, inside these, the dead were wrapped in decorated linen shrouds rather than laid in inner coffins.
 
 There were also some significant changes in decoration. The focus was no longer on inscriptions giving a person’s name and job titles; instead it became important to create more individualized images of the dead, including plaster masks or portraits, painted on the shrouds or on wooden panels. New materials, including pigments such as red lead and lead white were introduced. The plant-based deep blue indigo and bright pink madder had long been used as dyestuff in Egypt, but now the colour was extracted and fixed onto a ground mineral base, making additional vivid paints for the palette.
-
-
-
-
