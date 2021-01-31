@@ -33,6 +33,12 @@ images:
   - 
     image: Footcase.jpg
     caption: "Egypt under foreign rule: XXX."
+  -
+    image: reuse1.jpg
+    caption: "Re-used wood: XXX."
+  -
+    image: reuse2.jpg
+    caption: "Re-used wood: XXX."
 ---
 
 **Early Burials**
