@@ -1,7 +1,7 @@
 ---
 category: beni-hasan
 title: 'Userhet'
-url: /beni-hasan/userhet
+permalink: /beni-hasan/userhet
 image: /images/deathonthenile/userhet.jpg
 order: 5
 layout: coffins

@@ -1,7 +1,7 @@
 ---
 category: beni-hasan
 title: 'Tjay'
-url: /beni-hasan/tjay
+permalink: /beni-hasan/tjay
 image: /images/deathonthenile/MaskofTjay.jpg
 order: 4
 layout: coffins

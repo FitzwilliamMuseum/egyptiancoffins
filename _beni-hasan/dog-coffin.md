@@ -1,8 +1,9 @@
 ---
 title: Dog coffin
-permalink: /coffins/dog-coffin
+permalink: /beni-hasan/dog-coffin
 layout: coffins
-category: dog-coffin
+category: beni-hasan
+id: beni-hasan
 images:
   -
     image: IMG_7969.jpg
@@ -10,10 +11,10 @@ images:
   -
     image: IMG_4273.jpg
     caption: Original dog coffin showing hieroglyphic text.
-  - 
+  -
     image: IMG_7941.jpg
     caption: Dr Geoffrey Killen inserting a dowel joint into the replica coffin box.
-  - 
+  -
     image: IMG_7940.jpg
     caption: Dr Geoffrey Killen assembling the replica lid.
 ---

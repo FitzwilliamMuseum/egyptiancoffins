@@ -1,7 +1,7 @@
 ---
 category: beni-hasan
 title: 'Heta-User'
-url: /beni-hasan/hetauser
+permalink: /beni-hasan/hetauser
 image: /images/deathonthenile/hetauser.jpg
 order: 7
 layout: coffins

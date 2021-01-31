@@ -1,7 +1,7 @@
 ---
 category: beni-hasan
 title: 'Senumutef'
-url: /beni-hasan/senumutef
+permalink: /beni-hasan/senumutef
 image: /images/beni-hasan/senumutef.jpg
 order: 6
 layout: coffins

@@ -14,15 +14,14 @@ category: beni-hasan
   {% for death in sorted limit:3 offset:offset %}
      <div class="col-md-4 mt-3">
           <div class="card h-100">
-          <img class="card-img-top" src="{{death.image}}"
-                         alt="{{page.title}}'s image">
               <div class="card-body">
-
+              <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="{{death.image}}"
+                             alt="{{page.title}}'s image">
                 <h5 class="card-title">{{death.title}} </h5>
 
                 <p class="card-text">{{ death.content | strip_html | truncatewords: 20}}</p>
 
-                <a href="{{ death.url }}" class="btn btn-dark">Read more </a>
+                <a href="{{ death.permalink }}" class="btn btn-dark">Read more </a>
               </div>
           </div>
     </div>
