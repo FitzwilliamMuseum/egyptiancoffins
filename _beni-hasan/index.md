@@ -1,7 +1,7 @@
 ---
 category: beni-hasan
 title: 'About Beni-Hasan'
-permalink: /beni-hasan/about
+permalink: /coffins/beni-hasan/about
 image: /images/beni-hasan/benihassan.jpg
 order: 1
 layout: coffins

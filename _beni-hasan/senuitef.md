@@ -1,12 +1,11 @@
 ---
-layout: coffins
-title: Senuitef
-permalink: /beni-hasan/senuitef
+title: 'Senuitef'
+permalink: /coffins/beni-hasan/senuitef
 layout: coffins
 id: beni-hasan
 image: /images/senuitef/senuitef.jpg
 category: beni-hasan
-order: 7
+order: 10
 ---
 
 ## Brief description

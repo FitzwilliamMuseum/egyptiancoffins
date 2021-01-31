@@ -68,11 +68,7 @@ collections:
       output: true
    news:
       output: true
-   senuitef:
-      output: true
    team:
-      output: true
-   dog-coffin:
       output: true
    pop-ups:
       output: true
@@ -89,11 +85,9 @@ feed:
   collections:
     - pakepu
     - nespawershefyt
-    - senuitef
     - nakhtefmut
     - coffins
     - news
-    - dog-coffin
     - pop-ups
     - miniature
     - deathonthenile
@@ -103,8 +97,6 @@ categories:
     - pakepu
     - nespawershefyt
     - nakhtefmut
-    - senuitef
-    - dog-coffin
     - miniature
     - beni-hasan
 
