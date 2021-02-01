@@ -5,10 +5,6 @@ url: /deathonthenile/conference
 image: /images/deathonthenile/conferencebook.jpg
 order: 6
 layout: coffins
-images:
-  -
-    image: Anderson.pdf
-    caption: "Coming soon."
 ---
 
 The Fitzwilliam Museum, University of Cambridge hosted a conference on ancient Egyptian coffins, which coincided with the 'Death on the Nile' exhibition at the Judge Business School from 7–9 April 2016.
