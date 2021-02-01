@@ -1,6 +1,6 @@
 ---
 category: beni-hasan
-title: 'Fragments belonging to an unknown individual'
+title: 'Fragments belonging to three different unknown individuals'
 permalink: /coffins/beni-hasan/unknown-frags
 image: /images/beni-hasan/E_67_1903_1_201507_mfj22_dc2.jpg
 order: 11
