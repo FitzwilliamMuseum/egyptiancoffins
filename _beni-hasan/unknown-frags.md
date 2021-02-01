@@ -10,10 +10,10 @@ id: beni-hasan
 
 **Object numbers:** E.W.78, E.W.95 and E.W.96 
 
-**Descriptions:**
+**Descriptions:** Coming soon.
 
-**Measurements:**
+**Measurements:** Coming soon.
 
-**Analysis:**
+**Analysis:** Coming soon.
 
-**Commentary:**
+**Commentary:** Coming soon.
