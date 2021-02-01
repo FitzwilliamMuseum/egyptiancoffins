@@ -10,15 +10,6 @@ images:
   -
     image: E671903.jpg
     caption: "XXX."
-  -
-    image: E671903Backpanel.jpg
-    caption: "Back panel showing loss above the mortise."
-  -
-    image: E671903backmortise2.jpg
-    caption: "Back panel showing the mortise hole."
-  -
-    image: E671903backtenon.jpg
-    caption: "Back panel showing the tenon."
 ---
 
 **Object number:** E.67.1903
