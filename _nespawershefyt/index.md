@@ -4,6 +4,7 @@ title: Nespawershefyt's coffin set
 category: nespawershefyt
 permalink: /coffins/nespawershefyt
 order: 1
+priref: 49036
 technical:
   -
     file: nespawershefyt/nespawershefytComplete.pdf

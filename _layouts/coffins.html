@@ -47,7 +47,7 @@
 
 
     <div>
-        
+
         {% if page.id == 'root' %}
         <div class="col-md-12 shadow-sm  p-3 mb-3 mx-2 bg-white rounded">
             {{ content }}
@@ -90,7 +90,9 @@
             </p>
             {{ content }}
         </div>
-
+          {% if page.priref %}
+            {% include collection_data.html %}
+          {% endif %}
           {% if page.technical%}
             {% include structure/related.html %}
           {% endif %}
@@ -133,6 +135,22 @@
 {% include structure/footer_logos.html %}
 {% include structure/footer.html %}
 {% include structure/javascript.html %}
+{% if page.priref %}
+<script >
+  $( document ).ready(function() {
+    let endpoint = 'https://collection.beta.fitz.ms/id/object/{{ page.priref }}/json';
+      $.ajax({
+          url: endpoint,
+          contentType: "application/json",
+          dataType: 'json',
+          success: function(result){
+              console.log(result);
+              $("#description").append(result.description[0]['value']);
+          }
+      });
+  });
+</script>
+{% endif %}
 {% include analytics/google_analytics.html %}
 {% include lightbox.html %}
 </body>
