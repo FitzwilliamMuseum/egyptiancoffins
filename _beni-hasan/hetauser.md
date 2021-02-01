@@ -11,7 +11,7 @@ images:
     image: E671903.jpg
     caption: "XXX."
   -
-    image: E.67.1903_Back panel_loss above mortise.jpg
+    image: E671903Backpanel.jpg
     caption: "Back panel showing loss above the mortise."
 ---
 
