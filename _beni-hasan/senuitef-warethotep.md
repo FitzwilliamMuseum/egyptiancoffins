@@ -1,6 +1,6 @@
 ---
-title: 'Senuitef'
-permalink: /coffins/beni-hasan/senuitef
+title: 'Senuitef/Warethotep'
+permalink: /coffins/beni-hasan/senuitef-warethotep
 layout: coffins
 id: beni-hasan
 image: /images/senuitef/senuitef.jpg
@@ -9,6 +9,8 @@ order: 10
 ---
 
 ## Brief description
+
+E.70.1903
 
 The long boards grouped under this accession number belong to the coffin of a person named Senu-itif.
 However, the boards from the short sides give the name of the owner as Warethetep.
