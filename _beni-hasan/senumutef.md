@@ -8,4 +8,13 @@ layout: coffins
 id: beni-hasan
 ---
 
-E.69.1903
+**Object number:** E.69.1903
+
+**Description:** Coming soon.
+
+**Measurements:** Coming soon.
+
+**Analysis:** Coming soon.
+
+**Commentary:** Coming soon.
+
