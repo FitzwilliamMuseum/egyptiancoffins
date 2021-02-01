@@ -7,7 +7,7 @@ order: 5
 layout: coffins
 images:
   -
-    image: deathonthenile/catalogue.jpg
+    image: catalogue.jpg
     caption: "The official 'Death on the Nile' exhibition catalogue." 
 ---
 
