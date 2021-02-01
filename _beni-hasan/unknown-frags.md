@@ -7,3 +7,7 @@ order: 11
 layout: coffins
 id: beni-hasan
 ---
+
+E.W.78 no name - only possibly BH
+E.W.95 no name - only possibly BH
+E.W.96 no name - only possibly BH 
