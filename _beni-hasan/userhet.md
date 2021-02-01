@@ -8,4 +8,4 @@ layout: coffins
 id: beni-hasan
 ---
 
-Add text here
+E.88.1903
