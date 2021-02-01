@@ -13,6 +13,9 @@ images:
   -
     image: E671903Backpanel.jpg
     caption: "Back panel showing loss above the mortise."
+  -
+    image: E671903backmortise2.jpg
+    caption: "Back panel showing the mortise hole."
 ---
 
 **Object number:** E.67.1903
