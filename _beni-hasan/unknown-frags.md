@@ -1,4 +1,3 @@
-
 ---
 category: beni-hasan
 title: 'Fragments belonging to an unknown individual'
