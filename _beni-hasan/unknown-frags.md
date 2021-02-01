@@ -8,6 +8,12 @@ layout: coffins
 id: beni-hasan
 ---
 
-E.W.78 no name - only possibly BH
-E.W.95 no name - only possibly BH
-E.W.96 no name - only possibly BH 
+**Object numbers:** E.W.78, E.W.95 and E.W.96 
+
+**Descriptions:**
+
+**Measurements:**
+
+**Analysis:**
+
+**Commentary:**
