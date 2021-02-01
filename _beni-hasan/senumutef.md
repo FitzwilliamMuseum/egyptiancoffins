@@ -7,3 +7,5 @@ order: 6
 layout: coffins
 id: beni-hasan
 ---
+
+E.69.1903
