@@ -6,6 +6,7 @@ image: /images/beni-hasan/E_71_1903_33_dc2.jpg
 order: 2
 layout: coffins
 id: beni-hasan
+priref: 50676
 ---
 
 **Object number:** E.71.1903
@@ -19,8 +20,3 @@ id: beni-hasan
 **Commentary:** Coming soon.
 
 **Other relevant objects in the Museum's collection:** E.71.a.1903, E.71.b.1903, E.71.c.1903, E.71.d.1903 and E.71.e.1903.
-
-
-
-
-
