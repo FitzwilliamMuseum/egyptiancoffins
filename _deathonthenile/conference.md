@@ -8,13 +8,31 @@ layout: coffins
 technical:
   -
     file: nespawershefyt/Anderson.pdf
-    title: "Averil Anderson: Dundee Cultural Services and Museum."
+    title: "Averil Anderson: Biography of Coffins in the McManus: Dundee's Art Gallery and Museum."
   - 
     file: nespawershefyt/Belohoubkova.pdf
-    title: "Dana Belohoubkova, Ladislav Bares and Jiri Janak: Charles University Prague."
+    title: "Dana Belohoubkova, Ladislav Bares and Jiri Janak: Texts for Protection of the Body on Inner Sarcophagi of the Saite-Persian Period from Abusir."
   -
     file: nespawershefyt/Boehme.pdf
-    title: "Isa Bohme, University of Leipzig."
+    title: "Isa Bohme: Private Sarcophagi of the New Kingdom."
+  -
+    file: nespawershefyt/Consonni.pdf
+    title: "Anna Consonni and Tommaso Quirino: Reconstructing the Perishable: Perspectives on the Study of Coffins at the Temple of Amenhotep II in Western Thebes."
+  -
+    file: nespawershefyt/Emmett.pdf
+    title: "Trevor Emmett: Creating Egyptian Blue Pigment in the Laboratory: Practical Considerations and Insights into the Cuprorivaite-forming Reaction."
+  -
+    file: nespawershefyt/Fetler.pdf
+    title: "Stephane Fetler: Traces of Transition: Funerary Envelopes from K93.12 in Dra Abu el-Naga as Artistic Indicators of Political and Cultural Change."
+  -
+    file: nespawershefyt/Griswold.pdf
+    title: "Geneva Griswold: Examination of a Previously Untreated Polychrome Coffin and Mummy."
+  -
+    file: nespawershefyt/Haladaj.pdf
+    title: "Dagmara Haladaj: Sail in Peace to the Beautiful West: Iconography of the Solar Barges Depicted on Qrsw Coffins from the Priests of Montu Group."
+  -
+    file: nespawershefyt/Hunkeler.pdf
+    title: "Rest in Pieces: Coffin Fragments from TT95."
 ---
 
 The Fitzwilliam Museum, University of Cambridge hosted a conference on ancient Egyptian coffins, which coincided with the 'Death on the Nile' exhibition at the Judge Business School from 7–9 April 2016.
