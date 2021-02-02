@@ -36,6 +36,12 @@ technical:
   -
     file: nespawershefyt/Ibrahim.pdf
     title: "Mohamed Ibrahim, Ahmed Ismail, Akram Abd el-Aziz, Ibrahim Salah and Eid Mertah: Coffin conservation treatment considerations." 
+  -
+    file: nespawershefyt/Kamel.pdf
+    title: "Salwa Kamel: Unpublished Late Period Coffin from Giza Stored in the Museum of Civilization Magazine."
+  -
+    file: nespawershefyt/Karner.pdf
+    title: "Sylvia Karner: But-Har-Chonsu's Coffin Lid (Dyn 21-22)."
 ---
 
 The Fitzwilliam Museum, University of Cambridge hosted a conference on ancient Egyptian coffins, which coincided with the 'Death on the Nile' exhibition at the Judge Business School from 7–9 April 2016.
