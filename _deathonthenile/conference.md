@@ -32,7 +32,10 @@ technical:
     title: "Dagmara Haladaj: Sail in Peace to the Beautiful West: Iconography of the Solar Barges Depicted on Qrsw Coffins from the Priests of Montu Group."
   -
     file: nespawershefyt/Hunkeler.pdf
-    title: "Rest in Pieces: Coffin Fragments from TT95."
+    title: "Charlotte Hunkeler: Rest in Pieces: Coffin Fragments from TT95."
+  -
+    file: nespawershefyt/Ibrahim.pdf
+    title: "Mohamed Ibrahim, Ahmed Ismail, Akram Abd el-Aziz, Ibrahim Salah and Eid Mertah: Coffin conservation treatment considerations." 
 ---
 
 The Fitzwilliam Museum, University of Cambridge hosted a conference on ancient Egyptian coffins, which coincided with the 'Death on the Nile' exhibition at the Judge Business School from 7–9 April 2016.
