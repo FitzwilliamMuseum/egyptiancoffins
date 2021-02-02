@@ -1,4 +1,5 @@
 <div class="col shadow-sm p-3 mb-5 bg-white rounded h-100">
+    {% if page.url contains "coffins" %}
     <h3>Menu</h3>
     <ul>
         {% if page.category contains "pakepu" %}
@@ -39,10 +40,21 @@
         {% endfor %}
         {% endif %}
     </ul>
+    {% endif %}
     {% if page.technical %}
     <h3>Technical reports</h3>
     <ul>
         {% for file in page.technical %}
+        <li>
+            <a href="/assets/pdfs/{{ file.file }}">{{ file.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    {% if page.pdfs %}
+    <h3>Conference posters</h3>
+    <ul>
+        {% for file in page.pdfs %}
         <li>
             <a href="/assets/pdfs/{{ file.file }}">{{ file.title }}</a>
         </li>
