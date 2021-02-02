@@ -1,5 +1,5 @@
 <div class="col shadow-sm p-3 mb-5 bg-white rounded h-100">
-    {% if page.url contains "coffins" %}
+    {% if page.permalink contains "coffins" %}
     <h3>Menu</h3>
     <ul>
         {% if page.category contains "pakepu" %}
@@ -41,6 +41,7 @@
         {% endif %}
     </ul>
     {% endif %}
+
     {% if page.technical %}
     <h3>Technical reports</h3>
     <ul>
@@ -51,6 +52,7 @@
         {% endfor %}
     </ul>
     {% endif %}
+
     {% if page.pdfs %}
     <h3>Conference posters</h3>
     <ul>
@@ -61,4 +63,5 @@
         {% endfor %}
     </ul>
     {% endif %}
+
 </div>
