@@ -10,5 +10,4 @@ thumbnail: /images/news/pigments.jpg
 permalink: /deathonthenile/blog/thescienceofcolour
 ---
 
-
 Add text here
