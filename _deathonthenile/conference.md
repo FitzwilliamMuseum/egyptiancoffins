@@ -42,6 +42,42 @@ pdfs:
   -
     file: nespawershefyt/Karner.pdf
     title: "Sylvia Karner: But-Har-Chonsu's Coffin Lid (Dyn 21-22)."
+  -
+    file: nespawershefyt/Lavrentyeva.pdf
+    title: "Nika Lavrentyeva: The Ancient Egpyptian Perception of nb anx: Images of Coffins on Items from the Pushkin State Museum of Fine Arts Moscow."
+  -
+    file: nespawershefyt/Prestipino.pdf
+    title: "Giovanna Prestipino: Experimenting with Adhesives and Consolidants for the Conservation of Egyptian Polychrome Wooden Objects."
+  -
+    file: nespawershefyt/Schutz.pdf
+    title: "Manon Schutz: From Beds and Coffins to Beds as Coffins?: Beds in the Funerary Context of Ancient Egypt from Predynastic Times to the Roman Period: An Overview."
+  -
+    file: nespawershefyt/Sheikholeslami.pdf
+    title: "Cynthia Sheikholeslami: Pakepu and the Choachytes."
+  -
+    file: nespawershefyt/Siddall.pdf
+    title: "Ruth Siddall: A Romano-Egyptian Mummy Footcase from Hawara in the Fitzwilliam Museum Cambridge ABSTRACT ONLY."
+  -
+    file: nespawershefyt/Skinner.pdf
+    title: "Lucy Skinner, Anna Stevens, Anders Bettum, Corina Rogge, Alexandra Winkels and Rainer Gerisch: Piecing Together Coffins of the Non-Elite at Amarna."
+  -
+    file: nespawershefyt/Stevens.pdf
+    title: "Marissa Stevens: Connecting Coffins and Papyri: Social Identity and 21st Dynasty Funerary Iconography."
+  - 
+    file: nespawershefyt/Stoevesand.pdf
+    title: "Katherina Stoevesand: Late Period Coffins from the Fayum Region: A Common Tradition?"
+  - 
+    file: nespawershefyt/Tarasenko.pdf
+    title: "Mykola Tarasenko: Mummy Cover Fragment Ar-227 in the Lviv Museum of History of Religion."
+  -
+    file: nespawershefyt/Williams.pdf
+    title: "Alison Williams: Tradition, Innovation and Archaism on 25th and 26th Dynasty Coffins: Objects from the Liverpool World Museum Collection."
+  -
+    file: nespawershefyt/Zaghloul.pdf
+    title: "Zeinab Zaghloul Abd El-Azim: Three Fragments of the Wooden Coffin of Osiris Pa-aan from El-Ashmunein Magazine."
+  -
+    file: nespawershefyt/Zidan.pdf
+    title: "Eman Zidan et al: Documentation and Conservation Study of SS 37 Wooden Coffin and Mummy Cartonnage Egyptian Museum Cairo."
 ---
 
 The Fitzwilliam Museum, University of Cambridge hosted a conference on ancient Egyptian coffins, which coincided with the 'Death on the Nile' exhibition at the Judge Business School from 7–9 April 2016.
