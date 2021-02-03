@@ -19,7 +19,7 @@ As part of the exhibition experience, the team developed a range of videos demon
  
  <div class="card col-sm p-0 m-2">
     <div class="embed-responsive embed-responsive-16by9">
-        <iframe src="https://www.youtube.com/watch?v=CzJHiBswpZs" frameborder="0"
+        <iframe src="https://www.youtube.com/embed/CzJHiBswpZs" frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen class="embed-responsive-item"></iframe>
     </div>
