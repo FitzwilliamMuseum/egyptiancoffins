@@ -44,7 +44,6 @@ timezone: Europe/London
 permalink: pretty
 encoding: "utf-8"
 read_time: true
-paginate: 2
 
 # Build settings
 markdown: kramdown
@@ -80,6 +79,7 @@ collections:
       output: true
    deathblog:
       output: true
+
 
 mailchimp-list: https://cam.us17.list-manage.com/subscribe/post?u=f30da66801c7549a27ffb3357&amp;id=741e719b5c
 
