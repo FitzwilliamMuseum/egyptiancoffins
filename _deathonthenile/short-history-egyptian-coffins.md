@@ -8,34 +8,34 @@ layout: coffins
 images:
   -
     image: potburial.jpg
-    caption: "Early burial: XXX."
+    caption: "Early burial: Pot burial made from Nile silt, provenance unknown. Fitzwilliam Museum collection: E.P.550 and E.P.549."
   -
     image: rectangularboxcoffin.jpg
-    caption: "Box coffins: XXX."
+    caption: "Box coffins: Middle Kingdom box coffin belonging to Nakht from Beni Hasan. Fitzwilliam Museum collection: E.68.1903."
   -
     image: MaskofTjay.jpg
-    caption: "Cartonnage: XXX."
+    caption: "Cartonnage: Cartonnage face mask of Tjay from Beni Hasan. Fitzwilliam Museum collection: E.68.1903."
   -
     image: userhet.jpg
-    caption: "Early anthropoid coffin: XXX."
+    caption: "Early anthropoid coffin: Belonging to a man named Userhet from Beni Hasan. Fitzwilliam Museum collection: E.88.1903."
   -
     image: Nakhtefmut.jpg
-    caption: "Decorated anthropoid coffin: XXX."
+    caption: "Decorated anthropoid coffin: Cartonnage coffin of Nakhtefmut. Fitzwilliam Museum collection: E.64.1896."
   -
     image: Nested.jpg
-    caption: "Nested coffins: XXX."
+    caption: "Nested coffins: Late Period coffin set of Pakepu. Fitzwilliam Museum collection: E.2.1869."
   - 
     image: Foreign.jpg
-    caption: "Egypt under foreign rule: XXX."
+    caption: "Egypt under foreign rule: Gypsum plaster mask from a Roman coffin. Fitzwilliam Museum collection: E.3.1906."
   - 
     image: Footcase.jpg
-    caption: "Egypt under foreign rule: XXX."
+    caption: "Egypt under foreign rule: Cartonnage footcase. Fitzwilliam Museum collection: E.103b.1911."
   -
     image: reuse1.jpg
-    caption: "Re-used wood: XXX."
+    caption: "Re-used wood: Box coffin of Nakht from Beni Hasan. Fitzwilliam Museum collection: E.68.1903."
   -
     image: reuse2.jpg
-    caption: "Re-used wood: XXX."
+    caption: "Re-used wood: Detail of the inner coffin of Nespawershefyt. Fitzwilliam Museum collection: E.1.1822."
 ---
 
 **Early Burials**
