@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: deathblog
 title: Complex layered structures on Pakepu's inner coffin
 date: 2018-10-10
 updated: 2018-12-12
