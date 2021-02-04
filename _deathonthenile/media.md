@@ -2,7 +2,7 @@
 category: deathonthenile
 title: 'Media'
 url: /deathonthenile/media
-image: /images/deathonthenile/media.jpg
+image: /images/deathonthenile/interview.jpg
 order: 8
 layout: coffins
 ---
