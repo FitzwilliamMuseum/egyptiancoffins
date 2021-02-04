@@ -81,7 +81,34 @@ pdfs:
 images:
   -
     image: conference1.jpg
-    caption: "XXX."
+    caption: "Coming soon."
+  -
+    image: conference5.jpg
+    caption: "Coming soon."
+  - 
+    image: conference2.jpg
+    caption: "Coming soon."
+  -
+    image: conference3.jpg
+    caption: "Coming soon."
+  - 
+    image: conference6.jpg
+    caption: "Coming soon."
+  - 
+    image: conference4.jpg
+    caption: "Coming soon."
+  - 
+    image: conference7.jpg
+    caption: "Coming soon."
+  -
+    image: conference8.jpg
+    caption: "Coming soon."
+  -
+    image: conference9.jpg
+    caption: "Coming soon."
+  -
+    image: conference10.jpg
+    caption: "Coming soon."
 ---
 
 The Fitzwilliam Museum, University of Cambridge hosted a conference on ancient Egyptian coffins, which coincided with the 'Death on the Nile' exhibition at the Judge Business School from 7–9 April 2016.
