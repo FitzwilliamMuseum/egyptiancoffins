@@ -17,11 +17,13 @@ category: deathonthenile
               <div class="card-body">
               <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="{{death.image}}"
                              alt="{{page.title}}'s image" height="150" width="150">
-                <h5 class="card-title">{{death.title}} </h5>
+                <h5 class="card-title">{{death.title}}</h5>
 
-                <p class="card-text">{{ death.content | strip_html | truncatewords: 20}}</p>
+                <p class="card-text">
+                  {{ death.content | strip_html | truncatewords: 20}}
+                </p>
 
-                <a href="{{ death.url }}" class="btn btn-dark">Read more </a>
+                <a href="{{ death.url }}" class="btn btn-dark stretched-link">Read more </a>
               </div>
           </div>
     </div>
