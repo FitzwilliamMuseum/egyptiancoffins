@@ -8,6 +8,34 @@ author: Deb Magnoler
 tags: [deathonthenile, exhibition, conservation, pigments]
 thumbnail: /images/deathonthenile/pigments.jpg
 permalink: /deathonthenile/blog/thescienceofcolour
+images:
+  -
+    image: deathonthenile/colour1.jpg
+    caption: "XXX."
+  -
+    image: deathonthenile/colour2.jpg
+    caption: "XXX."
+  -
+    image: deathonthenile/colour3.jpg
+    caption: "XXX."
+  -
+    image: deathonthenile/colour4.jpg
+    caption: "XXX."
+  -
+    image: deathonthenile/colour5.jpg
+    caption: "XXX."
+  -
+    image: deathonthenile/colour6.jpg
+    caption: "XXX."
+  -
+    image: deathonthenile/colour7.jpg
+    caption: "XXX."
+  -
+    image: deathonthenile/colour8.jpg
+    caption: "XXX."
+  -
+    image: deathonthenile/colour9.jpg
+    caption: "XXX."
 ---
 
 When they come to see the *Death of the Nile* exhibition, people are often surprised at how brilliant the colours on the ancient Egyptian objects still are and they ask whether they have been repainted and even if we retouch them ourselves. While the very thought of it tends to horrify the modern conservator, the question is a fair one and deserves some attention.  By using some of our objects as examples, I will explain what the colours are made of, why they survived the way they did and show them to you under a different light (such as Ultra Violet light, for example).
