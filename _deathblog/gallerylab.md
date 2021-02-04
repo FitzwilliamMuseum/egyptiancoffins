@@ -1,6 +1,6 @@
 ---
 layout: deathblog
-title: Death on the Nile: conversations from a gallery lab
+title: 'Death on the Nile: conversations from a gallery lab'
 date: 2016-03-16
 updated: 2021-02-04
 category: news
