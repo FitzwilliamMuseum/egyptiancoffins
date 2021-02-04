@@ -97,17 +97,11 @@ images:
   - 
     image: conference4.jpg
     caption: "Coming soon."
-  - 
-    image: conference7.jpg
-    caption: "Coming soon."
   -
     image: conference8.jpg
     caption: "Coming soon."
   -
     image: conference9.jpg
-    caption: "Coming soon."
-  -
-    image: conference10.jpg
     caption: "Coming soon."
 ---
 
