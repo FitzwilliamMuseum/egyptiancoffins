@@ -38,7 +38,7 @@ images:
     caption: "Image 9: Detail of the collar and side of Userhet's coffin under UV light. The repainted areas appear red in this image even though they appear white under normal light."
 ---
 
-When they come to see the *Death of the Nile* exhibition, people are often surprised at how brilliant the colours on the ancient Egyptian objects still are and they ask whether they have been repainted and even if we retouch them ourselves. While the very thought of it tends to horrify the modern conservator, the question is a fair one and deserves some attention.  By using some of our objects as examples, I will explain what the colours are made of, why they survived the way they did and show them to you under a different light (such as Ultra Violet light, for example).
+When they come to see the *Death on the Nile* exhibition, people are often surprised at how brilliant the colours on the ancient Egyptian objects still are and they ask whether they have been repainted and even if we retouch them ourselves. While the very thought of it tends to horrify the modern conservator, the question is a fair one and deserves some attention.  By using some of our objects as examples, I will explain what the colours are made of, why they survived the way they did and show them to you under a different light (such as Ultra Violet light, for example).
 
 Image 1 (below) shows a range of pigments typically used by the ancient Egyptians to decorate coffins, small objects and even tomb walls. Others include carbon black from soot or charcoal, red realgar and green earth.
 
