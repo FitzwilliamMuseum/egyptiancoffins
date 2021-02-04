@@ -1,6 +1,6 @@
 ---
 category: deathonthenile
-title: Images
+title: Exhibition images
 url: /deathonthenile/images
 image: /images/deathonthenile/DON1.jpg
 order: 7
