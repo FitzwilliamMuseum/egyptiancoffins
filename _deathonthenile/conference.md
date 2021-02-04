@@ -81,7 +81,7 @@ pdfs:
 images:
   -
     image: conference1.jpg
-    caption: "Coming soon."
+    caption: "Julie Dawson (third from left) with Egyptian colleagues at the conference venue: Cambridge University's Judge Business School."
   -
     image: conference5.jpg
     caption: "Coming soon."
