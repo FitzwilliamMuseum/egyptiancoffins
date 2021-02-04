@@ -11,7 +11,7 @@ permalink: /deathonthenile/blog/thescienceofcolour
 images:
   -
     image: deathonthenile/colour1.jpg
-    caption: "Naturally occurring mineral pigments used in ancient Egypt, including (from top left, clockwise): yellow orpiment, cinnabar, limestone and iron based red and yellow ochre."
+    caption: "Naturally occurring mineral pigments used in ancient Egypt, including yellow orpiment, cinnabar, limestone and iron based red and yellow ochre."
   -
     image: deathonthenile/colour2.jpg
     caption: "Fragment of the inside of an ancient Egyptian kiln, with pellets of original Egyptian blue attached."
@@ -26,16 +26,16 @@ images:
     caption: "Cartonnage showing the winged goddess Nut under VIL, the bright areas reveal the presence of Egyptian blue (E.GA.291.1949)."
   -
     image: deathonthenile/colour6.jpg
-    caption: "The back Nakhtefmut's cartonnage showing a large modern plaster repair applied after the coffin was cut open in modern times. The dark patches on the decoration are ancient varnish (E.64.1896)."
+    caption: "The back of Nakhtefmut's cartonnage showing a large modern plaster repair applied after the coffin was cut open in modern times. The dark patches on the decoration are ancient varnish."
   -
     image: deathonthenile/colour7.jpg
-    caption: "The back of Nakhtefmut's cartonnage under UV light showing modern retouches of paint on the horizontal cuts at the back of the head, indicated by the yellow arrows (E.64.1896)."
+    caption: "The back of Nakhtefmut's cartonnage under UV light showing modern retouches of paint on the horizontal cuts at the back of the head, indicated by the yellow arrows."
   -
     image: deathonthenile/colour8.jpg
-    caption: "Detail showing the original colours on the figures decorating the coffin of Nakhtefmut (E.64.1986)."
+    caption: "Detail showing the original colours on the figures decorating the coffin of Nakhtefmut."
   -
     image: deathonthenile/colour9.jpg
-    caption: "Detail of the collar and side of the coffin of Userhet, under UV light. The repainted areas appear red in this images even though they appear white under normal light (E.88.1903)."
+    caption: "Detail of the collar and side of the coffin of Userhet, under UV light. The repainted areas appear red in this images even though they appear white under normal light."
 ---
 
 When they come to see the *Death of the Nile* exhibition, people are often surprised at how brilliant the colours on the ancient Egyptian objects still are and they ask whether they have been repainted and even if we retouch them ourselves. While the very thought of it tends to horrify the modern conservator, the question is a fair one and deserves some attention.  By using some of our objects as examples, I will explain what the colours are made of, why they survived the way they did and show them to you under a different light (such as Ultra Violet light, for example).
