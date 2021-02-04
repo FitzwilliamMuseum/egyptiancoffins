@@ -84,10 +84,10 @@ images:
     caption: "Julie Dawson (third from left) with Egyptian colleagues at the conference venue: Cambridge University's Judge Business School."
   -
     image: conference5.jpg
-    caption: "Coming soon."
+    caption: "Helen Strudwick delivering a paper entitled 'Decoding Ancient Egyptian Coffins: The Judgement of the Dead and their Eternal Destiny'."
   - 
     image: conference2.jpg
-    caption: "Coming soon."
+    caption: "Conference delegates."
   -
     image: conference3.jpg
     caption: "Coming soon."
@@ -96,13 +96,13 @@ images:
     caption: "Coming soon."
   - 
     image: conference4.jpg
-    caption: "Coming soon."
+    caption: "(From left to right) Professor Ali Omar, Helwan University, Dr Nour Badr, Grand Egyptian Museum and Lucy Skinner, British Museum/Nottingham University."
   -
     image: conference8.jpg
-    caption: "Coming soon."
+    caption: "Helen Strudwick with conference delegates during an evening social event."
   -
     image: conference9.jpg
-    caption: "Coming soon."
+    caption: "Conference delegates dining at St John's College."
 ---
 
 The Fitzwilliam Museum, University of Cambridge hosted a conference on ancient Egyptian coffins, which coincided with the 'Death on the Nile' exhibition at the Judge Business School from 7–9 April 2016.
