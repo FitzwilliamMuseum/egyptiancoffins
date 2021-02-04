@@ -78,6 +78,10 @@ pdfs:
   -
     file: nespawershefyt/Zidan.pdf
     title: "Eman Zidan et al: Documentation and Conservation Study of SS 37 Wooden Coffin and Mummy Cartonnage Egyptian Museum Cairo."
+images:
+  -
+    image: conference1.jpg
+    caption: "XXX."
 ---
 
 The Fitzwilliam Museum, University of Cambridge hosted a conference on ancient Egyptian coffins, which coincided with the 'Death on the Nile' exhibition at the Judge Business School from 7–9 April 2016.
