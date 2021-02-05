@@ -273,3 +273,9 @@ label.cm-app-label {
     background-size: cover;
     padding-top: 8rem;
 }
+blockquote {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    font-family: 'Merriweather', serif;
+    padding: 0 1rem;
+}
