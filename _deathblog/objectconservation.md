@@ -8,6 +8,25 @@ author: Deb Magnoler
 tags: [deathonthenile, exhibition, conservation, objects]
 thumbnail: /images/deathonthenile/userhet.jpg
 permalink: /deathonthenile/blog/objectconservation
+images:
+  -
+    image: deathonthenile/userhet1.jpg
+    caption: "Coming soon."
+  -
+    image: deathonthenile/userhet2.jpg
+    caption: "Coming soon."
+  -
+    image: deathonthenile/userhet3.jpg
+    caption: "Coming soon."
+  -
+    image: deathonthenile/userhet4.jpg
+    caption: "Coming soon."
+  -
+    image: deathonthenile/userhet5.jpg
+    caption: "Coming soon."
+  -
+    image: deathonthenile/userhet6.jpg
+    caption: "Coming soon."
 ---
 
 My name is Deb Magnoler and I started as a Conservator at the Fitzwilliam Museum on 4 January, where my work at the moment is in preparation for the Death on the Nile: Uncovering the afterlife of ancient Egypt exhibition, opening on 23 February.
