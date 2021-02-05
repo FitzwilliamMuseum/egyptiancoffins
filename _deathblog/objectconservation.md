@@ -11,22 +11,22 @@ permalink: /deathonthenile/blog/objectconservation
 images:
   -
     image: deathonthenile/userhet1.jpg
-    caption: "Coming soon."
+    caption: "Image 1: The head of the lid of the inner coffin of Userhet (E.88.1903)."
   -
     image: deathonthenile/userhet2.jpg
-    caption: "Coming soon."
+    caption: "Image 2: Front of lid showing the inscription of Userhet, and discolouration on the left of the torso where the coffin lay on its side."
   -
     image: deathonthenile/userhet3.jpg
-    caption: "Coming soon."
+    caption: "Image 3: Tool marks on the inside of the coffin."
   -
     image: deathonthenile/userhet4.jpg
-    caption: "Coming soon."
+    caption: "Image 4: Userhet's coffin under UV light as at 2005 showing a large area of overpainting on the right side of the torso."
   -
     image: deathonthenile/userhet5.jpg
-    caption: "Coming soon."
+    caption: "Image 5: Userhet's underwent extensive repairs in the 20th century, but these are not always immediately identifiable with the naked eye."
   -
     image: deathonthenile/userhet6.jpg
-    caption: "Coming soon."
+    caption: "Deb Magnoler in the Fitzwilliam Antiquities conservation lab."
 ---
 
 My name is Deb Magnoler and I started as a Conservator at the Fitzwilliam Museum on 4 January, where my work at the moment is in preparation for the Death on the Nile: Uncovering the afterlife of ancient Egypt exhibition, opening on 23 February.
