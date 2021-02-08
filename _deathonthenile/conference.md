@@ -88,12 +88,6 @@ images:
   - 
     image: conference2.jpg
     caption: "Conference delegates."
-  -
-    image: conference3.jpg
-    caption: "Coming soon."
-  - 
-    image: conference6.jpg
-    caption: "Coming soon."
   - 
     image: conference4.jpg
     caption: "(From left to right) Professor Ali Omar, Helwan University, Dr Nour Badr, Grand Egyptian Museum and Lucy Skinner, British Museum/Nottingham University."
