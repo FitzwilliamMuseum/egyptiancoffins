@@ -3,6 +3,7 @@ layout: coffins
 title: Mummy case of Nakhtefmut
 permalink: /coffins/nakhtefmut
 category: nakhtefmut
+image: '/images/nakhtefmut/nakhtefmutHead.png'
 ---
 
 ## Brief description
