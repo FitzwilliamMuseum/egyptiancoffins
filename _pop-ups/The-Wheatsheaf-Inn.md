@@ -3,6 +3,7 @@ layout: pop-ups
 title: The Wheatsheaf Inn (Wetherspoon's Pub)
 thumbnail: /images/news/pubshot.jpg
 permalink: /pop-ups/wheatsheaf-inn
+category: pop-ups
 lat: 52.65999900000001
 lon: 0.16097450000006575
 images:
@@ -20,7 +21,7 @@ images:
   caption: Pop-Up regular Nicky (pictured right) with his Mum, Sally (far left) and grandma, Mary (centre).
 ---
 
-[The Wheatsheaf Inn](https://www.jdwetherspoon.com/pubs/all-pubs/england/cambridgeshire/the-wheatsheaf-inn-wisbech), owned by Wetherspoon's pub, has been one of our best received Pop-Up locations. With huge thanks to Manager Martin Baldwin, we held four Pop-Ups here on March 19, 21, 26 and June 26, 2019. 
+[The Wheatsheaf Inn](https://www.jdwetherspoon.com/pubs/all-pubs/england/cambridgeshire/the-wheatsheaf-inn-wisbech), owned by Wetherspoon's pub, has been one of our best received Pop-Up locations. With huge thanks to Manager Martin Baldwin, we held four Pop-Ups here on March 19, 21, 26 and June 26, 2019.
 
 During our four Pop-Up sessions at the pub (which, quite fittingly, is the former site of a furniture and decorating store), we had over 100 meaningful engagements (3 minutes or more) and over 300 impressions (engagements of 3 minutes or less, including passers-by). One of the more rewarding aspects of this venue was getting to know regular pubgoers, including Nicky, his Mum, Sally, and Grandmother, Mary - pictured below.  
 
