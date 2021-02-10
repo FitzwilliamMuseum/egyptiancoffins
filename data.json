@@ -6,9 +6,9 @@
             "title": "{{ entry.title | xml_escape }}",
             "url": "{{ entry.url | xml_escape }}",
             "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
-            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}"
-
-
+            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
+            "category": "{{ entry.category | xml_escape }}",
+            "image": "{{ entry.image | xml_escape }}"
         },
     {% endfor %}
     {% for entry in site.pakepu %}
@@ -16,9 +16,9 @@
             "title": "{{ entry.title | xml_escape }}",
             "url": "{{ entry.url | xml_escape }}",
             "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
-            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}"
-
-
+            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
+            "category": "{{ entry.category | xml_escape }}",
+            "image": "/images/pakepu/pakepu-outer.jpg"
         },
     {% endfor %}
     {% for entry in site.beni-hasan %}
@@ -26,7 +26,9 @@
             "title": "{{ entry.title | xml_escape }}",
             "url": "{{ entry.url | xml_escape }}",
             "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
-            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}"
+            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
+            "category": "{{ entry.category | xml_escape }}",
+            "image": "{{ entry.image | xml_escape }}"
         },
     {% endfor %}
     {% for entry in site.team %}
@@ -34,7 +36,9 @@
             "title": "{{ entry.title | xml_escape }}",
             "url": "{{ entry.url | xml_escape }}",
             "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
-            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}"
+            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
+            "category": "{{ entry.category | xml_escape }}",
+            "image": "{{ entry.image | xml_escape }}"
         },
     {% endfor %}
     {% for entry in site.deathonthenile %}
@@ -42,7 +46,9 @@
             "title": "{{ entry.title | xml_escape }}",
             "url": "{{ entry.url | xml_escape }}",
             "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
-            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}"
+            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
+            "category": "{{ entry.category | xml_escape }}",
+            "image": "{{ entry.image | xml_escape }}"
         },
     {% endfor %}
     {% for entry in site.news %}
@@ -50,7 +56,9 @@
             "title": "{{ entry.title | xml_escape }}",
             "url": "{{ entry.url | xml_escape }}",
             "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
-            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}"
+            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
+            "category": "{{ entry.category | xml_escape }}",
+            "image": "{{ entry.thumbnail | xml_escape }}"
         },
     {% endfor %}
     {% for entry in site.coffins %}
@@ -58,7 +66,9 @@
             "title": "{{ entry.title | xml_escape }}",
             "url": "{{ entry.url | xml_escape }}",
             "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
-            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}"
+            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
+            "category": "{{ entry.category | xml_escape }}",
+            "image": "{{ entry.image | xml_escape }}"
         },
     {% endfor %}
     {% for entry in site.nakhtefmut %}
@@ -66,7 +76,9 @@
             "title": "{{ entry.title | xml_escape }}",
             "url": "{{ entry.url | xml_escape }}",
             "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
-            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}"
+            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
+            "category": "{{ entry.category | xml_escape }}",
+            "image": "{{ entry.image | xml_escape }}"
         },
     {% endfor %}
     {% for entry in site.nespawershefyt %}
@@ -74,7 +86,9 @@
             "title": "{{ entry.title | xml_escape }}",
             "url": "{{ entry.url | xml_escape }}",
             "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
-            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}"
+            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
+            "category": "{{ entry.category | xml_escape }}",
+            "image": "{{ entry.image | xml_escape }}"
         },
     {% endfor %}
     {% for entry in site.deathblog %}
@@ -82,7 +96,9 @@
             "title": "{{ entry.title | xml_escape }}",
             "url": "{{ entry.url | xml_escape }}",
             "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
-            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}"
+            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
+            "category": "{{ entry.category | xml_escape }}",
+            "image": "{{ entry.thumbnail | xml_escape }}"
         }
         {% unless forloop.last %},{% endunless %}
     {% endfor %}

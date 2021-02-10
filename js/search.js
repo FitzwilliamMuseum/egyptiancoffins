@@ -13,11 +13,13 @@ async function main() {
 
     let idx = lunr(function () {
       this.field('id')
-      this.field('title', { boost: 10 })
+      this.field('title')
       this.field('author')
-      this.field('content')
+      this.field('content', { boost: 10 })
       this.field('summary')
       this.field('url')
+      this.field('category')
+      this.field('image')
       Object.entries(documents).forEach(function (document) {
         this.add( {
           "id": document[0],
@@ -34,7 +36,17 @@ async function main() {
 
     for (result of results) {
       var doc = documents[result.ref];
-      $( "#search_results" ).append('<li><a href="'+doc.url+'">'+doc.title+'</a><br/>'+doc.summary+'</li>');
+      $( "#search_results" ).append(
+      '<div class="col-md-6 mt-3"><div class="card h-100"><div class="card-body"><a href="'
+      + doc.url + '"><h5 class="card-title">'
+      + doc.title
+      + '</h5></a>'
+      + '<img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="'
+      + doc.image + '" alt="Thumbnail for story" height="150" width="150">'
+      + 'Section: ' + doc.category
+      + '<p class="card-text">' + doc.summary + '</p>'
+      + '<a href="' + doc.url + '" class="btn btn-dark stretched-link">Read more </a>'
+      + '</div></div>');
     }
 }
 
