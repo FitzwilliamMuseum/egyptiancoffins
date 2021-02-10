@@ -1,16 +1,14 @@
 <!-- Nav bars -->
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-black fixed-top">
-    <a class="navbar-brand order-md-last " href="/">The Egyptian Coffins Project</a>
+    <a class="navbar-brand order-md-first " href="/">The Egyptian Coffins Project</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
             aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarText">
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="https://fitzmuseum.cam.ac.uk">The Fitzwilliam Museum<span class="sr-only">(current)</span></a>
-            </li>
+
             <li class="nav-item active">
                 <a class="nav-link" href="/">Project Home <span class="sr-only">(current)</span></a>
             </li>
@@ -47,7 +45,11 @@
                 <a class="dropdown-item" href="https://discuss.egyptiancoffins.org/">Discussion forum</a>
               </div>
             </li>
-            
+
         </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" id="search" type="search" name="query" placeholder="Search" aria-label="Search" action="{{ site.baseurl }}/search" method="GET">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit" formaction="{{ site.baseurl }}/search">Search</button>
+        </form>
     </div>
 </nav>
