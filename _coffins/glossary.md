@@ -3,6 +3,8 @@ layout: news
 title: Glossary
 permalink: /resources/glossary
 id: root
+category: resources
+image: /images/logos/logo.png
 ---
 
 # Terms in use throughout our project
@@ -109,47 +111,47 @@ are prone to 'cup' because the wood dries and shrinks unevenly across the width 
 
 ### Cartonnage
 
-A laminated material constructed of layers of linen or papyrus soaked in glue, with a layer of paste on the internal and 
+A laminated material constructed of layers of linen or papyrus soaked in glue, with a layer of paste on the internal and
 on the external surface.
 
 ### Papyrus
 
-A writing material made from the inner pith of papyrus plant (_Cyperus papyrus_) stems. The term papyrus (plural: papyri) 
+A writing material made from the inner pith of papyrus plant (_Cyperus papyrus_) stems. The term papyrus (plural: papyri)
 is used also to describe documents made from this material.
 
-### Faience 
-A term that has been used to describe a range of glazed composition materials, but is usually defined as a shaped core made 
-of crushed quartz or sand mixed with small quantities of lime and natron or plant ash, coated with a glaze and fired in a 
+### Faience
+A term that has been used to describe a range of glazed composition materials, but is usually defined as a shaped core made
+of crushed quartz or sand mixed with small quantities of lime and natron or plant ash, coated with a glaze and fired in a
 kiln. The glazes usually contain copper, which gives the faience a blue-green colour.
 
 ### Frit
 
-A name commonly applied to Egyptian glassy materials. Frit has the same composition and structure all the way through the 
-material (as opposed to the distinct core and glaze layer of faience). The pigment Egyptian blue is a frit. If it was ground 
+A name commonly applied to Egyptian glassy materials. Frit has the same composition and structure all the way through the
+material (as opposed to the distinct core and glaze layer of faience). The pigment Egyptian blue is a frit. If it was ground
 up, mixed to a paste with water, then shaped and refired, an object made of blue frit (e.g., an amulet) could be produced.
 
-### Paste 
+### Paste
 
-In describing Egyptian objects, the term 'plaster' is often used rather loosely to cover both true plasters (made from lime 
-or gypsum cements) and pastes made from a binder (such as animal glue) mixed with calcium sulphate (often called gesso) or 
-with calcium carbonate (often called whiting). To avoid confusion and to address the fact that sometimes mixtures of all 
-these materials can be present, together with clay minerals and vegetable fibres, the term 'paste is used in our research 
-project as it implies no particular chemistry or technology. 
+In describing Egyptian objects, the term 'plaster' is often used rather loosely to cover both true plasters (made from lime
+or gypsum cements) and pastes made from a binder (such as animal glue) mixed with calcium sulphate (often called gesso) or
+with calcium carbonate (often called whiting). To avoid confusion and to address the fact that sometimes mixtures of all
+these materials can be present, together with clay minerals and vegetable fibres, the term 'paste is used in our research
+project as it implies no particular chemistry or technology.
 
-### Preparation layer 
+### Preparation layer
 
-A layer of paste applied across the coffin to provide a smooth, neutral surface to which paint can be applied. Sometimes 
-known as a 'ground' layer. 
+A layer of paste applied across the coffin to provide a smooth, neutral surface to which paint can be applied. Sometimes
+known as a 'ground' layer.
 
-## Egyptian painting materials: A quick guide to the principal pigments 
+## Egyptian painting materials: A quick guide to the principal pigments
 
-When it has not been possible to characterise pigments fully, their elemental make up has been recorded as, for example, 'calcium-based' or 'copper-based'. 
+When it has not been possible to characterise pigments fully, their elemental make up has been recorded as, for example, 'calcium-based' or 'copper-based'.
 
-**Egyptian blue** and **Egyptian green** Manufactured pigments, prepared by firing copper minerals or metal with a calcium compound (like powdered limestone), silica and soda at high temperature. The principal colour component in Egyptian blue is calcium copper tetrasilicate (CaCuSi<sub>4</sub>O<sub>10</sub>), and in Egyptian green is cupro-wollastonite (CaSiO<sub>3</sub> with copper in the structure). 
+**Egyptian blue** and **Egyptian green** Manufactured pigments, prepared by firing copper minerals or metal with a calcium compound (like powdered limestone), silica and soda at high temperature. The principal colour component in Egyptian blue is calcium copper tetrasilicate (CaCuSi<sub>4</sub>O<sub>10</sub>), and in Egyptian green is cupro-wollastonite (CaSiO<sub>3</sub> with copper in the structure).
 
 **Malachite (Cu<sub>2</sub>CO<sub>3</sub>(OH)<sub>2</sub>)** A mineral pigment, giving a pale green colour.
 
-**Chrysocolla (Cu<sub>2</sub>H<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>(OH)<sub>4</sub>)** A mineral pigment with a turquoise blue colour. 
+**Chrysocolla (Cu<sub>2</sub>H<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>(OH)<sub>4</sub>)** A mineral pigment with a turquoise blue colour.
 
 **Copper-wax, copper-proteinate, copper carbohydrate** Green pigments produced from the reaction of copper salts with various organic media.
 
@@ -159,49 +161,49 @@ When it has not been possible to characterise pigments fully, their elemental ma
 
 * **Yellow earths** The iron sulphates jarosite/natrojarosite (KFe<sub>3</sub>(OH)<sub>6</sub>(SO<sub>4</sub>)<sub>2</sub>/ NaFe<sub>3</sub>(SO<sub>4</sub>)<sub>2</sub>(OH)<sub>6</sub>), and the iron oxides goethite (α-FeO·OH) and limonite (FeO(OH)·nH<sub>2</sub>O).
 
-*	**Red earths** The iron oxides haematite (Fe<sub>2</sub>O<sub>3</sub>) and ilmenite (FeTiO<sub>3</sub>). 
+*	**Red earths** The iron oxides haematite (Fe<sub>2</sub>O<sub>3</sub>) and ilmenite (FeTiO<sub>3</sub>).
 
 * **Green earths** Celadonite and glauconite (iron magnesium silicates belonging to the mica group).
 
-As these pigments arise from naturally occurring deposits, they often occur as a mixture and are not always easily classifiable. Where it has been possible to further identify particular pigments, this is normally indicated in the text. 
+As these pigments arise from naturally occurring deposits, they often occur as a mixture and are not always easily classifiable. Where it has been possible to further identify particular pigments, this is normally indicated in the text.
 
-**Calcite (CaCO<sub>3</sub>)** Calcium carbonate. 
+**Calcite (CaCO<sub>3</sub>)** Calcium carbonate.
 
-*	**Micritic calcite** Microscopy term to describe calcite visible as very fine particles, usually originating from chalk. 
+*	**Micritic calcite** Microscopy term to describe calcite visible as very fine particles, usually originating from chalk.
 
 *	**Sparitic calcite** Microscopy term to describe calcite that forms into crystals, usually suggesting limestone origin.
 
-**Huntite (Mg<sub>3</sub>Ca(CO<sub>3</sub>)<sub>4</sub>)** Magnesium calcium carbonate, a bright white pigment. 
+**Huntite (Mg<sub>3</sub>Ca(CO<sub>3</sub>)<sub>4</sub>)** Magnesium calcium carbonate, a bright white pigment.
 
 **Gyspum (CaSO<sub>4</sub>· 2H<sub>2</sub>O)** Calcium sulphate.
 
-*	**Bassanite (CaSO<sub>4</sub>· ½H<sub>2</sub>O)** Made from roasting gypsum at high temperatures, sometimes found naturally. The modern equivalent is plaster of Paris. 
+*	**Bassanite (CaSO<sub>4</sub>· ½H<sub>2</sub>O)** Made from roasting gypsum at high temperatures, sometimes found naturally. The modern equivalent is plaster of Paris.
 
 *	**Anhydrite (CaSO<sub>4</sub>)** Completely dehydrated version of gypsum sometimes found naturally, or produced by heating above 200°C (392°F).
 
-**Lead white (PbCO<sub>3</sub>Pb(OH)<sub>2</sub>)** Lead carbonate, an opaque white pigment. 
+**Lead white (PbCO<sub>3</sub>Pb(OH)<sub>2</sub>)** Lead carbonate, an opaque white pigment.
 
-**Red lead (Pb<sub>3</sub>O<sub>4</sub>)** Lead tetroxide, a bright orange-red pigment. 
+**Red lead (Pb<sub>3</sub>O<sub>4</sub>)** Lead tetroxide, a bright orange-red pigment.
 
 **Cinnabar (HgS)** Mercury sulphide, a vivid red mineral pigment.
 
 **Orpiment (As<sub>2</sub>S<sub>3</sub>)** Arsenic sulphide, a lemon yellow pigment.
 
-**Realgar/pararealgar (As<sub>4</sub>S<sub>4</sub>)** Arsenic sulphide (but different crystal structures), orange pigments. Pararealgar is a degradation product of realgar. 
+**Realgar/pararealgar (As<sub>4</sub>S<sub>4</sub>)** Arsenic sulphide (but different crystal structures), orange pigments. Pararealgar is a degradation product of realgar.
 
-**Carbon-based black** A group of pigments made mainly of carbon. In Egypt, these are principally soot and charcoal. 
+**Carbon-based black** A group of pigments made mainly of carbon. In Egypt, these are principally soot and charcoal.
 
-**Lake pigments** Also known as dyestuffs, these are organic pigments that can be made from certain insect or plant matter. The colour is extracted and precipitated onto a metallic salt substrate. Lake pigments found on Egyptian objects include: 
+**Lake pigments** Also known as dyestuffs, these are organic pigments that can be made from certain insect or plant matter. The colour is extracted and precipitated onto a metallic salt substrate. Lake pigments found on Egyptian objects include:
 
-*	**Madder** Pink dyestuff made from the root of the madder plant Rubia tinctorum fixed on a mineral base such as aluminium sulphate. 
+*	**Madder** Pink dyestuff made from the root of the madder plant Rubia tinctorum fixed on a mineral base such as aluminium sulphate.
 
 *	**Indigo** Blue dyestuff from plants of the Indigofera species fixed on a mineral base.
 
-## Imaging and Analytical techniques 
+## Imaging and Analytical techniques
 
-All the techniques described here are based on examining the interaction of the materials of the object with radiation from various parts of the electromagnetic spectrum and recording the results. 
+All the techniques described here are based on examining the interaction of the materials of the object with radiation from various parts of the electromagnetic spectrum and recording the results.
 
-The following techniques can be carried out directly on the object: 
+The following techniques can be carried out directly on the object:
 
  * Visible-light induced luminescence (VIL) photography
  * Ultraviolet fluorescence
@@ -211,7 +213,7 @@ The following techniques can be carried out directly on the object:
  * X-radiography
  * Computed tomography (CT) imaging
 
-In contrast, the following techniques require a small sample to be removed from the object: 
+In contrast, the following techniques require a small sample to be removed from the object:
 
 * Polarised Light Microscopy (PLM)
 * Cross-section analysis
@@ -226,15 +228,15 @@ In contrast, the following techniques require a small sample to be removed from 
 
 **Ultraviolet (UV) fluorescence** When subjected to ultraviolet radiation, some materials emit (fluoresce) visible light in characteristic colours. For example, under UV light, pistacia resin varnish fluoresces greenish-yellow and the pink pigment madder fluoresces bright orange. This technique clarifies where these materials are located on the object (fig. XX) and also shows up areas of restoration, which are often made of materials that do not fluoresce (fig. XX).
 
-**Infrared (IR) reflectography** Infrared radiation is absorbed by certain painting and drawing materials, especially carbon-based black pigments. This type of radiation can penetrate through paint layers and can be captured photographically with a camera sensitive to infrared radiation. Underdrawings executed in carbon-based black show up as black on the image, even when not visible on the surface. It is possible, therefore, to see where they have been used in early drawing stages of the decoration (see cat. 22, fig. XX [IR photo. In the caption explain that the black areas are carbon black pigments]). 
+**Infrared (IR) reflectography** Infrared radiation is absorbed by certain painting and drawing materials, especially carbon-based black pigments. This type of radiation can penetrate through paint layers and can be captured photographically with a camera sensitive to infrared radiation. Underdrawings executed in carbon-based black show up as black on the image, even when not visible on the surface. It is possible, therefore, to see where they have been used in early drawing stages of the decoration (see cat. 22, fig. XX [IR photo. In the caption explain that the black areas are carbon black pigments]).
 
-**UV-VIS-NIR fibre optic reflectance spectroscopy (FORS)** This method measures colour: the paint is illuminated with radiation from the ultraviolet, visible, and near-infrared regions of the electromagnetic spectrum. The light reflected off the surface is captured and the spectrum recorded by a computer. Many pigments produce spectra with key features that are specific to them, allowing the material to be identified through comparison with reference spectra (fig. XX). 
+**UV-VIS-NIR fibre optic reflectance spectroscopy (FORS)** This method measures colour: the paint is illuminated with radiation from the ultraviolet, visible, and near-infrared regions of the electromagnetic spectrum. The light reflected off the surface is captured and the spectrum recorded by a computer. Many pigments produce spectra with key features that are specific to them, allowing the material to be identified through comparison with reference spectra (fig. XX).
 
-**X-Ray fluorescence spectrometry (XRF)** A small area of the object is bombarded with X-rays. These X-rays excite atoms within the material, causing them to emit secondary X-rays. The energies of these secondary X-rays (fluorescence) are characteristic of the elements present, such as iron or calcium. This is a quick, sensitive method for identifying inorganic pigments containing heavy elements (e.g., orpiment, which contains arsenic). 
+**X-Ray fluorescence spectrometry (XRF)** A small area of the object is bombarded with X-rays. These X-rays excite atoms within the material, causing them to emit secondary X-rays. The energies of these secondary X-rays (fluorescence) are characteristic of the elements present, such as iron or calcium. This is a quick, sensitive method for identifying inorganic pigments containing heavy elements (e.g., orpiment, which contains arsenic).
 
 **X-radiography** X-ray radiation penetrates through matter: the denser a material is, the more difficult it is for the X-rays to penetrate. A sheet of film is placed under the object and records the relative intensity of the X-rays that emerge after they have passed through the object. An X-radiograph shows the internal structure of the object and clarifies the assembly of a coffin. (fig. XX).
 
-**Computed tomography (CT) imaging** Conventional X-radiography provides a two-dimensional image of the interior of the object. CT, sometimes known as CAT scanning, is similar to standard X-radiography, but in this technique the data is collected simultaneously in different planes, producing cross-section slices (like the slices in a loaf of bread). Each slice can be examined individually and three-dimensional images of the object can be produced, providing a wealth of detail about internal structure (see cat. 27 [E.1.1822], fig. XX; cat. 55 [E.63.1903], fig. XX). 
+**Computed tomography (CT) imaging** Conventional X-radiography provides a two-dimensional image of the interior of the object. CT, sometimes known as CAT scanning, is similar to standard X-radiography, but in this technique the data is collected simultaneously in different planes, producing cross-section slices (like the slices in a loaf of bread). Each slice can be examined individually and three-dimensional images of the object can be produced, providing a wealth of detail about internal structure (see cat. 27 [E.1.1822], fig. XX; cat. 55 [E.63.1903], fig. XX).
 
 **Polarised Light Microscopy (PLM)** A tiny sample of pigment, taken from the coffin surface, is mounted in adhesive on a microscope slide. Light is passed through the particles, which are viewed down the optical microscope to record features such as size and shape. The use of polarising filters causes the particles to interact with light in different states. All these features can be diagnostic of specific pigments (fig. XX).
 
@@ -246,8 +248,8 @@ In contrast, the following techniques require a small sample to be removed from 
 
 **Raman spectroscopy** A tiny sample is subjected to a laser beam (wavelengths in the UV, visible or near-infrared parts of the electromagnetic spectrum). The resulting vibration of chemical bonds in the molecules gives information about their structure. It can identify materials and differentiate between certain molecules with similar chemical compositions but different structures.
 
-**Fourier transform infrared spectroscopy (FTIR)** Molecules in a sample all absorb infrared radiation at specific wavelengths. By measuring the energy absorbed by the movement of the bonds in the molecules, it is possible to identify the class of organic material present (e.g., a plant gum as opposed to a tree resin or animal glue). FTIR can distinguish between organic materials found in the binding media or varnish and identify certain pigments (such as calcite, indigo and lead white) which absorb energy in the infrared. 
+**Fourier transform infrared spectroscopy (FTIR)** Molecules in a sample all absorb infrared radiation at specific wavelengths. By measuring the energy absorbed by the movement of the bonds in the molecules, it is possible to identify the class of organic material present (e.g., a plant gum as opposed to a tree resin or animal glue). FTIR can distinguish between organic materials found in the binding media or varnish and identify certain pigments (such as calcite, indigo and lead white) which absorb energy in the infrared.
 
-**Gas chromatography–mass spectrometry (GC-MS)** Gas chromatography separates out the individual molecules in a complex mixture. Then each of the individual molecular components is identified by mass spectrometry. The technique distinguishes between different species of organic material in the paint binding media or varnish layers: for example, determining whether a natural resin varnish is a pistacia or conifer resin. 
+**Gas chromatography–mass spectrometry (GC-MS)** Gas chromatography separates out the individual molecules in a complex mixture. Then each of the individual molecular components is identified by mass spectrometry. The technique distinguishes between different species of organic material in the paint binding media or varnish layers: for example, determining whether a natural resin varnish is a pistacia or conifer resin.
 
-**Wood identification** Tiny samples of ancient Egyptian wood are sectioned to reveal details of the cellular wood anatomy needed for scientific identifications. Transverse, radial longitudinal and tangential longitudinal sections are then examined under high magnifications using the optical microscope in reflected light mode as well as the variable pressure scanning electron microscope (fig. XX). Reference specimens and wood anatomy databases are used for comparison. 
+**Wood identification** Tiny samples of ancient Egyptian wood are sectioned to reveal details of the cellular wood anatomy needed for scientific identifications. Transverse, radial longitudinal and tangential longitudinal sections are then examined under high magnifications using the optical microscope in reflected light mode as well as the variable pressure scanning electron microscope (fig. XX). Reference specimens and wood anatomy databases are used for comparison.
