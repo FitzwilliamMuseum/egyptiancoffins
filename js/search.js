@@ -33,7 +33,7 @@ async function main() {
     let searchParams = new URLSearchParams(window.location.search)
     let param = searchParams.get('query')
     var results = idx.search(param);
-
+    if (results.length) {
     for (result of results) {
       var doc = documents[result.ref];
       $( "#search_results" ).append(
@@ -47,7 +47,13 @@ async function main() {
       + '<p class="card-text">' + doc.summary + '</p>'
       + '<a href="' + doc.url + '" class="btn btn-dark stretched-link">Read more </a>'
       + '</div></div>');
+      }
+    } else {
+      $( "#search_results" ).append(
+        '<div class="container"><div class="col-md-12 mt-3 mb-3 shadow-sm  p-3 bg-white"><p>Your search found no results</p></div></div>'
+      );
     }
+
 }
 
 main();
