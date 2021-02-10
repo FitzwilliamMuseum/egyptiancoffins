@@ -37,7 +37,7 @@
             "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}"
         },
     {% endfor %}
-    {% for entry in site.beni-hasan %}
+    {% for entry in site.deathonthenile %}
         "{{ entry.url | slugify }}": {
             "title": "{{ entry.title | xml_escape }}",
             "url": "{{ entry.url | xml_escape }}",
