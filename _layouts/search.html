@@ -1,190 +1,84 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
-    <title>{{page.title}}</title>
-    {% include /structure/css.html %}
-    {% seo %}
-    {% include /structure/feeds.html %}
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
+  <title>{{page.title}}</title>
+  {% include /structure/css.html %}
+  {% seo %}
+  {% include /structure/feeds.html %}
 </head>
 <body class="doc-body">
 
-<!-- Screen reader skip to main -->
-<a class="sr-only sr-only-focusable doc-skip" href="#doc-main-h1">
+  <!-- Screen reader skip to main -->
+  <a class="sr-only sr-only-focusable doc-skip" href="#doc-main-h1">
     <div class="container">
-        <span class="doc-skip-text">Skip to main content</span>
+      <span class="doc-skip-text">Skip to main content</span>
     </div>
-</a>
+  </a>
 
-{% include /structure/navigation.html %}
+  {% include /structure/navigation.html %}
 
-<!-- Jumbotron -->
-{% if page.category %}
-{% assign class = page.category %}
-{% else %}
-{% assign class = 'head' %}
-{% endif %}
+  <!-- Jumbotron -->
+  {% if page.category %}
+  {% assign class = page.category %}
+  {% else %}
+  {% assign class = 'head' %}
+  {% endif %}
 
-<div class="jumbotron jumbotron-fluid mb-5 doc-jumbotron {{ class }}">
+  <div class="jumbotron jumbotron-fluid mb-5 doc-jumbotron {{ class }}">
     <div class="container">
-        <div class="row ">
-            <div class="col-lg-12 col-xl-12">
-                <img src="/images/logos/logo.png"
-                     class="align-self-center mr-3 float-left thumb-post"/>
-            </div>
+      <div class="row ">
+        <div class="col-lg-12 col-xl-12">
+          <img src="/images/logos/logo.png"
+          class="align-self-center mr-3 float-left thumb-post"/>
         </div>
+      </div>
     </div>
-</div>
+  </div>
 
-<div class="container">
+  <div class="container">
 
-        <div class=" mb-2 ">
+    <div class=" mb-2 ">
 
-            <h1 id="doc-main-h1">{{ page.title }}</h1>
-        </div>
-
-
-    <div>
-
-        {% if page.id == 'root' %}
-        <div class="col-md-12 shadow-sm  p-3 mb-3 mx-2 bg-white rounded">
-            {{ content }}
-        </div>
-        {% elsif page.id == 'coffins' %}
-        <div class="mb-3 rounded">
-            {{ content }}
-        </div>
-        {% elsif page.id == 'deathonthenile' %}
-        <div class="mb-3 rounded">
-            {{ content }}
-        </div>
-        {% elsif page.id == 'beni-hasan' %}
-        <div class="mb-3 rounded">
-            {{ content }}
-        </div>
-        {% elsif page.id == 'team' %}
-        <div class="mb-3 rounded">
-            {{ content }}
-        </div>
-            <div class="col-12 shadow-sm  p-3 mb-3 bg-white rounded share center-text">
-                <h3>Contributors</h3>
-                <p>
-                    The project is extremely grateful for the contributions of:<br/>
-                    Gavin Toomey and Patricia Wheatley for their work on producing our films<br />
-                    Sara Hany, Faten Kamal and Fatma Amin, who between them provided Arabic translations of our videos.
-                </p>
-            </div>
-
-        {% elsif page.id != 'root'%}
-        <div class="row-hack">
-          {% if page.technical %}
-            {% assign class = '8' %}
-          {% else %}
-            {% assign class = '12' %}
-          {% endif %}
-        <div class="col-md-{{ class }} shadow-sm p-3 mr-2 mb-2 bg-white rounded">
-            <p class="page__meta float-right">
-                <span class="badge badge-dark p-2 mb-2">{% include read_time.html %}</span>
-            </p>
-            {{ content }}
-        </div>
-          {% if page.priref %}
-            {% include collection_data.html %}
-          {% endif %}
-          {% if page.technical%}
-            {% include structure/related.html %}
-          {% endif %}
-          {% if page.pdfs%}
-            {% include structure/related.html %}
-          {% endif %}
-        </div>
-        {% endif %}
-    </div>
-    {% if page.url == "/deathonthenile/media/" %}
-    <div class="row">
-        <div class="col-12 mb-2 ">
-            <h1 id="doc-main-h1">Blog posts from the exhibition</h1>
-        </div>
-    </div>
-    {% for post in site.deathblog reversed %}
-    <div class="card col-md-12 mb-3">
-        <div class="card-body">
-          {% if post.thumbnail %}
-          <div class="float-right">
-            <div class="news-thumb p-2 m-2">
-              <img src="{{ post.thumbnail }}" class="img img-responsive " />
-            </div>
-          </div>
-          {% endif %}
-
-            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-
-            {% if post.date %}
-            <p>{{ post.date | date_to_string }}</p>
-            {% endif %}
-
-            <p>{{ post.excerpt }}</p>
-            <a href="{{ post.url }}" class="btn btn-dark">Read more</a>
-        </div>
+      <h1 id="doc-main-h1">{{ page.title }}</h1>
     </div>
 
-    {% endfor %}
-    {% endif %}
-</div>
 
-
-
-
-<div class="container">
-    <div class="">
-        <div class="mb-2 rounded">
-            {% if page.images %}
-            {% assign rows = page.images.size | divided_by: 2.0 | ceil %}
-            {% for i in (1..rows) %}
-            {% assign offset = forloop.index0 | times: 2 %}
-            <div class="row mb-3">
-                {% for image in page.images limit:2 offset:offset %}
-                <div class="col-md-6 mt-3">
-                    <div class="card  w-100 h-100 mx-auto">
-                        <div class="card-body">
-                            <img class="mx-auto d-block max-coffins"
-                                 src="/images/{{page.category}}/{{image.image}}">
-                            <p class="text-center">{{ image.caption }}</p>
-
-                        </div>
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
-            {% endfor %}
-            {% endif %}
-        </div>
+    <div class="col-md-12 shadow-sm  p-3 mb-3 mx-2 bg-white rounded">
+      {{ content }}
     </div>
+
+  </div>
+
+
+
+  <div class="container">
+
     {% include share_buttons.html %}
-</div>
+  </div>
 
-{% include structure/footer_logos.html %}
-{% include structure/footer.html %}
-{% include structure/javascript.html %}
-{% if page.priref %}
-<script >
-  $( document ).ready(function() {
-    let endpoint = 'https://collection.beta.fitz.ms/id/object/{{ page.priref }}/json';
+  {% include structure/footer_logos.html %}
+  {% include structure/footer.html %}
+  {% include structure/javascript.html %}
+  {% if page.priref %}
+  <script >
+    $( document ).ready(function() {
+      let endpoint = 'https://collection.beta.fitz.ms/id/object/{{ page.priref }}/json';
       $.ajax({
-          url: endpoint,
-          contentType: "application/json",
-          dataType: 'json',
-          success: function(result){
-              console.log(result);
-              $("#description").append(result.description[0]['value']);
-          }
+        url: endpoint,
+        contentType: "application/json",
+        dataType: 'json',
+        success: function(result){
+          console.log(result);
+          $("#description").append(result.description[0]['value']);
+        }
       });
-  });
-</script>
-{% endif %}
-{% include analytics/google_analytics.html %}
-{% include lightbox.html %}
+    });
+  </script>
+  {% endif %}
+  {% include analytics/google_analytics.html %}
+  {% include lightbox.html %}
 </body>
 </html>
