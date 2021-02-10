@@ -6,6 +6,7 @@ institution: The Fitzwilliam Museum
 job-title: Postdoctoral Research Associate
 layout: team
 order: 3
+category: team
 ---
 Melanie Pitkin is a Postdoctoral Research Associate for the [Egyptian Coffins Project](https://egyptiancoffins.org) at the Fitzwilliam Museum.
  She joined the project in January 2018 to focus on the translations and descriptions of the 21st Dynasty yellow coffin

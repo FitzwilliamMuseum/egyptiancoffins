@@ -5,6 +5,7 @@ image: /images/staff/ElsbethGeldhof.jpg
 institution: External member
 job-title: Independent conservator
 order: 7
+category: team
 ---
 Elsbeth Geldhof is an independent historic paint conservator, and researcher of longue durée painting techniques and
 pigment sources from the ancient world and beyond. In this work, she frequently applies experimental archaeology and

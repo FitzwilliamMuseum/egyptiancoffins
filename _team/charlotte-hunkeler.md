@@ -5,6 +5,7 @@ image: /images/staff/CharlotteHunkeler.jpg
 layout: team
 job-title: PhD Student
 order: 8
+category: team
 ---
 
 Charlotte Hunkeler is carrying out research towards a PhD at the University of Basel. Her thesis is on inner coffins

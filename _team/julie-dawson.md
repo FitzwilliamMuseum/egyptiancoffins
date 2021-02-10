@@ -5,6 +5,7 @@ institution: The Fitzwilliam Museum
 job-title: Head of Conservation
 layout: team
 order: 1
+category: team
 ---
 Julie Dawson is Head of Conservation at the Fitzwilliam Museum. She is an archaeological conservator with particular
  interests in the technology and conservation of ancient Egyptian material. In addition to her role at the Fitzwilliam

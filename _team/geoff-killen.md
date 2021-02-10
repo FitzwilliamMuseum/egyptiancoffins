@@ -5,6 +5,7 @@ layout: team
 institution: External member
 job-title: Ancient woodworking specialist
 order: 9
+category: team
 ---
 
  Dr Geoffrey Killen is a leading Egyptologist, wood technologist and furniture historian. He studied Design and Technology

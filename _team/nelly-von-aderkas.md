@@ -6,6 +6,7 @@ job-title: Conservation Scientist
 layout: team
 twitter: "@NellyvonAderkas"
 order: 5
+category: team
 ---
 Nelly von Aderkas is a Conservation Scientist interested in historic painting materials and methods. She
  has a background in chemistry (BSc Hons McGill) and painting conservation (University of Cambridge, Hamilton Kerr

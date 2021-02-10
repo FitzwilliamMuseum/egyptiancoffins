@@ -7,6 +7,7 @@ job-title: Head of Digital
 layout: team
 orcid: 0000-0002-0246-2335
 order: 6
+category: team
 ---
 Dan was previously Digital Humanities lead at the British Museum, where he designed
 and implemented digital innovation connecting humanities research, museum practice,
