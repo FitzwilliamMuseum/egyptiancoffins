@@ -2,6 +2,7 @@
 title: Vale Jennifer Marchant
 author: Julie Dawson and Helen Strudwick
 layout: news
+category: news
 tags: [Jennifer Marchant, obituary, conservation, Egyptian coffins]
 thumbnail: /images/news/Jenny1.jpg
 permalink: /news/valejennifermarchant
@@ -47,4 +48,3 @@ Jenny was a fantastic colleague upon whom you could always depend. Equally willi
 Jenny was a very private person. She did not share widely the progress of her illness and many of her colleagues were unaware of the recurrence of her cancer until they received news of her death. On 6 June, Jenny and Justin, her partner of 17 years, were married in Addenbrooke’s Hospital. Jenny’s immediate family were with her when she died.
 
 The loss of Jenny is a massive blow to her Fitzwilliam colleagues and friends, personally and professionally. We remember her with the greatest respect, affection and gratitude.
-
