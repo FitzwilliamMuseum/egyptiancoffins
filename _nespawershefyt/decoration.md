@@ -3,6 +3,7 @@ layout: coffins
 title: How were the coffins of Nespawershefyt decorated?
 category: nespawershefyt
 permalink: /coffins/nespawershefyt/decoration
+image: /images/nespawershefyt/Nes1.jpg
 order: 4
 technical:
   -
@@ -30,12 +31,12 @@ images:
   -
     image: reedpens.jpg
     caption: Replica pens made from the rush Junctus maritimus.
-  - 
+  -
     image: reedbrushes.jpg
     caption: Replica brushes made from bundles of vegetable fibres (thin rope).
   -
     image: fingerprint.jpg
-    caption: Detail of Nespawershefyt's mummy board bearing an ancient fingerprint. 
+    caption: Detail of Nespawershefyt's mummy board bearing an ancient fingerprint.
   -
     image: handprint.jpg
     caption: Handprints on the underside of Nespawershefyt's inner coffin lid where someone with their hands covered in varnish picked up the lid.

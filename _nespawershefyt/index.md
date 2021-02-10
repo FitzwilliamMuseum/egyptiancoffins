@@ -3,6 +3,8 @@ layout: coffins
 title: Nespawershefyt's coffin set
 category: nespawershefyt
 permalink: /coffins/nespawershefyt
+image: /images/nespawershefyt/Nes1.jpg
+
 order: 1
 priref: 49036
 technical:

@@ -3,6 +3,7 @@ title: Construction of the Nespawershefyt coffin set
 layout: coffins
 category: nespawershefyt
 permalink: /coffins/nespawershefyt/construction
+image: /images/nespawershefyt/Nes1.jpg
 order: 7
 technical:
   -
@@ -15,9 +16,9 @@ images:
   -
     image: innerlid.jpg
     caption: Nespawershefyt's inner coffin lid.
-  - 
+  -
     image: face.jpg
-    caption: Detail of Nespawershefyt's face depicted on the inner coffin lid. 
+    caption: Detail of Nespawershefyt's face depicted on the inner coffin lid.
 ---
 ## Technical summary of materials and manufacture
 
@@ -81,7 +82,7 @@ The only feature of the mummy board that may indicate refashioned or re-used woo
 #### Box [footboard](/resources/glossary#footboard)
 A fairly simple example of re-use is illustrated by the stack of CT images through the depth of the footboard. Two horizontal planks are held together with dowels to create the footboard. However, also within the depth of the top plank, immediately behind the proper right side dowel, there are remains of half a redundant mortise, with a pegged tenon still in place, but sliced across. Clearly this is re-used wood from a wider plank that has been cut down.
 
-#### Box rim mortises 
+#### Box rim mortises
 The current rim mortises (marked by blue arrows) of the box are all about 40 to 50mm in length. These line up with the rim mortises on the lid. But, covered with a paste and varnish layer and scarcely visible to the naked eye, there is a second set (marked with red arrows), each about 60 to 70mm long and each filled or part-filled with a piece of wood that is wedged into the gap and covered over with paste. The CT images of the rim and of a section of the side wall of the coffin box, help clarify the features and also show that these fill pieces are not old tenons. The grain in a tenon is always perpendicular to the grain of the piece of wood in which it is sitting in order to give strength to the joint. The grain in all of these pieces runs in the same direction as the grain in the side panel. They are just fill pieces.
 
 The top plank on each side of the box is a single piece of wood from the foot end up to the point where the side joins the coopered head of the coffin box. The shape of these planks coupled with the position and alignment of the four old mortises on each side strongly suggests that the panels are from another coffin. It is possible of course that the carpenter of Nespawershefyt's coffin simply misplaced the rim mortises when he first cut them and had to reposition them. However, the inference that these panels have been adapted from an earlier coffin is further supported by the positioning of the new mortises. Examination of the addition and subtraction of pieces of wood to accommodate this and possibly to change the profile of the sides also confirms it.

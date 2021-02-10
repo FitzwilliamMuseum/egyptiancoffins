@@ -2,6 +2,7 @@
 title: Who was Nespawershefyt?
 category: nespawershefyt
 permalink: /coffins/nespawershefyt/who-was-he
+image: /images/nespawershefyt/Nes1.jpg
 layout: coffins
 order: 2
 technical:
