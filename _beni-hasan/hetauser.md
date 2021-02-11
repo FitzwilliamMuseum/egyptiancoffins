@@ -9,7 +9,7 @@ id: beni-hasan
 images:
   -
     image: E671903.jpg
-    caption: "XXX."
+    caption: "Coming soon."
 ---
 
 **Object number:** E.67.1903
@@ -22,9 +22,9 @@ images:
 
 The paint layers are mostly in very good condition.  Some areas have suffered water damage (e.g., the lower edge of the p.l end), but there is very little paint loss which is not associated with damage to the wood.  There is little or no ground underneath most of the paint, with the exception of old holes that have been filled with a thick plaster. This paint is water damaged in areas and is poorly bound. It is also very vulnerable to loss from contact.
 
-Pigments were examined with XRF. Preliminary results show a limited palette with Egyptian blue, (probable) Egyptian green, red earth and a yellow earth, occasionally mixed with calcite to alter the hue. The final outlining is carried out in a char carbon black. 
+Pigments were examined with XRF. Preliminary results show a limited palette with Egyptian blue, (probable) Egyptian green, red earth and a yellow earth, occasionally mixed with calcite to alter the hue. The final outlinine is carried out in a char carbon black. 
 
-**Commentary:** Coming soon
+**Commentary:** Coming soon.
 
 
 
