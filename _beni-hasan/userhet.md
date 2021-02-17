@@ -6,10 +6,6 @@ image: /images/beni-hasan/E_88_1903_2_200605_adn21_dc2.jpg
 order: 5
 layout: coffins
 id: beni-hasan
-images:
-   -
-   image: E_88_1903_2_200605_adn21_dc2.jpg
-   caption: "The Middle Kingdom anthropoid coffin of Userhet."
 ---
 
 **Object number:** E.88.1903
@@ -20,5 +16,5 @@ images:
 
 **Analysis:** The box and lid (including the face and ears) were each carved from a single piece of sycomore fig; the beard is a separate piece of wood. A long strip of sycomore fig dowelled in a long the left-hand side was needed to make good the rim of the box, giving a secure anchor for the pegged tenons that hold the coffin halves together. Strips of open-weave linen were glued to the surface to help the thick calcite preparation layer stick to the wood. The decoration was painted with red earth, Egyptian green, Egyptian blue and carbon-based black. Completely invisible from the exterior is evidence of a major problem encountered by the makers of Userhet’s coffin: at some point during manufacture, the hollowed-out box split from top to bottom. The damage was repaired with the same technique used to strengthen the corner joints of the coffin of Khety: the slit was sewn together with rawhide or sinew stitches. These were partially sealed on the interior surface with patches of paste. The X-radiograph shows details of the repair. There are also early twentieth-century repairs and restorations to much of the surface of the coffin.
 
-**Commentary:**
+**Commentary:** Coming soon.
 
