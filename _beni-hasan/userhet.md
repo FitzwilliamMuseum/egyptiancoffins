@@ -6,6 +6,10 @@ image: /images/beni-hasan/E_88_1903_2_200605_adn21_dc2.jpg
 order: 5
 layout: coffins
 id: beni-hasan
+images:
+   -
+   image: E_88_1903_2_200605_adn21_dc2.jpg
+   caption: "The Middle Kingdom anthropoid coffin of Userhet."
 ---
 
 **Object number:** E.88.1903
