@@ -56,8 +56,8 @@
             {% for video in page.vimeo %}
             <div class="card col-sm p-0 m-2">
                 <div class="embed-responsive embed-responsive-16by9">
-                   {% commented out <iframe src="https://player.vimeo.com/video/{{video.id}}" class="embed-responsive-item"
-                            webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> %}
+                   {% commented out <iframe src="https://player.vimeo.com/video/{{video.id}}" class="embed-responsive-item" %}
+                            {% webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> %}
                  <iframe src="https://player.vimeo.com/video/{{video.id}}" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>   
                 </div>
             </div>
