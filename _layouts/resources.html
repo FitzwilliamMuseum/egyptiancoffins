@@ -54,10 +54,10 @@
     <div class="container">
         <div class="row mb-2">
             {% for video in page.vimeo %}
-            <div class="card col-sm p-0 m-2">
+            <div class="card col-md-4 p-0 m-2">
                 <div class="embed-responsive embed-responsive-16by9">
                  <iframe src="https://player.vimeo.com/video/{{video.id}}" class="embed-responsive-item"
-                            webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> %}
+                            webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
                 </div>
             </div>
             {% endfor %}
