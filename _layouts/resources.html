@@ -1,114 +1,107 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
-    <title>{{page.title}}</title>
-    {% include /structure/css.html %}
-    {% seo %}
-    {% include /structure/feeds.html %}
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
+  <title>{{page.title}}</title>
+  {% include /structure/css.html %}
+  {% seo %}
+  {% include /structure/feeds.html %}
 
 </head>
 <body class="doc-body">
 
-<!-- Screen reader skip to main -->
-<a class="sr-only sr-only-focusable doc-skip" href="#doc-main-h1">
+  <!-- Screen reader skip to main -->
+  <a class="sr-only sr-only-focusable doc-skip" href="#doc-main-h1">
     <div class="container">
-        <span class="doc-skip-text">Skip to main content</span>
+      <span class="doc-skip-text">Skip to main content</span>
     </div>
-</a>
+  </a>
 
-{% include /structure/navigation.html %}
+  {% include /structure/navigation.html %}
 
-<!-- Jumbotron -->
-<div class="jumbotron jumbotron-fluid mb-5 doc-jumbotron head">
+  <!-- Jumbotron -->
+  <div class="jumbotron jumbotron-fluid mb-5 doc-jumbotron head">
     <div class="container">
-        <div class="row ">
-            <div class="col-lg-12 col-xl-12">
-                <img src="/images/logos/logo.png"
-                     class="align-self-center mr-3  float-left thumb-post"/>
-            </div>
+      <div class="row ">
+        <div class="col-lg-12 col-xl-12">
+          <img src="/images/logos/logo.png"
+          class="align-self-center mr-3  float-left thumb-post"/>
         </div>
+      </div>
     </div>
-</div>
+  </div>
 
-<div class="container">
+  <div class="container">
 
-    <div class="row">
-        <div class="col-12  mb-2 ">
+    <div class="col-lg-12 mb-2 ">
 
-            <h1 id="doc-main-h1">{{ page.title }}</h1>
-        </div>
+      <h1 id="doc-main-h1">{{ page.title }}</h1>
     </div>
 
-    <div class="col-12 shadow-sm  p-3 mb-5 mx-2 bg-white rounded">
-        {{ content }}
+
+    <div class="col-lg-12 col-md-12 shadow-sm  p-3 mb-5 mx-2 bg-white rounded">
+      {{ content }}
     </div>
 
-    <div class="row">
-        <div class="col-12  mb-2 ">
-            <h2>Vimeo videos</h2>
-        </div>
+    <div class="col-lg-12 col-md-12 mb-2 ">
+      <h2>Vimeo videos</h2>
     </div>
-    <div class="container">
-        <div class="row mb-2">
-            {% for video in page.vimeo %}
-            <div class="card col-md-4 p-0 m-2">
-                <div class="embed-responsive embed-responsive-16by9">
-                 <iframe src="https://player.vimeo.com/video/{{video.id}}" class="embed-responsive-item"
-                            webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
-                </div>
-            </div>
-            {% endfor %}
+    <div class="row mb-2">
+      {% for video in page.vimeo %}
+      <div class="col-md-6">
+        <div class="card p-0 m-2">
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe src="https://player.vimeo.com/video/{{video.id}}" class="embed-responsive-item"
+            webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          </div>
         </div>
+      </div>
+      {% endfor %}
     </div>
-    <div class="row">
-        <div class="col-12">
-            <h2>YouTube videos</h2>
-        </div>
+    <div class="col-lg-12 col-md-12">
+      <h2>YouTube videos</h2>
     </div>
-    <div class="container">
-        <div class="row mb-2">
-            {% for video in page.youtube %}
-            <div class="card col-sm p-0 m-2">
-                <div class="embed-responsive embed-responsive-16by9">
-                    <iframe src="https://www.youtube.com/embed/{{ video.id }}" frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen class="embed-responsive-item"></iframe>
-                </div>
-            </div>
-            {% endfor %}
+    <div class="row mb-2">
+      {% for video in page.youtube %}
+      <div class="col-md-6">
+        <div class="card p-0 m-2">
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe src="https://www.youtube.com/embed/{{ video.id }}" frameborder="0"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen class="embed-responsive-item"></iframe>
+          </div>
         </div>
+      </div>
+      {% endfor %}
     </div>
 
-    <div class="row">
-        <div class="col-12">
-            <h2>3D models</h2>
-        </div>
+    <div class="col-lg-12 col-md-12">
+      <h2>3D models</h2>
     </div>
-    <div class="container">
-        <div class="row mb-2">
-            {% for threed in page.sketchfab %}
-            <div class="card col-sm p-0 m-2">
-                <div class="embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item"
-                            src="https://sketchfab.com/models/{{ threed.id }}/embed" allow="autoplay; fullscreen; vr"
-                            mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-                </div>
-            </div>
-            {% endfor %}
+    <div class="row mb-2">
+      {% for threed in page.sketchfab %}
+      <div class="col-md-6">
+        <div class="card p-0 m-2">
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item"
+            src="https://sketchfab.com/models/{{ threed.id }}/embed" allow="autoplay; fullscreen; vr"
+            mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+          </div>
         </div>
+      </div>
+      {% endfor %}
     </div>
     {% include share_buttons.html %}
 
-</div>
+  </div>
 
-{% include structure/footer_logos.html %}
-{% include structure/footer.html %}
-{% include structure/javascript.html %}
-{% include analytics/google_analytics.html %}
-{% include lightbox.html %}
+  {% include structure/footer_logos.html %}
+  {% include structure/footer.html %}
+  {% include structure/javascript.html %}
+  {% include analytics/google_analytics.html %}
+  {% include lightbox.html %}
 
 </body>
 </html>
