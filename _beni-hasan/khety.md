@@ -11,7 +11,7 @@ priref: 50676
 
 **Object number:** E.71.1903
 
-**Description:** This rectangular box coffin belongs to a man named Khety, whose tomb was found, still intact, at Beni Hasan. The coffin inscriptions contain standard formulae calling for Osiris and Anubis to provide offerings for Khety’s use in the afterlife. Khety’s job titles are not specified, but it is likely that he was a fairly wealthy person since his burial included models of people working on his behalf, presumably reflecting his earthly standard of living as well as his intention for his status in the afterlife. An eye panel is painted on one side of the coffin to allow Khety to see out. The coffin dates to the Middle Kingdmo (about 2010 – 1950 BC) and was given to the Museum by the Beni Hasan Excavation Committee.
+**Description:** This rectangular box coffin belongs to a man named Khety, whose tomb was found, still intact, at Beni Hasan. The coffin inscriptions contain standard formulae calling for Osiris and Anubis to provide offerings for Khety’s use in the afterlife. Khety’s job titles are not specified, but it is likely that he was a fairly wealthy person since his burial included models of people working on his behalf, presumably reflecting his earthly standard of living as well as his intention for his status in the afterlife. An eye panel is painted on one side of the coffin to allow Khety to see out. The coffin dates to the Middle Kingdom (about 2010 – 1950 BC) and was given to the Museum by the Beni Hasan Excavation Committee.
 
 **Measurements:** 50 x 186 x 44.4cm.
 
