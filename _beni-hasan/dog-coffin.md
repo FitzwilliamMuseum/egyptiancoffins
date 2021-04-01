@@ -29,9 +29,9 @@ images:
 
 **Analysis:** Coming soon.
 
-**Commentary:** A replica of this coffin was made by ancient woodworking specialist, Dr Geoffrey Killen, in March 2019 for a 'Pop-Up' Egyptian Coffins outreach project in Wisbech and the Fens. The video below shows a time lapse of this work, and below that you can view images of the construction process. 
+**Commentary:** A replica of this coffin was made by ancient woodworking specialist, Dr Geoffrey Killen, in March 2019 for a 'Pop-Up' Egyptian Coffins outreach project in Wisbech and the Fens. The video below shows a time lapse of this work, and below that you can view images of the construction process.
 
-**Bibliography:** The coffin was published by Angela Tooley in the 1988 edition of the [_Journal of Egyptian Archaeology_](https://www.academia.edu/755703/_Coffin_of_a_dog_from_Beni_Hasan_JEA_74_1988_207-211_pls._XXVI_2_XXVII_1-2). 
+**Bibliography:** The coffin was published by Angela Tooley in the 1988 edition of the [_Journal of Egyptian Archaeology_](https://www.academia.edu/755703/_Coffin_of_a_dog_from_Beni_Hasan_JEA_74_1988_207-211_pls._XXVI_2_XXVII_1-2).
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/324974231" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
