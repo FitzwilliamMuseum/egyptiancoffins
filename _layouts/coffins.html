@@ -65,7 +65,11 @@
             {{ content }}
 
         </div>
+        {% elsif page.id == 'mummy-portraits' %}
+        <div class="mb-3 rounded">
+            {{ content }}
 
+        </div>
         {% elsif page.id == 'team' %}
         <div class="mb-3 rounded">
             {{ content }}
@@ -172,20 +176,7 @@
 {% include structure/footer.html %}
 {% include structure/javascript.html %}
 {% if page.priref %}
-<script >
-  $( document ).ready(function() {
-    let endpoint = 'https://collection.beta.fitz.ms/id/object/{{ page.priref }}/json';
-      $.ajax({
-          url: endpoint,
-          contentType: "application/json",
-          dataType: 'json',
-          success: function(result){
-              console.log(result);
-              $("#description").append(result.description[0]['value']);
-          }
-      });
-  });
-</script>
+{% include structure/collectionjs.html %}
 {% endif %}
 {% include analytics/google_analytics.html %}
 {% include lightbox.html %}

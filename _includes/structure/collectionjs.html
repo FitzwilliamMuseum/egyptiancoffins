@@ -1,0 +1,14 @@
+<script type="text/javascript">
+  $( document ).ready(function() {
+    let endpoint = 'https://collection.beta.fitz.ms/id/object/{{ page.priref }}/json';
+      $.ajax({
+          url: endpoint,
+          contentType: "application/json",
+          dataType: 'json',
+          success: function(result){
+              console.log(result);
+              $("#description").append(result.description[0]['value']);
+          }
+      });
+  });
+</script>
