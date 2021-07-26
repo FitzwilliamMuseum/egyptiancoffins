@@ -2,7 +2,7 @@
 category: mummy-portraits
 title: 'What are mummy portraits?'
 permalink: /mummy-portraits/what-are-mummy-portraits/
-image: /images/mummy-portraits/portraitstogether.jpg
+image: /images/mummy-portraits/demos2.jpg
 order: 2
 layout: coffins
 ---
