@@ -2,7 +2,7 @@
 category: mummy-portraits
 title: 'Mummy portrait of Didyma'
 permalink: /mummy-portraits/portrait-didyma/
-image: /images/mummy-portraits/mummy.jpg
+image: /images/mummy-portraits/Didyma.jpeg
 order: 7
 layout: coffins
 ---
