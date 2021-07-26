@@ -2,7 +2,7 @@
 category: mummy-portraits
 title: 'Pop-Up Museum'
 permalink: /mummy-portraits/pop-up-museum/
-image: /images/mummy-portraits/mummy.jpg
+image: /images/mummy-portraits/grovepopup.jpeg
 order: 5
 layout: coffins
 ---
