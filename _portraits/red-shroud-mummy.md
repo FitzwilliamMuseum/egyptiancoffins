@@ -2,7 +2,7 @@
 category: mummy-portraits
 title: 'Red Shroud  Mummy'
 permalink: /mummy-portraits/red-shroud-mummy/
-image: /images/mummy-portraits/redshroudmummy.jpeg
+image: /images/mummy-portraits/redshrouddetail.jpg
 order: 5
 layout: coffins
 ---
