@@ -5,6 +5,10 @@ permalink: /mummy-portraits/red-shroud-mummy/
 image: /images/mummy-portraits/mummy.jpg
 order: 5
 layout: coffins
+images:
+  -
+    image: nespawershefytnestedlarge.jpg
+    caption: The nested coffins of Nespawershefyt
 ---
 
 **Object number:** E.63.1903
