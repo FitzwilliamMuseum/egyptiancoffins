@@ -1,6 +1,6 @@
 ---
 category: mummy-portraits
-title: 'Red Shroud  Mummy'
+title: 'Red shroud mummy'
 permalink: /mummy-portraits/red-shroud-mummy/
 image: /images/mummy-portraits/redshrouddetail.jpg
 order: 5
