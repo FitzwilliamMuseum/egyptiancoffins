@@ -11,6 +11,7 @@ In this video, expert in ancient Egyptian woodworking, [Dr Geoffrey Killen](http
 
 Arabic subtitles are available with this film. To activate, please select the ‘Closed Captions’ function.
 
-<iframe src="https://www.youtube.com/watch?v=tRKT2K5HB8M" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 
 
