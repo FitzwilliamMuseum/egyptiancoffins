@@ -2,13 +2,13 @@
 category: mummy-portraits
 title: 'Red Shroud  Mummy'
 permalink: /mummy-portraits/red-shroud-mummy/
-image: /images/mummy-portraits/mummy.jpg
+image: /images/mummy-portraits/redshroudmummy.jpeg
 order: 5
 layout: coffins
 images:
   -
-    image: nespawershefytnestedlarge.jpg
-    caption: The nested coffins of Nespawershefyt
+    image: redshroudmummy.jpeg
+    caption: Red shroud mummy of a young man from El-Hiba, Egypt, AD 100-150. Collection: Fitzwilliam Museum (E.63.1903).
 ---
 
 **Object number:** E.63.1903
