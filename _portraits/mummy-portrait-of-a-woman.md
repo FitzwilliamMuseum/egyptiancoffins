@@ -25,5 +25,5 @@ There is no obvious discolouration to the paint itself. However, much of the pai
 
 **Commentary:**
 
-**Other relevant objects in the Museum’s collection:**
+**Other relevant objects in the Museum’s collection:** E.63.1903, E.5.1981, E.2.1888, E.111.1932, E.W.50, E.W.48, E.110.1891, E.W.52. 
 
