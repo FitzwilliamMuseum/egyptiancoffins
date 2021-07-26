@@ -1,6 +1,6 @@
 ---
 category: mummy-portraits
-title: 'About the Roman eriod Mummy Portraits Project'
+title: 'About the Roman period mummy pportraits project'
 permalink: /mummy-portraits/the-project/
 image: /images/mummy-portraits/teamshot.jpg
 order: 1
