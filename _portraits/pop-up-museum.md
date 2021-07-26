@@ -4,6 +4,7 @@ title: 'Pop-Up Museum'
 permalink: /mummy-portraits/pop-up-museum/
 image: /images/mummy-portraits/grovepopup.jpeg
 order: 5
+video_id: "dQw4w9WgXcQ"
 layout: coffins
 ---
 
@@ -11,3 +12,10 @@ In this video, [Helen Strudwick](https://egyptiancoffins.org/team/helen-strudwic
 
 Arabic subtitles are available with this film. To activate, please select the ‘Closed Captions’ function.
 
+<div class="col-12 shadow-sm p-3 mx-auto mb-3 ">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" title="A YouTube video from the Fitzwilliam Museum"
+      src="https://www.youtube.com/embed/{{ page.video_id}}" frameborder="0"
+      allowfullscreen></iframe>
+    </div>
+ </div>
