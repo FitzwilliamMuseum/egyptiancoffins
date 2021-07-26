@@ -101,6 +101,16 @@
             "image": "{{ entry.image | xml_escape }}"
         },
     {% endfor %}
+    {% for entry in site.portraits %}
+        "{{ entry.url | slugify }}": {
+            "title": "{{ entry.title | xml_escape }}",
+            "url": "{{ entry.url | xml_escape }}",
+            "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
+            "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
+            "category": "{{ entry.category | xml_escape }}",
+            "image": "{{ entry.image | xml_escape }}"
+        },
+    {% endfor %}
     {% for entry in site.deathblog %}
         "{{ entry.url | slugify }}": {
             "title": "{{ entry.title | xml_escape }}",
