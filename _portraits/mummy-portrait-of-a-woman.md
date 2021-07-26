@@ -1,6 +1,6 @@
 ---
 category: mummy-portraits
-title: 'Portrait of a woman'
+title: 'Mummy portrait of a woman'
 permalink: /mummy-portraits/portrait-of-a-woman/
 image: /images/mummy-portraits/womanportrait2.jpg
 order: 6
