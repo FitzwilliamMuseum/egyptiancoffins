@@ -2,7 +2,7 @@
 category: mummy-portraits
 title: 'Decoration'
 permalink: /mummy-portraits/decoration/
-image: /images/mummy-portraits/mummy.jpg
+image: /images/mummy-portraits/painting.jpg
 order: 4
 layout: coffins
 ---
