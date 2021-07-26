@@ -2,7 +2,7 @@
 category: mummy-portraits
 title: 'About the Roman Mummy Portraits project'
 permalink: /mummy-portraits/the-project/
-image: /images/mummy-portraits/Faiyumteam.jpg
+image: /images/mummy-portraits/Faiyumteam.jpeg
 order: 1
 layout: coffins
 ---
