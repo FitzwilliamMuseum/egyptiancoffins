@@ -2,7 +2,7 @@
 category: mummy-portraits
 title: 'Construction'
 permalink: /mummy-portraits/construction/
-image: /images/mummy-portraits/mummy.jpg
+image: /images/mummy-portraits/sawing.jpg
 order: 3
 layout: coffins
 ---
