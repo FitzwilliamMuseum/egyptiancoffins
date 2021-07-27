@@ -2,7 +2,7 @@
 category: mummy-portraits
 title: 'Mummy portrait of a woman'
 permalink: /mummy-portraits/portrait-of-a-woman/
-image: /images/mummy-portraits/womanportrait.jpg
+image: /images/mummy-portraits/womanportraitfinal.jpg
 order: 6
 layout: coffins
 ---
