@@ -1,5 +1,5 @@
 ---
-title: Geoff Killen
+title: Dr Geoffrey Killen
 image: /images/staff/GeoffKillen.jpg
 layout: team
 institution: External member
