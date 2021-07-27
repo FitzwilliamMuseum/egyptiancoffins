@@ -1,7 +1,7 @@
 ---
 layout: team
 institution: External member
-title: Tom Turmezei
+title: Dr Tom Turmezei
 permalink: /team/tom-turmezei
 image: /images/staff/tom.jpg
 job-title: Consultant Radiologist
