@@ -1,7 +1,7 @@
 ---
 title: Dr Nour Mohamed Badr
 institution: Fitzwilliam Museum
-image: /images/staff/nourphoto.jpeg
+image: /images/staff/Nourphoto.jpeg
 layout: team
 job-title: Consultant
 order: 15
