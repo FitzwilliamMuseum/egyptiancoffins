@@ -1,6 +1,6 @@
 ---
 category: mummy-portraits
-title: 'About the project'
+title: 'Introduction to the project'
 permalink: /mummy-portraits/the-project/
 image: /images/mummy-portraits/teamshot.jpg
 order: 1
