@@ -1,5 +1,5 @@
 ---
-title: Lucy Wrapson
+title: Dr Lucy Wrapson
 institution: Fitzwilliam Museum
 image: /images/staff/LucyW2.jpg
 layout: team
