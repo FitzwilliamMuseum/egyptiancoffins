@@ -2,7 +2,7 @@
 category: mummy-portraits
 title: 'Mummy portrait of a bearded man'
 permalink: /mummy-portraits/bearded-man/
-image: /images/mummy-portraits/beardedman3.jpg
+image: /images/mummy-portraits/beardedman4.jpg
 order: 8
 layout: coffins
 ---
