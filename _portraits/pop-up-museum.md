@@ -4,7 +4,7 @@ title: 'Pop-Up Museum'
 permalink: /mummy-portraits/pop-up-museum/
 image: /images/mummy-portraits/grovepopup.jpeg
 order: 5
-video_id: "dQw4w9WgXcQ"
+video_id: 
 layout: coffins
 ---
 
