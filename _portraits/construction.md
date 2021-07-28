@@ -2,7 +2,7 @@
 category: mummy-portraits
 title: 'Construction'
 permalink: /mummy-portraits/construction/
-image: /images/mummy-portraits/geoffsawing.jpeg
+image: /images/mummy-portraits/geoffsawing.jpg
 order: 3
 video_id: tRKT2K5HB8M
 layout: coffins
