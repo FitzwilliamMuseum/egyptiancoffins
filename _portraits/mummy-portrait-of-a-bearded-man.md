@@ -5,6 +5,10 @@ permalink: /mummy-portraits/bearded-man/
 image: /images/mummy-portraits/beardedman4.jpg
 order: 8
 layout: coffins
+images:
+  -
+    image: beardedman.jpeg
+    caption: "Portrait of a bearded man from Hawara. Fitzwilliam Museum: E.2.1888."
 ---
 
 **Object number:** E.2.1888
