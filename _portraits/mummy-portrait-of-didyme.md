@@ -1,19 +1,19 @@
 ---
 category: mummy-portraits
-title: 'Mummy portrait of Didyma'
-permalink: /mummy-portraits/portrait-didyma/
+title: 'Mummy portrait of Didyme'
+permalink: /mummy-portraits/portrait-didyme/
 image: /images/mummy-portraits/Didymafinal.jpg
 order: 7
 layout: coffins
 images:
   -
     image: Didyma.jpeg
-    caption: "Mummy portrait of a young girl named Didyma. Fitzwilliam Museum: E.5.1981."
+    caption: "Mummy portrait of a young child named Didyme. Fitzwilliam Museum: E.5.1981."
 ---
 
 **Object number:** E.5.1981
 
-**Description:** Painted wooden mummy portrait of a young girl named Didyma, probably from Antinopolis, Egypt. Text in Greek reads “Didyme, 7 years old”; “ΔΙΔΥΜΗ ΕΤΩΝ Z” (Z is the 6th letter of the Greek alphabet and here denotes that Didyme is in the 7th year). 
+**Description:** Painted wooden mummy portrait of a young child (probably a girl) named Didyme, probably from Antinopolis, Egypt. Text in Greek reads “Didyme, 7 years old”; “ΔΙΔΥΜΗ ΕΤΩΝ Z” (Z is the 6th letter of the Greek alphabet and here denotes that Didyme is in the 7th year). 
 
 The portrait of Didyme was a bequest to the Fitzwilliam Museum in 1981 (Phyllis M. Cook, 1981). Unlike the other portraits in the Museum collection, the specific provenance is therefore unknown. A letter in the Fitzwilliam files indicates that Professor A. F. Shore suggested that Didyme is an Antinoopolis portrait dating to the later 2nd century AD. K. Parlasca, a leading scholar in the field, agreed this provenance in correspondence. The thickness of the panel as well as the characteristic way in which it has been trimmed with shoulders is indicative of an Antinoopolis provenance (See also Corcoran 1995). 
 
@@ -23,9 +23,7 @@ The portrait of Didyme was a bequest to the Fitzwilliam Museum in 1981 (Phyllis 
 
 It is unclear whether the panel may have been sized prior to the application of a ground. The ground is brown in colour, is distributed throughout the painting and is visible along the bottom edge and along parts of the edges. The ground has dripped down the bottom edge and those edges at the side which have not been trimmed, and must have been applied whilst liquid. The medium is unclear, although it may well be encaustic. However, it appears more brittle and lean than the painting itself and is also grittier in consistency. In X-ray, along the edge where the ground drips down a centimetre or more, it appears whitish. This may simply be due to the thickness of the ground layer, but is somewhat unusual.  
 
-No underdrawing is visible. 
-
-The decoration is applied using the encaustic technique. Given that an area of a sample was found to contain beeswax alone, it is likely that this portrait was painted using hot beeswax. Pigments identified from sampling include; chalk/calcite, lead white, dolomite, quartz/glass, alumina, charcoal, lamp black, yellow ochre, green earth, red lake (unidentified) and iron oxide red. 
+No underdrawing is visible. The decoration is applied using the encaustic technique. Given that an area of a sample was found to contain beeswax alone, it is likely that this portrait was painted using hot beeswax. Pigments identified from sampling include; chalk/calcite, lead white, dolomite, quartz/glass, alumina, charcoal, lamp black, yellow ochre, green earth, red lake (unidentified) and iron oxide red. 
 
 The tools used include brushes and spatula-like modelling implements. The technique is loose and bold and the surface relief is not uniform. The upper layers appear to be applied using a thicker and less fluid paint. This is visible in the modelling on the chest: the zig-zag pattern was painted over impasted brushstrokes running vertically. These brushstrokes were partially, but not wholly obliterated by this additional texturing. The shoulders of the panel seem to have been cut after painting, given that there is no ground dripped down the sides of this area and the brushstrokes and tool marks are curtailed abruptly. This was probably done shortly before the painting was bound into the mummy. The other edges are the original dimensions of the panel, given that ground is visible on the three sides. Once the ground was in place, the grey background was applied, followed by the bolder shapes such as the white robe and the face and hair. No reserve was left for the red clavi, nor for the necklace and the hair. 
 
