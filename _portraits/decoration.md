@@ -2,7 +2,7 @@
 category: mummy-portraits
 title: 'Decoration'
 permalink: /mummy-portraits/decoration/
-image: /images/mummy-portraits/painting.jpg
+image: /images/mummy-portraits/lucypainting.jpeg
 order: 4
 video_id: ksPw1FxIPC4
 layout: coffins
