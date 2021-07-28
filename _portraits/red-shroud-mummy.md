@@ -5,6 +5,10 @@ permalink: /mummy-portraits/red-shroud-mummy/
 image: /images/mummy-portraits/redshroud2.jpg
 order: 5
 layout: coffins
+images:
+  -
+    image: redshroudmummy.jpeg
+    caption: Red shroud mummy from El-Hiba, Egypt. Fitzwilliam Museum: E.63.1903.
 ---
 
 **Object number:** E.63.1903
