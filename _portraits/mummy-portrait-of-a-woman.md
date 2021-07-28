@@ -5,6 +5,10 @@ permalink: /mummy-portraits/portrait-of-a-woman/
 image: /images/mummy-portraits/womanportraitfinal.jpg
 order: 6
 layout: coffins
+images:
+  -
+    image: womanportrait.jpeg
+    caption: "Mummy portrait of a woman from Hawara. Fitzwilliam Museum: E.102.1911."
 ---
 
 **Object number:** E.102.1911
