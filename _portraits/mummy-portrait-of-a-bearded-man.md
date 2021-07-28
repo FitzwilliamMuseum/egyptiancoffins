@@ -8,7 +8,7 @@ layout: coffins
 images:
   -
     image: beardedman.jpeg
-    caption: "Portrait of a bearded man from Hawara. Fitzwilliam Museum: E.2.1888."
+    caption: "Mummy portrait of a bearded man from Hawara. Fitzwilliam Museum: E.2.1888."
 ---
 
 **Object number:** E.2.1888
