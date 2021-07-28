@@ -39,8 +39,6 @@ E.2.1888 has a coating of paraffin wax which was applied by Petrie fairly immedi
 
 Which of these two techniques has been used in this case is unclear. In addition there are occasional accretions of resinous material from the burial, obviously beneath the wax layer. The wax layer is dull in appearance and seems to have imbibed a considerable quantity of surface dirt. 
 
-**Credit:** Lucy Wrapson
-
 **Commentary:** In 1888 Petrie discovered the painted portraits at Hawara in the Fayûm. In all, Petrie removed 146 from the ground in two seasons of excavation (1888 and 1910/11). This panel comes from the first season of excavation. It was given to the Fitzwilliam Museum by Petrie in 1888.
 
 **Other relevant objects in the Museum’s collection:** E.63.1903, E.5.1981, E.102.1911, E.111.1932, E.W.50, E.W.48, E.110.1891, E.W.52. 
