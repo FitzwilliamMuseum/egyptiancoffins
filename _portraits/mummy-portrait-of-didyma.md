@@ -5,10 +5,6 @@ permalink: /mummy-portraits/portrait-didyma/
 image: /images/mummy-portraits/Didymafinal.jpg
 order: 7
 layout: coffins
-images:
--
-  image: Didyma.jpeg
-  caption: Mummy portrait of a young girl named Didyma. Fitzwilliam Museum: E.5.1981.
 ---
 
 **Object number:** E.5.1981
