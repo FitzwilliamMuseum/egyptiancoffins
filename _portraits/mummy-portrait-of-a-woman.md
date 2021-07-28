@@ -25,7 +25,5 @@ Both brushes and tools have been used. The painting style is bold and loose and 
 
 There is no obvious discolouration to the paint itself. However, much of the paint has been lost and the paint that remains is covered with a thick layer of wax making judgement difficult. There are extensive losses in the lower reaches of the painting, although fragments of purple, green and yellow paint can still be discerned. There are also areas of raised paint along the two major splits in the support. In the past, the painting was consolidated in the field by Petrie using parrafin wax. In addition, as previously mentioned, the painting was affixed to a plywood auxiliary support at some point in or after the 1950s. There are traces of two campaigns of glue on the reverse of the painting indicating its attachment to a previous auxiliary support prior to the plywood. 
 
-**Commentary:**
-
 **Other relevant objects in the Museum’s collection:** E.63.1903, E.5.1981, E.2.1888, E.111.1932, E.W.50, E.W.48, E.110.1891, E.W.52. 
 
