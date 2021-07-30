@@ -7,7 +7,7 @@ order: 1
 layout: coffins
 images:
 -
-  image: teamshot.jpg
+  image: Faiyumteam.jpg
   caption: Members of the mummy portraits project team with Egyptian colleagues in Faiyum, 2019.
 -
   image: Gavinmuseum.jpg
