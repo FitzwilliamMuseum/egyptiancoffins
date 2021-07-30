@@ -22,9 +22,6 @@ images:
   image: fayoum1.jpeg
   caption: Participants in the mummy portraits seminar in Faiyum, 29th July 2021.
 -
-  image: fayoum2.jpeg
-  caption: The Faiyum seminar underway with translations by Dr Nour Mohamed Badr.
--
   image: fayoum3.jpeg
   caption: Participants in the Faiyum seminar on 29th July 2021.
 ---
