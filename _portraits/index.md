@@ -18,6 +18,15 @@ images:
 -
   image: SaraNour.jpeg
   caption: Sara Hany Abed and Dr Nour Mohamed Badr with the mummy portrait of Demos in the EMC.
+-
+  image: fayoum1.jpeg
+  caption: Participants in the mummy portraits seminar in Faiyum, 29th July 2021.
+-
+  image: fayoum2.jpeg
+  caption: The Faiyum seminar underway with translations by Dr Nour Mohamed Badr.
+-
+  image: fayoum3.jpeg
+  caption: Participants in the Faiyum seminar on 29th July 2021.
 ---
 
 In late 2019, members of the Fitzwilliam Egyptian Coffins team were generously awarded funding from the [Global Challenges Research Fund (GCRF)](https://esrc.ukri.org/research/international-research/global-challenges-research-fund-gcrf/) for the project titled *Reviving the art of ancient Egyptian mummy portraits in Cairo and the Faiyum: a curatorial, conservation and community collaboration*. This project, which due to the circumstances of the COVID-19 pandemic, was underway until July 31, 2021, and was a joint collaboration between the Fitzwilliam Museum, Cambridge and colleagues at the Egyptian Museum Cairo (EMC), Kom Aushim Museum in Faiyum, [Explore Fayoum](https://fayoumegypt.com/), and staff from the Ministry of Antiquities.
