@@ -9,6 +9,8 @@ historical painting techniques, an ancient woodworking specialist and a consulta
 
 This online resource presents the complete results of this research as it unfolds, commencing with the coffins of the 25th Dynasty ‘water pourer on the west of Thebes’, Pakepu, and the 21st Dynasty coffin set of Nespawershefyt. This includes full transliterations and translations of the hieroglyphic text, descriptions of the iconography, raw and interpreted results of the scientific analysis, including pigment analysis and wood identification, results of advanced imaging techniques such as CT scans, X-radiography and scanning electron microscopy, and some historical and social commentary on the significance of our findings in the context of ancient Egyptian attitudes to funerary beliefs, the economy and death and the afterlife. The website also contains some special behind-the-scenes footage and insight into what it is like working both internationally and collaboratively.
 
+The Coffins Project team acknowledges with thanks the foundational contributions of [Dr Wolfram Grajetzki](https://independent.academia.edu/WolframGrajetzki) to its work.
+
 ## Our funding
 
 This project has been generously funded by:
