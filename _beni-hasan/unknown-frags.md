@@ -20,6 +20,11 @@ The panel is marked “W-78” in black ink in two places: on the painted side, 
 
 There are pinkish white powdery residues of a plaster-like paste on the surface. The panel has 8 dowel holes that are visible from the painted side. Along one edge, the three dowel holes still have dowels in them. Tool markings are visible on the painted side.
 
+***E.W.95***
+
+This rectangular wooden panel comes from either the headend or the footend of a box coffin, probably of Middle Kingdom date. Five dowel holes are visible, one of which still has a dowel present.
+
+The panel measures 66.7 cm x 19.4 cm x 2.1 cm.
 
 **Measurements:** Coming soon.
 
