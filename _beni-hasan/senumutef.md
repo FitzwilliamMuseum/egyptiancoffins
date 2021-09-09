@@ -26,8 +26,6 @@ There is little or no ground underneath most of the paint.  An exception to this
 
 An area of exposed ground found the ground layer to be made of calcite. The palette is relatively limited, with Egyptian blue, (probable) Egyptian green, and red earth present. The background yellow is painted in yellow earth, occasionally mixed with calcite to alter the hue. The brown paint is made by mixing red earth, yellow earth and carbon black. The final outlining is carried out in a char carbon black. 
 
-![image](https://user-images.githubusercontent.com/45968885/132721611-01f38a92-b007-47d0-b75a-92eb093955e1.png)
-
 ***Ground layer***
 The ground layer was identified as calcite: PLM05, taken from the bottom edge, found large, irregular, rhombic particles with twinkle and strong birefringence in crossed polars with 3rd order colours. 
 
