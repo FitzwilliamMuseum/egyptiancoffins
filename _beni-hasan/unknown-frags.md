@@ -26,8 +26,8 @@ This rectangular wooden panel comes from either the headend or the footend of a 
 
 The panel measures 66.7 cm x 19.4 cm x 2.1 cm.
 
-**Measurements:** Coming soon.
+***E.W.96***
 
-**Analysis:** Coming soon.
+This is a rectangular piece of wood, almost certainly from a Middle Kingdom box coffin. Traces of vertical columns of hieroglyphs survive at either end of the panel.
 
-**Commentary:** Coming soon.
+Measurements to come.
