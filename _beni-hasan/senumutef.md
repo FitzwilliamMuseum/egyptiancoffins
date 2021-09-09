@@ -10,7 +10,7 @@ id: beni-hasan
 
 **Object number:** E.69.1903
 
-**Description:** Coming soon.
+**Description:** Two long planks of wood from the front of a wooden box coffin of Middle Kingdom date.
 
 **Measurements:** Coming soon.
 
