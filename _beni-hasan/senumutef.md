@@ -52,5 +52,4 @@ There is a brown cylindrical shape in the middle of the panel (which looks like 
 Red earth: Fine, rounded particles with red-brown colour but moderate birefringence in crossed polars, exhibiting red body colour. 
 Yellow earth: Fine, rounded yellow particles present in polycrystalline aggregates with moderate birefringence (yellow body colour). 
 Carbon black: Angular black light absorbent particles, some splintery but generally equant. 
-![image](https://user-images.githubusercontent.com/45968885/132721739-593d8114-a84b-4d1e-b4d5-0c591bbc58f4.png)
 
