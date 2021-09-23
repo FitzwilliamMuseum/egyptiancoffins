@@ -10,7 +10,7 @@ layout: coffins
 
 In this video, [Helen Strudwick](https://egyptiancoffins.org/team/helen-strudwick/), Curator of Egyptian Antiquities at the Fitzwilliam Museum, shares one type of effective outreach project which can dramatically broaden the reach of high-end research to diverse audiences. Known as the [‘Pop-Up’ Museum](https://egyptiancoffins.org/pop-ups), the video demonstrates in a very practical way how you can design and deliver your own ‘Pop-Up’ using the research generated from the Roman period mummy portraits project as a case study.
 
-Arabic subtitles coming soon.
+Arabic subtitles are available with this film. To activate, please select the ‘Closed Captions’ function.
 
 <div class="col-12 shadow-sm p-3 mx-auto mb-3 ">
     <div class="embed-responsive embed-responsive-16by9">
