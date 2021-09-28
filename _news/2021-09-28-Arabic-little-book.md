@@ -7,12 +7,12 @@ updated: 2021-09-28
 author: Helen Strudwick
 tags: [book, coffins]
 permalink: /news/how-to-make-an-egyptian-coffin-Arabic
-thumbnail: /images/news/littlebooklarge.jpg
+thumbnail: /images/news/Littlebookarabic.jpg
 ---
 
 Good news! _How to make an Egyptian Coffin_ is now available in Arabic and can be downloaded [here](/assets/pdfs/Arabic version of little book_smaller.pdf)
 
-![](/images/news/littlebooklarge.jpg){:.img-fluid}
+![](/images/news/Littlebookarabic.jpg){:.img-fluid}
 
 Using the results from detailed analyses of the wooden structure of the inner coffin of Nespawershefyt and the composition of its decorative layers, the book reveals the skill of the Egyptian craftsmen involved in creating this amazing coffin. Replication experiments by Geoff Killen and Elsbeth Geldhof add immeasurably to our understanding of the processes involved.
 
