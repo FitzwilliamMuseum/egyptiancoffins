@@ -10,7 +10,7 @@ permalink: /news/how-to-make-an-egyptian-coffin-Arabic
 thumbnail: /images/news/Littlebookarabic.jpg
 ---
 
-Good news! _How to make an Egyptian Coffin_ is now available in Arabic and can be downloaded [here](https://egyptiancoffins.org/assets/pdfs/LittlebookArabic.pdf)
+Good news! _How to make an Egyptian Coffin_ is now available in Arabic and can be downloaded [here](https://egyptiancoffins.org/assets/pdfs/Arabic version of little book_smaller.pdf)
 
 ![](/images/news/Littlebookarabic.jpg){:.img-fluid}
 
