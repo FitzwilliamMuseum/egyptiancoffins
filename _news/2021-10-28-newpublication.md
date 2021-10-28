@@ -2,8 +2,8 @@
 layout: news
 title: New publication in CIPEG Journal
 category: news
-date: 2021-09-28
-updated: 2021-09-28
+date: 2021-10-28
+updated: 2021-10-28
 author: Melanie Pitkin
 tags: [publication, journal, article, CIPEG, Pop-Up Museum, outreach, public engagement]
 permalink: /news/newpublication
