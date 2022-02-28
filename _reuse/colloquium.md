@@ -1,6 +1,6 @@
 ---
 category: reuse
-title: 'Colloquium'
+title: 'Reuse colloquium 2019'
 url: /reuse-project/colloquium
 image: /images/deathonthenile/conferencebook.jpg
 order: 6
