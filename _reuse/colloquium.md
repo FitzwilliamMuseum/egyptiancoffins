@@ -7,8 +7,8 @@ order: 6
 layout: coffins
 images:
   -
-    image: conference1.jpg
-    caption: "Julie Dawson (third from left) with Egyptian colleagues at the conference venue: Cambridge University's Judge Business School."
+    image: reuse1.jpg
+    caption: "Colloquium participants outside the McDonald Institute, University of Cambridge."
   -
     image: conference5.jpg
     caption: "Helen Strudwick delivering a paper entitled 'Decoding Ancient Egyptian Coffins: The Judgement of the Dead and their Eternal Destiny'."
