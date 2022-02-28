@@ -253,6 +253,14 @@
      padding-top: 8rem;
      min-height: 65vh;
 }
+ .reuse-project {
+     background-image: url(../images/reuse/Reuse.png);
+     background-position: 50% 20%;
+     background-repeat: no-repeat;
+     background-size: cover;
+     padding-top: 8rem;
+     min-height: 65vh;
+}
  blockquote {
      font-size: 1.1rem;
      margin-bottom: 1rem;
