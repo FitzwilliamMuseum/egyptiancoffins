@@ -10,7 +10,7 @@ category: reuse-project
 {% for i in (1..rows) %}
   {% assign offset = forloop.index0 | times: 2 %}
   <div class="row">
-  {% assign sorted = site.reuse-project | sort:"order" %}
+  {% assign sorted = site.reuse | sort:"order" %}
   {% for reuse in sorted limit:2 offset:offset %}
      <div class="col-md-6 mt-3">
           <div class="card h-100">
