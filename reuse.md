@@ -6,7 +6,7 @@ permalink: /reuse-project
 id: reuse-project
 category: reuse-project
 ---
-{% assign rows = site.reuse-project.size | divided_by: 2.0 | ceil %}
+{% assign rows = site.reuse.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
   {% assign offset = forloop.index0 | times: 2 %}
   <div class="row">
