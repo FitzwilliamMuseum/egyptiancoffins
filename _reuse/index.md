@@ -1,5 +1,5 @@
 ---
-category: reuse-project
+category: reuse
 title: 'About the exhibition'
 url: /reuse-project/about
 image: /images/reuse/Reuse1.jpg
