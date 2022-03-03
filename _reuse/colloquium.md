@@ -15,4 +15,4 @@ In February 2019, the Fitzwilliam Museum, University of Cambridge hosted a collo
 This built on the identification of reuse of wood in coffin production, but expanded on the subject to explore the way that other material culture in Egypt was reused, 
 e.g. re-written inscriptions and re-inscribed royal statues, reuse of tombs.
 
-The programme and abstracts of the talks are available to be downloated [here](https://egyptiancoffins.org/assets/pdfs/reuseabstracts.pdf).
+The programme and abstracts of the talks are available to be downloaded [here](https://egyptiancoffins.org/assets/pdfs/reuseabstracts.pdf).
