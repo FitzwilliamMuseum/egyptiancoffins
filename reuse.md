@@ -2,7 +2,7 @@
 layout: coffins
 title: Death on the Nile
 description: "The Fitzwilliam Museum's Death on the Nile Exhibition"
-permalink: /deathonthenile
+permalink: /reuse-project
 id: deathonthenile
 category: deathonthenile
 ---
