@@ -3,8 +3,8 @@ layout: coffins
 title: Reuse, appropriation and ownership
 description: "A research project about reuse of material culture in ancient Egypt"
 permalink: /reuse-project
-id: reuse-project
-category: reuse-project
+id: reuse
+category: reuse
 ---
 {% assign rows = site.reuse.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
