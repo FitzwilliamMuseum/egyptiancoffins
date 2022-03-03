@@ -20,7 +20,7 @@ category: reuse-project
                 <h5 class="card-title">{{reuse.title}}</h5>
 
                 <p class="card-text">
-                  {{ death.content | strip_html | truncatewords: 20}}
+                  {{ reuse.content | strip_html | truncatewords: 20}}
                 </p>
 
                 <a href="{{ reuse.url }}" class="btn btn-dark stretched-link">Read more </a>
