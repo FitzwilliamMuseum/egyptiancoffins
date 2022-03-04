@@ -1,10 +1,10 @@
 ---
 layout: coffins
-title: Death on the Nile
-description: "The Fitzwilliam Museum's Death on the Nile Exhibition"
+title: Reuse - appropriation - ownership
+description: "The Fitzwilliam Museum's research project exploring the implicatios of modification and reuse of material culture in ancient Egypt"
 permalink: /reuse-project
-id: deathonthenile
-category: deathonthenile
+id: reuse
+category: reuse
 ---
 {% assign rows = site.deathonthenile.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
