@@ -1,7 +1,7 @@
 ---
 category: reuse
 title: Reuse colloquium 2019
-url: /reuse-project/colloquium
+permalink: /reuse-project/colloquium
 image: /images/reuse/Reuse_header.jpg
 order: 2
 layout: coffins
