@@ -11,7 +11,7 @@ category: reuse
   {% assign offset = forloop.index0 | times: 2 %}
   <div class="row">
   {% assign sorted = site.reuse | sort:"order" %}
-  {% for death in sorted limit:2 offset:offset %}
+  {% for reuse in sorted limit:2 offset:offset %}
      <div class="col-md-6 mt-3">
           <div class="card h-100">
               <div class="card-body">
