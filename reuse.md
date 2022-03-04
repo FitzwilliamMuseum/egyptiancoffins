@@ -15,15 +15,15 @@ category: reuse
      <div class="col-md-6 mt-3">
           <div class="card h-100">
               <div class="card-body">
-              <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="{{death.image}}"
+              <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="{{reuse.image}}"
                              alt="{{page.title}}'s image" height="150" width="150">
-                <h5 class="card-title">{{death.title}}</h5>
+                <h5 class="card-title">{{reuse.title}}</h5>
 
                 <p class="card-text">
-                  {{ death.content | strip_html | truncatewords: 20}}
+                  {{ reuse.content | strip_html | truncatewords: 20}}
                 </p>
 
-                <a href="{{ death.url }}" class="btn btn-dark stretched-link">Read more </a>
+                <a href="{{ reuse.url }}" class="btn btn-dark stretched-link">Read more </a>
               </div>
           </div>
     </div>
