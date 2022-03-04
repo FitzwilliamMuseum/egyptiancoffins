@@ -1,7 +1,7 @@
 ---
 layout: coffins
 title: Reuse - appropriation - ownership
-description: "The Fitzwilliam Museum's research project exploring the implicatios of modification and reuse of material culture in ancient Egypt"
+description: "The Fitzwilliam Museum's research project exploring the implications of modification and reuse of material culture in ancient Egypt"
 permalink: /reuse-project
 id: reuse
 category: reuse
