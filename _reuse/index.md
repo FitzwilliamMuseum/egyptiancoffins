@@ -1,7 +1,7 @@
 ---
 category: reuse
 title: 'About the project'
-url: /reuse-project/about
+permalink: /reuse-project/about
 image: /images/reuse/Reuse1.jpg
 order: 1
 layout: coffins
