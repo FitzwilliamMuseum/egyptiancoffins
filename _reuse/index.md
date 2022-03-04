@@ -2,7 +2,7 @@
 category: reuse
 title: 'About the project'
 permalink: /reuse-project/about
-image: /images/reuse/Reuse1.jpg
+image: /images/reuse/Reuse_header_thumb.jpg
 order: 1
 layout: coffins
 ---
