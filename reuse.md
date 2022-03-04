@@ -6,11 +6,11 @@ permalink: /reuse-project
 id: reuse
 category: reuse
 ---
-{% assign rows = site.reuse.size | divided_by: 2.0 | ceil %}
+{% assign rows = site.deathonthenile.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
   {% assign offset = forloop.index0 | times: 2 %}
   <div class="row">
-  {% assign sorted = site.reuse | sort:"order" %}
+  {% assign sorted = site.deathonthenile | sort:"order" %}
   {% for reuse in sorted limit:2 offset:offset %}
      <div class="col-md-6 mt-3">
           <div class="card h-100">
