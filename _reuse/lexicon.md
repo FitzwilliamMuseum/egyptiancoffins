@@ -2,7 +2,7 @@
 category: reuse
 title: 'Modifications terminology'
 permalink: /reuse-project/lexicon
-image: /images/reuse/Reuse_header_thumb.jpg
+image: /images/reuse/mdw.jpg
 order: 1
 layout: coffins
 ---
