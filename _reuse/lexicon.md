@@ -7,8 +7,6 @@ order: 1
 layout: coffins
 ---
 
-# Modifications terminology definitions
-
 ### Adaptation
 An altered or amended version of a text, musical composition, etc.
 The action or process of altering, amending, or modifying something, esp. something that has been created for a particular purpose, so that it suitable for a new use
