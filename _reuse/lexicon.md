@@ -7,42 +7,42 @@ order: 1
 layout: coffins
 ---
 
-### Adaptation
+#### Adaptation
 An altered or amended version of a text, musical composition, etc.
 The action or process of altering, amending, or modifying something, esp. something that has been created for a particular purpose, so that it suitable for a new use
 
-### Addition
+#### Addition
 Something which is added or joined to another thing
 
-### Appropriation
+#### Appropriation
 Taking something as one's own or to one's own use
 
-### Augmentation
+#### Augmentation
 The action or process of making something greater in number, size, or degree
 
-### Defacement
+#### Defacement
 The action or process of defacing; the fact or state of being defaced; a disfigurement
 
-### Embellishment
+#### Embellishment
 Added decoration/adornment, usually with the intention of making something more attractive
 
-### Mutilation
+#### Mutilation
 The action of making something, esp. a book or text, imperfect by excision or destruction of one or more of its parts
 
-### Reassignment
+#### Reassignment
 The act of assigning something differently, to a person, place, purpose, category, etc.
 
-### Repurposing
+#### Repurposing
 The conversion or adaptation of something for a different purpose or for use in a different way
 
-### Restoration
+#### Restoration
 The act, process or result of returning something to its (supposed) original condition
 
-### Reworking
+#### Reworking
 The action or process of working something again (in various senses); also the product of such action
 
-### Reuse
+#### Reuse
 A second or further use of something
 
-### Usurpation
+#### Usurpation
 The act of taking/seizing something by force or without authority
