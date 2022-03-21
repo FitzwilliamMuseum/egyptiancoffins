@@ -9,4 +9,4 @@ layout: coffins
 
 Building on the continually emerging evidence of reuse of wood in the production of ancient Egyptian coffins, the Fitzwilliam has begun exploring the wider reuse of materials and  material culture, such as blocks of stone and even complete monuments.
 
-Most recently we have been exploring the way that a First Intermediate Period stela was sculpted, working with a geologist, a professional sculptor and two Egyptologists specialising in the production of metal tools in ancient Egypt.
+Most recently we have been examining, in a preliminary way, the methods by which ancient Egyptian stone stelae were made, modified, reused, defaced and destroyed. ![image](https://user-images.githubusercontent.com/45968885/159328960-1e93e2f7-4493-46f1-aac7-f9242951e573.png). In December we held a small interdisciplinary, working with a geologist, a professional sculptor and two Egyptologists specialising in the production of metal tools in ancient Egypt, to recreate portions of the text and decoration on a First Intermediate Period stela in the Fitzwilliam's collections.
