@@ -7,5 +7,5 @@ order: 2
 layout: coffins
 ---
 
-The mummy case of Nakhtefmut is made of cartonnage.
+The mummy case of Nakhtefmut is made of cartonnage. 
 
