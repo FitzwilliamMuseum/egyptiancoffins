@@ -7,6 +7,8 @@ order: 1
 layout: coffins
 ---
 
+This is a preliminary list of words that may be used to describe modifications to coffins (and other ancient Egyptian artefacts), with preliminary suggested definitions to aid in distinguishing between the ways they are used.
+
 #### Adaptation
 An altered or amended version of a text, musical composition, etc.
 The action or process of altering, amending, or modifying something, esp. something that has been created for a particular purpose, so that it suitable for a new use
@@ -15,7 +17,7 @@ The action or process of altering, amending, or modifying something, esp. someth
 Something which is added or joined to another thing
 
 #### Appropriation
-Taking something as one's own or to one's own use
+Taking something as one's own or to one's own use: this might be the purpose underlying modification
 
 #### Augmentation
 The action or process of making something greater in number, size, or degree
