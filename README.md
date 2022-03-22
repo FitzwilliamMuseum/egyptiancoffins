@@ -19,9 +19,13 @@ All instructions for this will be found in the [wiki](https://github.com/Fitzwil
 
 ## Credits
 
-Content by Helen Strudwick, Julie Dawson, Melanie Pitkin, Jennifer Marchant. Copyright the University of Cambridge unless noted otherwise. 
+Content by:
 
-Video by Gavin Toomey and Patricia Wheatley. 
+Helen Strudwick, Julie Dawson, Melanie Pitkin, Jennifer Marchant. 
+
+Copyright the University of Cambridge unless noted otherwise. 
+
+Videos by Gavin Toomey and Patricia Wheatley. 
 
 Website by [@portableant](https://github.com/portableant)
 
