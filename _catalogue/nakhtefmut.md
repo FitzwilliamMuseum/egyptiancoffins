@@ -1,6 +1,6 @@
 ---
 category: catalogue
-title: Nakhtefmut catalogue entry
+title: catalogue entry for the mummy case of Nakhtefmut
 permalink: /coffin-catalogue/nakhtefmut
 image: /images/nakhtefmut/nakhtefmutHead.png
 layout: coffins
