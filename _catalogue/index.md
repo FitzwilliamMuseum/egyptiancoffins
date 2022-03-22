@@ -2,7 +2,7 @@
 category: catalogue
 title: About the catalogue
 permalink: /coffin-catalogue/index
-image: /images/reuse/Reuse1_thumb.jpg
+image: /images/catalogue/Coffin_face.jpg
 order: 1
 layout: coffins
 ---
