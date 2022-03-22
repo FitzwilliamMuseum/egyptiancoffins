@@ -1,5 +1,7 @@
 ---
+category: catalogue
 title: Nakhtefmut catalogue entry
+permalink:
 image: /images/nakhtefmut/nakhtefmutHead.png
 layout: coffins
 coffin-type: mummy case
