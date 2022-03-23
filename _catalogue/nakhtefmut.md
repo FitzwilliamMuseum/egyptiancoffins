@@ -7,4 +7,4 @@ order: 2
 layout: coffins
 ---
 
-{% include /coffins/nakhtefmut.html %} 
+{% include nakhtefmut.html %} 
