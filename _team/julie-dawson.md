@@ -57,7 +57,7 @@ J. Dawson  and L. Skinner, (2014) ‘Conservation of wooden coffins and three ha
 
 J. Dawson and L. Skinner, (2013) ‘Conservation of the wooden coffins (2012 and 2013). In B. Kemp, ‘Tell el-Amarna, 2012–2013’, *Journal of Egyptian Archaeology*, 99, 14-16.
 
-J. Dawson and T.F. Emmett. (2012). ‘Plaguey things’: the history and technical examination of two ‘Etruscan’ bronze statuettes in the Fitzwilliam Museum’, *Journal of the History of Collections*, 24, no. 3, 379-398 ![http://dx.doi.org/10.1093/jhc/fhr049](http://dx.doi.org/10.1093/jhc/fhr049)
+J. Dawson and T.F. Emmett. (2012). ‘Plaguey things’: the history and technical examination of two ‘Etruscan’ bronze statuettes in the Fitzwilliam Museum’, *Journal of the History of Collections*, 24, no. 3, 379-398 [http://dx.doi.org/10.1093/jhc/fhr049](http://dx.doi.org/10.1093/jhc/fhr049)
   
 +J. Dawson, C. Rozeik and M. M. Wright (eds.). (2010). *Decorated Surfaces on Ancient Egyptian Materials: Technology, Deterioration and Conservation*, London: Archetype Publications
 
