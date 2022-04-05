@@ -32,7 +32,7 @@ In addition to her role at the Fitzwilliam Museum, she works in Egypt, formerly 
 
 +H. Strudwick, J. Dawson, J. Marchant, E. Geldhof and C. Hunkeler. Forthcoming ‘Complex layered structures on 'bivalve' coffins’. In *Proceedings of the Second Vatican Conference 6–9 June 2017*. Città del Vaticano: Edizioni Musei Vaticani 
 
-+M. Pitkin, H. Strudwick, J. Dawson and S. Hany Abed. (2021) ‘Engaging audiences in areas of low cultural provision: the concept of the ‘Pop-up’ museum experience, *CIPEG Journal*, 4 ![https://doi.org/10.11588/cipeg.2020.4.83936](https://doi.org/10.11588/cipeg.2020.4.83936)
++M. Pitkin, H. Strudwick, J. Dawson and S. Hany Abed. (2021) ‘Engaging audiences in areas of low cultural provision: the concept of the ‘Pop-up’ museum experience, *CIPEG Journal*, 4 [https://doi.org/10.11588/cipeg.2020.4.83936](https://doi.org/10.11588/cipeg.2020.4.83936)
 
 +J. Dawson, and T. Turmezei. (2021) ‘Re-cut, re-fashioned, re-used: CT scanning and the complex inner coffin of Nespawershefyt’. In R. Sousa, A. Amenta, K.M. Cooney (eds.), *Bab El-Gasus in Context: Rediscovering the Tomb of the Priests of Amun*. Rome: L’erma di Bretschneider, 485–510 
 
@@ -65,7 +65,7 @@ C. Rozeik,  J. Dawson, and L. Wrapson. (2010). ‘Are Attic Vases ‘archaeologi
 
 J. Dawson and S. Rowe. (2010) ‘External supports and coffin trees: experiences in conserving and displaying ancient Egyptian coffins at the Fitzwilliam Museum, Cambridge’ poster in C. Rozeik, A. Roy and D. Saunders (eds.), *Conservation and the Eastern Mediterranean: Contributions to the 2010 IIC Congress, Istanbul*, IIC, London, 2010, 282 
 
-J. Dawson and H. Strudwick, (2009) ‘A close-up look: ‘Meet the Antiquities’ in the Fitzwilliam Museum’ in *proceedings of the conference Cultural encounters and explorations: Conservation's 'Catch 22'. What’s the Damage? Physical Encounters: Increased Benefit or Increased Risk?* at ![http://www.ucl.ac.uk/conservation-c-22/conference](http://www.ucl.ac.uk/conservation-c-22/conference)
+J. Dawson and H. Strudwick, (2009) ‘A close-up look: ‘Meet the Antiquities’ in the Fitzwilliam Museum’ in *proceedings of the conference Cultural encounters and explorations: Conservation's 'Catch 22'. What’s the Damage? Physical Encounters: Increased Benefit or Increased Risk?* at [http://www.ucl.ac.uk/conservation-c-22/conference](http://www.ucl.ac.uk/conservation-c-22/conference)
 
 L.M. Burn and J. Dawson. (2009) ‘Redisplaying Greece and Rome at the Fitzwilliam Museum’, *Minerva*, Vol. 20 
 
