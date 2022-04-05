@@ -19,3 +19,4 @@ This project has been generously funded by:
 ![GCRF](/images/logos/gcrf.jpeg){: .img-fluid }
 ![University of Cambridge](/images/logos/unicam.png){: .img-fluid }
 ![British Academy](/images/logos/TBA.png){: .img-fluid }
+![The Leverhulme Trust](/images/logos/Leverhulme_Trust_CMYK_blue.png){: .img-fluid }
