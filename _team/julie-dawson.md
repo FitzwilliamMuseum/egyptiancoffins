@@ -26,9 +26,9 @@ of Egyptian society, economy and religion:
 
 ##### Publications (those directly related to current research marked with +)
 
-+J. Dawson, T. Turmezei, G. Killen and H. Strudwick. In press. ’Revealing Interiors: CT scanning and microCT scanning of wooden coffins’. In *Proceedings of the first international conference for Science of Ancient Egyptian materials and technology (SAEMT), Cairo 4-6 November 2017*. Cairo: IFAO, 35–47 
++J. Dawson, T. Turmezei, G. Killen and H. Strudwick. (2022) ’Revealing Interiors: CT scanning and microCT scanning of wooden coffins’. In *Proceedings of the first international conference for Science of Ancient Egyptian materials and technology (SAEMT), Cairo 4-6 November 2017*. Cairo: IFAO, 35–47 
 
-+T. Emmett, E. Geldhof and J. Dawson. In press. ‘A Practical Method for the manufacture of Egyptian Blue for use in the creation of low relief decorations on Third Intermediate Period Coffins.’ In *Proceedings of the first international conference for Science of Ancient Egyptian materials and technology (SAEMT), Cairo 4-6 November 2017*. Cairo: IFAO, 49–58 
++T. Emmett, E. Geldhof and J. Dawson. (2022) ‘A Practical Method for the manufacture of Egyptian Blue for use in the creation of low relief decorations on Third Intermediate Period Coffins.’ In *Proceedings of the first international conference for Science of Ancient Egyptian materials and technology (SAEMT), Cairo 4-6 November 2017*. Cairo: IFAO, 49–58 
 
 +H. Strudwick, J. Dawson, J. Marchant, E. Geldhof and C. Hunkeler. Forthcoming ‘Complex layered structures on 'bivalve' coffins’. In *Proceedings of the Second Vatican Conference 6–9 June 2017*. Città del Vaticano: Edizioni Musei Vaticani 
 
