@@ -1,5 +1,9 @@
 # The Egyptian Coffins Project - Fitzwilliam Museum
 
+[![DOI](https://zenodo.org/badge/161357729.svg)](https://zenodo.org/badge/latestdoi/161357729)
+
+Contributors: [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335) [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0001--8160--2078-green.svg)](http://orcid.org/0000-0001-8160-2078)
+
 ![](/images/screenshots/coffins.png)
 
 This respository will hold code for the new Egyptian coffins website project, documenting the work of a multidisciplinary 
