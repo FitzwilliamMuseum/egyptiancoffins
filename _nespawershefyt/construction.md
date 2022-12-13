@@ -23,7 +23,7 @@ images:
     image: warped.jpg
     caption: Single CT image (transverse) through the inner coffin box
 
-    image: ../joints_with_grain_labelled.jpg
+    image: joints_with_grain_labelled.jpg
     caption: Joints used in coffins in the Fitzwilliam Museum's Egyptian collection
     
 ---
