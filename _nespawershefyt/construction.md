@@ -19,10 +19,10 @@ images:
   -
     image: face.jpg
     caption: Detail of Nespawershefyt's face depicted on the inner coffin lid
-    
+  -
     image: warped.jpg
     caption: Single CT image (transverse) through the inner coffin box
-
+  -
     image: joints_with_grain_labelled.jpg
     caption: Joints used in coffins in the Fitzwilliam Museum's Egyptian collection
     
@@ -54,7 +54,7 @@ The following [joints](images/joints_with_grain_labelled.jpg) were used to put t
 * scarf joint with butterfly cramp
 * dovetail joint
 
-The construction of the mummy board and the outer coffin were determined by direct observation and X-radiography.
+The construction of the mummy board and the outer coffin were determined by direct observation and [X-radiography](/resources/glossary#X-radiography).
 
 ### Mummy board
 The mummy board is constructed from two long, almost flat planks, held together with loose tenon joints. The face and hands are dowelled on. The [foot section](/images/nespawershefyt/brokenfoot.jpg) is lost, but there are dowel holes and the remains of original filler paste along the broken bottom edge of the board. On the back of the board, a bare wood surface with animal glue, eight small dowel holes and a ridge of coarse filler paste along the inner edge are all that remain of a rim around the head.
@@ -133,3 +133,20 @@ The size and structural fragility of the outer coffin have thus far precluded th
 However, on the proper left side these partly cut across three rectangular voids. The latter have no obvious function in the current structure and their shape and position suggest that they may be mortises from the joining mechanism of an earlier object.
 
 At the foot end of the lid on both sides, the rim has been lengthened by the scarf-jointed attachment of an additional piece of sycomore fig wood. In that piece on each side there is a rim mortise and tenon forming part of the current closure mechanism of the coffin. But next to each of these, there is another mortise which has been filled in with a piece of wood, dowelled through to secure it to the structure and plastered on the underside of the lid to disguise its presence, as seen on the rims of inner coffin. It seems unlikely that this is simply a positioning mistake by the carpenters, and more likely that these two added sections of the rim have come from another object and have been adapted to fit this coffin.
+
+## References
+
+Cartwright, Caroline R. 2018. “Identifying ancient Egyptian coffin woods from the Fitzwilliam Museum, Cambridge using scanning electron microscopy”. In _Egyptian Coffins: Past – Present – Future_, eds. Helen Strudwick and Julie Dawson. Oxford: Oxbow Books
+
+Cooney, Kathlyn. 2017. “Coffin reuse: Ritual materialism in the context of scarcity”. In _Proceedings First Vatican Coffin Conference 19–22 June 2013_, eds. Alessia Amenta and Hélène Guichard, vol. 1, 101-112. Città del Vaticano: Edizioni Musei Vaticani
+
+Strudwick, Helen. 2017. “The enigmatic owner of the coffins of Nespawershefyt at the Fitzwilliam Museum, Cambridge.”  In _Proceedings First Vatican Coffin Conference 19-22 June 2013_, eds. Alessia Amenta and Hélène Guichard, vol. 2, 521-528. Città del Vaticano: Edizioni Musei Vaticani
+
+## Further reading
+
+Dawson, J. and T. Turmezei. 2021. ‘Re-cut, re-fashioned, re-used: CT scanning and the complex inner coffin of Nespawershefyt’. In R. Sousa, A. Amenta, K.M. Cooney (eds.) _Bab El-Gasus in Context: Rediscovering the Tomb of the Priests of Amun_. Rome: L’erma di Bretschneider, 485–510 
+
+Dawson, J. 2018. _How to make an Egyptian coffin: the construction and decoration of Nespawershefyt’s coffin set_. Cambridge: Fitzwilliam Museum.
+
+Dawson, J., T. Turmezei, G. Killen and H. Strudwick.  2022. ‘Revealing Interiors: CT scanning and microCT scanning of wooden coffins’. In B. Gehad and A. Quiles (eds.) _Proceedings of the first international conference for Science of Ancient Egyptian materials and technology (SAEMT), Cairo 4-6 November 2017_. Cairo: IFAO, 35–47 
+
