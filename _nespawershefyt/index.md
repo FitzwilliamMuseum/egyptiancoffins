@@ -12,7 +12,7 @@ technical:
     file: nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
   -
-    file: assets/construction.html
+    file: nespawershefyt/construction.html
     title: Construction of the Nespawershefyt coffin set
 images:
   -
