@@ -48,6 +48,9 @@ sketchfab:
 The Egyptian coffins project has a wide array of rich media, data and presentations available. This
 page provides access to all of these.
 
+## Nespawershefyt's inner coffin: box head end <a name="Nespbase"></a>
+This film shows three different views (transverse, coronal and sagittal) captured by the CT scanning of the head end of the inner coffin box of Nespawershefyt.
+
 <video src="https://user-images.githubusercontent.com/45968885/207458931-dd4f159c-3233-42d9-95b6-320058099529.mov" controls="controls" style="max-width: 730px;">
 </video>
 
