@@ -23,6 +23,8 @@ images:
     image: warped.jpg
     caption: Single CT image (transverse) through the inner coffin box
 
+    image: ../joints_with_grain_labelled.jpg
+    caption: Joints used in coffins in the Fitzwilliam Museum's Egyptian collection
     
 ---
 ## Technical summary of materials and manufacture
@@ -69,7 +71,7 @@ In contrast to the mummy board and the outer coffin, the inner coffin presents a
 
 The base boards of the inner coffin box consist of two long planks with additional fill pieces all held together with loose tenons. These tenons were drilled to be pegged, but the CT scan image shows that the peg holes are empty. Each long side of the inner coffin box is constructed from two shaped planks of sycomore fig, joined edge to edge with massive pegged tenons. The exterior surfaces of the sides above the shoulders are patched with dowelled-on pieces of wood. The head end of the box is a coopered construction in which three pieces of wood (two sycomore fig and one sidr) each cut with very slightly angled edges, have been put side by side and joined with loose tenons to form a curve. The sides of the box are fixed to the foot end boards with dovetail joints, reinforced with dowels, and to the base boards with angled dowels.
 
-To minimise the effect of warping on the overall structure, the carpenters of the coffin box ensured that the heartwood was a different way up on each adjacent plank, as shown in a single ![CT image (transverse) through the box](/images/nespawershefyt/warped.jpg).
+To minimise the effect of warping on the overall structure, the carpenters of the coffin box ensured that the heartwood was a different way up on each adjacent plank, as shown in a single [CT image (transverse) through the box](/images/nespawershefyt/warped.jpg).
 
 ## Evidence of re-use
 Cooney has identified a range of different types of re-use on 21st Dynasty coffins from the simple inscription of a new name, through partial redecoration to complete coverage with a new decorative scheme or scrubbing off the original layers and replacing them. The most comprehensive refashioning and, often, the hardest to detect is when coffins have been broken down structurally and the wood incorporated into new coffins (Cooney 2017). The coffins of Nespawershefyt fall into this last category. Apart from modifications to Nespawershefyt's titles (Strudwick 2017), there is no evidence of over-painting or new decorative layers, only a few enigmatic surface details to suggest that the intact and highly accomplished finish may be masking some unusual fills and construction features.
