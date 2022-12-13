@@ -41,7 +41,7 @@ It is important to note that some of the smaller pieces of wood and many of the 
 {: .table }
 Table 1: Summary of woods used in the construction of the coffin set
 
-The following joints were used to put the coffins of this set together:
+The following [joints](images/joints_with_grain_labelled.jpg) were used to put the coffins of this set together:
 
 * edge joint with dowels
 * mortise with loose tenon
@@ -50,7 +50,7 @@ The following joints were used to put the coffins of this set together:
 * pegged spliced scarf joint
 * coopered joint
 * scarf joint with butterfly cramp
-* dovetail joint.
+* dovetail joint
 
 The construction of the mummy board and the outer coffin were determined by direct observation and X-radiography.
 
