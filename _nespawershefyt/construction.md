@@ -109,7 +109,7 @@ There may have been some shaving down of the interior wall along the length of t
 #### Box - head end
 The coopered head of the box also shows signs of adaptation. The central panel has been attached to the outer panels with relatively well-fitting mortise and tenon joints on each side, marked by blue arrows on the image. There is one towards the top of the structure, the other towards the bottom. But where the outer coopered panels attach to the long side panels of the box there are remnants of much bigger mortise and tenon connectors that are now redundant and have been cut across. The head end is now attached to the sides with four very long dowels that cut right through all this earlier structure.
 
-These features of the coopered head end of the box and attachment of this to the side panels are shown [here](assets/video/Nesp_base_final.mp4) in a film of the three different views (transverse, coronal and sagittal) captured by the CT scanning.
+These features of the coopered head end of the box and attachment of this to the side panels are shown [here](<a src="/resources#Nespbase"></a>) in a film of the three different views (transverse, coronal and sagittal) captured by the CT scanning.
 
 
 #### Lid - p.l. rim
