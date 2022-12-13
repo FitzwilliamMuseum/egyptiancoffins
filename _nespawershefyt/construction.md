@@ -22,7 +22,7 @@ images:
 ---
 ## Technical summary of materials and manufacture
 
-Identification of the woods used in the construction of the coffins was undertaken by the examination of samples by scanning electron microscopy (Cartwright, in press).
+Identification of the woods used in the construction of the coffins was undertaken by the examination of samples by scanning electron microscopy (Cartwright, 2018).
 
 It is important to note that some of the smaller pieces of wood and many of the connectors (dowels and tenons) were not accessible for sampling, so the description here of the carpenters' materials is not comprehensive. However, all the principal elements of each part of the coffin set were identified by examination of the 152 samples taken. The woods used were the native sycomore fig (_Ficus sycomorus_), sidr (_Ziziphus spina-christi_), Nile acacia (_Acacia nilotica_), tamarisk (_Tamarix aphylla_) and the imported cedar of Lebanon (_Cedrus libani_).
 
