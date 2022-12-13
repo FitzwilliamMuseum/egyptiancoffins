@@ -48,4 +48,6 @@ sketchfab:
 The Egyptian coffins project has a wide array of rich media, data and presentations available. This
 page provides access to all of these.
 
-https://user-images.githubusercontent.com/45968885/207458931-dd4f159c-3233-42d9-95b6-320058099529.mov
+<video src="https://user-images.githubusercontent.com/45968885/207458931-dd4f159c-3233-42d9-95b6-320058099529.mov" controls="controls" style="max-width: 730px;">
+</video>
+
