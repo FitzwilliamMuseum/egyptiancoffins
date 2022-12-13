@@ -108,6 +108,9 @@ There may have been some shaving down of the interior wall along the length of t
 #### Box - head end
 The coopered head of the box also shows signs of adaptation. The central panel has been attached to the outer panels with relatively well-fitting mortise and tenon joints on each side, marked by blue arrows on the image. There is one towards the top of the structure, the other towards the bottom. But where the outer coopered panels attach to the long side panels of the box there are remnants of much bigger mortise and tenon connectors that are now redundant and have been cut across. The head end is now attached to the sides with four very long dowels that cut right through all this earlier structure.
 
+These features of the coopered head end of the box and attachment of this to the side panels are shown [here](assets/video/Nesp_base_final.mov) in a film of the three different views (transverse, coronal and sagittal) captured by the CT scanning.
+
+
 #### Lid - p.l. rim
 On either side of the lid the rim consists of a long piece of wood that is attached to the big foundation board. Marked with blue arrows on the CT image are the current rim mortises and in them (except for the proper left side head end mortise, which is empty) the tenons that make the current closure system of the lid to the box. But on the left hand side only, there are, as on the box, four longer mortises (marked by red arrows), that have been cut across, filled with pieces of wood and covered with paste. In reshaping the outer profile of the rim piece, the carpenter has cut rather severely into the second old mortise from the head end. The resulting hole was then filled with a new piece of wood, stuck in with glue and paste, and decorated over. This piece of wood has long been detached from the coffin and the relationship apparently not understood until recently. It has the accession number E.1.1867.
 
