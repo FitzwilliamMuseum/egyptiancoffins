@@ -13,6 +13,7 @@ technical:
     title: Complete Translations and Description
   -
     file: assets/construction.html
+    title: Construction of the Nespawershefyt coffin set
 images:
   -
     image: nespawershefytnestedlarge.jpg
