@@ -57,7 +57,7 @@ the front of the head and body of the person.
 
 The bottom (long axis) of the coffin box.
 
-### [Footboard](#footboard)
+### Footboard {#footboard}
 
 The short panel at the foot end of the coffin box and lid.
 
@@ -234,9 +234,9 @@ In contrast, the following techniques require a small sample to be removed from 
 
 **X-Ray fluorescence spectrometry (XRF)** A small area of the object is bombarded with X-rays. These X-rays excite atoms within the material, causing them to emit secondary X-rays. The energies of these secondary X-rays (fluorescence) are characteristic of the elements present, such as iron or calcium. This is a quick, sensitive method for identifying inorganic pigments containing heavy elements (e.g., orpiment, which contains arsenic).
 
-**[X-radiography](#X-radiography)** X-ray radiation penetrates through matter: the denser a material is, the more difficult it is for the X-rays to penetrate. A sheet of film is placed under the object and records the relative intensity of the X-rays that emerge after they have passed through the object. An X-radiograph shows the internal structure of the object and clarifies the assembly of a coffin. (fig. XX).
+**X-radiography** {#X-radiography} X-ray radiation penetrates through matter: the denser a material is, the more difficult it is for the X-rays to penetrate. A sheet of film is placed under the object and records the relative intensity of the X-rays that emerge after they have passed through the object. An X-radiograph shows the internal structure of the object and clarifies the assembly of a coffin. (fig. XX).
 
-**[Computed tomography (CT) imaging](#CT-scanning)** Conventional X-radiography provides a two-dimensional image of the interior of the object. CT, sometimes known as CAT scanning, is similar to standard X-radiography, but in this technique the data is collected simultaneously in different planes, producing cross-section slices (like the slices in a loaf of bread). Each slice can be examined individually and three-dimensional images of the object can be produced, providing a wealth of detail about internal structure (see cat. 27 [E.1.1822], fig. XX; cat. 55 [E.63.1903], fig. XX).
+**Computed tomography (CT) imaging** {#CT-scanning} Conventional X-radiography provides a two-dimensional image of the interior of the object. CT, sometimes known as CAT scanning, is similar to standard X-radiography, but in this technique the data is collected simultaneously in different planes, producing cross-section slices (like the slices in a loaf of bread). Each slice can be examined individually and three-dimensional images of the object can be produced, providing a wealth of detail about internal structure (see cat. 27 [E.1.1822], fig. XX; cat. 55 [E.63.1903], fig. XX).
 
 **Polarised Light Microscopy (PLM)** A tiny sample of pigment, taken from the coffin surface, is mounted in adhesive on a microscope slide. Light is passed through the particles, which are viewed down the optical microscope to record features such as size and shape. The use of polarising filters causes the particles to interact with light in different states. All these features can be diagnostic of specific pigments (fig. XX).
 
