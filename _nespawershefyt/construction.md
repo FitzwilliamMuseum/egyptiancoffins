@@ -87,7 +87,7 @@ The only feature of the mummy board that may indicate refashioned or re-used woo
 
 ### Re-used materials: Inner coffin
 
-Most of the features described below are also shown in the ![animation https://egyptiancoffins.org/coffins/nespawershefyt/digitalanimation](https://egyptiancoffins.org/coffins/nespawershefyt/digitalanimation). 
+Most of the features described below are also shown in the [animation https://egyptiancoffins.org/coffins/nespawershefyt/digitalanimation](https://egyptiancoffins.org/coffins/nespawershefyt/digitalanimation). 
 
 #### Box [footboard](/resources/glossary#footboard)
 A fairly simple example of re-use is illustrated by the stack of CT images through the depth of the footboard. Two horizontal planks are held together with dowels to create the footboard. However, also within the depth of the top plank, immediately behind the proper right side dowel, there are remains of half a redundant mortise, with a pegged tenon still in place, but sliced across. Clearly this is re-used wood from a wider plank that has been cut down.
