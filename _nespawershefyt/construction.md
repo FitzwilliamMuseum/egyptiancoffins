@@ -14,7 +14,7 @@ images:
     image: innerlid.jpg
     caption: Nespawershefyt's inner coffin lid
   -
-    image: joints_with_grain_labelled.jpg
+    image: joints_labelled.jpg
     caption: Joints used in coffins in the Fitzwilliam Museum's Egyptian collection
   -
     image: brokenfoot.jpg
@@ -75,7 +75,7 @@ It is important to note that some of the smaller pieces of wood and many of the 
 {: .table }
 Table 1: Summary of woods used in the construction of the coffin set
 
-The following [joints](/images/joints_with_grain_labelled.jpg) were used to put the coffins of this set together:
+The following [joints](/images/joints_labelled.jpg) were used to put the coffins of this set together:
 
 * edge joint with dowels
 * mortise with loose tenon
@@ -92,9 +92,9 @@ The construction of the mummy board and the outer coffin were determined by dire
 The mummy board is constructed from two long, almost flat planks, held together with loose tenon joints. The face and hands are dowelled on. The [foot section](/images/nespawershefyt/brokenfoot.jpg) is lost, but there are dowel holes and the remains of original filler paste along the broken bottom edge of the board. On the back of the board, a bare wood surface with animal glue, eight small dowel holes and a ridge of coarse filler paste along the inner edge are all that remain of a rim around the head.
 
 ### Outer coffin
-The main structural elements (single foundation board and rims) of the outer coffin lid are of sycomore fig. Each rim has a short section of a separate board, added to the foot end with a scarf joint. The dowelled-on face and the right hand are also sycomore fig, but the five-piece footboard and the left hand are made of tamarisk. Two patches added to the proper left side of the wig are one of cedar, one of tamarisk. In the eight rim mortises, three of the loose tenons used for closing the box and lid together survive. Two are cedar and one is sycomore fig.
+The main structural elements (single foundation board and rims) of the outer coffin lid are of sycomore fig. Each rim has a short section of a separate board, added to the foot end with a [scarf joint](/images/nespawershefyt/Nesp_CT_scarf.jpg). The dowelled-on face and the right hand are also sycomore fig, but the five-piece footboard and the left hand are made of tamarisk. Two patches added to the proper left side of the wig are one of cedar, one of tamarisk. In the eight rim mortises, three of the loose tenons used for closing the box and lid together survive. Two are cedar and one is sycomore fig.
 
-Each long side of the outer coffin box is made of two shaped planks, the proper left lower plank brought to its full length by a short section of wood attached with a scarf joint. The foot end (also made of two planks) is held to the sides with pinned dovetail joints. The head end is roughly hewn from a single massive piece of sycomore fig and the exterior surfaces of the side planks from the shoulders upwards are built up with a combination of dowelled-on wood patches and paste to match the thickness of the head end wall. The base boards of the box are mirror images of each other, suggesting that they come from a single length of wood sawn along its length then opened out and laid side by side. A tamarisk insert sits between the two boards that make up the base of the box and is the only structural element that is not made from sycomore fig. Apart from the dovetail and scarf joints mentioned, the construction of both box and lid is dowelled.
+Each long side of the outer coffin box is made of two shaped planks, the proper left lower plank brought to its full length by a short section of wood attached with a scarf joint. The foot end (also made of two planks) is held to the sides with pinned dovetail joints. The head end is roughly hewn from a single massive piece of sycomore fig and the exterior surfaces of the side planks from the shoulders upwards are built up with a combination of dowelled-on wood patches and paste to match the thickness of the head end wall. The base boards of the box are mirror images of each other, suggesting that they come from a single length of wood sawn along its length then opened out and [laid side by side](/images/nespawershefyt/Nesp_outer_baseboards.jpg). A tamarisk insert sits between the two boards that make up the base of the box and is the only structural element that is not made from sycomore fig. Apart from the dovetail and scarf joints mentioned, the construction of both box and lid is dowelled.
 
 ### Inner coffin
 The construction of the inner coffin was determined by direct observation, [X-radiography](/resources/glossary#Xradiography) and [CT scanning](/resources/glossary#CTscanning).
@@ -112,7 +112,7 @@ N.B. There are 19th and 20th century repairs on all three elements of the set we
 
 **Mummy board** A metal bar screwed across the width of the mummy board, to secure the structure above the break at the feet; and two small nails at the shoulder (all now removed).
 
-**Inner coffin lid** One screw and one nail in the rim pieces at the head end; a single screw and a metal plate screwed into the foot section of the inner coffin lid; and two short modern wooden dowels, substituting for broken-off ancient dowels, which attached the footboard to the central plank of the foundation board.
+**[Inner coffin lid](/images/nespawershefyt/Nesp_all_connectors.jpg)** One screw and one nail in the rim pieces at the head end; a single screw and a metal plate screwed into the foot section of the inner coffin lid; and two short modern wooden dowels, substituting for broken-off ancient dowels, which attached the footboard to the central plank of the foundation board.
 
 **Outer coffin box** Numerous handmade iron nails holding the base boards to the side panels and the side panels to each other; three large, modern oak dowels (in ancient dowel holes) holding the proper right side panels to the head end. All the evidence discussed below is found under original paste and varnish layers and would appear to show ancient re-use of wood.
 
