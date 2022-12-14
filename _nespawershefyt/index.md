@@ -11,7 +11,6 @@ technical:
   -
     file: nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
-  -
 images:
   -
     image: nespawershefytnestedlarge.jpg
