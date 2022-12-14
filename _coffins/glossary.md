@@ -57,7 +57,7 @@ the front of the head and body of the person.
 
 The bottom (long axis) of the coffin box.
 
-### Footboard {#footboard}
+### Footboard
 
 The short panel at the foot end of the coffin box and lid.
 
@@ -101,7 +101,7 @@ A piece of decoration made completely separately and usually inset within a reta
 
 ## Wood working terminology
 
-### Tangential Sawing
+### Tangential Sawing <a name="TangentialSawing"></a>
 
 Also known as through-and-through or slash sawing. The trunk or log is sawn down its long axis. Timber cut this way can
 be recognised by the slash-grain pattern on the planks. It is the most economical way to cut up timber, but the planks
