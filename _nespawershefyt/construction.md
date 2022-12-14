@@ -31,9 +31,6 @@ images:
   -
     image: Nesp_CT_footboard.jpg
     caption: Footboard of inner coffin box with CT images of transverse sections at two different points through the depth of the footboard. 5a shows the dowels that hold the current construction together. 5b shows the redundant mortise with cut-through pegged tenon. The bright white material seen on all the CT images is the paste used as a filler and as a surface layer.
-  -
-    image: Nesp_CT_head_end.jpg
-    caption: Coopered head end of the box and attachment of this to the side panels of the box (8b). The exact positions of the coronal view slices in the blue (8a) and red (8c) rectangles are indicated by the blue and red lines acess 8d-f. So, the blue rectangle slice is close to the rim surface of the box, the red rectangle slice about a quarter of the way down the depth of the box. The turquoise line on the photograph (8b) shows the position of the transverse slice 8e. The blue arrows (8a) mark the mortise and tenon joints that hold the current coopered construction together. The red arrows mark the bigger mortises that seem to belong to a redundant structure: the pink oval on 8e shows that reshaping of the plank on the external face of the wall cut through the mortise. It was filled with a piece of wood covered over and held in place by the textile and paste decorative surface layers. The green arrows mark the dowels that join the coopered head end to the current box side panels.
 ---
 ## Technical summary of materials and manufacture
 
