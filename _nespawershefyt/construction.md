@@ -37,6 +37,9 @@ images:
   -
     image: Nesp_reshaping.jpg
     caption: Inner coffin box. The white ovals on 7a mark the position of the strips of wood added to the interior surfaces of the side walls. The green arrows on the CT image 7b, which shows a slice from below the rim surface, mark the full length of these added strips. The strips (both of which have areas of loss) are visible also on the CT coronal slices shown in fig. 6c and fig. 10. The blue line on each side panel on 7b is drawn through the old rim mortises.
+  -
+    image: Nesp_CT_head_end.jpg
+    caption: Coopered head end of the box and attachment of this to the side panels of the box (8b). The exact positions of the coronal view slices in the blue (8a) and red (8c) rectangles are indicated by the blue and red lines acess 8d-f. So, the blue rectangle slice is close to the rim surface of the box, the red rectangle slice about a quarter of the way down the depth of the box. 
 ---
 ## Technical summary of materials and manufacture
 
