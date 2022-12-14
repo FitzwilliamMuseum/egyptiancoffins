@@ -51,11 +51,11 @@ page provides access to all of these.
 ## Nespawershefyt's inner coffin: box head end <a name="Nespbase"></a>
 This film shows three different views (transverse, coronal and sagittal) captured by the CT scanning of the head end of the inner coffin box of Nespawershefyt.
 
-<video src="https://user-images.githubusercontent.com/45968885/207458931-dd4f159c-3233-42d9-95b6-320058099529.mov" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/45968885/207458931-dd4f159c-3233-42d9-95b6-320058099529.mov" controls="controls">
 </video>
 
 ## Nespawershefyt's inner coffin: inside the lid <a name="lidvid"></a>
 Here we see all the different connectors, ancient and modern, that hold together the inner coffin lid of Nespawershefyt.
 
-<video src="https://user-images.githubusercontent.com/45968885/207470439-2fe112cb-06df-4d42-8aaf-56d6892a4292.mov" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/45968885/207470439-2fe112cb-06df-4d42-8aaf-56d6892a4292.mov" controls="controls">
 </video>
