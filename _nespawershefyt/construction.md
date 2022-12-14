@@ -58,6 +58,9 @@ images:
   -
     image: Nesp_all_connectors.jpg
     caption: This image, generated from the CT scans, shows all the different connectors that are present in the inner coffin lid. (Image created by Tom Turmezei using Stradwin (c) The Fitzwilliam Museum and Tom Turmezei)
+  -
+    image: Nesp_mb_construction.jpg
+    caption: Marked up image of Nespawershefyt's mummy board showing its construction
 ---
 ## Technical summary of materials and manufacture
 
@@ -89,7 +92,7 @@ The following [joints](/images/nespawershefyt/joints_labelled.jpg) were used to 
 The construction of the mummy board and the outer coffin were determined by direct observation and [X-radiography](/resources/glossary#Xradiography).
 
 ### Mummy board
-The mummy board is constructed from two long, almost flat planks, held together with loose tenon joints. The face and hands are dowelled on. The [foot section](/images/nespawershefyt/brokenfoot.jpg) is lost, but there are dowel holes and the remains of original filler paste along the broken bottom edge of the board. On the back of the board, a bare wood surface with animal glue, eight small dowel holes and a ridge of coarse filler paste along the inner edge are all that remain of a rim around the head.
+The mummy board is constructed from two long, almost flat planks, held together with loose tenon joints. The [face and hands](/images/nespawershefyt/Nesp_mb_construction.jpg) are dowelled on. The [foot section](/images/nespawershefyt/brokenfoot.jpg) is lost, but there are dowel holes and the remains of original filler paste along the broken bottom edge of the board. On the back of the board, a bare wood surface with animal glue, eight small dowel holes and a ridge of coarse filler paste along the inner edge are all that remain of a rim around the head.
 
 ### Outer coffin
 The main structural elements (single foundation board and rims) of the outer coffin lid are of sycomore fig. Each rim has a short section of a separate board, added to the foot end with a [scarf joint](/images/nespawershefyt/Nesp_CT_scarf.jpg). The dowelled-on face and the right hand are also sycomore fig, but the five-piece footboard and the left hand are made of tamarisk. Two patches added to the proper left side of the wig are one of cedar, one of tamarisk. In the eight rim mortises, three of the loose tenons used for closing the box and lid together survive. Two are cedar and one is sycomore fig.
