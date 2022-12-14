@@ -31,6 +31,9 @@ images:
   -
     image: Nesp_CT_footboard.jpg
     caption: Footboard of inner coffin box with CT images of transverse sections at two different points through the depth of the footboard. 5a shows the dowels that hold the current construction together. 5b shows the redundant mortise with cut-through pegged tenon. The bright white material seen on all the CT images is the paste used as a filler and as a surface layer.
+  -
+    image: Nesp_rim_mortises.jpg
+    caption: Inner coffin box. On fig. 6a and the CT image of the rim (6c), the current rim mortises are marked with blue arrows, the redundant ones with red arrows. Fig. 6b shows a CT image (sagittal section) of the proper right side panels of the box at the position of the third mortise down from the head end. In addition to the current rim mortise (empty) and the redundant rim mortise (partially filled with a piece of wood and covered at the rim surface with paste), this image shows the internal pegged tenon that joins the top and bottom side wall planks together. **N.B.** On this CT image and on fig. 7b and fig. 10, the elbow areas of the box are indistinct. This is because, at the rim level, the elbows fell outside the mathematical reconstruction field of view diameter of 50 cm. Separate scans were made to capture the detail here by shifting the position of the coffin box in the scanner. However, for operational reasons, this was possible only with the proper right elbow. The detail is not critical to the point illustrated here as there are no rim mortises in the elbow area.
 ---
 ## Technical summary of materials and manufacture
 
