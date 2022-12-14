@@ -42,7 +42,7 @@ It is important to note that some of the smaller pieces of wood and many of the 
 {: .table }
 Table 1: Summary of woods used in the construction of the coffin set
 
-The following ![joints](/images/joints_with_grain_labelled.jpg) were used to put the coffins of this set together:
+The following [joints](/images/joints_with_grain_labelled.jpg) were used to put the coffins of this set together:
 
 * edge joint with dowels
 * mortise with loose tenon
@@ -122,6 +122,8 @@ There are other more minor examples of re-used wood, for example, the central fi
 
 #### Lid - footboard
 The construction of the footboard appears to be partially re-cut and is extensively patched, but the precise nature of the re-use is not yet clear. On the foundation board of the lid there are four redundant dowel holes (three filled with cut-off dowels) that penetrate only the depth of this board and that are not used at all in the current connection to the feet of the coffin. However, their position and regular spacing suggest that this may have been their original function.
+
+All the different connectors, ancient and modern, that hold the coffin lid together are shown [here](/resources#lidvid)
 
 #### Interpretation of re-use
 In summary, is it possible that these are the sides of an older coffin box that originally had straighter, more upright walls that have been made into a curvier, slightly more flared shape and also that the left hand rim of the current lid and the left hand side of the current box both come from the same older coffin.
