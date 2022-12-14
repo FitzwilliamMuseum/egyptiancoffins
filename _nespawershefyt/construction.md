@@ -49,6 +49,15 @@ images:
   -
     image: Nesp_CT_footend_compromises.jpg
     caption: These CT scanning images of the foot end of the inner coffin lid reveal the extent of re-worked and re-used wood in the coffin and show some of the compromises and patching that the carpenters had to employ.
+  -
+    image: Nesp_CT_scarf.jpg
+    caption: Image created by Tom Turmezei using Stradwin (c) The Fitzwilliam Museum and Tom Turmezei
+  -
+    image: Nesp_outer_baseboards.jpg
+    caption: The edges of the mirror-image base boards are marked in blue on the photograph.
+  -
+    image: Nesp_all_connectors.jpg
+    caption: This image, generated from the CT scans, shows all the different connectors that are present in the inner coffin lid. (Image created by Tom Turmezei using Stradwin (c) The Fitzwilliam Museum and Tom Turmezei)
 ---
 ## Technical summary of materials and manufacture
 
