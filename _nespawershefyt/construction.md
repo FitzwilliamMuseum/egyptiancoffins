@@ -25,7 +25,7 @@ images:
   -
     image: warped.jpg
     caption: Single CT image (transverse) through the inner coffin box
-   -
+  -
     image: Nesp_CT_baseboards.jpg
     caption: CT imaging revealed the loose tenon joints (with empty peg holes) within the structure, which hold the planks of the base boards together. Planks sawn by the tangential (through-and-through) method show a characteristic grain pattern (‘slash-grain’) on their surface. This is mostly hidden by the thick layer of decoration on the Nespawershefyt set, but is also revealed by the CT imaging.
   -
