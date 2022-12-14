@@ -16,7 +16,7 @@ images:
   -
     image: joints_with_grain_labelled.jpg
     caption: Joints used in coffins in the Fitzwilliam Museum's Egyptian collection
- -
+  -
     image: brokenfoot.jpg
     caption: The broken foot of Nespawershefyt's mummy board
   -
@@ -31,7 +31,6 @@ images:
   -
     image: Nesp_CT_footboard.jpg
     caption: Footboard of inner coffin box with CT images of transverse sections at two different points through the depth of the footboard. 5a shows the dowels that hold the current construction together. 5b shows the redundant mortise with cut-through pegged tenon. The bright white material seen on all the CT images is the paste used as a filler and as a surface layer.
-    
 ---
 ## Technical summary of materials and manufacture
 
