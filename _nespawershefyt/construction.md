@@ -75,7 +75,7 @@ It is important to note that some of the smaller pieces of wood and many of the 
 {: .table }
 Table 1: Summary of woods used in the construction of the coffin set
 
-The following [joints](/images/joints_labelled.jpg) were used to put the coffins of this set together:
+The following [joints](/images/nespawershefyt/joints_labelled.jpg) were used to put the coffins of this set together:
 
 * edge joint with dowels
 * mortise with loose tenon
