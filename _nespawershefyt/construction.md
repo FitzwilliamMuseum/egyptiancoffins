@@ -11,24 +11,27 @@ technical:
     title: Complete Translations and Description
 images:
   -
-    image: brokenfoot.jpg
-    caption: The broken foot of Nespawershefyt's mummy board
-  -
     image: innerlid.jpg
     caption: Nespawershefyt's inner coffin lid
+  -
+    image: joints_with_grain_labelled.jpg
+    caption: Joints used in coffins in the Fitzwilliam Museum's Egyptian collection
+ -
+    image: brokenfoot.jpg
+    caption: The broken foot of Nespawershefyt's mummy board
   -
     image: face.jpg
     caption: Detail of Nespawershefyt's face depicted on the inner coffin lid
   -
     image: warped.jpg
     caption: Single CT image (transverse) through the inner coffin box
-  -
-    image: joints_with_grain_labelled.jpg
-    caption: Joints used in coffins in the Fitzwilliam Museum's Egyptian collection
-  -
+   -
     image: Nesp_CT_baseboards.jpg
-    caption: CT imaging revealed the loose tenon joints (with empty peg holes) within the structure, which hold the planks of the base boards together. Planks sawn by the [tangential (through-and-through) method](/resources/glossary#TangentialSawing) show a characteristic grain pattern (‘slash-grain’) on their surface. This is mostly hidden by the thick layer of decoration on the Nespawershefyt set, but is also revealed by the CT imaging.
-
+    caption: CT imaging revealed the loose tenon joints (with empty peg holes) within the structure, which hold the planks of the base boards together. Planks sawn by the tangential (through-and-through) method show a characteristic grain pattern (‘slash-grain’) on their surface. This is mostly hidden by the thick layer of decoration on the Nespawershefyt set, but is also revealed by the CT imaging.
+  -
+    image: Nesp_CT_footboard.jpg
+    caption: Footboard of inner coffin box with CT images of transverse sections at two different points through the depth of the footboard. 5a shows the dowels that hold the current construction together. 5b shows the redundant mortise with cut-through pegged tenon. The bright white material seen on all the CT images is the paste used as a filler and as a surface layer.
+    
 ---
 ## Technical summary of materials and manufacture
 
@@ -95,7 +98,7 @@ The only feature of the mummy board that may indicate refashioned or re-used woo
 Most of the features described below are also shown in [this animation](https://egyptiancoffins.org/coffins/nespawershefyt/digitalanimation). 
 
 #### Box [footboard](/resources/glossary#footboard)
-A fairly simple example of re-use is illustrated by the stack of CT images through the depth of the footboard. Two horizontal planks are held together with dowels to create the footboard. However, also within the depth of the top plank, immediately behind the proper right side dowel, there are remains of half a redundant mortise, with a pegged tenon still in place, but sliced across. Clearly this is re-used wood from a wider plank that has been cut down.
+A fairly simple example of re-use is illustrated by [the stack of CT images through the depth of the footboard](/images/nespawershefyt/Nesp_CT_footboard.jpg). Two horizontal planks are held together with dowels to create the footboard. However, also within the depth of the top plank, immediately behind the proper right side dowel, there are remains of half a redundant mortise, with a pegged tenon still in place, but sliced across. Clearly this is re-used wood from a wider plank that has been cut down.
 
 #### Box rim mortises
 The current rim mortises (marked by blue arrows) of the box are all about 40 to 50mm in length. These line up with the rim mortises on the lid. But, covered with a paste and varnish layer and scarcely visible to the naked eye, there is a second set (marked with red arrows), each about 60 to 70mm long and each filled or part-filled with a piece of wood that is wedged into the gap and covered over with paste. The CT images of the rim and of a section of the side wall of the coffin box, help clarify the features and also show that these fill pieces are not old tenons. The grain in a tenon is always perpendicular to the grain of the piece of wood in which it is sitting in order to give strength to the joint. The grain in all of these pieces runs in the same direction as the grain in the side panel. They are just fill pieces.
