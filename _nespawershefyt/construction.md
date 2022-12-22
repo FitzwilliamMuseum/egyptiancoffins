@@ -22,7 +22,7 @@ images:
   -
     image: face.jpg
     caption: Detail of Nespawershefyt's face depicted on the inner coffin lid
-   -
+  -
     image: Nesp_outer_baseboards.jpg
     caption: The edges of the mirror-image base boards of the outer coffin box are marked in blue on this photograph.
   -
