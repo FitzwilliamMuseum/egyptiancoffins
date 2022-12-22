@@ -22,6 +22,12 @@ images:
   -
     image: face.jpg
     caption: Detail of Nespawershefyt's face depicted on the inner coffin lid
+   -
+    image: Nesp_outer_baseboards.jpg
+    caption: The edges of the mirror-image base boards of the outer coffin box are marked in blue on this photograph.
+  -
+    image: Nesp_mb_construction.jpg
+    caption: Marked up image of Nespawershefyt's mummy board showing its construction
   -
     image: warped.jpg
     caption: Single CT image (transverse) through the inner coffin box
@@ -53,14 +59,8 @@ images:
     image: Nesp_CT_scarf.jpg
     caption: The pegged, spliced scarf joint is very hard to see on the object, but shows up on the X-radiograph, together with the two dowels that hold it together.
   -
-    image: Nesp_outer_baseboards.jpg
-    caption: The edges of the mirror-image base boards are marked in blue on the photograph.
-  -
     image: Nesp_all_connectors.jpg
     caption: This image, generated from the CT scans, shows all the different connectors that are present in the inner coffin lid. (Image created by Tom Turmezei using Stradwin (c) The Fitzwilliam Museum and Tom Turmezei)
-  -
-    image: Nesp_mb_construction.jpg
-    caption: Marked up image of Nespawershefyt's mummy board showing its construction
 ---
 ## Technical summary of materials and manufacture
 
