@@ -57,7 +57,7 @@ images:
     caption: These CT scanning images of the foot end of the inner coffin lid reveal the extent of re-worked and re-used wood in the coffin and show some of the compromises and patching that the carpenters had to employ.
   -
     image: Nesp_CT_scarf.jpg
-    caption: The pegged, spliced scarf joint is very hard to see on the object, but shows up on the X-radiograph, together with the two dowels that hold it together.
+    caption: The pegged, spliced scarf joint of the outer coffin lid is very hard to see from the outside of the object, but shows up on the X-radiograph, together with the two dowels that hold it together.
   -
     image: Nesp_all_connectors.jpg
     caption: This image, generated from the CT scans, shows all the different connectors that are present in the inner coffin lid. (Image created by Tom Turmezei using Stradwin (c) The Fitzwilliam Museum and Tom Turmezei)
