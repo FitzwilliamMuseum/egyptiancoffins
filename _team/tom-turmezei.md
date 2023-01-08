@@ -9,5 +9,9 @@ twitter: "@tomturmezei"
 order: 10
 category: team
 ---
-Consultant Radiologist, Norfolk and Norwich University Hospitals NHS Foundation Trust, UK Honorary Senior Lecturer,
-University of East Anglia, UK Visiting Researcher, Department of Medicine, University of Cambridge, UK.
+Consultant Radiologist, Norfolk and Norwich University Hospitals NHS Foundation Trust, UK <br>
+Honorary Professor, University of East Anglia <br>
+RCR CRASH! Podcast Host 
+
+Clinical interests in musculoskeletal imaging and intervention <br>
+Research interests in 3-D imaging analysis in musculoskeletal disease
