@@ -45,4 +45,4 @@ the wood had been worked to create the shape of the head end, and the angles of 
 We are hugely grateful to Lauren England, CT Radiographer at Addenbrooke's, for giving up her time for this scanning, and to Rob Mackenzie, CT Scanning Manager at 
 Addenbrooke's for facilitating the visit today. As usual, we were joined by our brilliant colleague and friend 
 [Tom Turmezei](https://egyptiancoffins.org/team/tom-turmezei), Consultant Radiologist at Norfolk and Norwich University Hospital. The team from the Fitzwilliam consisted of [Flavia Ravaioli](https://egyptiancoffins.org/team/flavia-ravaioli/), [Julie Dawson](https://egyptiancoffins.org/team/julie-dawson/) and 
-[Helen Strudwick]([https://egyptiancoffins.org/team/julie-dawson/.](https://egyptiancoffins.org/team/helen-strudwick/).
+[Helen Strudwick](https://egyptiancoffins.org/team/helen-strudwick/).
