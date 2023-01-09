@@ -68,15 +68,15 @@ J. Dawson and H. Strudwick. (2009) ‘A close-up look: ‘Meet the Antiquities�
 
 H. Strudwick. (2009) ‘Papyrus at the Fitzwilliam Museum’. In *Ausgestattet mit den Schriften des Thot: Festschrift für Irmtraut Munro zu ihrem 65. Geburtstag (Studien zum altägyptischen Totenbuch, Band 14)*. Harrassowitz Verlag, 201-215
 
-H. Strudwick. (2007) Review of Maarten J. Raven, the Tomb of Pay and Raia at Saqqara. In *Antiquity* 81 (2007), 233–234
+H. Strudwick. (2007) Review of Maarten J. Raven, *The Tomb of Pay and Raia at Saqqara*. In *Antiquity* 81 (2007), 233–234
 
 H. Strudwick. (2006) ‘New light on ancient Egypt’. In *History Today* 56 (June 2006), 58
 
-H. Strudwick and A. Stevenson. (2006) ‘A class act? Society and Death in Ancient Egypt: Mortuary Landscapes of the Middle Kingdom, by Janet Richards’. In *Cambridge Archaeological Journal* 2006-10, 354–356. http://dx.doi.org/10.1017/s0959774306220225
+H. Strudwick and A. Stevenson. (2006) ‘A class act? *Society and Death in Ancient Egypt: Mortuary Landscapes of the Middle Kingdom*, by Janet Richards’. In *Cambridge Archaeological Journal* 2006-10, 354–356. http://dx.doi.org/10.1017/s0959774306220225
 
 H. Strudwick. (2003) *Pocket timeline of ancient Egypt*. London: British Museum Press.
 
-H. Strudwick. (2002) Review of Private Life in New Kingdom Egypt, by Lynn Meskell. In *Antiquity* 75 (2001), 903–904.
+H. Strudwick. (2002) Review of *Private Life in New Kingdom Egypt*, by Lynn Meskell. In *Antiquity* 75 (2001), 903–904.
 
 H. Strudwick and N. Strudwick. (1999) *Thebes in Egypt: A Guide to the Tombs and Temples of Ancient Luxor*. London: British Museum Press.
 
