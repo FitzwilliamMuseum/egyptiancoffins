@@ -38,7 +38,7 @@ speedy at scanning, and the results that appeared immediately on the computer sc
 In particular, the scans seemed to show some really interesting carpentry in the area of the face that had not been visible at all on the earlier
 X-radiographs. We are excited to see what detailed examination of the scans will show up about how this part of the mummy board was put together. 
 Something else we discovered, not about the mummy board,
-was that the sheets we had initially put under the mummy board to support it appeared to be very similar in density, and this was likely to
+was that the sheets we had initially put under the mummy board to support it appeared to be very similar in density to the wood, and this was likely to
 make the analysis of the scans a bit awkward. So we replaced them with pillows, and the problem disappeared -- a useful lesson learned!
 
 At the same time, we took another part of a coffin to be scanned: the [head end from a yellow coffin](https://data.fitzmuseum.cam.ac.uk/id/object/98444), which is
