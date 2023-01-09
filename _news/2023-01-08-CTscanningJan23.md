@@ -14,7 +14,7 @@ images:
     caption: The sun shines during the unloading of objects for CT scanning at Addenbrooke's Hospital.
   -
     image: news/CTunwrappingJan23.jpg
-    caption: Flavia Ravaioli removes a layer of tissue paper (the final wrappings) off the front of Nespawershefyt's mummy board.
+    caption: Flavia Ravaioli lifts the final layer of tissue paper off the front of Nespawershefyt's mummy board.
   -
     image: news/CTscanningJan23.jpg
     caption: CT Radiographer Lauren England checks the position of Nespawershefyt's mummy board in the CT scanner.
