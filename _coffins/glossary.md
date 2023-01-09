@@ -13,124 +13,128 @@ This page gives a glossary to terms our project uses when discussing coffin fabr
 
 ## Types of coffins
 
-### Box coffin
+#### Box coffin
 
 A rectangular coffin, with no shaping. Often with an eye panel on one side at the head end of the coffin.
 
-### Anthropoid coffin
+#### Anthropoid coffin
 
 A human-shaped coffin. Middle Kingdom anthropoid coffins were meant to lie on their side. Post-Middle Kingdom coffins were designed to lie on their backs.
 
-### Rishi coffin
+#### Rishi coffin
 
 An anthropoid coffin type from the Second Intermediate Period, introduced at Thebes, characterised by a pattern of feathers covering the exterior of the coffin (rishi is derived from the Arabic term for ‘feather’). This type of coffin seems to have developed at Thebes.
 
-### Qersu
+#### Qersu
 
 A rectangular four-poster type of outer coffin, with a vaulted lid, typical of the 25th/26th dynasty (Late Period).
 
-### Inner/outer/intermediate coffin
+#### Inner/outer/intermediate coffin
 
 25th/26th dynasty coffins usually consist of an outer qersu coffin, plus one or more anthropoid coffins inside, one of which may be a cartonnage mummy case.
 
-### Bivalve coffin
+#### Bivalve coffin
 
 An anthropoid coffin with a box that has a shaped underside, rather than a flat underside. Made in two pieces (box and lid)
 
-### Mummy case
+#### Mummy case
 
 An anthropoid coffin, often made of cartonnage, usually the inner coffin within a nested set of coffins. Often, but not exclusively, made in one piece.
 
 ## Coffin parts
 
-### Coffin box
+#### Coffin box
 
 The part of the coffin in which the body was placed. The term is used here for both rectangular box coffins and anthropoid
 coffins.
 
-### Coffin lid
+#### Coffin lid
 
 The part of the coffin that was placed on top of the box. In an anthropoid coffin, this would be the part that resembles
 the front of the head and body of the person.
 
-### Coffin base
+#### Coffin base
 
 The bottom (long axis) of the coffin box.
 
-### Footboard
+#### Footboard
 
 The short panel at the foot end of the coffin box and lid.
 
 ## Other coffin terminology
 
-### Masks
+#### Masks
 A mask is an object that lies directly over the face of a mummy.
 This term should not be used for a coffin face.
 
-### Sarcophagus (English usage)
+#### Sarcophagus (English usage)
 This term is used only for a coffin made of stone.
 All sarcophagi are coffins, but not all coffins are sarcophagi.
 
-### Dowel
+#### Dowel
 Rounded wooden cylindrical peg'.
 NB: 'dowel' is used instead of 'peg', but 'peg' can be used as a verb, e.g. 'dowels were used to peg things together'.
 
-### Wood vs. wooden
+#### Wood vs. wooden
 Wood is a material; 'wooden' is an adjective. Items made of wood should be described as 'wooden' or '(made) of wood', e.g. 'a wooden statue', 'a panel of wood'.
 
-### Adhesive
+#### Adhesive
 Material used to stick things together, e.g. glue, gum
 
-### Binder
+#### Binder
 Material holding paint together, often called 'medium'.
 
-### Paint
+#### Paint
 Paint is made up of pigment plus a binder.
 
-### Varnish
+#### Varnish
 In Egypt, usually a resin intended to give a glossy sheen to a surface.
 
-### Infill
+#### Infill
 'Infill' used for pieces of wood or other material used to fill large gaps in construction.
 
-### Fill
+#### Fill
 A 'fill' will usually be of paste and may be part of a preparation layer.
 
-### Inlay
+#### Inlay
 A piece of decoration made completely separately and usually inset within a retaining framework.
 
 ## Wood working terminology
 
-### Tangential Sawing <a name="TangentialSawing"></a>
+#### Tangential Sawing <a name="TangentialSawing"></a>
 
 Also known as through-and-through or slash sawing. The trunk or log is sawn down its long axis. Timber cut this way can
 be recognised by the slash-grain pattern on the planks. It is the most economical way to cut up timber, but the planks
 are prone to 'cup' because the wood dries and shrinks unevenly across the width of the plank.
 
+#### Joints
+
+See below.
+
 ## Materials
 
-### Cartonnage
+#### Cartonnage
 
 A laminated material constructed of layers of linen or papyrus soaked in glue, with a layer of paste on the internal and
 on the external surface.
 
-### Papyrus
+#### Papyrus
 
 A writing material made from the inner pith of papyrus plant (_Cyperus papyrus_) stems. The term papyrus (plural: papyri)
 is used also to describe documents made from this material.
 
-### Faience
+#### Faience
 A term that has been used to describe a range of glazed composition materials, but is usually defined as a shaped core made
 of crushed quartz or sand mixed with small quantities of lime and natron or plant ash, coated with a glaze and fired in a
 kiln. The glazes usually contain copper, which gives the faience a blue-green colour.
 
-### Frit
+#### Frit
 
 A name commonly applied to Egyptian glassy materials. Frit has the same composition and structure all the way through the
 material (as opposed to the distinct core and glaze layer of faience). The pigment Egyptian blue is a frit. If it was ground
 up, mixed to a paste with water, then shaped and refired, an object made of blue frit (e.g., an amulet) could be produced.
 
-### Paste
+#### Paste
 
 In describing Egyptian objects, the term 'plaster' is often used rather loosely to cover both true plasters (made from lime
 or gypsum cements) and pastes made from a binder (such as animal glue) mixed with calcium sulphate (often called gesso) or
@@ -138,7 +142,7 @@ with calcium carbonate (often called whiting). To avoid confusion and to address
 these materials can be present, together with clay minerals and vegetable fibres, the term 'paste is used in our research
 project as it implies no particular chemistry or technology.
 
-### Preparation layer
+#### Preparation layer
 
 A layer of paste applied across the coffin to provide a smooth, neutral surface to which paint can be applied. Sometimes
 known as a 'ground' layer.
