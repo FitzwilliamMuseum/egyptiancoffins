@@ -13,7 +13,7 @@ image: /images/logos/logo.png
 <a href="{{ https://egyptiancoffins.org/deathonthenile/catalogue/ }}" class="btn btn-dark">Read more</a>
 
 *Ancient Egyptian Coffins: past, present, future*, edited by Helen Strudwick and Julie Dawson. Oxford, 2018: Oxbow Books <br>
-Proceedings of <a href="{{ https://egyptiancoffins.org/deathonthenile/conference/ }} class="btn btn-dark">a conference</a> hosted by the Fitzwilliam Museum 
+Proceedings of [a conference](https://egyptiancoffins.org/deathonthenile/conference/) hosted by the Fitzwilliam Museum 
 in April 2016.
 
 *How to make an Egyptian Coffin* by Julie Dawson. Cambridge, 2018: Fitzwilliam Museum. <br> 
