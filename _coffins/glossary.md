@@ -151,7 +151,7 @@ known as a 'ground' layer.
 
 When it has not been possible to characterise pigments fully, their elemental make up has been recorded as, for example, 'calcium-based' or 'copper-based'.
 
-**Egyptian blue** and **Egyptian green** Manufactured pigments, prepared by firing copper minerals or metal with a calcium compound (like powdered limestone), silica and soda at high temperature. The principal colour component in Egyptian blue is calcium copper tetrasilicate (CaCuSi<sub>4</sub>O<sub>10</sub>), and in Egyptian green is cupro-wollastonite (CaSiO<sub>3</sub> with copper in the structure).
+**Egyptian blue** <a name="Egyptianblue"></a> and **Egyptian green** Manufactured pigments, prepared by firing copper minerals or metal with a calcium compound (like powdered limestone), silica and soda at high temperature. The principal colour component in Egyptian blue is calcium copper tetrasilicate (CaCuSi<sub>4</sub>O<sub>10</sub>), and in Egyptian green is cupro-wollastonite (CaSiO<sub>3</sub> with copper in the structure).
 
 **Malachite (Cu<sub>2</sub>CO<sub>3</sub>(OH)<sub>2</sub>)** A mineral pigment, giving a pale green colour.
 
@@ -163,9 +163,9 @@ When it has not been possible to characterise pigments fully, their elemental ma
 
 **Earths** This is an umbrella term used to describe a range of pigments derived from naturally occurring deposits containing clay minerals, iron oxides and manganese oxides. They can be found in a range of shades depending on the purity and specific chemical structure of the natural sources, and can include red, yellow, orange and green pigments. The term 'earth' may be confused with ochre, which is a member of the earth pigments group, consisting of earths rich in iron oxide and iron hydroxide. Earths on ancient Egyptian objects may contain one or more of the following:
 
-* **Yellow earths** The iron sulphates jarosite/natrojarosite (KFe<sub>3</sub>(OH)<sub>6</sub>(SO<sub>4</sub>)<sub>2</sub>/ NaFe<sub>3</sub>(SO<sub>4</sub>)<sub>2</sub>(OH)<sub>6</sub>), and the iron oxides goethite (α-FeO·OH) and limonite (FeO(OH)·nH<sub>2</sub>O).
+* **Yellow earths** <a name="yellowearth"></a> The iron sulphates jarosite/natrojarosite (KFe<sub>3</sub>(OH)<sub>6</sub>(SO<sub>4</sub>)<sub>2</sub>/ NaFe<sub>3</sub>(SO<sub>4</sub>)<sub>2</sub>(OH)<sub>6</sub>), and the iron oxides goethite (α-FeO·OH) and limonite (FeO(OH)·nH<sub>2</sub>O).
 
-*	**Red earths** The iron oxides haematite (Fe<sub>2</sub>O<sub>3</sub>) and ilmenite (FeTiO<sub>3</sub>).
+*	**Red earths** <a name="redearth"></a> The iron oxides haematite (Fe<sub>2</sub>O<sub>3</sub>) and ilmenite (FeTiO<sub>3</sub>).
 
 * **Green earths** Celadonite and glauconite (iron magnesium silicates belonging to the mica group).
 
@@ -177,7 +177,7 @@ As these pigments arise from naturally occurring deposits, they often occur as a
 
 *	**Sparitic calcite** Microscopy term to describe calcite that forms into crystals, usually suggesting limestone origin.
 
-**Huntite (Mg<sub>3</sub>Ca(CO<sub>3</sub>)<sub>4</sub>)** Magnesium calcium carbonate, a bright white pigment.
+**Huntite <a name="huntite"></a> (Mg<sub>3</sub>Ca(CO<sub>3</sub>)<sub>4</sub>)** Magnesium calcium carbonate, a bright white pigment.
 
 **Gyspum (CaSO<sub>4</sub>· 2H<sub>2</sub>O)** Calcium sulphate.
 
@@ -191,11 +191,11 @@ As these pigments arise from naturally occurring deposits, they often occur as a
 
 **Cinnabar (HgS)** Mercury sulphide, a vivid red mineral pigment.
 
-**Orpiment (As<sub>2</sub>S<sub>3</sub>)** Arsenic sulphide, a lemon yellow pigment.
+**Orpiment <a name="orpiment"></a> (As<sub>2</sub>S<sub>3</sub>)** Arsenic sulphide, a lemon yellow pigment.
 
 **Realgar/pararealgar (As<sub>4</sub>S<sub>4</sub>)** Arsenic sulphide (but different crystal structures), orange pigments. Pararealgar is a degradation product of realgar.
 
-**Carbon-based black** A group of pigments made mainly of carbon. In Egypt, these are principally soot and charcoal.
+**Carbon-based black** <a name="carbonblack"></a> A group of pigments made mainly of carbon. In Egypt, these are principally soot and charcoal.
 
 **Lake pigments** Also known as dyestuffs, these are organic pigments that can be made from certain insect or plant matter. The colour is extracted and precipitated onto a metallic salt substrate. Lake pigments found on Egyptian objects include:
 
