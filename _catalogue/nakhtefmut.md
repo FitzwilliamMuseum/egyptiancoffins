@@ -7,16 +7,16 @@ order: 2
 layout: coffins
 images:
   -
-    image: catalogue/nakhtefmut/NakhtefmutHead.png
+    image: nakhtefmut/NakhtefmutHead.png
     caption: Upper part of Nakhtefmut's mummy case
   -
-    image: catalogue/nakhtefmut/Nakhtefmutshoulderback.jpg
+    image: nakhtefmut/Nakhtefmutshoulderback.jpg
     caption: Detail of text on the back of the mummy case. Traces of the original black drawing are visible under the final painted decoration, including the position of the vertical text dividers and the positioning of the seated figure of a god.
   -
-    image: catalogue/nakhtefmut/changeofplan.jpg
+    image: nakhtefmut/changeofplan.jpg
     caption: Detail of relief decoration on the mummy case taken under a raking light. We can see that the ‘northern Egypt’ hieroglyph is carved into the plaster here, but the artist who painted the inscription chose to place the hieroglyph for ‘southern Egypt’ over it.
   -
-    image: catalogue/nakhtefmut/Nakhtefmutgilding.jpg
+    image: nakhtefmut/Nakhtefmutgilding.jpg
     caption: Detail of Nakhtefmut's gilded ear, showing the cut edges of the gold leaf squares that overlie the painted blue stripes of the wig
 ---
 
