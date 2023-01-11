@@ -15,7 +15,7 @@ images:
     the vertical text dividers and the positioning of the seated figure of a god.
   -
     image: /catalogue/nakhtefmut/changeofplan.jpg
-    caption: Detail of relief decoration on the mummy case taken with raking light. We can see that the ‘northern Egypt’ hieroglyph is carved into the plaster here, 
+    caption: Detail of relief decoration on the mummy case taken under a raking light. We can see that the ‘northern Egypt’ hieroglyph is carved into the plaster here, 
     but the artist who painted the inscription chose to place the hieroglyph for ‘southern Egypt’ over it.
   -
     image: /catalogue/nakhtefmut/Nakhtefmutgilding.jpg
