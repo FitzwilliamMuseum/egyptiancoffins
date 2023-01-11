@@ -221,6 +221,14 @@
      height: 400px;
      z-index: 1;
 }
+ .index {
+     background-image: url(../images/layouts/eyes.jpg);
+     background-position: 50% 20%;
+     background-repeat: no-repeat;
+     background-size: cover;
+     padding-top: 8rem;
+     min-height: 65vh;
+}
  .popup {
      background-image: url(../images/layouts/popup.jpg);
      background-position: 50% 20%;
