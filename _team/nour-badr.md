@@ -4,7 +4,7 @@ institution: Fitzwilliam Museum
 image: /images/staff/Nourphoto.jpeg
 layout: team
 job-title: Consultant
-order: 15
+order: 10
 category: team
 ---
 
