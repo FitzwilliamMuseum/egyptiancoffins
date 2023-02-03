@@ -4,7 +4,7 @@ institution: Fitzwilliam Museum
 image: /images/staff/Flavia.jpg
 layout: team
 job-title: Objects Conservator, Research Associate
-order: 11
+order: 3
 category: team
 ---
 
