@@ -4,7 +4,7 @@ institution: External member
 image: /images/staff/CharlotteHunkeler.jpg
 layout: team
 job-title: PhD Student
-order: 8
+order: 16
 category: team
 ---
 
