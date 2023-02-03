@@ -5,7 +5,7 @@ image: /images/staff/charlotteThompson.jpg
 layout: team
 job-title: Antiquities Project Intern
 twitter: "@CharlotteThomp3"
-order: 12
+order: 15
 category: team
 ---
 
