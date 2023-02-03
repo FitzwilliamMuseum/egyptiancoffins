@@ -5,7 +5,7 @@ image: /images/staff/SaraAbed.jpg
 layout: team
 job-title: Translator and Project Manager for the 'Pop-Up' Museum, Egypt
 twitter: "@sara_hany"
-order: 13
+order: 9
 category: team
 ---
 
