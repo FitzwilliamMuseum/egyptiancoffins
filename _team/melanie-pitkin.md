@@ -5,7 +5,7 @@ image: /images/staff/MPitkin.jpg
 institution: The Fitzwilliam Museum
 job-title: Research Associate
 layout: team
-order: 3
+order: 4
 category: team
 ---
 Formerly a Postdoctoral Research Associate for the [Egyptian Coffins Project](https://egyptiancoffins.org) at the Fitzwilliam Museum, Melanie Pitkin is 
