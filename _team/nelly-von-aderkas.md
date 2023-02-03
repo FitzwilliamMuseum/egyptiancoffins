@@ -5,7 +5,7 @@ institution: The Fitzwilliam Museum
 job-title: Conservation Scientist
 layout: team
 twitter: "@NellyvonAderkas"
-order: 5
+order: 14
 category: team
 ---
 Nelly von Aderkas is a Conservation Scientist interested in historic painting materials and methods. She
