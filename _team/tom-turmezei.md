@@ -6,7 +6,7 @@ permalink: /team/tom-turmezei
 image: /images/staff/tom.jpg
 job-title: Consultant Radiologist
 twitter: "@tomturmezei"
-order: 10
+order: 11
 category: team
 ---
 Consultant Radiologist, Norfolk and Norwich University Hospitals NHS Foundation Trust, UK <br>
