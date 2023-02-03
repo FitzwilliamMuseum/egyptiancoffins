@@ -6,7 +6,7 @@ institution: The Fitzwilliam Museum
 job-title: Head of Digital
 layout: team
 orcid: 0000-0002-0246-2335
-order: 6
+order: 12
 category: team
 ---
 Dan was previously Digital Humanities lead at the British Museum, where he designed
