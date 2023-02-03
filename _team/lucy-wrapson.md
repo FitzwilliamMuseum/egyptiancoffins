@@ -5,7 +5,7 @@ image: /images/staff/LucyW2.jpg
 layout: team
 job-title: Senior Conservator, Hamilton Kerr Institute
 twitter: "@Salpotintirah"
-order: 14
+order: 7
 category: team
 ---
 
