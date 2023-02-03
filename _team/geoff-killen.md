@@ -4,7 +4,7 @@ image: /images/staff/GeoffKillen.jpg
 layout: team
 institution: External member
 job-title: Ancient woodworking specialist
-order: 9
+order: 5
 category: team
 ---
 
