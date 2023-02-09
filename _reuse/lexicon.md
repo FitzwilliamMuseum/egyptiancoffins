@@ -20,7 +20,8 @@ The action or process of making something greater in number, size, or degree
 #### Defacement
 The action or process of defacing; the fact or state of being defaced; a disfigurement
 
-#### Embellishment (this also appears under resuolts of modification)
+#### Embellishment 
+*(this also appears under results of modification)*
 The action of adding, or adding to, decoration or adornment, usually with the intention of making something more attractive
 
 #### Mutilation
@@ -44,7 +45,8 @@ An altered or amended version of, for example, a text or a musical composition.
 #### Appropriation
 Taking something as one's own or to one's own use: this might be the purpose an underlying modification
 
-#### Embellishment (this also appears under actions of modification)
+#### Embellishment 
+*(this also appears under actions of modification)*
 The effect of making something more attractive through adding, or adding to, decoration or adornment.
 
 #### Reassignment
