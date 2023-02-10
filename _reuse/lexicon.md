@@ -9,7 +9,7 @@ layout: coffins
 
 This is a preliminary list of words that may be used to describe modifications to coffins (and other ancient Egyptian artefacts), with preliminary suggested definitions to aid in distinguishing between the ways they are used.
 
-## Actions of modification
+## Acts of modification
 
 #### Addition
 Something which is added or joined to another thing
