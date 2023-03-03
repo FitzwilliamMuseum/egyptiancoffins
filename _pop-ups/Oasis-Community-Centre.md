@@ -2,6 +2,7 @@
 layout: pop-ups
 title: Oasis Community Centre
 thumbnail: /images/news/oasis.jpg
+date: 29-05-2019
 permalink: /popups/oasis-community
 category: pop-ups
 lat: 52.676660
