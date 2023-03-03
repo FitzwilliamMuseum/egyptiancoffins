@@ -2,6 +2,7 @@
 layout: pop-ups
 title: Horsefair Shopping Centre
 category: pop-ups
+date: 17-04-2019
 author: Melanie Pitkin
 thumbnail: /images/news/horsefair3.jpg
 permalink: /pop-ups/horsefair
