@@ -1,6 +1,7 @@
 ---
 layout: pop-ups
 title: Rosmini Community Centre
+date: 18-04-2019
 thumbnail: /images/news/rosminisign.jpg
 permalink: /pop-ups/rosmini-community
 category: pop-ups
