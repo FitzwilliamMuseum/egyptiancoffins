@@ -2,6 +2,7 @@
 layout: pop-ups
 title: The Food Bank at Wisbech Baptist Church
 category: pop-ups
+date: 12-06-2019
 author: Melanie Pitkin
 thumbnail: /images/news/foodbank5.jpg
 permalink: /pop-ups/foodbank
