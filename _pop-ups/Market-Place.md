@@ -2,6 +2,7 @@
 layout: pop-ups
 title: Market Place
 category: pop-ups
+date: 22-04-2019
 author: Melanie Pitkin
 thumbnail: /images/news/marketplace1.jpg
 permalink: /pop-ups/marketplace
