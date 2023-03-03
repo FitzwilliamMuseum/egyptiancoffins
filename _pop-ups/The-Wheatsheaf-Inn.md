@@ -1,6 +1,7 @@
 ---
 layout: pop-ups
 title: The Wheatsheaf Inn (Wetherspoon's Pub)
+date: 26-06-2019
 thumbnail: /images/news/pubshot.jpg
 permalink: /pop-ups/wheatsheaf-inn
 category: pop-ups
