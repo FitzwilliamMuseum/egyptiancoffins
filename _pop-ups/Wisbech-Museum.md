@@ -2,6 +2,7 @@
 layout: pop-ups
 title: Wisbech and Fenland Museum
 category: pop-ups
+date: 21-05-2019
 author: Melanie Pitkin
 thumbnail: /images/news/wisbechmuseum.jpg
 permalink: /pop-ups/wisbech-museum
