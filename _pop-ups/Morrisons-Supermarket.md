@@ -2,6 +2,7 @@
 layout: pop-ups
 title: Morrisons Supermarket
 category: pop-ups
+date: 24-04-2019
 author: Melanie Pitkin
 thumbnail: /images/news/Morrisons3.jpg
 permalink: /pop-ups/morrisons
