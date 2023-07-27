@@ -14,4 +14,4 @@ Abstracts should be no more than 500 words and should include the title of the s
 
 Abstracts will be peer reviewed and authors of accepted submissions will be notified by 20 October 2023.
 
-Submit abstracts using this form **HELEN TO CREATE FORM ASAP**.
+Submit abstracts using [this form](https://forms.gle/n6wdCnRGAW9TMdSC9).
