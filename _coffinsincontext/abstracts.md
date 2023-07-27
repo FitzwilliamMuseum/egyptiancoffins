@@ -2,7 +2,7 @@
 category: coffinsincontext
 title: 'Abstracts'
 url: /coffinsincontext/abstracts
-image: /images/nakhtefmut/nakhtefmutHead.png
+image: /images/coffinsincontext/Pages.jpg
 order: 4
 layout: coffins
 ---
