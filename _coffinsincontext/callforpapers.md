@@ -6,7 +6,6 @@ image: /images/coffinsincontext/Christs.jpg
 order: 2
 layout: coffins
 ---
-## Call for papers
 
 **The organisers particularly welcome submissions that deal with groups of material under the following headings, rather than studies of individual coffins:**
 
