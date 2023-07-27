@@ -6,6 +6,8 @@ permalink: /coffinsincontext
 id: coffinsincontext
 category: coffinsincontext
 ---
+The Fitzwilliam Museum and Christ’s College, Cambridge are pleased to announce a conference on ancient Egyptian coffins from Thursday 22 to Saturday 24 February 2024.
+
 {% assign rows = site.coffinsincontext.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
   {% assign offset = forloop.index0 | times: 2 %}
