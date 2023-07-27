@@ -75,6 +75,8 @@ collections:
       output: true
    deathonthenile:
       output: true
+   coffinsincontext:
+      output: true
    beni-hasan:
       output: true
    deathblog:
@@ -98,6 +100,7 @@ feed:
     - pop-ups
     - miniature
     - deathonthenile
+    - coffinsincontext
     - beni-hasan
     - deathblog
     - reuse
@@ -108,6 +111,7 @@ categories:
     - nakhtefmut
     - miniature
     - beni-hasan
+    - coffinsincontext
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
