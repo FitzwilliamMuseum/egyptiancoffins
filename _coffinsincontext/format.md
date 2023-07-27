@@ -6,6 +6,8 @@ image: /images/nakhtefmut/nakhtefmutHead.png
 order: 3
 layout: coffins
 ---
+## Conference Format
+
 The conference language will be English. 
 
 Papers will last no more than 20 minutes, and will be grouped together in appropriate sessions. There will also be a poster session. 
