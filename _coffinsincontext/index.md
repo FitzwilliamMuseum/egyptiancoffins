@@ -2,7 +2,7 @@
 category: coffinsincontext
 title: 'Coffins in Context'
 url: /coffinsincontext/conference
-image: /images/nakhtefmut/nakhtefmutHead.png
+image: /images/coffinsincontext/Cambridge.jpg
 order: 1
 layout: coffins
 ---
