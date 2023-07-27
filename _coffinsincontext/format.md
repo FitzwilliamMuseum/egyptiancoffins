@@ -2,7 +2,7 @@
 category: coffinsincontext
 title: 'Conference format'
 url: /coffinsincontext/format
-image: /images/nakhtefmut/nakhtefmutHead.png
+image: /images/coffinsincontext/conference.jpg
 order: 3
 layout: coffins
 ---
