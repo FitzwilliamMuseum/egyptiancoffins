@@ -2,7 +2,7 @@
 category: coffinsincontext
 title: 'Call for papers'
 url: /coffinsincontext/callforpapers
-image: /images/nakhtefmut/nakhtefmutHead.png
+image: /images/coffinsincontext/Christs.jpg
 order: 2
 layout: coffins
 ---
