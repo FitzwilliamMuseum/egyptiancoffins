@@ -3,10 +3,9 @@ category: coffinsincontext
 title: 'Abstracts'
 url: /coffinsincontext/abstracts
 image: /images/coffinsincontext/Pages.jpg
-order: 4
+order: 3
 layout: coffins
 ---
-## Conference Abstracts
 
 The deadline for submission of abstracts is **22 September 2023**. 
 
