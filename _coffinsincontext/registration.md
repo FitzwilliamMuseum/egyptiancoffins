@@ -2,7 +2,7 @@
 category: coffinsincontext
 title: 'Registration information'
 url: /coffinsincontext/registration
-image: /images/nakhtefmut/nakhtefmutHead.png
+image: /images/coffinsincontext/Scribe.jpg
 order: 5
 layout: coffins
 ---
