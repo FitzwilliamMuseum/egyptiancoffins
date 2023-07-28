@@ -24,7 +24,7 @@ coffins:
 
 Since 2014, the Fitzwilliam Museum has been conducting cutting-edge interdisciplinary 
 research into its collection of more than 200 ancient Egyptian coffins and coffin 
-fragments. Bringing together a team of Egyptologists, conservators, a pigment analyst, 
+fragments. Bringing together a team of Egyptologists, conservators, heritage scientists, a pigment analyst, 
 an expert in historical painting techniques, an ancient woodworking specialist and a 
 consultant radiologist, we have been able to gain unprecedented insights into the coffins' 
 construction, creation of the decorative programme and, so far as possible, the history of the coffins and their owners.
