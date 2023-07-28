@@ -1,6 +1,6 @@
 ---
-category: coffinsincontext
-title: 'Egyptology at the Fitzwilliam Museum and in Christ's College'
+category: coffinincontext
+title: 'Egyptology at the Fitzwilliam Museum and in Christ’s College'
 url: /coffinsincontext/egyptfitzchrists
 image: /images/nakhtefmut/nakhtefmutHead.png
 order: 6
