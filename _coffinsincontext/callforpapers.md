@@ -3,11 +3,11 @@ category: coffinsincontext
 title: 'Call for papers'
 url: /coffinsincontext/callforpapers
 image: /images/coffinsincontext/Christs.jpg
-order: 2
+order: 1
 layout: coffins
 ---
-
-**The organisers particularly welcome submissions that deal with groups of material under the following headings, rather than studies of individual coffins:**
+This conference represents a chance to pause and consider what we have learned through coffins studies in recent years and the direction of future research. In light of this,
+**the organisers particularly welcome submissions that deal with groups of material under the following headings, rather than studies of individual coffins:**
 
   * **The relationship between coffins, the dead and funerary practice,** for example
     -  coffins with specific iconographic elements
@@ -38,3 +38,5 @@ layout: coffins
     -  ownership and price of coffins in legal and administrative texts
     -  documents concerned with coffin manufacture
     -  disputes and court cases around coffins
+
+To register your interest in participating, including submitting an abstract if you would like to present a paper or poster, please use **[this form](https://forms.gle/PmZZAsfGHCsqaYCT8)**.
