@@ -4,7 +4,7 @@ title: TEST Catalogue of coffins
 description: "A catalogue of Egyptian coffins in the Fitzwilliam Museum"
 permalink: /test_coffin-catalogue
 id: testcatalogue
-category: testcatalogue
+category: catalogue
 ---
 {% assign rows = site.catalogue.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
