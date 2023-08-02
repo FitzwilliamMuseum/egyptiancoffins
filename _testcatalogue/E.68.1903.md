@@ -1,5 +1,5 @@
 ---
-category: catalogue
+category: testcatalogue
 layout: coffins
 title: 'Painted wooden coffin'
 permalink: /test_coffin-catalogue/E.68.1903
