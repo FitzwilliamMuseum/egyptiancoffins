@@ -2,27 +2,28 @@
 category: catalogue
 layout: coffins
 title: 'Painted wooden coffin'
-permalink: /coffin-catalogue/E.68.1903
+permalink: /test_coffin-catalogue/E.68.1903
+image: /images/catalogue/E_68_1903_3_200605_adn21_dc2_edit.jpg
 order: 18
-images: 
+images:
   -
-    image: /images/coffin-catalogue/E_68_1903_1_200605_adn21_dc2.jpg
+    image: E.68.1903/E_68_1903_1_200605_adn21_dc2.jpg
     caption: Painted coffin box with lid side view 1
   -
-    image: /images/coffin-catalogue/E_68_1903_2_200605_adn21_dc2.jpg
-    caption:  Painted coffin box with lid side view 2 decorated with an eye panel would have faced east. The wood and paint were damaged by water ingress into the tomb
-  -
-    image: /images/coffin-catalogue/large_E_68_1903_5_200605_adn21_mas_edit.jpg
+    image: E.68.1903/E_68_1903_2_200605_adn21_dc2.jpg
+    caption: Painted coffin box with lid side view 2 decorated with an eye panel would have faced east. The wood and paint were damaged by water ingress into the tomb
+  - 
+    image: E.68.1903/large_E_68_1903_5_200605_adn21_mas_edit.jpg
     caption: Painted coffin box lid top view
   -
-    image: /images/coffin-catalogue/large_E_68_1903_11_mas_unedited.jpg
-    caption: Foot end of the coffin Nakht 
--
-    image: /images/coffin-catalogue/E_68_1903_4_200605_adn21_dc2_edit.jpg
-    caption: Head end of the coffin Nakht 
- -
-    image: /images/coffin-catalogue/e_68_1903_7_201507_mfj22_dc2.jpg
-    caption: detailed view of the corner of the box 
+    image: E.68.1903/large_E_68_1903_11_mas_unedited.jpg
+    caption: Foot end of the coffin Nakht
+  -
+    image: E.68.1903/E_68_1903_4_200605_adn21_dc2_edit.jpg
+    caption: Head end of the coffin Nakht
+  -
+    image: E.68.1903/e_68_1903_7_201507_mfj22_dc2.jpg
+    caption: detailed view of the corner of the box
 ---
 
 **Object name:** 
