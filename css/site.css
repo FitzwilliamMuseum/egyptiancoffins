@@ -277,6 +277,14 @@
      padding-top: 8rem;
      min-height: 30vh;
 }
+ .testcatalogue {
+     background-image: url(../images/catalogue/Catalogue_banner.jpg);
+     background-position: 50% 20%;
+     background-repeat: no-repeat;
+     background-size: cover;
+     padding-top: 8rem;
+     min-height: 30vh;
+}
  blockquote {
      font-size: 1.1rem;
      margin-bottom: 1rem;
