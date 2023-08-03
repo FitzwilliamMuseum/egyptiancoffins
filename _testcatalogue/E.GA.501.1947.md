@@ -9,7 +9,6 @@ images:
   -
     image: E.GA.501.1947/large_E_GA_501_1947_1_201411_jas244_dc1.jpg
     caption: Face from a New Kingdom coffin front view 
-  -  
 ---
 
 **Object name:** 
