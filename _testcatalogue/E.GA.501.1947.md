@@ -53,15 +53,15 @@ given by R.G. Gayer-Anderson
 
 Basic info: JD will do
 
-[Further information about construction, decoration and materials](/test_coffin-catalogue/further/E_GA_501_1947_materials)
+[Further information about construction, decoration and materials](/cataloguefurther/E_GA_501_1947_materials)
 
 
 **Other information**
 
-[Conservation treatments](/test_coffin-catalogue/further/E_GA_501_1947_conservation)
+[Conservation treatments](/cataloguefurther/E_GA_501_1947_conservation)
 
-[Bibliography](/test_coffin-catalogue/further/E_GA_501_1947_bibliography)
+[Bibliography](/cataloguefurther/E_GA_501_1947_bibliography)
 
-[Other images](/test_coffin-catalogue/further/E_GA_501_1947_imagesheet)
+[Other images](/cataloguefurther/E_GA_501_1947_imagesheet)
 
 
