@@ -3,7 +3,7 @@ category: testcatalogue
 layout: coffins
 title: 'Face from a New Kingdom coffin'
 permalink: /test_coffin-catalogue/E.GA.501.1947
-order:3
+order: 3
 image: /images/catalogue/E.GA.501.1947/large_E_GA_501_1947_1_201411_jas244_dc1.jpg
 images: 
   -
