@@ -17,7 +17,7 @@ Face from a New Kingdom coffin'
 **Accession no.:** 
 E.GA.501.1947
 
-**Other numbers and markings:*
+**Other numbers and markings:**
 "E.GA.501-1947" in ink.
 
 "30" in orange chalk.
