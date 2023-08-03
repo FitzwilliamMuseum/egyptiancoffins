@@ -4,10 +4,10 @@ layout: coffins
 title: 'Face from a New Kingdom coffin'
 permalink: /test_coffin-catalogue/E_GA_501_1947
 order: 3
-image: /images/catalogue/E.GA.501.1947/large_E_GA_501_1947_1_201411_jas244_dc1.jpg
+image: /images/catalogue/E_GA_501_1947/large_E_GA_501_1947_1_201411_jas244_dc1.jpg
 images: 
   -
-    image: E.GA.501.1947/large_E_GA_501_1947_1_201411_jas244_dc1.jpg
+    image: E_GA_501_1947/large_E_GA_501_1947_1_201411_jas244_dc1.jpg
     caption: Face from a New Kingdom coffin front view 
 ---
 
@@ -53,15 +53,15 @@ given by R.G. Gayer-Anderson
 
 Basic info: JD will do
 
-[Further information about construction, decoration and materials](/test_coffin-catalogue/further/E.GA.501.1947_materials)
+[Further information about construction, decoration and materials](/test_coffin-catalogue/further/E_GA_501_1947_materials)
 
 
 **Other information**
 
-[Conservation treatments](/test_coffin-catalogue/further/E.GA.501.1947_conservation)
+[Conservation treatments](/test_coffin-catalogue/further/E_GA_501_1947_conservation)
 
-[Bibliography](/test_coffin-catalogue/further/E.GA.501.1947_bibliography)
+[Bibliography](/test_coffin-catalogue/further/E_GA_501_1947_bibliography)
 
-[Other images](/test_coffin-catalogue/further/E.GA.501.1947_imagesheet)
+[Other images](/test_coffin-catalogue/further/E_GA_501_1947_imagesheet)
 
 
