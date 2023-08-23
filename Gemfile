@@ -25,7 +25,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
-  gem 'jemoji'
+  gem 'jemoji', '>= 0.13.0'
   gem 'jekyll-mentions'
   gem 'jekyll-paginate'
   gem 'jekyll-redirect-from'
