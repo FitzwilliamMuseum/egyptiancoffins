@@ -7,10 +7,8 @@ order: 3
 layout: coffins
 ---
 
-The deadline for submission of abstracts is **22 September 2023**. 
-
-Abstracts should be no more than 500 words and should include the title of the submission, names and affiliations of all authors and contact details (email and postal address) of one corresponding author. 
+The deadline for submission of abstracts has now passed. 
 
 Abstracts will be peer reviewed and authors of accepted submissions will be notified by 20 October 2023.
 
-Submit abstracts using **[this form](https://forms.gle/PmZZAsfGHCsqaYCT8).**
+We still welcome expressions of interest in attending, whether remotely or in person, using **[this form](https://forms.gle/PmZZAsfGHCsqaYCT8).**
