@@ -6,8 +6,10 @@ image: /images/coffinsincontext/Christs.jpg
 order: 1
 layout: coffins
 ---
-This conference represents a chance to pause and consider what we have learned through coffins studies in recent years and the direction of future research. In light of this,
-**the organisers particularly welcome submissions that deal with groups of material under the following headings, rather than studies of individual coffins:**
+**Please note that the deadline for submitting abstracts for the conference has now passed, and abstracts will be peer reviewed over the next few weeks.** 
+
+The conference represents a chance to pause and consider what we have learned through coffins studies in recent years and the direction of future research. In light of this, 
+we will prioritise papers addressing the following potential themes, rather than studies of individual coffins:
 
   * **The relationship between coffins, the dead and funerary practice,** for example
     -  coffins with specific iconographic elements
