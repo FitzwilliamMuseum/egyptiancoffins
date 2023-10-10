@@ -1,7 +1,6 @@
 ---
 layout: coffins
 title: The recent history of the coffins of Pakepu
-subtitle: by Melanie Pitkin, March 2019
 permalink: coffins/pakepu/history
 category: pakepu
 order: 3
@@ -28,3 +27,6 @@ The travel journal of William H. Russell provides a slightly alternative account
 Russell also offers a provenance for the mummies. On 11 March he states, “The place in which the mummies were disinterred is a quarter of a mile from the Temple of Memnon [the Ramesseum]. The hole is dug down 100 feet deep…” He proceeds to discuss the discovery of a large red granite sarcophagus belonging to Queen Nitocris, implying that the mummies (and coffins) were discovered in the same burial shaft as the sarcophagus, although this would seem problematic in regard to their dating.
 
 At the end of Birch’s paper he lists 28 coffins and mummies and the place of their distribution. “…The Prince presented the best examples to the British Museum, Oxford, Cambridge, Edinburgh, Dublin and other institutions. A few were given to some personal friends who accompanied him on his visit to the Nile”. According to Sheikholeslami, only 17 of these coffin sets can be identified in English collections today (these are mentioned in Porter & Moss), while the mummies, which accompanied them, are less easy to identify. Unfortunately, no record of the mummy housed in Pakepu’s coffins can be traced in the Museum’s records today.
+
+*Melanie Pitkin
+March 2019* 
