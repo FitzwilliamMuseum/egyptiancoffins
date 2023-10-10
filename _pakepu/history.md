@@ -1,6 +1,7 @@
 ---
 layout: coffins
 title: The recent history of the coffins of Pakepu
+subtitle: by Melanie Pitkin
 permalink: coffins/pakepu/history
 category: pakepu
 order: 3
