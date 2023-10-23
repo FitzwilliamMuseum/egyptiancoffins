@@ -17,6 +17,7 @@ Conference registration will open in November 2023. Registration fees will be as
 ### Author of paper/poster/short-form talk
 - _One author_ per paper: £0
 - _One author_ per poster/short-form talk £75
+  
 ### Non author
 - Non-Egyptian full price: 	£200
 - Non-Egyptian reduced price (unwaged, etc.):	£75
