@@ -9,6 +9,6 @@ layout: coffins
 
 The deadline for submission of abstracts has now passed. 
 
-Abstracts will be peer reviewed and authors of accepted submissions will be notified by 20 October 2023.
+Most of the abstracts we have received have been peer reviewed and we are in the process of providing authors with feedback.
 
-We still welcome expressions of interest in attending, whether remotely or in person, using **[this form](https://forms.gle/PmZZAsfGHCsqaYCT8).**
+The draft programme of the conference will be posted here as soon as possible.
