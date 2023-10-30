@@ -21,7 +21,7 @@ The action or process of making something greater in number, size, or degree
 The action or process of defacing; the fact or state of being defaced; a disfigurement
 
 #### Embellishment 
-*(This also appears under results of modification)* <br />
+*(This also appears under **Results of modification**)* <br />
 The action of adding, or adding to, decoration or adornment
 
 #### Mutilation
