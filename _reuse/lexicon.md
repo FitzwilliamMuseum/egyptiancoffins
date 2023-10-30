@@ -39,7 +39,7 @@ The action or process of working something again (in various senses); also the p
 #### Reuse
 A second or further use of something
 
-## Intentions/results of modification
+## Intentions and results of modification
 
 #### Adaptation/repurposing
 An altered or amended version of something, especially something created for a particular purpose, with the purpose of making it suitable 
@@ -49,14 +49,14 @@ for a new use (in a modern context often used, for example in relation to a text
 Taking something as one's own or to one's own use: this might be the purpose of an underlying modification
 
 #### Embellishment 
-*(This also appears under actions of modification)* <br />
+*(This also appears under **Actions of modification** above)* <br />
 The effect of making something more attractive through adding, or adding to, decoration or adornment
 
 #### Reassignment
-The act of assigning something differently, to a person, place, purpose, category, etc.
+The assigning of something to a different person, a different place, a different purpose, a different category, etc.
 
 #### Repurposing
-See **Adaptation/repurposing** above
+*See **Adaptation/repurposing** above*
 
 #### Usurpation
-The taking/seizing of something (usually property) by force or without authority
+The taking/seizing of something (usually property) by force and/or without authority
