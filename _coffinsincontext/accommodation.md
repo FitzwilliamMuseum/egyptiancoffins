@@ -11,7 +11,7 @@ This conference will be held during term time in Cambridge. This means that we a
 
 In-person participants will need to make their own arrangements. Accommodation in Cambridge can be very expensive, especially in the middle of 
 the city, and cheaper hotels and guesthouses are generally located further away from the city centre. We have compiled a 
-![list of hotels](hotels.pdf) that currently have availability around the dates of the conference. **Note that these are only suggestions**
+[list of hotels](hotels.pdf) that currently have availability around the dates of the conference. **Note that these are only suggestions**
 
 There are also a number of places that one can book via AirBNB. 
 
