@@ -3,7 +3,7 @@ category: coffinsincontext
 title: 'Call for papers'
 url: /coffinsincontext/callforpapers
 image: /images/coffinsincontext/Christs.jpg
-order: 1
+order: 6
 layout: coffins
 ---
 **Please note that the deadline for submitting abstracts for the conference has now passed, and abstracts will be peer reviewed over the next few weeks.** 
