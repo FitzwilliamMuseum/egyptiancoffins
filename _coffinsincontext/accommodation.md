@@ -3,7 +3,7 @@ category: coffinsincontext
 title: 'Accommodation'
 url: /coffinsincontext/accommodation
 image: /images/coffinsincontext/Accommodation.jpg
-order: 5
+order: 4
 layout: coffins
 ---
 
