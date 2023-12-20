@@ -3,7 +3,7 @@ category: coffinincontext
 title: 'Egyptology at the Fitzwilliam Museum and in Christ’s College'
 url: /coffinsincontext/egyptfitzchrists
 image: /images/nakhtefmut/nakhtefmutHead.png
-order: 6
+order: 5
 layout: coffins
 ---
 The [Fitzwilliam Museum](https://www.fitzmuseum.cam.ac.uk) houses one of the four major collections of Egyptian antiquities in the United Kingdom, 
