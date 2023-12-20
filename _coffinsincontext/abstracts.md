@@ -7,8 +7,9 @@ order: 1
 layout: coffins
 ---
 
-The deadline for submission of abstracts has now passed. 
+The deadline for submission of abstracts has now passed. Thank you to everyone who has submitted a paper or poster. We have been overwhelmed by the positive response.
 
-Most of the abstracts we have received have been peer reviewed and we are in the process of providing authors with feedback.
+The draft programme of the conference is [available here](../Draft_programme_online1.pdf). This may change over the next few weeks and we will 
+update it regularly.
 
-The draft programme of the conference will be posted here as soon as possible.
+We are compiling a complete set of abstracts and this will be published shortly.
