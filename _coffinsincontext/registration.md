@@ -3,13 +3,15 @@ category: coffinsincontext
 title: 'Registration information'
 url: /coffinsincontext/registration
 image: /images/coffinsincontext/Scribe.jpg
-order: 4
+order: 3
 layout: coffins
 ---
 
 Please use **[this form](https://forms.gle/PmZZAsfGHCsqaYCT8)** to register your interest. Please note that, although **the deadline for submission of abstracts has now passed**, we are still happy to receive expressions of interest.
 
-Conference registration will open in November 2023. Registration fees will be as follows: 
+Unfortunately there has been a delay in implementing the software for conference registration; however, this will open very soon. 
+
+Registration fees will be as follows: 
 
 ## In-person registration fees [^1]
 *NB:* one author per paper, poster or short-form talk may register free of charge (paper) or at a reduced rate (poster or short-form talk). 
