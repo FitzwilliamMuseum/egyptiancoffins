@@ -1,9 +1,9 @@
 ---
 category: coffinsincontext
-title: 'Abstracts'
+title: 'Programme and Abstracts'
 url: /coffinsincontext/abstracts
 image: /images/coffinsincontext/Pages.jpg
-order: 3
+order: 1
 layout: coffins
 ---
 
