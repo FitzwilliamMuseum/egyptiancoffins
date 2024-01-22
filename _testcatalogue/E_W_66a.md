@@ -2,7 +2,7 @@
 category: catalogue
 layout: coffins
 title: 'Fragment from the coffin of the master physician, Wepwawetemhat '
-permalink: /coffin-catalogue/E_W_66a
+permalink: /test_coffin-catalogue/E_W_66a
 order: 37
 images: 
   -
@@ -12,7 +12,6 @@ images:
     image: /images/coffin-catalogue/large_E_W_66a_2_201507_kly25_dc1.jpg
     caption:  Coffin fragment of Wepwawetemhat detail that shows fingerprints of the coffin maker when he probably coloured the coffin.
   
-    
 ---
 
 **Object name:** 
@@ -22,7 +21,7 @@ Fragment from the coffin of the master physician, Wepwawetemhat
 E.W.66a
 
 **Other numbers and markings:*
-“W.66” in ink
+√íW.66√ì in ink
 
 **Dimensions:** 
 H 8.9 cm
@@ -32,7 +31,7 @@ D 75.3 cm
 **Brief description:** 
 
 Fragment from the proper left (east side) of the coffin of the master
-physician, Wepwawetemhat (meaning ‘Wepwawet is at the front’) showing a
+physician, Wepwawetemhat (meaning √îWepwawet is at the front√ï) showing a
 man dragging a cow with two standing women behind him. 
 
 With E.W.66b, these are two relatively small coffin boards. They present the remains
@@ -46,8 +45,8 @@ of imahy xr formulae including the name and title of the coffin
 owner.
 
 The coffin owner has the name Wepwawetemhat, which was especially
-popular at Asyut in the Middle Kingdom. He bears the title ‘greatest of
-the physicians’. There are many coffins and coffin fragments known from
+popular at Asyut in the Middle Kingdom. He bears the title √îgreatest of
+the physicians√ï. There are many coffins and coffin fragments known from
 Asyut, but only a few of them bear titles. Interestingly there is in the
 Museum of Tanta a coffin of a certain Wepay with the same title. Wepay
 might be the abbreviation of Wepwawetemhat and both coffins might belong
@@ -56,9 +55,9 @@ to the same person. However, this is only a guess.
 
 S 7 - _imi-r aHa_ (overseer of ships) _idi_
 
-S51 – _imi-r pr_ (steward) _Hny_
+S51 √ê _imi-r pr_ (steward) _Hny_
 
-S36ab – _HAti-a imi-r Hmw-nTr_ (mayor, overseer of priests) _msHti_
+S36ab √ê _HAti-a imi-r Hmw-nTr_ (mayor, overseer of priests) _msHti_
 
 S47a _imi-r xtmt_ (treasurer) _nxt_
 
@@ -82,7 +81,7 @@ The external face of the panel is coated with a white preparation layer
 (this was observed under PLM and thought to be calcite from ground
 limestone), which is used as a background to the hieroglyphs and
 figures. A red under-drawing is visible in places. A faint red outline
-of the cow’s front proper left leg is visible adjacent to its finished
+of the cow√ïs front proper left leg is visible adjacent to its finished
 position indicating an alteration to the drawing. This and other
 pigments were also examined with PLM to attempt identification, though
 the results are yet to be confirmed by other analytical techniques (XRF
