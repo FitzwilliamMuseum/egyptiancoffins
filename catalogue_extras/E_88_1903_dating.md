@@ -10,4 +10,4 @@ permalink: /catalogue_extras/E_88_1903_dating
 
 Pottery from the same tomb, together with the form of the outer coffin
 (now at the University of Liverpool), suggests a date late in the
-Twelfth Dynasty (about 1855 Ð 1790 BC). 
+Twelfth Dynasty (about 1855 - 1790 BC). 
