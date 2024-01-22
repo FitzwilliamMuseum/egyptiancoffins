@@ -2,7 +2,7 @@
 category: catalogue
 layout: coffins
 title: 'Coffin fragment'
-permalink: /coffin-catalogue/E_W_66b
+permalink: /test_coffin-catalogue/E_W_66b
 order: 38
 images: 
   -
@@ -23,7 +23,7 @@ Coffin fragment
 E.W.66b
 
 **Other numbers and markings:*
-“W.66” in ink
+√íW.66√ì in ink
 
 **Dimensions:** 
 H 0.07 m
@@ -33,7 +33,7 @@ D 0.724 m
 **Brief description:** 
 
 Fragment from the proper left (east side) of the coffin of the master
-physician, Wepwawetemhat (meaning ‘Wepwawet is at the front’) showing a
+physician, Wepwawetemhat (meaning √îWepwawet is at the front√ï) showing a
 man dragging a cow and ibex. As is common with coffins of this type,
 there are four columns of text next to the scenes, including two
 hetep-di-nswt formulas.
@@ -50,8 +50,8 @@ of imahy xr formulae including the name and title of the coffin
 owner.
 
 The coffin owner has the name Wepwawetemhat, which was especially
-popular at Asyut in the Middle Kingdom. He bears the title ‘greatest of
-the physicians’. There are many coffins and coffin fragments known from
+popular at Asyut in the Middle Kingdom. He bears the title √îgreatest of
+the physicians√ï. There are many coffins and coffin fragments known from
 Asyut, but only a few of them bear titles. Interestingly there is in the
 Museum of Tanta a coffin of a certain Wepay with the same title. Wepay
 might be the abbreviation of Wepwawetemhat and both coffins might belong
@@ -59,9 +59,9 @@ to the same person. However, this is only a guess.
 
 S 7 - _imi-r aHa_ (overseer of ships) _idi_
 
-S51 – _imi-r pr_ (steward) _Hny_
+S51 √ê _imi-r pr_ (steward) _Hny_
 
-S36ab – _HAti-a imi-r Hmw-nTr_ (mayor, overseer of priests) _msHti_
+S36ab √ê _HAti-a imi-r Hmw-nTr_ (mayor, overseer of priests) _msHti_
 
 S47a _imi-r xtmt_ (treasurer) _nxt_
 
