@@ -1,7 +1,7 @@
 ---
 category: catalogue
 title: About the catalogue
-permalink: /testcatalogue/index
+permalink: /test_coffin-catalogue/index
 image: /images/catalogue/Coffin_face.jpg
 order: 1
 layout: coffins
