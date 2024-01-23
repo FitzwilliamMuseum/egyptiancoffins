@@ -6,13 +6,13 @@ permalink: /coffin-catalogue/E_W_66b
 order: 38
 images: 
   -
-    image: /images/coffin-catalogue/large_E_W_66b_3_201411_jas244_dc2.jpg
+    image: /images/catalogue/large_E_W_66b_3_201411_jas244_dc2.jpg
     caption: Coffin fragment of Wepwawetemhat, a master physician. This fragment comes from the bottom edge of the long side of the coffin box. Back view.
 
-    image: /images/coffin-catalogue/large_E_W_66b_1_201411_jas244_dc1.jpg
+    image: /images/catalogue/large_E_W_66b_1_201411_jas244_dc1.jpg
     caption: Coffin fragment of Wepwawetemhat, a master physician. This fragment comes from the bottom edge of the long side of the coffin box. Front view.
   -
-    image: /images/coffin-catalogue/large_E_W_66b_2_201507_kly25_mas.jpg
+    image: /images/catalogue/large_E_W_66b_2_201507_kly25_mas.jpg
     caption: Coffin fragment of Wepwawetemhat, a master physician. This fragment comes from the bottom edge of the long side of the coffin box. Close up view showing a dowel on the bottom right hand side.
 ---
 
