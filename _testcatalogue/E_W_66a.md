@@ -3,12 +3,12 @@ category: catalogue
 layout: coffins
 title: 'Fragment from the coffin of the master physician, Wepwawetemhat '
 permalink: /coffin-catalogue/E_W_66a
-image: images/catalogue/E_W_66a_E_W_66b_201507_kly25_dc2.jpg
+image: images/catalogue/E_W_66a_E_W_66b_201507_kly25_dc2_crop.jpg
 order: 37
 images: 
   -
     image: E_W_66a_E_W_66b_201507_kly25_dc2.jpg
-    caption: Coffin fragment of Wepwawetemhat, a master physician. This fragment comes from the bottom edge of the long side of the coffin box. Front view. 
+    caption: Coffin fragment of Wepwawetemhat, with E.W.66b. These fragments come from the bottom edge of the long side of the coffin box
   -
     image: large_E_W_66a_2_201507_kly25_dc1.jpg
     caption:  Coffin fragment of Wepwawetemhat detail that shows fingerprints of the coffin maker when he probably coloured the coffin.
