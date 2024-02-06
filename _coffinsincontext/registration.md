@@ -8,7 +8,7 @@ layout: coffins
 ---
 
 Please register to attend the _Coffins in Context_ using the links below. If you have any questions or problems, contact the organisers immediately
-([fitzmuseum-coffins\@lists.cam.ac.uk](mailto:fitzmuseum-coffins@lists.cam.ac.uk)
+([fitzmuseum-coffins@lists.cam.ac.uk](mailto:fitzmuseum-coffins@lists.cam.ac.uk)).
 
 Registration fees are as follows: 
 
