@@ -1,6 +1,6 @@
 ---
 layout: coffins
-title: Coffins in Context: participant information
+title: Coffins in Context - participant information
 description: "Information for participants of the Fitzwilliam Museum's Coffins in Context conference 2024"
 permalink: /CiCinfo
 id: coffinsincontext_info
