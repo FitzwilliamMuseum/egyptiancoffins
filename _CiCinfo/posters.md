@@ -6,12 +6,11 @@ image: /images/coffinsincontext/Pages.jpg
 order: 1
 layout: coffins
 ---
-
-The online versions of posters being presented at **Coffins in Context*** are 
+The online versions of posters being presented at **Coffins in Context** are 
 available below, together with the email addresses of the corresponding author who can
 answer any questions relating to them.
 
 ###Shaimaa Abd-elsttar and Salwa Kamel
-**An unpublished coffin of _sAb pA di Ast_ from Giza no. 369 stored in the Giza Magazine**
+An unpublished coffin from Giza no. 369 stored in the Giza Magazine
 Corresponding author: 
 
