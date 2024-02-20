@@ -33,6 +33,8 @@ The book of abstracts is here:
 
 ###Online posters and presentations
 
+Information about and links to posters and recordings of presentations are provided here.
+
 {% assign rows = site.coffinsincontext.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
   {% assign offset = forloop.index0 | times: 2 %}
