@@ -14,13 +14,26 @@ basic conference information on these web pages.
 ### Conference venue(s)
 
 The conference will start, at 8.30 on Thursday morning, with **breakfast at the Fitzwilliam Museum,**
-and an opportunity to visit the Egyptian galleries.
+and an opportunity to visit the Egyptian galleries. Entrance to the museum is via the Courtyard Entrance.
 
 The remainder of the conference, from 10.30 on Thursday morning, will take place at the 
 **[Yusuf Hamied Centre at Christ's College, 
 Cambridge](https://www.christs.cam.ac.uk/facilities/yusuf-hamied)**.
 
-### Maps, routes and venues
+Volunteers will be on hand to assist with navigating between The Fitzwilliam and Christ's, and a map showing the route is also available 
+[here](/assets/pdfs/Fitz-Christs_map.pdf).
+
+### Getting to the venues
+
+The Fitzwilliam Museum is located in Trumpington Street, Cambridge. The postcode is **CB2 1RB**.
+
+Christ's College is located in St Andrew's Street, Cambridge. The post code is **CB2 3BU**. The route from the Main Gate to the Yusuf Hamied Centre is
+shown [on this map](/assets/pdfs/Christ's_map.pdf).
+
+For those coming from the Travelodge near Cambridge Railway Station, the following maps are also available:
+
+* [Travelodge to Fitzwilliam Museum](/assets/pdfs/Travelodge-Fitzwilliam_map.pdf)
+* [Travelodge to Christ's College](/assets/pdfs/Travelodge-Christ's_map.pdf)
 
 ### Conference programme 
 
@@ -32,7 +45,13 @@ The final programme for the conference is here:
 The book of abstracts is here:
 [egyptiancoffins.org/coffinsincontext/final_abstracts.pdf](https://egyptiancoffins.org/coffinsincontext/final_abstracts.pdf)
 
-### Restaurants, cafes etc.
+### Restaurants, cafes and things to do
+
+A helpful list of things to do in Cambridge is provided here:
+
+* [List](/assets/pdfs/Food_Attractions_Final.pdf)
+* Maps of these locations: [mobile phone format](/images/coffinsincontext/MapFood_Laptop.png) [laptop format](assets/pdfs/MapFood_Laptop.pdf)
+[A4 printable](/assets/pdfs/MapFood_Print_A4.pdf)
 
 ### Online posters and presentations
 
