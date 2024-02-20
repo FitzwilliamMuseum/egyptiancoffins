@@ -11,7 +11,7 @@ basic conference information on these web pages.
 
 **Please consider carefully before you print any of it out.**
 
-###Conference venue(s)
+### Conference venue(s)
 
 The conference will start, at 8.30 on Thursday morning, with **breakfast at the Fitzwilliam Museum,**
 and an opportunity to visit the Egyptian galleries.
@@ -20,20 +20,23 @@ The remainder of the conference, from 10.30 on Thursday morning, will take place
 **[Yusuf Hamied Centre at Christ's College, 
 Cambridge](https://www.christs.cam.ac.uk/facilities/yusuf-hamied)**.
 
-###Conference programme 
+### Maps, routes and venues
+
+### Conference programme 
 
 The final programme for the conference is here: 
 [egyptiancoffins.org/coffinsincontext/final_programme.pdf](https://egyptiancoffins.org/coffinsincontext/final_programme.pdf)
 
-###Abstracts
+### Abstracts
 
 The book of abstracts is here:
 [egyptiancoffins.org/coffinsincontext/final_abstracts.pdf](https://egyptiancoffins.org/coffinsincontext/final_abstracts.pdf)
 
+### Restaurants, cafes etc.
 
-###Online posters and presentations
+### Online posters and presentations
 
-Information about and links to posters and recordings of presentations are provided here.
+Information about online posters and links to recordings of presentations are provided here.
 
 {% assign rows = site.coffinsincontext.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
