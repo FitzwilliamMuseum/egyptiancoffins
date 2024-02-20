@@ -1,16 +1,14 @@
 ---
 category: coffinsincontext
-title: 'Posters for online viewing'
-url: /CiCinfo/posters
+title: 'Programme and Abstracts'
+url: /coffinsincontext/abstracts
 image: /images/coffinsincontext/Pages.jpg
 order: 1
 layout: coffins
 ---
-The online versions of posters being presented at **Coffins in Context** are 
-available below, together with the email addresses of the corresponding author who can
-answer any questions relating to them.
 
-###Shaimaa Abd-elsttar and Salwa Kamel
-An unpublished coffin from Giza no. 369 stored in the Giza Magazine
-Corresponding author: 
+The deadline for submission of abstracts has now passed. Thank you to everyone who has submitted a paper or poster. We have been overwhelmed by the positive response.
 
+The draft programme of the conference is [available here](../Draft_programme_online7.pdf). We will continue to update this during the run-up to the conference, so **if contributors notice errors in this document, please inform us ASAP.**
+
+A complete set of abstracts is [available here](../Abstracts.pdf).
