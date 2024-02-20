@@ -2,7 +2,7 @@
 category: coffinsincontext
 title: 'Programme and Abstracts'
 url: /coffinsincontext/abstracts
-image: /images/coffinsincontext/Pages.jpg
+image: /images/coffinsincontext/Conference.jpg
 order: 2
 layout: coffins
 ---
