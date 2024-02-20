@@ -2,7 +2,7 @@
 category: coffinsincontext
 title: 'Posters for online viewing'
 url: /CiCinfo/posters
-image: /images/coffinsincontext/Conference.jpg
+image: /images/coffinsincontext/poster.jpg
 order: 1
 layout: coffins
 ---
