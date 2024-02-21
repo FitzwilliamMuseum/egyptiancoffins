@@ -31,7 +31,7 @@ Corresponding author: [Alicia De la Serna Saenz](mailto:adelasernasaenz@britishm
 
 #### Kea Johnston
 
-[Palaeographical comparison and the origin of the coffin of Ankhtashepsit](/assets/pdf/Kea_Johnston_web.pdf)
+[Palaeographical comparison and the origin of the coffin of Ankhtashepsit](/assets/pdfs/Kea_Johnston_web.pdf)
 
 Corresponding author: [Kea Johnston](mailto:kjohnsto@berkeley.edu)
 
