@@ -23,6 +23,9 @@ Cambridge](https://www.christs.cam.ac.uk/facilities/yusuf-hamied)**.
 Volunteers will be on hand to assist with navigating between The Fitzwilliam and Christ's, and a map showing the route is also available 
 [here](/assets/pdfs/Fitz-Christs_map.pdf).
 
+Christ's College has a long association with Egyptology and there is now a 
+dedicated [Christ's Egyptology website](https://egyptology.christs.cam.ac.uk/).
+
 ### Getting to the venues
 
 The Fitzwilliam Museum is located in Trumpington Street, Cambridge. The postcode is **CB2 1RB**.
