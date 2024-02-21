@@ -38,12 +38,12 @@ For those coming from the Travelodge near Cambridge Railway Station, the followi
 ### Conference programme 
 
 The final programme for the conference is here: 
-[egyptiancoffins.org/coffinsincontext/final_programme.pdf](https://egyptiancoffins.org/coffinsincontext/final_programme.pdf)
+[egyptiancoffins.org/CiCinfo/final_programme.pdf](../final_programme.pdf)
 
 ### Abstracts
 
 The book of abstracts is here:
-[egyptiancoffins.org/coffinsincontext/final_abstracts.pdf](https://egyptiancoffins.org/coffinsincontext/final_abstracts.pdf)
+[egyptiancoffins.org/CiCinfo/final_abstracts.pdf](../final_abstracts.pdf)
 
 ### Restaurants, cafes and things to do
 
