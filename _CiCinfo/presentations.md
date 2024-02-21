@@ -1,6 +1,6 @@
 ---
 category: coffinsincontext
-title: 'Programme and Abstracts'
+title: 'Recorded presentations'
 url: /coffinsincontext/abstracts
 image: /images/coffinsincontext/Conference.jpg
 order: 2
