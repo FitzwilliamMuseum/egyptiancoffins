@@ -25,7 +25,7 @@ Corresponding author: [Ghada M. Azzam](mailto:ghada_azzam@yahoo.com)
 
 #### Alicia De la Serna Saenz
 
-Complexities of preserving Egyptian coffins: introducing _funori_ to treat decorative surfaces with low-binding media
+[Complexities of preserving Egyptian coffins: introducing _funori_ to treat decorative surfaces with low-binding media](/assets/pdfs/Alicia_de_la_Serna_Saenz.pdf)
 
 Corresponding author: [Alicia De la Serna Saenz](mailto:adelasernasaenz@britishmuseum.org)
 
