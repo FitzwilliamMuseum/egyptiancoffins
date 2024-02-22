@@ -55,7 +55,7 @@ Corresponding author: [Mohamed Ragab](mailto:ragabconservator@gmail.com)
 
 #### Caterina Zaggia, Julie Dawson, Helen Strudwick, Matthew Collins and Marcos Martinon-Torres
 
-Egyptian ‘Pastes’: The definition, investigation and significance of plaster-like materials on coffins and other objects
+[Egyptian ‘Pastes’: The definition, investigation and significance of plaster-like materials on coffins and other objects](/assets/pdfs/Zaggia_web.pdf)
 
 Corresponding author: [Caterina Zaggia](mailto:cz376@cam.ac.uk)
 
