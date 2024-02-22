@@ -14,3 +14,9 @@ speakers have agreed to this.
 
 Some presenters have also agreed to allow their presentations to remain available until 24 March, and those will remain available from this page 
 until that date. 
+
+#### Alessia Amenta and Jaume Vilaro Fabregat
+[The Vatican Coffin Project. The coffin set of Ikhy from the Museo Gregoriano Egizio provides new observations on the tomb of Bab el-Gasus](https://www.dropbox.com/scl/fi/hmdcc2bji2wn8gwzemxeg/Jaume_Amenta.mp4?rlkey=e3l1f4hfpwozkm5orz2go87ci&dl=0)
+
+#### Daniela Galazzo and Shirly Ben Dor Evian
+[The Application of Reflectance Transformation Imaging (RTI) on Ancient Egyptian Coffin-lids at the Israel Museum, Jerusalem as a New Analytic Approach to Workshop Identification](https://www.dropbox.com/scl/fi/rayf9uii0zd6ds6tpg5tv/Galazzo_Ben_Dor_Evian.mp4?rlkey=xkilgv8zdl80yz24s1lfr9wik&dl=0)
