@@ -21,6 +21,13 @@ until that date.
 #### Melanie Flossman-Schuetze and Jan Dahms
 ["Coffins in 3D": The coffin collection of the SMAEK and their digitization](https://www.dropbox.com/scl/fi/bjbykfjzekz16ca5tme7m/Flossman-Schuetze.mp4?rlkey=5ja9i67bjlu2pg3adki5zmgch&dl=0)
 
+#### Verena Kotonski, John Taylor, Roux Malherbe and Barbara Wills
+[The Aswan mummy case: cartonnage conservation, curatorship and finding a YouTube audience](https://www.dropbox.com/scl/fi/s2pd6k4ggu7zh69zc5fpj/Kotonski_Taylor_Malherbe_Wills.mp4?rlkey=ptygvyk7dc76hp1vop3135e0s&dl=0)
+
+#### Marie Peterkova Hlouchova
+[Wooden coffins of the centre and provinces in the Old Kingdom](https://www.dropbox.com/s/d4ygrkg035w9sm8/Peterkova_Hlouchova.mp4?dl=0)
+
+
 #### Alessia Amenta and Jaume Vilaro Fabregat
 [The Vatican Coffin Project. The coffin set of Ikhy from the Museo Gregoriano Egizio provides new observations on the tomb of Bab el-Gasus](https://www.dropbox.com/scl/fi/hmdcc2bji2wn8gwzemxeg/Jaume_Amenta.mp4?rlkey=e3l1f4hfpwozkm5orz2go87ci&dl=0)
 
