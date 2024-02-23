@@ -91,4 +91,4 @@ their evolution](https://www.dropbox.com/s/fgh9td88uwtcgty/Mainieri.mp4?dl=0)
 Dahshur Archaeological Area](https://www.dropbox.com/s/r0kw3ok0as2jju8/Abdelmoniem2.mp4?dl=0)
 
 #### Katharina Stövesand and Abdelrazek Elnaggar
-[A group of el-Hibe coffins in the Egyptian Museum Cairo. Unique iconographies and unusual wealth in a provincial cemetery](https://www.dropbox.com/s/r0kw3ok0as2jju8/Abdelmoniem2.mp4?dl=0)
+[A group of el-Hibe coffins in the Egyptian Museum Cairo. Unique iconographies and unusual wealth in a provincial cemetery](https://www.dropbox.com/scl/fi/1vg52krzcr2w4a7gqm0gm/Stoevesand.mp4?rlkey=8f1nf76327utyd31x312kvj7p&dl=0)
