@@ -44,3 +44,51 @@ until that date.
 
 #### Cynthia May Sheikholeslami
 [Representations of Nut in Twenty-Second/Twenty-Third Dynasty Theban Coffins](https://www.dropbox.com/s/wyvm2l8jtl0wqpb/Sheikholeslami.mp4?dl=0)
+
+#### Charlotte Hunkeler
+[Small pieces in the bigger Picture: coffin and cartonnage fragments from Tomb KV40 in the Valley of the Kings](https://www.dropbox.com/scl/fi/yufq291s2upc3kh71pwos/Hunkeler.mp4?rlkey=stlhieyeie5hfxq6eckwaq05o&dl=0)
+
+#### Caroline Thomas and Helene Guichard
+[They are cartonnage coffins, not mummy cases: a small production between tradition and innovation](https://www.dropbox.com/scl/fi/edfqogva47i2d410ct2q9/Thomas_Guichard.mp4?rlkey=91j61jghds7sis9497bfb32fe&dl=0)
+
+#### Moamen Othman, Mohamed Abdelrahman, Nour M. Badr, Ahmed Tarek Ibrahim, Eid Mertah, Mohamed Ibrahim and Akram Atallah
+Multidisciplinary investigation of the complex layered structures of a ‘bivalve’ coffin made of cartonnage for the Prophet of Montu, Besenmut II
+
+#### Marie Vandenbeusch
+Exploring coffin manufacture during the 25th Dynasty using CT scan technology
+
+#### Tuuli Kasso, Jens Stenger, Caterina Zaggia, Gianluca Pastorelli, Max Ramsøe, Elsa Yvanez, Chiara Spinazzi-Lucchesi, Matthew Collins and Cecilie Brøns
+Craft for context: a multidisciplinary analysis of a Romano-Egyptian mummy mask at the Ny Carlsberg Glyptotek, Copenhagen
+
+#### Nour M. Badr, Moamen Othman, Mohamed Abdel-Rahman, Eid Mertah, Ahmed Tarek and Mohamed Ragab
+The power of imaging techniques for documentation of ancient Egyptian coffins applied to the sarcophagus of Ankhefenkhons CG 41001 and Ramses IV coffin 
+CG61041, in the  Egyptian Museum, Cairo
+
+#### Stefania Mainieri
+The “missing piece of the puzzle”. The way to render the human shape and facial features in the yellow coffins of the Third Intermediate Period and 
+their evolution
+
+#### Agathe Jagerschmidt-Seguin, Delphine Elie-Lefebvre, Sophie Joigneau, Marie Louis, Thierry Palanque, Marta Garcia-Darowska, Laure de Guiran, Agnès Lattuati-Derieux, Louis Chassouant, Yannick Vandenberghe and Noëlle Timbart
+Material history and restoration of Setjaimengaou’s coffins kept at the Museum of Picardie (Amiens, France): An integrative approach
+
+#### Mohamed Moustafa, Medhat Abdallah, Ahmed Abdrabou and Hussein M. Kamal
+New insights into the materials and manufacturing techniques used to paint a Late Period wooden coffin
+
+#### Rebecca Stacey
+Reading residues on coffins: reflections on ten years of molecular research at the BM
+
+#### Rachel Aronin and Isabel Schneider
+Paint it black: new scientific analysis of black “goo” on Brooklyn Museum 37.1927Ea-b
+
+#### Caterina Zaggia, Jan Dekker, Louise Le Meillour, Matthew Collins and Marcos Martinón-Torres
+Employing paleoproteomic techniques for the characterisation of glues and binders from Egyptian coffins
+
+#### Abdelmoniem Mohamed Abdelmoniem 
+Conservation processes used on a painted wooden coffin at Saqqara
+
+#### Abdelmoniem Mohamed Abdelmoniem
+Preserving history: The formal approach to conservation of a wooden coffin covered with a black resin layer and coloured materials at 
+Dahshur Archaeological Area
+
+#### Katharina Stövesand and Abdelrazek Elnaggar
+A group of el-Hibe coffins in the Egyptian Museum Cairo. Unique iconographies and unusual wealth in a provincial cemetery 
