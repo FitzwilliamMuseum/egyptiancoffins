@@ -52,17 +52,17 @@ until that date.
 [They are cartonnage coffins, not mummy cases: a small production between tradition and innovation](https://www.dropbox.com/scl/fi/edfqogva47i2d410ct2q9/Thomas_Guichard.mp4?rlkey=91j61jghds7sis9497bfb32fe&dl=0)
 
 #### Moamen Othman, Mohamed Abdelrahman, Nour M. Badr, Ahmed Tarek Ibrahim, Eid Mertah, Mohamed Ibrahim and Akram Atallah
-Multidisciplinary investigation of the complex layered structures of a ‘bivalve’ coffin made of cartonnage for the Prophet of Montu, Besenmut II
+[Multidisciplinary investigation of the complex layered structures of a ‘bivalve’ coffin made of cartonnage for the Prophet of Montu, Besenmut II](https://www.dropbox.com/scl/fi/kk07ib2y58go2duxknpzc/M_Abdelrahman.mp4?rlkey=5wt7191ydwq17m6ch4nqtvcg7&dl=0)
 
 #### Marie Vandenbeusch
-Exploring coffin manufacture during the 25th Dynasty using CT scan technology
+[Exploring coffin manufacture during the 25th Dynasty using CT scan technology](https://www.dropbox.com/scl/fi/7c4tyuc45t7en62wg0c3z/Vandenbeusch.mp4?rlkey=4mmvzuibo66qg0rzmn75n2ih5&dl=0)
 
 #### Tuuli Kasso, Jens Stenger, Caterina Zaggia, Gianluca Pastorelli, Max Ramsøe, Elsa Yvanez, Chiara Spinazzi-Lucchesi, Matthew Collins and Cecilie Brøns
-Craft for context: a multidisciplinary analysis of a Romano-Egyptian mummy mask at the Ny Carlsberg Glyptotek, Copenhagen
+[Craft for context: a multidisciplinary analysis of a Romano-Egyptian mummy mask at the Ny Carlsberg Glyptotek, Copenhagen](https://www.dropbox.com/scl/fi/o4baeznf0aej611urudkr/Kasso.mp4?rlkey=a366678nals4rktggg99rgl5i&dl=0)
 
 #### Nour M. Badr, Moamen Othman, Mohamed Abdel-Rahman, Eid Mertah, Ahmed Tarek and Mohamed Ragab
-The power of imaging techniques for documentation of ancient Egyptian coffins applied to the sarcophagus of Ankhefenkhons CG 41001 and Ramses IV coffin 
-CG61041, in the  Egyptian Museum, Cairo
+[The power of imaging techniques for documentation of ancient Egyptian coffins applied to the sarcophagus of Ankhefenkhons CG 41001 and Ramses IV coffin 
+CG61041, in the  Egyptian Museum, Cairo](https://www.dropbox.com/scl/fi/pj2f36crdvlgbdsf79jys/Badr.mp4?rlkey=n5bed0ji7866037f9fbaah7zc&dl=0)
 
 #### Stefania Mainieri
 The “missing piece of the puzzle”. The way to render the human shape and facial features in the yellow coffins of the Third Intermediate Period and 
