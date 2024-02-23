@@ -8,7 +8,7 @@ layout: coffins
 ---
 
 In order to help those connecting to the conference remotely, who are in parts of the world that are a long way from the UK, we have asked speakers 
-if for permission to record their presentations so that they can been shared on-line with registered participants while the
+for permission to record their presentations so that they can been shared on-line with registered participants while the
 conference is happening. Links to these recordings will be made available here during the course of the conference. Please note, however, that not all
 speakers have agreed to this.
 
@@ -27,6 +27,11 @@ until that date.
 #### Marie Peterkova Hlouchova
 [Wooden coffins of the centre and provinces in the Old Kingdom](https://www.dropbox.com/s/d4ygrkg035w9sm8/Peterkova_Hlouchova.mp4?dl=0)
 
+#### Ahmed Tarek, Wael Sherbiny, Nour Badr, Mohamed Abdelrahman and Moamen Othman
+[Implementing modern imaging techniques in examining and visualising Middle Kingdom coffins](https://www.dropbox.com/scl/fi/rv94mgew00r7bu5g3yrl6/Tarek_Sherbiny_Badr_Abdelrahman_Othman.mp4?rlkey=0ueiy8z4edz6ivckjv8w1ixz3&dl=0)
+
+#### Lisa Sartini, Jaume Vilaró Fabregat, Margaret Serpico and Gersande Eschenbrenner Diemer
+[The Medjehu Project and its interdisciplinary study of New Kingdom wooden coffins originating from Deir el-Medina](https://www.dropbox.com/scl/fi/fqz8bsgkvyrx6ca6pbrx9/Sartini_Vilaro_Fabregat_Serpico_Diemer.mp4?rlkey=gsz0ji0c9htsnjf8m4pj24poh&dl=0)
 
 #### Alessia Amenta and Jaume Vilaro Fabregat
 [The Vatican Coffin Project. The coffin set of Ikhy from the Museo Gregoriano Egizio provides new observations on the tomb of Bab el-Gasus](https://www.dropbox.com/scl/fi/hmdcc2bji2wn8gwzemxeg/Jaume_Amenta.mp4?rlkey=e3l1f4hfpwozkm5orz2go87ci&dl=0)
