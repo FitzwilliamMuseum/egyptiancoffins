@@ -78,10 +78,10 @@ their evolution](https://www.dropbox.com/s/fgh9td88uwtcgty/Mainieri.mp4?dl=0)
 [Reading residues on coffins: reflections on ten years of molecular research at the BM](https://www.dropbox.com/scl/fi/b99l07g3delq0wgqdcoy3/Stacey.mp4?rlkey=mmcav4ig2usqug4a0cigbsm9y&dl=0)
 
 #### Rachel Aronin and Isabel Schneider
-Paint it black: new scientific analysis of black “goo” on Brooklyn Museum 37.1927Ea-b
+[Paint it black: new scientific analysis of black “goo” on Brooklyn Museum 37.1927Ea-b](https://www.dropbox.com/s/ebpcget1vvzetar/Aronin_Schneider.mp4?dl=0)
 
 #### Caterina Zaggia, Jan Dekker, Louise Le Meillour, Matthew Collins and Marcos Martinón-Torres
-Employing paleoproteomic techniques for the characterisation of glues and binders from Egyptian coffins
+[Employing paleoproteomic techniques for the characterisation of glues and binders from Egyptian coffins](https://www.dropbox.com/s/x2mhzorn72oh32m/Zaggia.mp4?dl=0)
 
 #### Abdelmoniem Mohamed Abdelmoniem 
 Conservation processes used on a painted wooden coffin at Saqqara
