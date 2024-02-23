@@ -72,10 +72,10 @@ their evolution](https://www.dropbox.com/s/fgh9td88uwtcgty/Mainieri.mp4?dl=0)
 [Material history and restoration of Setjaimengaou’s coffins kept at the Museum of Picardie (Amiens, France): An integrative approach](https://www.dropbox.com/scl/fi/gqg3bxc84cyspw1gc5sqz/Timbart.mp4?rlkey=4q66nvyvlbp47qs0r7ztlhgmi&dl=0)
 
 #### Mohamed Moustafa, Medhat Abdallah, Ahmed Abdrabou and Hussein M. Kamal
-New insights into the materials and manufacturing techniques used to paint a Late Period wooden coffin
+[New insights into the materials and manufacturing techniques used to paint a Late Period wooden coffin](https://www.dropbox.com/scl/fi/wbghh7yd2w6wmlscnanyz/M_Moustafa.mp4?rlkey=mq4onu62nn1bnclt819om35r6&dl=0)
 
 #### Rebecca Stacey
-Reading residues on coffins: reflections on ten years of molecular research at the BM
+[Reading residues on coffins: reflections on ten years of molecular research at the BM](https://www.dropbox.com/scl/fi/b99l07g3delq0wgqdcoy3/Stacey.mp4?rlkey=mmcav4ig2usqug4a0cigbsm9y&dl=0)
 
 #### Rachel Aronin and Isabel Schneider
 Paint it black: new scientific analysis of black “goo” on Brooklyn Museum 37.1927Ea-b
