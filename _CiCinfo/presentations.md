@@ -20,3 +20,9 @@ until that date.
 
 #### Daniela Galazzo and Shirly Ben Dor Evian
 [The Application of Reflectance Transformation Imaging (RTI) on Ancient Egyptian Coffin-lids at the Israel Museum, Jerusalem as a New Analytic Approach to Workshop Identification](https://www.dropbox.com/scl/fi/rayf9uii0zd6ds6tpg5tv/Galazzo_Ben_Dor_Evian.mp4?rlkey=xkilgv8zdl80yz24s1lfr9wik&dl=0)
+
+#### Rogerio Sousa
+[On the making of the Yellow type: Coffin craftsmanship in Thebes during the Ramesside period](https://www.dropbox.com/scl/fi/8ura8utfr0u4nqiauh6z3/Sousa.mp4?rlkey=y648hg9oowcwg95k5fl6o497u&dl=0)
+
+#### Cynthia May Sheikholeslami
+[Representations of Nut in Twenty-Second/Twenty-Third Dynasty Theban Coffins](https://www.dropbox.com/s/wyvm2l8jtl0wqpb/Sheikholeslami.mp4?dl=0)
