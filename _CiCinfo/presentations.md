@@ -15,6 +15,12 @@ speakers have agreed to this.
 Some presenters have also agreed to allow their presentations to remain available until 24 March, and those will remain available from this page 
 until that date. 
 
+#### E. Ferraris, P. Buscaglia, S. Maineri, J. Vilaro Fabregat, C. Ricci and T. Cavaleri
+[The coffin set of Tamutmutef storytelling: a new exhibition area in the Museo Egizio of Turin](https://www.dropbox.com/scl/fi/s6y2n7qkf9tcbo48p1k9j/Ferraris_Buscaglia.mp4?rlkey=c5r5tc68dngv2bt5k0gt5box4&dl=0)
+
+#### Melanie Flossman-Schuetze and Jan Dahms
+["Coffins in 3D": The coffin collection of the SMAEK and their digitization](https://www.dropbox.com/scl/fi/bjbykfjzekz16ca5tme7m/Flossman-Schuetze.mp4?rlkey=5ja9i67bjlu2pg3adki5zmgch&dl=0)
+
 #### Alessia Amenta and Jaume Vilaro Fabregat
 [The Vatican Coffin Project. The coffin set of Ikhy from the Museo Gregoriano Egizio provides new observations on the tomb of Bab el-Gasus](https://www.dropbox.com/scl/fi/hmdcc2bji2wn8gwzemxeg/Jaume_Amenta.mp4?rlkey=e3l1f4hfpwozkm5orz2go87ci&dl=0)
 
