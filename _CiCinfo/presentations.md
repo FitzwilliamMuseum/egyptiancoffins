@@ -65,11 +65,11 @@ until that date.
 CG61041, in the  Egyptian Museum, Cairo](https://www.dropbox.com/scl/fi/pj2f36crdvlgbdsf79jys/Badr.mp4?rlkey=n5bed0ji7866037f9fbaah7zc&dl=0)
 
 #### Stefania Mainieri
-The “missing piece of the puzzle”. The way to render the human shape and facial features in the yellow coffins of the Third Intermediate Period and 
-their evolution
+[The “missing piece of the puzzle”. The way to render the human shape and facial features in the yellow coffins of the Third Intermediate Period and 
+their evolution](https://www.dropbox.com/s/fgh9td88uwtcgty/Mainieri.mp4?dl=0)
 
 #### Agathe Jagerschmidt-Seguin, Delphine Elie-Lefebvre, Sophie Joigneau, Marie Louis, Thierry Palanque, Marta Garcia-Darowska, Laure de Guiran, Agnès Lattuati-Derieux, Louis Chassouant, Yannick Vandenberghe and Noëlle Timbart
-Material history and restoration of Setjaimengaou’s coffins kept at the Museum of Picardie (Amiens, France): An integrative approach
+[Material history and restoration of Setjaimengaou’s coffins kept at the Museum of Picardie (Amiens, France): An integrative approach](https://www.dropbox.com/scl/fi/gqg3bxc84cyspw1gc5sqz/Timbart.mp4?rlkey=4q66nvyvlbp47qs0r7ztlhgmi&dl=0)
 
 #### Mohamed Moustafa, Medhat Abdallah, Ahmed Abdrabou and Hussein M. Kamal
 New insights into the materials and manufacturing techniques used to paint a Late Period wooden coffin
