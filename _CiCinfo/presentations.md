@@ -111,3 +111,14 @@ Dahshur Archaeological Area](https://www.dropbox.com/s/r0kw3ok0as2jju8/Abdelmoni
 #### Caroline Arbuckle
 [The religious significance of coffin timbers](https://www.dropbox.com/scl/fi/an8bqt2cfxp8r1rak4x69/Arbuckle_MacLeod.mp4?rlkey=g8ri9oqw7qxojgwsk68yf5877&dl=0)
 
+#### Marta Dominguez-Delmas, María Oliva Rodriguez Ariza, Gersande Eschenbrenner-Diemer and Alejandro Jimenez-Serrano
+[Dendrochronology and palaeography shed light on coffin production and burial practices of Twelfth Dynasty Egypt](https://www.dropbox.com/s/nzbjbn9dzeu3yp7/Dom%C3%ADnguez%20Delm%C3%A1s%20et%20al_Dendro%20and%20Palaeography%20coffins.mp4?dl=0)
+
+#### Nesrin El Hadidi, Lenda Sharaf, Amira El Baroudy and WesamEldin I. A. Saber
+[How to monitor, identify and assess biodeterioration in ancient Egyptian wooden coffins](https://www.dropbox.com/scl/fi/lm2fvc11rpmip3pz5485e/ElHadidi.mp4?rlkey=28jyg1y4pj5nbpzb6z9w7nxtq&dl=0)
+
+#### Alex Loktionov
+[Coffins in court: The place and value of coffins in Ramesside legal documents](https://www.dropbox.com/s/rgkijmm4n4h0af9/Loktionov.mp4?dl=0)
+
+#### Kathlyn M. Cooney
+[Surviving king’s coffins from the royal Theban cache TT 320: Seqenenre Tao, Thutmose I, Thutmose III, and Ramses II](https://www.dropbox.com/scl/fi/4o8605vkprvb9enn02pq5/Cooney.mp4?rlkey=qvcfm8mikbrg0ks20geute0m7&dl=0)
