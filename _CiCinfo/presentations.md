@@ -90,5 +90,21 @@ their evolution](https://www.dropbox.com/s/fgh9td88uwtcgty/Mainieri.mp4?dl=0)
 [Preserving history: The formal approach to conservation of a wooden coffin covered with a black resin layer and coloured materials at 
 Dahshur Archaeological Area](https://www.dropbox.com/s/r0kw3ok0as2jju8/Abdelmoniem2.mp4?dl=0)
 
-#### Katharina Stövesand and Abdelrazek Elnaggar
+#### Katharina Stoevesand and Abdelrazek Elnaggar
 [A group of el-Hibe coffins in the Egyptian Museum Cairo. Unique iconographies and unusual wealth in a provincial cemetery](https://www.dropbox.com/scl/fi/1vg52krzcr2w4a7gqm0gm/Stoevesand.mp4?rlkey=8f1nf76327utyd31x312kvj7p&dl=0)
+
+#### Kylie Thomsen
+Reassessing the sarcophagus of Hunefer in context
+
+#### Isa Boehme
+The use, placement, and design of body containers in K24, Saqqara, and their social level
+
+#### Jiri Janak and Renata Landgrafova 
+Coffinless resurrection. The tombs of the Saite-Persian period at Abusir
+
+#### Mykola Tarasenko
+Fragment of the coffin of Amenhaiu (Odesa Archaeological Museum inv. No. 52611)
+
+#### Elisabeth Kruck
+A coffin for dating – or should we even date?
+
