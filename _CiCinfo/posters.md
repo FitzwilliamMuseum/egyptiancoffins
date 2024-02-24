@@ -13,7 +13,7 @@ who should be contacted to answer any questions relating to them.
 
 #### Ghada M. Azzam
 
-Unpublished sarcophagus no.75, in the Giza Magazine, now in the GEM no. 5185 A-B
+[Unpublished sarcophagus no.75, in the Giza Magazine, now in the GEM no. 5185 A-B](/images/Azzam_Kamel.jpg)
 
 Corresponding author: [Ghada M. Azzam](mailto:ghada_azzam@yahoo.com)
 
@@ -31,19 +31,19 @@ Corresponding author: [Kea Johnston](mailto:kjohnsto@berkeley.edu)
 
 #### Salwa Kamel and Howida Mohamed
 
-The unpublished coffin of _MS-pA di-pA di-#nsw_ no. TR 18/ 1/ 27/ 12- SR 7/ 23548 at the Egyptian Museum in Cairo
+[The unpublished coffin of _MS-pA di-pA di-#nsw_ no. TR 18/ 1/ 27/ 12- SR 7/ 23548 at the Egyptian Museum in Cairo](Kamel_Mohamed.jpg)
 
 Corresponding author: [Salwa Kamel](mailto:dr_salwakamel@yahoo.com)
 
 #### Elisabeth Kruck and Andrea Kilian
 
-Frieze inscriptions – Only text describing image?
+[Frieze inscriptions – Only text describing image?](/assets/pdfs/Kruck_killian1.pdf)
 
 Corresponding author: [Elisabeth Kruck](mailto:elisabeth.kruck@univie.ac.at)
 
 #### Mohamed Ragab, Nesrin Elhadidi, Sawsan Darwish, Mahmoud Abdel Hafez and Islam Shaheen
 
-Investigating the yellow coffin lid: Between original and retouched
+[Investigating the yellow coffin lid: Between original and retouched](/images/Ragab.jpg)
 
 Corresponding author: [Mohamed Ragab](mailto:ragabconservator@gmail.com)
 
