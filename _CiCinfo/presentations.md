@@ -108,3 +108,6 @@ Fragment of the coffin of Amenhaiu (Odesa Archaeological Museum inv. No. 52611)
 #### Elisabeth Kruck
 A coffin for dating – or should we even date?
 
+#### Caroline Arbuckle
+The religious significance of coffin timbers
+
