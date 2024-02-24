@@ -94,20 +94,20 @@ Dahshur Archaeological Area](https://www.dropbox.com/s/r0kw3ok0as2jju8/Abdelmoni
 [A group of el-Hibe coffins in the Egyptian Museum Cairo. Unique iconographies and unusual wealth in a provincial cemetery](https://www.dropbox.com/scl/fi/1vg52krzcr2w4a7gqm0gm/Stoevesand.mp4?rlkey=8f1nf76327utyd31x312kvj7p&dl=0)
 
 #### Kylie Thomsen
-Reassessing the sarcophagus of Hunefer in context
+[Reassessing the sarcophagus of Hunefer in context](https://www.dropbox.com/scl/fi/rw3s6bbdktn03kh4698n6/Thomsen.mp4?rlkey=hngas4mo1zbalsh6xnin1rkzz&dl=0)
 
 #### Isa Boehme
-The use, placement, and design of body containers in K24, Saqqara, and their social level
+[The use, placement, and design of body containers in K24, Saqqara, and their social level](https://www.dropbox.com/scl/fi/ioshhflq5ns9hzxx918yu/Boehme.mp4?rlkey=hhjcjc8ofu7xb7y3920ynwgfh&dl=0)
 
 #### Jiri Janak and Renata Landgrafova 
-Coffinless resurrection. The tombs of the Saite-Persian period at Abusir
+[Coffinless resurrection. The tombs of the Saite-Persian period at Abusir](https://www.dropbox.com/scl/fi/irb6u2b5qtnfsbsniuoo3/Janak_Landgrafova.mp4?rlkey=foh7vncqrct6fztllanxv7qyc&dl=0)
 
 #### Mykola Tarasenko
-Fragment of the coffin of Amenhaiu (Odesa Archaeological Museum inv. No. 52611)
+[Fragment of the coffin of Amenhaiu (Odesa Archaeological Museum inv. No. 52611)](https://www.dropbox.com/s/z5fhc5ayicc6uch/Tarasenko.mp4?dl=0)
 
 #### Elisabeth Kruck
-A coffin for dating – or should we even date?
+[A coffin for dating – or should we even date?](https://www.dropbox.com/s/1dxq8ddnd08umob/Kruck.mp4?dl=0)
 
 #### Caroline Arbuckle
-The religious significance of coffin timbers
+[The religious significance of coffin timbers](https://www.dropbox.com/scl/fi/an8bqt2cfxp8r1rak4x69/Arbuckle_MacLeod.mp4?rlkey=g8ri9oqw7qxojgwsk68yf5877&dl=0)
 
