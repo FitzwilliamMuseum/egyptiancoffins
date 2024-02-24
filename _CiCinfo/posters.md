@@ -11,12 +11,6 @@ The online versions of posters being presented at **Coffins in Context*** are
 being added to the website and will be available from the links below. We will also provid the email addresses of the relevant corresponding author 
 who should be contacted to answer any questions relating to them.
 
-#### Shaimaa Abd-elsttar and Salwa Kamel
-
-An unpublished coffin of _sAb pA di Ast_ from Giza no. 369 stored in the Giza Magazine
-
-Corresponding author: [Shaimaa Abd-elsttar](mailto:dr.shaimaa_abdelsttar@farch.luxor.edu.eg)
-
 #### Ghada M. Azzam
 
 Unpublished sarcophagus no.75, in the Giza Magazine, now in the GEM no. 5185 A-B
