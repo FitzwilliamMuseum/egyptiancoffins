@@ -31,7 +31,7 @@ Corresponding author: [Kea Johnston](mailto:kjohnsto@berkeley.edu)
 
 #### Salwa Kamel and Howida Mohamed
 
-[The unpublished coffin of _MS-pA di-pA di-#nsw_ no. TR 18/ 1/ 27/ 12- SR 7/ 23548 at the Egyptian Museum in Cairo](Kamel_Mohamed.jpg)
+[The unpublished coffin of _MS-pA di-pA di-#nsw_ no. TR 18/ 1/ 27/ 12- SR 7/ 23548 at the Egyptian Museum in Cairo](/images/Kamel_Mohamed.jpg)
 
 Corresponding author: [Salwa Kamel](mailto:dr_salwakamel@yahoo.com)
 
