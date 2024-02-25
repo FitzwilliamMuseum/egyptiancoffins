@@ -9,11 +9,11 @@ layout: coffins
 
 In order to help those connecting to the conference remotely, who are in parts of the world that are a long way from the UK, we have asked speakers 
 for permission to record their presentations so that they can been shared on-line with registered participants while the
-conference is happening. Links to these recordings will be made available here during the course of the conference. Please note, however, that not all
-speakers have agreed to this.
+conference is happening. Note that not all speakers have agreed to this. 
 
-Some presenters have also agreed to allow their presentations to remain available until 24 March, and those will remain available from this page 
-until that date. 
+Links to these recordings have been made available here during the course of the conference, and many speakers have also agreed to their being 
+presented here for a month after the conference, after which the links will no longer work. For those that have not given permission for 
+this extended period, the links will automatically be disabled after 25 February.
 
 #### E. Ferraris, P. Buscaglia, S. Maineri, J. Vilaro Fabregat, C. Ricci and T. Cavaleri
 [The coffin set of Tamutmutef storytelling: a new exhibition area in the Museo Egizio of Turin](https://www.dropbox.com/scl/fi/s6y2n7qkf9tcbo48p1k9j/Ferraris_Buscaglia.mp4?rlkey=c5r5tc68dngv2bt5k0gt5box4&dl=0)
