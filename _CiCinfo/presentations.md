@@ -97,7 +97,11 @@ Dahshur Archaeological Area](https://www.dropbox.com/s/r0kw3ok0as2jju8/Abdelmoni
 [Reassessing the sarcophagus of Hunefer in context](https://www.dropbox.com/scl/fi/rw3s6bbdktn03kh4698n6/Thomsen.mp4?rlkey=hngas4mo1zbalsh6xnin1rkzz&dl=0)
 
 #### Isa Boehme
-[The use, placement, and design of body containers in K24, Saqqara, and their social level](https://www.dropbox.com/scl/fi/ioshhflq5ns9hzxx918yu/Boehme.mp4?rlkey=hhjcjc8ofu7xb7y3920ynwgfh&dl=0)
+Isa has kindly provided two videos of the full version of her presentation here:
+* [Part 1](https://www.dropbox.com/scl/fi/vj0w1f155v9z6qzrqhqjo/Cambridge_Boehme_Part_01_Tjanihebu_etc.mp4?rlkey=3ev1shv647rry7d2u8mchuz26&dl=0)
+* [Part 2](https://www.dropbox.com/scl/fi/0dwgk9vhgzs32l7yibhsh/Cambridge_Boehme_Part_02_K24_T06.mov?rlkey=8h8b6p6zcryjqrdufk1s6hu5k&dl=0)
+
+Presented version: [The use, placement, and design of body containers in K24, Saqqara, and their social level](https://www.dropbox.com/scl/fi/ioshhflq5ns9hzxx918yu/Boehme.mp4?rlkey=hhjcjc8ofu7xb7y3920ynwgfh&dl=0)
 
 #### Jiri Janak and Renata Landgrafova 
 [Coffinless resurrection. The tombs of the Saite-Persian period at Abusir](https://www.dropbox.com/scl/fi/irb6u2b5qtnfsbsniuoo3/Janak_Landgrafova.mp4?rlkey=foh7vncqrct6fztllanxv7qyc&dl=0)
