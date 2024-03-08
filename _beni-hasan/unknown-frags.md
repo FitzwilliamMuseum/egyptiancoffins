@@ -2,7 +2,7 @@
 category: beni-hasan
 title: 'Fragments belonging to three different unknown individuals'
 permalink: /coffins/beni-hasan/unknown-frags
-image: /images/beni-hasan/EW78.jpg
+image: /images/beni-hasan/EW78_thumb.jpg
 order: 11
 layout: coffins
 id: beni-hasan
