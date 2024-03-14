@@ -6,10 +6,9 @@ image: /images/coffinsincontext/Christs.jpg
 order: 6
 layout: coffins
 ---
-**Please note that the deadline for submitting abstracts for the conference has now passed, and abstracts will be peer reviewed over the next few weeks.** 
 
-The conference represents a chance to pause and consider what we have learned through coffins studies in recent years and the direction of future research. In light of this, 
-we will prioritise papers addressing the following potential themes, rather than studies of individual coffins:
+The **Coffins in Context** conference represented a chance to pause and consider what we have learned through coffins studies in recent years and the direction of future research. In light of this, 
+we prioritised papers addressing the following potential themes, rather than studies of individual coffins:
 
   * **The relationship between coffins, the dead and funerary practice,** for example
     -  coffins with specific iconographic elements
@@ -41,4 +40,3 @@ we will prioritise papers addressing the following potential themes, rather than
     -  documents concerned with coffin manufacture
     -  disputes and court cases around coffins
 
-To register your interest in participating, including submitting an abstract if you would like to present a paper or poster, please use **[this form](https://forms.gle/PmZZAsfGHCsqaYCT8)**.
