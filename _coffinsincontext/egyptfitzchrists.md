@@ -15,4 +15,4 @@ the Museum. More information is available on this website.
 an international Egyptology hub. It is the home of the Lady Wallis Budge Fellowship in Egyptology, which has funded continuous research into 
 Ancient Egypt at the College since 1934. During this time, the College has employed twelve Egyptologists, who have worked across ten countries and 
 five continents, as well as training numerous students and hosting the international Wallis Budge Egyptology symposia. More information is available 
-at [https://egyptology.christs.cam.ac.uk/](https://egyuptology.christs.cam.ac.uk). 
+at [https://egyptology.christs.cam.ac.uk/](https://egyptology.christs.cam.ac.uk). 
