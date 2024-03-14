@@ -6,7 +6,7 @@ permalink: /coffinsincontext
 id: coffinsincontext
 category: coffinsincontext
 ---
-**The Fitzwilliam Museum and Christ’s College, Cambridge hosted a conference, entitled _Coffins in Context_ on ancient Egyptian coffins from Thursday 22 to Saturday 24 February 2024.** The conference venue was held at the **[Yusuf Hamied Centre at Christ's College, Cambridge](https://www.christs.cam.ac.uk/facilities/yusuf-hamied)**.
+**The Fitzwilliam Museum and Christ’s College, Cambridge hosted a conference on ancient Egyptian coffins, entitled _Coffins in Context_, from Thursday 22 to Saturday 24 February 2024.** The conference venue was the **[Yusuf Hamied Centre at Christ's College, Cambridge](https://www.christs.cam.ac.uk/facilities/yusuf-hamied)**.
 
 ### Background 
 A previous conference, hosted by the Fitzwilliam Museum in 2016 (Ancient Egyptian Coffins: past • present • future), 
@@ -14,7 +14,7 @@ focussed on the development of coffins in antiquity, including technological, ic
 coffins and developments in their technical examination and analysis. Since then, studies have moved on, with numerous institutions around the 
 world carrying out comprehensive investigations of the coffins in their collections. 
 
-The 2024 **Coffins in Context** conference represented a chance to pause and consider what we had been learned and the potential 
+The 2024 **Coffins in Context** conference represented a chance to pause and consider what had been learned in recent years and the potential 
 direction of future coffin research. 
 See our [call for papers](https://egyptiancoffins.org/coffinsincontext/callforpapers/) for the themes of the conference.
 
