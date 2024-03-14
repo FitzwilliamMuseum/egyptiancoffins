@@ -1,6 +1,6 @@
 ---
 category: coffinsincontext
-title: 'Call for papers'
+title: 'Conference themes'
 url: /coffinsincontext/callforpapers
 image: /images/coffinsincontext/Christs.jpg
 order: 6
