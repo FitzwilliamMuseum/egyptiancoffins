@@ -2,7 +2,7 @@
 layout: pop-ups
 title: Pop-Up Museum, back in action
 thumbnail: /images/news/oasis.jpg
-date: 29-05-2019
+date: 25-03-2024
 permalink: /popups/oasis-community
 category: pop-ups
 images:
