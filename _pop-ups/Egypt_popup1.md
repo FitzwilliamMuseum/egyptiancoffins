@@ -3,7 +3,7 @@ layout: pop-ups
 title: Pop-Up Museum, back in action
 thumbnail: /images/news/oasis.jpg
 date: 25-03-2024
-permalink: /popups/oasis-community
+permalink: /popups/Egypt_popup1
 category: pop-ups
 images:
  -
