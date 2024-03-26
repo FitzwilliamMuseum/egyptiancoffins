@@ -17,8 +17,7 @@ images:
   caption: A local showing us his own carpentry tools in Esna
  -
   image: 4.jpg
-  caption: An upholsterer demonstrating his upholstering tool which he finds very similar
-   to the ancient Egyptian bow drill in design, Esna
+  caption: An upholsterer demonstrating his upholstering tool which he finds very similar to the ancient Egyptian bow drill in design, Esna
  -
   image: 5.jpg
   caption: A young boy mastering the dismantling and assembly of a dog’s coffin replica, Esna
@@ -30,8 +29,7 @@ images:
   caption: Locals stopping for the Pop-Up tools demonstration by our volunteer Nadim, Esna
  -
   image: 8.JPEG
-  caption: A local sharing his knowledge on carpentry methods of his times and its relevance
-  to ancient Egypt, Esna
+  caption: A local sharing his knowledge on carpentry methods of his times and its relevance to ancient Egypt, Esna
  -
   image: 9.jpg
   caption: Visting the carpentry workshops in Damietta
@@ -40,29 +38,25 @@ images:
   caption: Visting the boat makers in Ezbet El Borg
  -
   image: 11.jpg
-  caption: Mariam, a student in Thebes university explaining to her colleagues the dog
-   coffin design, Luxor
+  caption: Mariam, a student in Thebes university explaining to her colleagues the dog coffin design, Luxor
  -
   image: 12.JPG
   caption: Gayer-Anderson Musem Pop-Up in Cairo
  -
   image: 13.jpg
-  caption: A visitor at the Gayer-Anderson Museum Pop-Up exploring the ancient Egyptian joints
-  and making a video on how they are connected
+  caption: A visitor at the Gayer-Anderson Museum Pop-Up exploring the ancient Egyptian joints and making a video on how they are connected
  -
   image: 14.jpg
   caption: The Pop-Up Museum at the Graeco Roman Museum, Alexandria
  -
   image: 15.jpg
-  caption: Assembling a new kingdom chair replica demonstration with our volunteer Dina 
-  and one of our pop-up museum participants, Graeco Roman Museum, Alexandria
+  caption: Assembling a new kingdom chair replica demonstration with our volunteer Dina and one of our pop-up museum participants, Graeco Roman Museum, Alexandria
  -
   image: 16.jpg
   caption: Rana, our volunteer, demonstrating the tools, The Graeco Roman Museum, Alexandria
  -
   image: 17.JPG
-  caption: Small stool replicas children activity to understand how the ancient Egyptian
-   stools were made, The Graeco Roman Museum, Alexandria
+  caption: Small stool replicas children activity to understand how the ancient Egyptian stools were made, The Graeco Roman Museum, Alexandria
 ---
 From November 2023 to January 2024, the Pop-Up Museum team from the 
 Fitzwilliam Museum began to work in association with ‘Wassla’, an Egyptian initiative 
@@ -185,6 +179,7 @@ students who visited us at The Gayer-Anderson Museum [made a short video](/image
 of all the joints being dissembled and assembled. She shared her video on social media 
 which intrigued people, prompting them to ask more questions. You can see the video below!
 
+https://github.com/FitzwilliamMuseum/egyptiancoffins/assets/45968885/baac403e-ec58-4b02-a931-cd24c7495ece
 
 Shortly after, we were encouraged by the head of museums sector in Egypt, Dr. Moamen 
 Othman, who is a great supporter of the Pop-Up museum community outreach, to have a Pop- 
