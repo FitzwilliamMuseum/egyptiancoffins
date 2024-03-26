@@ -32,32 +32,32 @@ images:
     image: news/8.JPEG
     caption: A local sharing his knowledge on carpentry methods of his times and its relevance to ancient Egypt, Esna
   -
-   image: news/9.jpg
-   caption: Visting the carpentry workshops in Damietta
+    image: news/9.jpg
+    caption: Visting the carpentry workshops in Damietta
   -
-   image: news/10.jpg
-  caption: Visting the boat makers in Ezbet El Borg
+    image: news/10.jpg
+    caption: Visting the boat makers in Ezbet El Borg
   -
-   image: news/11.jpg
-   caption: Mariam, a student in Thebes university explaining to her colleagues the dog coffin design, Luxor
+    image: news/11.jpg
+    caption: Mariam, a student in Thebes university explaining to her colleagues the dog coffin design, Luxor
   -
-   image: news/12.JPG
-   caption: Gayer-Anderson Musem Pop-Up in Cairo
+    image: news/12.JPG
+    caption: Gayer-Anderson Musem Pop-Up in Cairo
   -
-   image: news/13.jpg
-  caption: A visitor at the Gayer-Anderson Museum Pop-Up exploring the ancient Egyptian joints and making a video on how they are connected
+    image: news/13.jpg
+    caption: A visitor at the Gayer-Anderson Museum Pop-Up exploring the ancient Egyptian joints and making a video on how they are connected
   -
-   image: news/14.jpg
-  caption: The Pop-Up Museum at the Graeco Roman Museum, Alexandria
+    image: news/14.jpg
+    caption: The Pop-Up Museum at the Graeco Roman Museum, Alexandria
   -
-   image: news/15.jpg
-  caption: Assembling a new kingdom chair replica demonstration with our volunteer Dina and one of our pop-up museum participants, Graeco Roman Museum, Alexandria
+    image: news/15.jpg
+    caption: Assembling a new kingdom chair replica demonstration with our volunteer Dina and one of our pop-up museum participants, Graeco Roman Museum, Alexandria
   -
-   image: news/16.jpg
-  caption: Rana, our volunteer, demonstrating the tools, The Graeco Roman Museum, Alexandria
- -
-   image: news/17.JPG
-  caption: Small stool replicas children activity to understand how the ancient Egyptian stools were made, The Graeco Roman Museum, Alexandria
+    image: news/16.jpg
+    caption: Rana, our volunteer, demonstrating the tools, The Graeco Roman Museum, Alexandria
+  -
+    image: news/17.JPG
+    caption: Small stool replicas children activity to understand how the ancient Egyptian stools were made, The Graeco Roman Museum, Alexandria
 ---
 From November 2023 to January 2024, the Pop-Up Museum team from the 
 Fitzwilliam Museum began to work in association with ‘Wassla’, an Egyptian initiative 
