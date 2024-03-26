@@ -34,30 +34,6 @@ images:
  -
   image: 9.jpg
   caption: Visting the carpentry workshops in Damietta
- -
-  image: 10.jpg
-  caption: Visting the boat makers in Ezbet El Borg
- -
-  image: 11.jpg
-  caption: Mariam, a student in Thebes university explaining to her colleagues the dog coffin design, Luxor
- -
-  image: 12.JPG
-  caption: Gayer-Anderson Musem Pop-Up in Cairo
- -
-  image: 13.jpg
-  caption: A visitor at the Gayer-Anderson Museum Pop-Up exploring the ancient Egyptian joints and making a video on how they are connected
- -
-  image: 14.jpg
-  caption: The Pop-Up Museum at the Graeco Roman Museum, Alexandria
- -
-  image: 15.jpg
-  caption: Assembling a new kingdom chair replica demonstration with our volunteer Dina and one of our pop-up museum participants, Graeco Roman Museum, Alexandria
- -
-  image: 16.jpg
-  caption: Rana, our volunteer, demonstrating the tools, The Graeco Roman Museum, Alexandria
- -
-  image: 17.JPG
-  caption: Small stool replicas children activity to understand how the ancient Egyptian stools were made, The Graeco Roman Museum, Alexandria
 ---
 From November 2023 to January 2024, the Pop-Up Museum team from the 
 Fitzwilliam Museum began to work in association with ‘Wassla’, an Egyptian initiative 
@@ -154,3 +130,52 @@ We coincidentally had ‘How to make an Egyptian coffin’ book with us so we st
 him the images and demonstrating with the ancient Egyptian replica tools. It was great to 
 see how such engagement can overcome limitations of communication and become the common 
 language to connect. 
+
+After our return from our Upper Egyptian Pop-Up activities, we travelled back to Cairo for
+two more Pop-Ups.
+We received an invitation from The British University in Cairo, BUE, to give a talk 
+followed by a Pop-Up. Luckily we had Julie Dawson, the former head of conservation at 
+the Fitzwilliam Museum and Helen Strudwick, senior curator of the ancient Egyptian 
+collection at the Fitzwilliam Museum who gave the talk about ancient Egyptian woodwork making
+and painting techniques to students in the Art and Design department, followed by a Pop-Up
+where both students and professors participated. 
+
+
+This was followed by our last Pop-up museum in Cairo at The Gayer-Anderson Museum. It is 
+a historic Mamluk house where British Major and antiquities collector, R.G. Gayer Anderson
+Pasha lived from 1935 to 1942 and kept some of his collection. We set up the Pop-Up in the
+[house’s garden](/images/news/12.jpg) so all museum visitors were able to see us, 
+chat with us and be as curious
+as they wanted to be. There was a group of retired elders who very enthusiastically joined us, 
+some of whom were working in fields relevant to museums and Egyptology, so they shared 
+and exchanged experience with us and the rest of the participants were families, 
+university students, and tourists. In all Pop-Ups we also have replicas of ancient 
+Egyptian joints and connections that people can experiment with like a puzzle. One of the
+students who visited us at The Gayer-Anderson Museum [made a short video](/images/news/13.jpg) 
+of all the joints being dissembled and assembled. She shared her video on social media 
+which intrigued people, prompting them to ask more questions. You can see the video [here](https://github.com/FitzwilliamMuseum/egyptiancoffins/assets/45968885/baac403e-ec58-4b02-a931-cd24c7495ece)!
+
+Shortly after, we were encouraged by the head of museums sector in Egypt, Dr. Moamen 
+Othman, who is a great supporter of the Pop-Up museum community outreach, to have a Pop- 
+Up museum at the Graeco Roman Museum in Alexandria. We had our Pop-Up setting in the [inner 
+courtyard of the museum](/images/news/14.jpg), where museum visitors could easily spot us 
+on their way to the 
+museum cafe or in passing. We spent there at least 4 hours continuously, where we received
+a wide range of participants including families, university students, school children, 
+tourists, museum curators. This was preceded by multiple visits, research and discussions 
+with the curators at the Graeco Roman Museum to integrate the relevant collection on 
+display within the Pop-Up Museum context.  
+
+
+In all those Pop-Ups, we trained [volunteers](/images/news/15.jpg) to join us, some of 
+whom were high school students, university students or young people at their early stage 
+career. This has given them the chance to [join an experience](/images/news/16.jpg) 
+they haven’t necessarily been exposed to before, 
+know more about creative means of community outreach and it also it added another level 
+of diversity and inclusion which we are keen on in our outreach programs. 
+
+
+As we ended 2023 and kicked off 2024 with these very diverse, thought-provoking, inspiring
+Pop-Ups, we are looking forward to plan more of them and collaborate with more museums 
+and museum professionals, entities and individuals who are interested in taking history 
+and heritage out to people where they least expect find it! 
