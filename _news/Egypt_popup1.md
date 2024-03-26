@@ -17,8 +17,7 @@ images:
   caption: A local showing us his own carpentry tools in Esna
  -
   image: 4.jpg
-  caption: An upholsterer demonstrating his upholstering tool which he finds very similar
-   to the ancient Egyptian bow drill in design, Esna
+  caption: An upholsterer demonstrating his upholstering tool which he finds very similar to the ancient Egyptian bow drill in design, Esna
  -
   image: 5.jpg
   caption: A young boy mastering the dismantling and assembly of a dog’s coffin replica, Esna
@@ -39,8 +38,7 @@ images:
   caption: Visting the boat makers in Ezbet El Borg
  -
   image: 11.jpg
-  caption: Mariam, a student in Thebes university explaining to her colleagues the dog
-   coffin design, Luxor
+  caption: Mariam, a student in Thebes university explaining to her colleagues the dog coffin design, Luxor
  -
   image: 12.JPG
   caption: Gayer-Anderson Musem Pop-Up in Cairo
@@ -52,16 +50,13 @@ images:
   caption: The Pop-Up Museum at the Graeco Roman Museum, Alexandria
  -
   image: 15.jpg
-  caption: Assembling a new kingdom chair replica demonstration with our volunteer Dina 
-  and one of our pop-up museum participants, Graeco Roman Museum, Alexandria
+  caption: Assembling a new kingdom chair replica demonstration with our volunteer Dina and one of our pop-up museum participants, Graeco Roman Museum, Alexandria
  -
   image: 16.jpg
   caption: Rana, our volunteer, demonstrating the tools, The Graeco Roman Museum, Alexandria
  -
   image: 17.JPG
-  caption: Small stool replicas children activity to understand how the ancient Egyptian
-   stools were made, The Graeco Roman Museum, Alexandria
- -
+  caption: Small stool replicas children activity to understand how the ancient Egyptian stools were made, The Graeco Roman Museum, Alexandria
 ---
 From November 2023 to January 2024, the Pop-Up Museum team from the 
 Fitzwilliam Museum began to work in association with ‘Wassla’, an Egyptian initiative 
