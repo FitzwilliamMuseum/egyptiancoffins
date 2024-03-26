@@ -1,6 +1,6 @@
 ---
 layout: pop-ups
-title: Pop-Up Museum, back in action
+title: Pop-Up Museum back in action
 category: pop-ups
 date: 26-03-2024
 author: Sara Abed
