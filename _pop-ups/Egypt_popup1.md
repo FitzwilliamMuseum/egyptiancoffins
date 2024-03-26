@@ -1,7 +1,7 @@
 ---
 layout: pop-ups
 title: Pop-Up Museum, back in action
-thumbnail: /images/news/cover.jpg
+thumbnail: /images/news/Cover.jpg
 date: 26-03-2024
 permalink: /popups/Egypt_popup1
 category: pop-ups
@@ -177,9 +177,7 @@ university students, and tourists. In all Pop-Ups we also have replicas of ancie
 Egyptian joints and connections that people can experiment with like a puzzle. One of the
 students who visited us at The Gayer-Anderson Museum [made a short video](/images/news/13.jpg) 
 of all the joints being dissembled and assembled. She shared her video on social media 
-which intrigued people, prompting them to ask more questions. You can see the video below!
-
-https://github.com/FitzwilliamMuseum/egyptiancoffins/assets/45968885/baac403e-ec58-4b02-a931-cd24c7495ece
+which intrigued people, prompting them to ask more questions. You can see the video [here](https://github.com/FitzwilliamMuseum/egyptiancoffins/assets/45968885/baac403e-ec58-4b02-a931-cd24c7495ece)!
 
 Shortly after, we were encouraged by the head of museums sector in Egypt, Dr. Moamen 
 Othman, who is a great supporter of the Pop-Up museum community outreach, to have a Pop- 
