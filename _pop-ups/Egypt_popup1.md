@@ -30,7 +30,7 @@ images:
     caption: Locals stopping for the Pop-Up tools demonstration by our volunteer Nadim, Esna
   -
     image: news/8.JPEG
-  caption: A local sharing his knowledge on carpentry methods of his times and its relevance to ancient Egypt, Esna
+    caption: A local sharing his knowledge on carpentry methods of his times and its relevance to ancient Egypt, Esna
   -
    image: news/9.jpg
    caption: Visting the carpentry workshops in Damietta
