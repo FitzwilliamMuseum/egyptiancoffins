@@ -1,39 +1,63 @@
 ---
 layout: pop-ups
 title: Pop-Up Museum, back in action
-thumbnail: /images/news/Cover.jpg
-date: 26-03-2024
-permalink: /popups/Egypt_popup1
 category: pop-ups
+date: 26-03-2024
 author: Sara Abed
+thumbnail: /images/news/Cover.jpg
+permalink: /pop-ups/Egypt_popup1
 images:
- -
-  image: 1.jpg
-  caption: The historic market in Esna
- -
-  image: 2.JPEG
-  caption: Demonstrating the ancient Egyptian carpentry tools to the locals in Esna
- -
-  image: 3.jpg
-  caption: A local showing us his own carpentry tools in Esna
- -
-  image: 4.jpg
-  caption: An upholsterer demonstrating his upholstering tool which he finds very similar to the ancient Egyptian bow drill in design, Esna
- -
-  image: 5.jpg
-  caption: A young boy mastering the dismantling and assembly of a dog’s coffin replica, Esna
- -
-  image: 6.JPEG
-  caption: Local school girls trying the ancient Egyptian brush-making and painting, Esna
- -
-  image: 7.jpg
-  caption: Locals stopping for the Pop-Up tools demonstration by our volunteer Nadim, Esna
- -
-  image: 8.JPEG
+  -
+    image: news/1.jpg
+    caption: The historic market in Esna
+  -
+    image: news/2.JPEG
+    caption: Demonstrating the ancient Egyptian carpentry tools to the locals in Esna
+  -
+    image: news/3.jpg
+    caption: A local showing us his own carpentry tools in Esna
+  -
+    image: news/4.jpg
+    caption: An upholsterer demonstrating his upholstering tool which he finds very similar to the ancient Egyptian bow drill in design, Esna
+  -
+    image: news/5.jpg
+    caption: A young boy mastering the dismantling and assembly of a replica dog coffin, Esna
+  -
+    image: news/6.JPEG
+    caption: Local school girls trying the ancient Egyptian brush-making and painting, Esna
+  -
+    image: news/7.jpg
+    caption: Locals stopping for the Pop-Up tools demonstration by our volunteer Nadim, Esna
+  -
+    image: news/8.JPEG
   caption: A local sharing his knowledge on carpentry methods of his times and its relevance to ancient Egypt, Esna
+  -
+   image: news/9.jpg
+   caption: Visting the carpentry workshops in Damietta
+  -
+   image: news/10.jpg
+  caption: Visting the boat makers in Ezbet El Borg
+  -
+   image: news/11.jpg
+   caption: Mariam, a student in Thebes university explaining to her colleagues the dog coffin design, Luxor
+  -
+   image: news/12.JPG
+   caption: Gayer-Anderson Musem Pop-Up in Cairo
+  -
+   image: news/13.jpg
+  caption: A visitor at the Gayer-Anderson Museum Pop-Up exploring the ancient Egyptian joints and making a video on how they are connected
+  -
+   image: news/14.jpg
+  caption: The Pop-Up Museum at the Graeco Roman Museum, Alexandria
+  -
+   image: news/15.jpg
+  caption: Assembling a new kingdom chair replica demonstration with our volunteer Dina and one of our pop-up museum participants, Graeco Roman Museum, Alexandria
+  -
+   image: news/16.jpg
+  caption: Rana, our volunteer, demonstrating the tools, The Graeco Roman Museum, Alexandria
  -
-  image: 9.jpg
-  caption: Visting the carpentry workshops in Damietta
+   image: news/17.JPG
+  caption: Small stool replicas children activity to understand how the ancient Egyptian stools were made, The Graeco Roman Museum, Alexandria
 ---
 From November 2023 to January 2024, the Pop-Up Museum team from the 
 Fitzwilliam Museum began to work in association with ‘Wassla’, an Egyptian initiative 
