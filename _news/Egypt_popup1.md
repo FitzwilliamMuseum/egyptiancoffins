@@ -30,8 +30,7 @@ images:
   caption: Locals stopping for the Pop-Up tools demonstration by our volunteer Nadim, Esna
  -
   image: 8.JPEG
-  caption: A local sharing his knowledge on carpentry methods of his times and its relevance
-  to ancient Egypt, Esna
+  caption: A local sharing his knowledge on carpentry methods of his times and its relevance to ancient Egypt, Esna
  -
   image: 9.jpg
   caption: Visting the carpentry workshops in Damietta
@@ -47,8 +46,7 @@ images:
   caption: Gayer-Anderson Musem Pop-Up in Cairo
  -
   image: 13.jpg
-  caption: A visitor at the Gayer-Anderson Museum Pop-Up exploring the ancient Egyptian joints
-  and making a video on how they are connected
+  caption: A visitor at the Gayer-Anderson Museum Pop-Up exploring the ancient Egyptian joints and making a video on how they are connected
  -
   image: 14.jpg
   caption: The Pop-Up Museum at the Graeco Roman Museum, Alexandria
