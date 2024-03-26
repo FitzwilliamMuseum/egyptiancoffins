@@ -6,6 +6,8 @@ date: 26-03-2024
 author: Sara Abed
 thumbnail: /images/news/Cover.jpg
 permalink: /pop-ups/Egypt_popup1
+lat: 26.59655153434759
+lon: 29.891250293172185
 images:
   -
     image: news/1.jpg
