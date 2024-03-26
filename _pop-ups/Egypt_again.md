@@ -10,7 +10,7 @@ lat: 30.04610944536032
 lon: 31.237864271545785
 images:
   -
-   image: news/1.jpg
+    image: news/1.jpg
     caption: The historic market in Esna
   -
     image: news/2.JPEG
