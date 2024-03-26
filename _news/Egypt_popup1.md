@@ -180,6 +180,10 @@ of all the joints being dissembled and assembled. She shared her video on social
 which intrigued people, prompting them to ask more questions. You can see the video below!
 
 
+https://github.com/FitzwilliamMuseum/egyptiancoffins/assets/45968885/5f0f8814-a51a-4724-9ad7-3f7f12be5c00
+
+
+
 Shortly after, we were encouraged by the head of museums sector in Egypt, Dr. Moamen 
 Othman, who is a great supporter of the Pop-Up museum community outreach, to have a Pop- 
 Up museum at the Graeco Roman Museum in Alexandria. We had our Pop-Up setting in the [inner 
