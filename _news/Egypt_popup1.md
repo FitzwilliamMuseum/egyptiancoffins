@@ -61,6 +61,7 @@ images:
   image: 17.JPG
   caption: Small stool replicas children activity to understand how the ancient Egyptian
    stools were made, The Graeco Roman Museum, Alexandria
+ -
 ---
 From November 2023 to January 2024, the Pop-Up Museum team from the 
 Fitzwilliam Museum began to work in association with ‘Wassla’, an Egyptian initiative 
