@@ -5,6 +5,7 @@ thumbnail: /images/news/Cover.jpg
 date: 26-03-2024
 permalink: /popups/Egypt_popup1
 category: pop-ups
+author: Sara Abed
 images:
  -
   image: 1.jpg
