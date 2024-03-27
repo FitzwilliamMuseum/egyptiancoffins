@@ -5,7 +5,7 @@ category: pop-ups
 date: 26-03-2024
 author: Sara Abed
 thumbnail: /images/news/Cover.jpg
-permalink: /pop-ups/Egypt_popup1
+permalink: /pop-ups/Egypt_popup
 lat: 30.04610944536032
 lon: 31.237864271545785
 images:
