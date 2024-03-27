@@ -1,13 +1,13 @@
 ---
 layout: pop-ups
-title: Pop-Up Museum back in action
+title: Pop-up museum back in action
 category: pop-ups
 date: 26-03-2024
 author: Sara Abed
 thumbnail: /images/news/Cover.jpg
 permalink: /pop-ups/Egypt_popup1
-lat: 30.033333
-lon: 31.233334
+lat: 30.04610944536032
+lon: 31.237864271545785
 images:
   -
     image: news/1.jpg
@@ -53,17 +53,17 @@ images:
     caption: The Pop-Up Museum at the Graeco Roman Museum, Alexandria
   -
     image: news/15.jpg
-    caption: Assembling a new kingdom chair replica demonstration with our volunteer Dina and one of our pop-up museum participants, Graeco Roman Museum, Alexandria
+    caption: Assembling a replica of a New Kingdom with our volunteer Dina and one of our pop-up museum participants, Graeco Roman Museum, Alexandria
   -
     image: news/16.jpg
     caption: Rana, our volunteer, demonstrating the tools, The Graeco Roman Museum, Alexandria
   -
     image: news/17.JPG
-    caption: Small stool replicas children activity to understand how the ancient Egyptian stools were made, The Graeco Roman Museum, Alexandria
+    caption: Small replica stools help children to understand how ancient Egyptian stools were made, The Graeco Roman Museum, Alexandria
 ---
 
 From November 2023 to January 2024, the Pop-Up Museum team from the 
-Fitzwilliam Museum began to work in association with Wassla, an Egyptian initiative 
+Fitzwilliam Museum began to work in association with ‘Wassla’, an Egyptian initiative 
 for heritage and culture. Together they planned a number of community outreach activities
 around Egypt, including talks and Pop-Up Museum activities. 
 
@@ -100,7 +100,7 @@ in Alexandria, and think about how it might relate to ancient Egyptian wood work
 
 
 We then travelled to upper Egypt where we did Pop-Ups in both Esna and Luxor. In Esna, 
-we organised it with Takween a company for integrated community development. The Pop-Up
+we organised it with ‘Takween’ a company for integrated community development. The Pop-Up
 took place at [the local historic market](/images/news/1.jpg), 
 just across from the ancient Egyptian temple of Esna.
 [A diverse range of locals](/images/news/2.jpg) including shop keepers, workers, 
@@ -120,7 +120,7 @@ who have never been out of
 Esna, and hence have never been to a museum before since there is none there. 
 We had a chat with 
 them about the idea of a museum and showed them pictures about what it can look like. 
-Thats how surprising Pop-Ups can be and this is exactly what it is about: taking the 
+That’s how surprising Pop-Ups can be and this is exactly what it is about: taking the 
 museum out to people, especially to those who might be deprived of the opportunity to 
 experience it. We also had another young boy who to have never had the privilege of 
 going to school. He stayed with us for the whole time of the Pop-Up event where he 
@@ -147,13 +147,13 @@ ended helping us with the Pop-Up, where she demonstrated the replica tools to ot
 students and also how to [re-assemble the replica dog coffin](/images/news/11.jpg).
 
 
-During our time in Luxor, we were invited for a meal at Abdel Rahmans family, a local 
+During our time in Luxor, we were invited for a meal at Abdel Rahman’s family, a local 
 who had been a senior inspector and had worked in archaeological excavations before,
 including on [the tomb of Senneferi (TT99)](https://tt99.fitz.ms/). He lives in 
 Al Dabiyyah village on the West Bank near Luxor.
 After our meal he took us to his friend who is a local carpenter to see his tools. At the
 workshop, there was a deaf mute carpenter who was very eager to understand what we do. 
-We coincidentally had How to make an Egyptian coffin book with us so we started showing 
+We coincidentally had ‘How to make an Egyptian coffin’ book with us so we started showing 
 him the images and demonstrating with the ancient Egyptian replica tools. It was great to 
 see how such engagement can overcome limitations of communication and become the common 
 language to connect. 
@@ -169,9 +169,9 @@ where both students and professors participated.
 
 
 This was followed by our last Pop-up museum in Cairo at The Gayer-Anderson Museum. It is 
-a historic Mamluk house where British Major and antiquities collector, R.G. Gayer Anderson
+a historic Mamluk house where British Major and antiquities collector, R.G. Gayer-Anderson
 Pasha lived from 1935 to 1942 and kept some of his collection. We set up the Pop-Up in the
-[houses garden](/images/news/12.jpg) so all museum visitors were able to see us, 
+[house’s garden](/images/news/12.jpg) so all museum visitors were able to see us, 
 chat with us and be as curious
 as they wanted to be. There was a group of retired elders who very enthusiastically joined us, 
 some of whom were working in fields relevant to museums and Egyptology, so they shared 
@@ -197,7 +197,7 @@ display within the Pop-Up Museum context.
 In all those Pop-Ups, we trained [volunteers](/images/news/15.jpg) to join us, some of 
 whom were high school students, university students or young people at their early stage 
 career. This has given them the chance to [join an experience](/images/news/16.jpg) 
-they havent necessarily been exposed to before, 
+they haven’t necessarily been exposed to before, 
 know more about creative means of community outreach and it also it added another level 
 of diversity and inclusion which we are keen on in our outreach programs. 
 
