@@ -5,7 +5,7 @@ category: pop-ups
 date: 26-03-2024
 author: Sara Abed
 thumbnail: /images/news/Cover.jpg
-permalink: /pop-ups/egypt_again
+permalink: /pop-ups/Egypt_again
 lat: 30.04610944536032
 lon: 31.237864271545785
 images:
@@ -53,13 +53,13 @@ images:
     caption: The Pop-Up Museum at the Graeco Roman Museum, Alexandria
   -
     image: news/15.jpg
-    caption: Assembling a new kingdom chair replica demonstration with our volunteer Dina and one of our pop-up museum participants, Graeco Roman Museum, Alexandria
+    caption: Assembling a replica of a New Kingdom with our volunteer Dina and one of our pop-up museum participants, Graeco Roman Museum, Alexandria
   -
     image: news/16.jpg
     caption: Rana, our volunteer, demonstrating the tools, The Graeco Roman Museum, Alexandria
   -
     image: news/17.JPG
-    caption: Small stool replicas children activity to understand how the ancient Egyptian stools were made, The Graeco Roman Museum, Alexandria
+    caption: Small replica stools help children to understand how ancient Egyptian stools were made, The Graeco Roman Museum, Alexandria
 ---
 
 From November 2023 to January 2024, the Pop-Up Museum team from the 
@@ -169,7 +169,7 @@ where both students and professors participated.
 
 
 This was followed by our last Pop-up museum in Cairo at The Gayer-Anderson Museum. It is 
-a historic Mamluk house where British Major and antiquities collector, R.G. Gayer Anderson
+a historic Mamluk house where British Major and antiquities collector, R.G. Gayer-Anderson
 Pasha lived from 1935 to 1942 and kept some of his collection. We set up the Pop-Up in the
 [house’s garden](/images/news/12.jpg) so all museum visitors were able to see us, 
 chat with us and be as curious
@@ -203,6 +203,6 @@ of diversity and inclusion which we are keen on in our outreach programs.
 
 
 As we ended 2023 and kicked off 2024 with these very diverse, thought-provoking, inspiring
-Pop-Ups, we are looking forward to plan more of them and collaborate with more museums 
+Pop-Ups, we are looking forward to planning more of them and collaborating with more museums 
 and museum professionals, entities and individuals who are interested in taking history 
 and heritage out to people where they least expect find it! 
