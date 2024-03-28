@@ -2,7 +2,7 @@
 category: catalogue
 layout: coffins
 title: 'Fragment from the coffin of the master physician, Wepwawetemhat '
-permalink: /coffin-catalogue/E_W_66a
+permalink: /coffin-catalogue/E_W_66a_test
 image: images/catalogue/E_W_66a_E_W_66b_201507_kly25_dc2_crop.jpg
 order: 37
 images: 
