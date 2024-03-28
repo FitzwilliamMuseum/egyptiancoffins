@@ -118,7 +118,7 @@ to ask questions while they were [riding on their motorbikes](/images/news/7.jpg
 the memorable things was meeting children who have never been out of Esna, and hence have 
 never been to a museum before since there is none there. We had a chat with them about the
 idea of a museum and showed them pictures about what it can look like. 
-That’s how surprising Pop-Ups can be and this is exactly what it is about: taking the 
+Thats how surprising Pop-Ups can be and this is exactly what it is about: taking the 
 museum out to people, especially to those who might be deprived of the opportunity to 
 experience it. We also met another young boy who, it seems, never had the privilege of 
 going to school. He stayed with us for the whole time of the Pop-Up event where he 
@@ -144,13 +144,13 @@ ended helping us with the Pop-Up, where she demonstrated the replica tools to ot
 students and also how to [re-assemble the replica dog coffin](/images/news/11.jpg).
 
 
-During our time in Luxor, we were invited for a meal at Abdel Rahman’s family, a local 
+During our time in Luxor, we were invited for a meal at Abdel Rahmans family, a local 
 who had been a senior inspector and had worked in archaeological excavations before,
 including on [the tomb of Senneferi (TT99)](https://tt99.fitz.ms/). He lives in 
 Al Dabiyyah village on the West Bank near Luxor.
 After our meal he took us to his friend who is a local carpenter to see his tools. At the
 workshop, there was a deaf mute carpenter who was very eager to understand what we do. 
-We coincidentally had ‘How to make an Egyptian coffin’ book with us so we started showing 
+We coincidentally had How to make an Egyptian coffin book with us so we started showing 
 him the images and demonstrating with the ancient Egyptian replica tools. It was great to 
 see how such engagement can overcome limitations of communication and become the common 
 language to connect. 
@@ -168,7 +168,7 @@ where both students and professors participated.
 This was followed by our last Pop-up museum in Cairo at The Gayer-Anderson Museum. It is 
 a historic Mamluk house where British Major and antiquities collector, R.G. Gayer-Anderson
 Pasha lived from 1935 to 1942 and kept some of his collection. We set up the Pop-Up in the
-[house’s garden](/images/news/12.jpg) so all museum visitors were able to see us, 
+[houses garden](/images/news/12.jpg) so all museum visitors were able to see us, 
 chat with us and be as curious as they wanted to be. There was a group of retired elders 
 who very enthusiastically joined us, some of whom were working in fields relevant to museums 
 and Egyptology, so they shared and exchanged experience with us. The rest of the participants
@@ -192,7 +192,7 @@ display within the Pop-Up Museum context.
 In all those Pop-Ups, we trained [volunteers](/images/news/15.jpg) to join us, some of 
 whom were high school students, university students or young people at their early stage 
 career. This has given them the chance to [join an experience](/images/news/16.jpg) 
-they haven’t necessarily been exposed to before, know more about creative means of community
+they havent necessarily been exposed to before, know more about creative means of community
 outreach and it also it added another level of diversity and inclusion which we are keen on 
 in our outreach programs. 
 
