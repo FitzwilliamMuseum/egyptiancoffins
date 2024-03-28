@@ -2,7 +2,7 @@
 category: catalogue
 layout: coffins
 title: 'Coffin fragment'
-permalink: /coffin-catalogue/E_W_66b
+permalink: /coffin-catalogue/E_W_66b_test
 image: images/catalogue/large_E_W_66b_1_201411_jas244_dc1_crop.jpg
 order: 38
 images: 
