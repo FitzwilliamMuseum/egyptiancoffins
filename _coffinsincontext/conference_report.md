@@ -7,16 +7,16 @@ order:
 layout: coffins
 images:
   -
-    image: coffinsincontext/3.jpg 
+    image: images/coffinsincontext/3.jpg 
     caption: A model made by Geoffrey Killen recreating the ancient Egyptian carpentry workshop made for Meketre
   -
-    image: coffinsincontext/4.jpg 
+    image: images/coffinsincontext/4.jpg 
     caption: Conference participants at the Fitzwilliam Museum Egyptian galleries
   -
     image: coffinsincontext/5.jpg
     caption : More coffins discussions during lunch; Dr. Geoffry Killen with conservators Mohamed Ragab and Ahmed Tarek from the Grand Egyptian Museum in Cairo
   -
-    image: coffinsincontext/6.jpg 
+    image: images/coffinsincontext/6.jpg 
     caption: A selection of Fitzwilliam Museum publications 
 ---
 
