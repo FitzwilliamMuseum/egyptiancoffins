@@ -7,16 +7,16 @@ order:
 layout: coffins
 images:
   -
-    image: images/coffinsincontext/3.jpg 
+    image: 3.jpg 
     caption: A model made by Geoffrey Killen recreating the ancient Egyptian carpentry workshop made for Meketre
   -
-    image: images/coffinsincontext/4.jpg 
+    image: 4.jpg 
     caption: Conference participants at the Fitzwilliam Museum Egyptian galleries
   -
-    image: coffinsincontext/5.jpg
+    image: 5.jpg
     caption : More coffins discussions during lunch; Dr. Geoffry Killen with conservators Mohamed Ragab and Ahmed Tarek from the Grand Egyptian Museum in Cairo
   -
-    image: images/coffinsincontext/6.jpg 
+    image: 6.jpg 
     caption: A selection of Fitzwilliam Museum publications 
 ---
 
@@ -29,9 +29,9 @@ to members of the public to attend, who were also free to contribute to the disc
 
 
 The conference began at the Fitzwilliam where participants were welcomed over breakfast and
-then had a chance to [visit the Egyptian galleries at the museum](/image/coffinsincontext/4.jpg).
+then had a chance to [visit the Egyptian galleries at the museum](/images/coffinsincontext/4.jpg).
 In addition to viewing the Egyptian collection, including the coffins collection, they were also able to view [a new 
-model recreating the ancient Egyptian carpentry workshop made for Meketre](/image/coffinsincontext/3.jpg)
+model recreating the ancient Egyptian carpentry workshop made for Meketre](/images/coffinsincontext/3.jpg)
 (the original of which is in Cairo), made for the Museum by Geoffrey Killen.
 
 
@@ -46,7 +46,7 @@ interdisciplinary practices, craftsmanship and making of coffins, techniques for
 materials, to the social context of coffins and religious interpretation, as well as the 
 processes of construction, decoration inscriptions, and questions about the usefulness of 
 dating methodologies. Many more topics emerged during the discussion sessions, [some of which 
-continued during the tea/coffee and lunch breaks]((/image/coffinsincontext/5.jpg)). 
+continued during the tea/coffee and lunch breaks](/images/coffinsincontext/5.jpg). 
 
 
 The diverse academic backgrounds of participants who came from different museums, institutes 
@@ -65,7 +65,7 @@ a diverse range of researchers working on ancient Egyptian coffins and to contri
 wide-ranging discussions.
 
 
-During the conference a selection of [Fitzwilliam Museum publications](/image/coffinsincontext/6.jpg)
+During the conference a selection of [Fitzwilliam Museum publications](/images/coffinsincontext/6.jpg)
 was available for purchase at the conference venue and in Museum shop. Some other publications,
 of which there is an overabundance of stock, were also distributed free of charge.
 
