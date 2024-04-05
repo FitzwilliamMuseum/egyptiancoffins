@@ -6,8 +6,8 @@ date: 05-04-2024
 author: Sara Abed
 thumbnail: /images/news/9.jpg
 permalink: /pop-ups/Masr-Fel-Mathaf
-lat:52.20027912941109 
-lon:0.11951306751526686  
+lat: 52.20027912941109 
+lon: 0.11951306751526686  
 images:
   - 
     image: news/Kalamna1.jpg
@@ -32,8 +32,8 @@ images:
     caption: Adults listening to Helen talking about the sarcophagus lid of Ramesses III
 ---
 
-Masr Fel Mathaf is a series of community engagement events that started in 2023, led by Helen 
-Strudwick and Sara Abed, to connect the Egyptian community in Cambridge with the ancient Egyptian collection
+Masr Fel Mathaf is a series of community engagement events that started in 2023, led by [Helen 
+Strudwick](https://egyptiancoffins.org/team/helen-strudwick/) and [Sara Abed](https://egyptiancoffins.org/team/sara-hany-abed/), to connect the Egyptian community in Cambridge with the ancient Egyptian collection
 at The Fitzwilliam Museum. The aim is to create a public space which offers accessibility,
 exchange, sharing, engagement and bridging the past with the present, as well as bringing people into a closer relationship with their 
 heritage. We believe that this is crucial for developing new interpretation and refreshing the displays of objects from the Egyptian
@@ -44,7 +44,7 @@ family groups to The Fitzwilliam Museum, mostly Egyptians, but also Syrians and 
 They joined us from [Kalamna](https://kalamna.org/),
 which offers Arabic language community classes and connects families with their heritage through Arabic classes.
 
-The day started with a family activity, led by Helen Strudwick, Sara Abed and Tom Clarke (an intern who is working at the Museum 
+The day started with a family activity, led by Helen Strudwick, Sara Abed and Tom Clarke (an intern who is working at the Fitzwilliam 
 for three months), in which both the parents and the children participated. They tried using the replicas of ancient Egyptian carpentry tools, 
 and joints, assembling the replica coffin of a dog, making their own ancient Egypt brushes, painting, 
 and knowing more about ancient Egyptian woodwork making and panting techniques. They also had a chance to look at a new
