@@ -52,8 +52,8 @@ how challenges should be acknowledged and addressed, how interdisciplinary appro
 encouraged, and an innovative, outside-the-box approach, or shall I say outside the coffin, 
 is supported.
 
-One of the key things I believe Helen and Julie are always very keen on, and I certainly agree, 
-is [the involvement of Egyptian researchers](images/coffinsincontext/7.jpg). In my opinion, if we are to really address notions 
+One of the key things Helen and Julie are always very keen on, and I certainly agree, is the importance 
+of [the involvement of Egyptian researchers](/images/coffinsincontext/7.jpg). In my opinion, if we are to really address notions 
 of decolonisation of Egyptology and museums then we ought to think that the most crucial part 
 of decolonizing is inclusiveness, accessibility and exchange of research between Egyptian 
 researchers and researchers in the rest of the world. It is very important not only to 
