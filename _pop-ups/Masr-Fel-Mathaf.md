@@ -6,27 +6,30 @@ date: 05-04-2024
 author: Sara Abed
 thumbnail: /images/news/9.jpg
 permalink: /pop-ups/Masr-Fel-Mathaf
-lat: 52.20027912941109
-lon:  0.11951306751526686
+lat:52.20027912941109 
+lon:0.11951306751526686  
 images:
   - 
-    image: news/1.jpg
-    caption: Families enjoying the pop-up museum
+    image: news/Kalamna1.jpg
+    caption: Tom explains the model of the carpenters' workshop
   -
-    image: news/3.jpg
-    caption: Families enjoying the pop-up museum
+    image: news/Kalamna3.jpg
+    caption: Children enjoying the papyrus activity led by Rosanna 
   -
-    image: news/2.jpg
-    caption: Children Egyptian gallery tour led by Rosanna Evans and Florencia Nannetti 
+    image: news/Kalamna2.jpg
+    caption: Sara explaining how to make a paintbrush in the ancient Egyptian manner
   -
-    image: news/11.jpg
-    caption: ancient Egyptian replica carpentry tools, joints, and dog's coffin
+    image: news/Kalamna4.jpg
+    caption: A young person watching a paintbrush being made
   -
-    image: news/16.jpg
-    caption: Parents Egyptian gallery tour lef by Helen Strudwick
+    image: news/Kalamna5.jpg
+    caption: Children with Saussan (from Kalamna) learning about the model of the carpenters' workshop
   -
-    image: news/21.jpg
-    caption: A discussion session with Masr Fel Mathaf participants 
+    image: news/Kalamna6.jpg
+    caption: Trying out the bow drill - always a popular activity
+  -
+    image: news/Kalamna7.jpg
+    caption: Adults listening to Helen talking about the sarcophagus lid of Ramesses III
 ---
 
 Masr Fel Mathaf is a series of community engagement events that started in 2023, led by Helen 
