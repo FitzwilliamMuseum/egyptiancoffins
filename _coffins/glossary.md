@@ -151,42 +151,21 @@ known as a 'ground' layer.
 
 When it has not been possible to characterise pigments fully, their elemental make up has been recorded as, for example, 'calcium-based' or 'copper-based'.
 
-##### Egyptian blue
-A manufactured pigments, prepared by firing copper minerals or metal with a calcium compound (like powdered limestone), silica and soda at high temperature. The principal colour component in Egyptian blue is calcium copper tetrasilicate (CaCuSi<sub>4</sub>O<sub>10</sub>).
+**Egyptian blue** <a name="Egyptianblue"></a> and **Egyptian green** Manufactured pigments, prepared by firing copper minerals or metal with a calcium compound (like powdered limestone), silica and soda at high temperature. The principal colour component in Egyptian blue is calcium copper tetrasilicate (CaCuSi<sub>4</sub>O<sub>10</sub>), and in Egyptian green is cupro-wollastonite (CaSiO<sub>3</sub> with copper in the structure).
 
-##### Egyptian green 
-A manufactured pigments, prepared by firing copper minerals or metal with a calcium compound (like powdered limestone), silica and soda at high temperature. The principal colour component in Egyptian green is cupro-wollastonite (CaSiO<sub>3</sub> with copper in the structure).
+**Malachite (Cu<sub>2</sub>CO<sub>3</sub>(OH)<sub>2</sub>)** A mineral pigment, giving a pale green colour.
 
-##### Malachite 
-(Cu<sub>2</sub>CO<sub>3</sub>(OH)<sub>2</sub>) 
+**Chrysocolla (Cu<sub>2</sub>H<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>(OH)<sub>4</sub>)** A mineral pigment with a turquoise blue colour.
 
-A mineral pigment, giving a pale green colour.
+**Copper-wax, copper-proteinate, copper carbohydrate** Green pigments produced from the reaction of copper salts with various organic media.
 
-##### Chrysocolla 
-(Cu<sub>2</sub>H<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>(OH)<sub>4</sub>)
+**Verdigris (copper acetate)** A copper salt that can be manufactured or found as a corrosion product. Produces a bright green colour.
 
-A mineral pigment with a turquoise blue colour.
+**Earths** This is an umbrella term used to describe a range of pigments derived from naturally occurring deposits containing clay minerals, iron oxides and manganese oxides. They can be found in a range of shades depending on the purity and specific chemical structure of the natural sources, and can include red, yellow, orange and green pigments. The term 'earth' may be confused with ochre, which is a member of the earth pigments group, consisting of earths rich in iron oxide and iron hydroxide. Earths on ancient Egyptian objects may contain one or more of the following:
 
-##### Copper-wax
-Green pigments produced from the reaction of copper salts with various organic media.
+* **Yellow earths** <a name="yellowearth"></a> The iron sulphates jarosite/natrojarosite (KFe<sub>3</sub>(OH)<sub>6</sub>(SO<sub>4</sub>)<sub>2</sub>/ NaFe<sub>3</sub>(SO<sub>4</sub>)<sub>2</sub>(OH)<sub>6</sub>), and the iron oxides goethite (α-FeO·OH) and limonite (FeO(OH)·nH<sub>2</sub>O).
 
-##### Copper-proteinate
-See **Copper-wax**
-
-##### Copper carbohydrate
-See **Copper-wax**
-
-##### Verdigris (copper acetate)
-A copper salt that can be manufactured or found as a corrosion product. Produces a bright green colour.
-
-##### Earths
-This is an umbrella term used to describe a range of pigments derived from naturally occurring deposits containing clay minerals, iron oxides and manganese oxides. They can be found in a range of shades depending on the purity and specific chemical structure of the natural sources, and can include red, yellow, orange and green pigments. The term 'earth' may be confused with ochre, which is a member of the earth pigments group, consisting of earths rich in iron oxide and iron hydroxide. Earths on ancient Egyptian objects may contain one or more of the following:
-
-###### Yellow earths 
-<a name="yellowearth">Yellow earth</a> The iron sulphates jarosite/natrojarosite (KFe<sub>3</sub>(OH)<sub>6</sub>(SO<sub>4</sub>)<sub>2</sub>/ NaFe<sub>3</sub>(SO<sub>4</sub>)<sub>2</sub>(OH)<sub>6</sub>), and the iron oxides goethite (α-FeO·OH) and limonite (FeO(OH)·nH<sub>2</sub>O).
-
-###### Red earths
-<a name="redearth">Red earth</a> The iron oxides haematite (Fe<sub>2</sub>O<sub>3</sub>) and ilmenite (FeTiO<sub>3</sub>).
+*	**Red earths** <a name="redearth"></a> The iron oxides haematite (Fe<sub>2</sub>O<sub>3</sub>) and ilmenite (FeTiO<sub>3</sub>).
 
 * **Green earths** Celadonite and glauconite (iron magnesium silicates belonging to the mica group).
 
