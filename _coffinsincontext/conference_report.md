@@ -70,8 +70,9 @@ was available for purchase at the conference venue and in Museum shop. Some othe
 of which there is an overabundance of stock, were also distributed free of charge.
 
 
-The principal organisers were ably assisted by Sara Abed and she has written a personal 
-account of the experience of the conference, which you can read here. She describes it as
+The principal organisers were ably assisted by [Sara Abed](https://egyptiancoffins.org/team/sara-hany-abed/) 
+and she has written a personal account of the experience of the conference, which 
+[you can read here](https://egyptiancoffins.org/coffinsincontext/sara_report/). She describes it as
 “an interesting experience not only to help behind the scenes and familiarize myself with 
 the prominent names in the field and the diverse research topics, but I also enjoyed attending 
 the sessions and listening to the discussions. It was an eye-opening experience that enriched 
