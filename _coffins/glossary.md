@@ -19,15 +19,15 @@ This page gives a glossary to terms our project uses when discussing coffin fabr
 
 #### Box coffin
 
-A rectangular coffin, with no shaping. Often with an eye panel on one side at the head end of the coffin.
+<a name="boxcoffin"></a> A rectangular coffin, with no shaping. Often with an eye panel on one side at the head end of the coffin.
 
 #### Anthropoid coffin
 
-A human-shaped coffin. Middle Kingdom anthropoid coffins were meant to lie on their side. Post-Middle Kingdom coffins were designed to lie on their backs.
+<a name="anthropoidcoffin"></a> A human-shaped coffin. Middle Kingdom anthropoid coffins were meant to lie on their side. Post-Middle Kingdom coffins were designed to lie on their backs.
 
 #### Rishi coffin
 
-An anthropoid coffin type from the Second Intermediate Period, introduced at Thebes, characterised by a pattern of feathers covering the exterior of the coffin (rishi is derived from the Arabic term for ‘feather’). This type of coffin seems to have developed at Thebes.
+<a name="rishicoffin"></a> An anthropoid coffin type from the Second Intermediate Period, introduced at Thebes, characterised by a pattern of feathers covering the exterior of the coffin (rishi is derived from the Arabic term for ‘feather’). This type of coffin seems to have developed at Thebes.
 
 #### Qersu
 
@@ -39,27 +39,27 @@ A rectangular four-poster type of outer coffin, with a vaulted lid, typical of t
 
 #### Bivalve coffin
 
-An anthropoid coffin with a box that has a shaped underside, rather than a flat underside. Made in two pieces (box and lid)
+<a name="bivalvecoffin"></a> An anthropoid coffin with a box that has a shaped underside, rather than a flat underside. Made in two pieces (box and lid)
 
 #### Mummy case
 
-An anthropoid coffin, often made of cartonnage, usually the inner coffin within a nested set of coffins. Often, but not exclusively, made in one piece.
+<a name="mummycase"></a> An anthropoid coffin, often made of cartonnage, usually the inner coffin within a nested set of coffins. Often, but not exclusively, made in one piece.
 
 ## Coffin parts
 
 #### Coffin box
 
-The part of the coffin in which the body was placed. The term is used here for both rectangular box coffins and anthropoid
+<a name="coffinbox"></a> The part of the coffin in which the body was placed. The term is used here for both rectangular box coffins and anthropoid
 coffins.
 
 #### Coffin lid
 
-The part of the coffin that was placed on top of the box. In an anthropoid coffin, this would be the part that resembles
+<a name="coffinlid"></a> The part of the coffin that was placed on top of the box. In an anthropoid coffin, this would be the part that resembles
 the front of the head and body of the person.
 
 #### Coffin base
 
-The bottom (long axis) of the coffin box.
+<a name="coffinbase"></a> The bottom (long axis) of the coffin box.
 
 #### Footboard
 
@@ -148,16 +148,16 @@ project as it implies no particular chemistry or technology.
 
 #### Preparation layer
 
-A layer of paste applied across the coffin to provide a smooth, neutral surface to which paint can be applied. Sometimes
+<a name="preplayer"></a> A layer of paste applied across the coffin to provide a smooth, neutral surface to which paint can be applied. Sometimes
 known as a 'ground' layer.
 
 ## Egyptian painting materials: A quick guide to the principal pigments
 
 When it has not been possible to characterise pigments fully, their elemental make up has been recorded as, for example, 'calcium-based' or 'copper-based'.
 
-**Egyptian blue** <a name="Egyptianblue"></a> and **Egyptian green** Manufactured pigments, prepared by firing copper minerals or metal with a calcium compound (like powdered limestone), silica and soda at high temperature. The principal colour component in Egyptian blue is calcium copper tetrasilicate (CaCuSi<sub>4</sub>O<sub>10</sub>), and in Egyptian green is cupro-wollastonite (CaSiO<sub>3</sub> with copper in the structure).
+**Egyptian blue** <a name="Egyptianblue"></a> and **Egyptian green** <a name="Egyptiangreen"></a> Manufactured pigments, prepared by firing copper minerals or metal with a calcium compound (like powdered limestone), silica and soda at high temperature. The principal colour component in Egyptian blue is calcium copper tetrasilicate (CaCuSi<sub>4</sub>O<sub>10</sub>), and in Egyptian green is cupro-wollastonite (CaSiO<sub>3</sub> with copper in the structure).
 
-**Malachite (Cu<sub>2</sub>CO<sub>3</sub>(OH)<sub>2</sub>)** A mineral pigment, giving a pale green colour.
+**Malachite (Cu<sub>2</sub>CO<sub>3</sub>(OH)<sub>2</sub>)** <a name="malachite"></a> A mineral pigment, giving a pale green colour.
 
 **Chrysocolla (Cu<sub>2</sub>H<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>(OH)<sub>4</sub>)** A mineral pigment with a turquoise blue colour.
 
