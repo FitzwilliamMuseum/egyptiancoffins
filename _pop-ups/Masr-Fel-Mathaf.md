@@ -4,7 +4,7 @@ title: 'Masr Fel Mathaf - Egyptians in Cambridge at the Fitzwilliam'
 category: pop-ups
 date: 05-04-2024
 author: Sara Abed
-thumbnail: /images/news/9.jpg
+thumbnail: /images/news/Masr_Fel_Mathaf_thumb.jpg
 permalink: /pop-ups/Masr-Fel-Mathaf
 lat: 52.20027912941109 
 lon: 0.11951306751526686  
