@@ -46,14 +46,15 @@ which offers Arabic language community classes and connects families with their 
 
 The day started with a family activity, led by Helen Strudwick, Sara Abed and Tom Clarke (an intern who is working at the Fitzwilliam 
 for three months), in which both the parents and the children participated. They tried using the replicas of ancient Egyptian carpentry tools, 
-and joints, assembling the replica coffin of a dog, making their own ancient Egypt brushes, painting, 
-and knowing more about ancient Egyptian woodwork making and panting techniques. They also had a chance to look at a new
+and joints, assembling the replica coffin of a dog, making their own ancient Egyptian brushes, painting, 
+and knowing more about ancient Egyptian woodwork making and painting techniques. They also had a chance to look at a new
 component of the pop-up museum: a recreation of an ancient model carpenters' workshop (made for the Museum by 
 [Dr Geoffrey Killen](https://egyptiancoffins.org/team/geoff-killen/), who is an expert in ancient Egyptian carpentry).
 
 We then split into two groups: Rosanna Evans and Florencia Nannetti from the Fitzwilliam's Learning Team,
 led a gallery tour in the Egyptian gallery for children, preceded by a papyrus activity,
-during which they learned more about papyrus making and how it is planted in Egypt. You can find out more about
+during which they learned [more about papyrus making and how it is grown in Egypt today](https://youtu.be/swWCI7Qn5oU?feature=shared). 
+You can find out more about
 learning activities for young people and adults at The Fitzwilliam Museum [here](https://fitzmuseum.cam.ac.uk/learn-with-us).
 
 Meanwhile, the parents also enjoyed a tour in the Egyptian galleries led by Helen Strudwick,
@@ -71,7 +72,7 @@ about their own history. They also expressed their interest to be part of the Th
 Museum community when it comes to suggestions regarding the possible redisplay of the Egyptian galleries. 
 
 We found their insights and views very interesting and we will be thinking about their ideas when we are in a position to move forward 
-towards the potential redisplay. It is clear that more of events are needed to bring in more Egyptian voices and to enable local Egyptians 
+towards the potential redisplay. It is clear that more events like these are needed to bring in more Egyptian voices and to enable local Egyptians 
 to connect with a collection that is so relevant to them and in which they feel so much pride.
  
  
