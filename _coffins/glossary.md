@@ -113,7 +113,12 @@ are prone to 'cup' because the wood dries and shrinks unevenly across the width 
 
 #### Joints
 
-See below.
+The Fitzwilliam's Egyptian coffins contain examples of the following wood working joints:The Fitzwilliam's Egyptian coffins contain examples of the following wood working joints:
+
+                  <img class="align-self-center mr-3 thumb-post img-fluid"
+                     src="/images/nespawershefyt/joints_labelled.jpg"
+                     alt="Joints used in construction of Egyptian coffins in the Fitzwilliam Museum">
+
 
 ## Materials
 
