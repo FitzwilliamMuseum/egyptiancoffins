@@ -8,7 +8,7 @@ layout: coffins
 id: beni-hasan
 images:
   -
-    image: E_67_1903_all.jpeg
+    image: /images/catalogue/E_67_1903_all.jpeg
     caption: Panels from the coffin of Heta-User
 ---
 
