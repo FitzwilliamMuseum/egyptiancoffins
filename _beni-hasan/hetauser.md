@@ -34,7 +34,7 @@ Pigments were examined with XRF. Preliminary results show a limited palette with
 Detailed examination of the structure of the coffin indicates that it was made from panels of cedar wood, orginally from another large object, 
 that were originally approximately twice as thick as they are now and have been sawn through. The original object may well have been a door. For 
 further information about this, see 
-[the report prepared by Julie Dawson](https//egyptiancoffins.org/catalogue_extras/Construction_and_former_life_final.pdf).
+[the report prepared by Julie Dawson](/catalogue_extras/Construction_and_former_life_final.pdf).
 
 
 
