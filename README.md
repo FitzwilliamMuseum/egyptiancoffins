@@ -36,7 +36,7 @@ Website by [@portableant](https://github.com/portableant)
 
 ## License
 
-GPLV3 for code, CC-BY for text, CC-BY-NC-SA-ND for images; unless stated otherwise.
+GPLV3 for code, CC-BY for text, CC BY-NC-ND for images; unless stated otherwise.
 
 ## Contributing guidelines
 
