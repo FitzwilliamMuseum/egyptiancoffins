@@ -33,11 +33,10 @@ Videos by Gavin Toomey and Patricia Wheatley.
 
 Website by [@portableant](https://github.com/portableant)
 
-CSS framework: http://daemonite.github.io/material/ 
 
 ## License
 
-CC-BY for code, CC-BY-NC-SA-ND for content (text and images) unless stated otherwise.
+GPLV3 for code, CC-BY for text, CC-BY-NC-SA-ND for images; unless stated otherwise.
 
 ## Contributing guidelines
 
