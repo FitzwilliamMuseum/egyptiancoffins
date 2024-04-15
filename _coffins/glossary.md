@@ -7,7 +7,7 @@ category: resources
 image: /images/logos/logo.png
 images:
   -
-    image: glossary/VIL_cartonnage.jpg
+    image: /images/glossary/VIL_cartonnage.jpg
     caption: Cartonnage fragment in visible light with a VIL image showing areas of Egyptian blue
 ---
 
