@@ -20,7 +20,7 @@ identifiers:
     description: Zenodo issued DOI
 repository-code: >-
   https://github.com/FitzwilliamMuseum/egyptiancoffins
-url: 'https://egyptiancoffins.org/
+url: 'https://egyptiancoffins.org/'
 abstract: >-
   This repository holds the Jekyll framework and content for
   the front end build of the Fitzwilliam Museum's
