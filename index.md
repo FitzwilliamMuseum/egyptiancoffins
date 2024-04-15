@@ -14,9 +14,9 @@ coffins:
 - Senuitef
 ---
 <div class="p-2">
-<div class="card col-sm-4 float-right p-0 m-3">
-    <div class="embed-responsive embed-responsive-16by9">
-    <iframe src="https://player.vimeo.com/video/307004713" class="embed-responsive-item float-right" height="100%"
+<div class="card col-sm-4 float-end p-0 m-3">
+    <div class="ratio ratio-16x9">
+    <iframe src="https://player.vimeo.com/video/307004713" height="100%"
                             webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
 </div>

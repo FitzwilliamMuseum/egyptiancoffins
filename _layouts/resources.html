@@ -52,8 +52,8 @@
       {% for video in page.vimeo %}
       <div class="col-md-6">
         <div class="card p-0 m-2">
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe src="https://player.vimeo.com/video/{{video.id}}" class="embed-responsive-item"
+          <div class="ratio ratio-16x9">
+            <iframe src="https://player.vimeo.com/video/{{video.id}}"
             webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
           </div>
         </div>
@@ -67,10 +67,10 @@
       {% for video in page.youtube %}
       <div class="col-md-6">
         <div class="card p-0 m-2">
-          <div class="embed-responsive embed-responsive-16by9">
+          <div class="ratio ratio-16x9">
             <iframe src="https://www.youtube.com/embed/{{ video.id }}" frameborder="0"
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen class="embed-responsive-item"></iframe>
+            allowfullscreen ></iframe>
           </div>
         </div>
       </div>
@@ -84,8 +84,8 @@
       {% for threed in page.sketchfab %}
       <div class="col-md-6">
         <div class="card p-0 m-2">
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item"
+          <div class="ratio ratio-16x9">
+            <iframe
             src="https://sketchfab.com/models/{{ threed.id }}/embed" allow="autoplay; fullscreen; vr"
             mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
           </div>

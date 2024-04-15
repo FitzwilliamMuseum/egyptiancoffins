@@ -41,7 +41,7 @@ async function main() {
       + doc.url + '"><h5 class="card-title">'
       + doc.title
       + '</h5></a>'
-      + '<img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="'
+      + '<img class="align-self-center mr-3 rounded-circle float-end thumb-post" src="'
       + doc.image + '" alt="Thumbnail for story" height="150" width="150">'
       + 'Section: ' + doc.category
       + '<p class="card-text">' + doc.summary + '</p>'

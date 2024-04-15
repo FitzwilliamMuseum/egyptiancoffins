@@ -23,8 +23,8 @@ The coffins are painted and decorated in a colour palette of red, blue, green an
 The inner coffin interestingly bears a complex layered structure above the wooden carcass made from a combination of fibrous glue, linen and layers of calcite paste, reminiscent of the technique of cartonnage. This association is supported by the presence of a substantial plinth under Pakepu's feet, like those used to attach the footboard in cartonnage coffins.
 
 
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item"
+<div class="ratio ratio-16x9">
+    <iframe 
             src="https://sketchfab.com/models/ae2d8bf0ddaf4360b86f71c332fcbdcd/embed" allow="autoplay; fullscreen; vr"
             mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>

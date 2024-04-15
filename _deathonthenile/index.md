@@ -12,10 +12,10 @@ Between 23 February and 22 May 2016, the Fitzwilliam Museum exhibited 'Death on 
 The exhibition was held in the Fitzwilliam Museum (Galleries 12 & 13) and entry was FREE. The Bicentenary business partners for the exhibition, included: TTP Group plc, ACE Cultural Tours, Hewitsons LLP, Marshall of Cambridge, Rheebridge Ltd and Sotheby’s. An exhibition eGuide was also available.
 
 <div class="card col-sm p-0 m-2">
-    <div class="embed-responsive embed-responsive-16by9">
-        <iframe src="https://www.youtube.com/embed/aXojKonk0u0" frameborder="0"
+    <div class="ratio ratio-16x9">
+        <iframe src="https://www.youtube.com/embed/aXojKonk0u0""
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen class="embed-responsive-item"></iframe>
+                            allowfullscreen></iframe>
     </div>
  </div>
 

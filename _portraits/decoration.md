@@ -13,8 +13,8 @@ In this video, expert in historical painting techniques, [Dr Lucy Wrapson](https
 Arabic subtitles are available with this film. To activate, please select the ‘Closed Captions’ function.
 
 <div class="col-12 shadow-sm p-3 mx-auto mb-3 ">
-    <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" title="A YouTube video from the Fitzwilliam Museum"
+    <div class="ratio ratio-16x9">
+      <iframe  title="A YouTube video from the Fitzwilliam Museum"
       src="https://www.youtube.com/embed/{{ page.video_id }}" frameborder="0"
       allowfullscreen></iframe>
     </div>

@@ -45,7 +45,7 @@
     <div class="card col-md-12 mb-3">
         <div class="card-body">
           {% if post.thumbnail %}
-          <div class="float-right">
+          <div class="float-end">
             <div class="news-thumb p-2 m-2">
               <img src="{{ post.thumbnail }}" class="img img-responsive " />
             </div>
@@ -156,16 +156,16 @@
 
         <p>
             {% if page.date %}
-            <span class="badge badge-dark p-2 mb-2"><i class="fas fa-file"></i> Created: {{ page.date | date_to_string }}</span>
+            <span class="badge bg-dark p-2 mb-2"><i class="fas fa-file"></i> Created: {{ page.date | date_to_string }}</span>
             {% endif %}
 
             {% if page.category %}
-            <span class="badge badge-dark p-2 mb-2"><i class="fas fa-tags"></i>
+            <span class="badge bg-dark p-2 mb-2"><i class="fas fa-tags"></i>
  Category: {{ page.category }}</span>
             {% endif %}
 
             {% for tags in page.tags %}
-            <span class="badge badge-dark p-2 mb-2"><i class="fas fa-tags"></i>
+            <span class="badge bg-dark p-2 mb-2"><i class="fas fa-tags"></i>
 {{ tags }}</span>
             {% endfor %}
         </p>

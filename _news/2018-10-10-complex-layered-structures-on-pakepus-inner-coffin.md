@@ -14,7 +14,7 @@ permalink: /news/complex-layered-structures-on-pakepus-inner-coffin
 At the Second Vatican Coffin Conference in 2017, the Fitzwilliam Museum's coffins project team presented a paper about a
 striking feature of the inner coffin of [Pakepu](/coffins/pakepu).
 
-![](/images/news/Pakepu-inner-head.jpg){:. .float-right .img-fluid .mx-2 }
+![](/images/news/Pakepu-inner-head.jpg){:. .float-end .img-fluid .mx-2 }
 
 
 The coffin appears to have been completely encased in layers of paste,

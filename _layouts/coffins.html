@@ -100,8 +100,8 @@
             {% assign class = '12' %}
           {% endif %}
         <div class="col-md-{{ class }} shadow-sm p-3 mr-2 mb-2 bg-white rounded">
-            <p class="page__meta float-right">
-                <span class="badge badge-dark p-2 mb-2">{% include read_time.html %}</span>
+            <p class="page__meta float-end">
+                <span class="badge bg-dark p-2 mb-2">{% include read_time.html %}</span>
             </p>
             {{ content }}
         </div>
@@ -128,7 +128,7 @@
     <div class="card col-md-12 mb-3">
         <div class="card-body">
           {% if post.thumbnail %}
-          <div class="float-right">
+          <div class="float-end">
             <div class="news-thumb p-2 m-2">
               <img src="{{ post.thumbnail }}" class="img img-responsive " />
             </div>

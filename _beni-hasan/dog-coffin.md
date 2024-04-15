@@ -33,6 +33,6 @@ images:
 
 **Bibliography:** The coffin was published by Angela Tooley in the 1988 edition of the [_Journal of Egyptian Archaeology_](https://www.academia.edu/755703/_Coffin_of_a_dog_from_Beni_Hasan_JEA_74_1988_207-211_pls._XXVI_2_XXVII_1-2).
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/324974231" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="ratio ratio-16x9">
+  <iframe src="https://player.vimeo.com/video/324974231" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>

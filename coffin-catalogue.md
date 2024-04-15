@@ -15,7 +15,7 @@ category: catalogue
      <div class="col-md-6 mt-3">
           <div class="card h-100">
               <div class="card-body">
-              <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="{{catalogue.image}}"
+              <img class="align-self-center mr-3 rounded-circle float-end thumb-post" src="{{catalogue.image}}"
                              alt="{{page.title}}'s image" height="150" width="150">
                 <h5 class="card-title">{{catalogue.title}}</h5>
 
