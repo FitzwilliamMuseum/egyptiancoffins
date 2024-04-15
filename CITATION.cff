@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: The Egyptian Coffins Project Jekyll Website
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daniel
+    family-names: Pett
+    email: dejp3@cam.ac.uk
+    affiliation: 'St Edmund''s College, University of Cambridge'
+    orcid: 'https://orcid.org/0000-0002-0246-2335'
+  - given-names: Melanie
+    family-names: Pitkin
+  - given-names: Helen
+    family-names: Strudwick
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.6563271
+    description: Zenodo issued DOI
+repository-code: >-
+  https://github.com/FitzwilliamMuseum/egyptiancoffins
+url: 'https://egyptiancoffins.org/
+abstract: >-
+  This repository holds the Jekyll framework and content for
+  the front end build of the Fitzwilliam Museum's
+  Egyptian coffins project.
+keywords:
+  - jekyll
+  - ruby
+  - website
+  - museum
+  - egyptology
+  - open-source
+license: AGPL-3.0
