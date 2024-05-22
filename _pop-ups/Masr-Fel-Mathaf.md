@@ -6,8 +6,8 @@ date: 05-04-2024
 author: Sara Abed
 thumbnail: /images/news/Masr_Fel_Mathaf_thumb.jpg
 permalink: /pop-ups/Masr-Fel-Mathaf
-lat: 52.20027912941109 
-lon: 0.11951306751526686  
+lat: 25.293086 
+lon: 32.556815 
 images:
   - 
     image: news/Kalamna1.jpg
