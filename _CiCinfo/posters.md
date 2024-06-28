@@ -7,7 +7,7 @@ order: 1
 layout: coffins
 ---
 
-The online versions of posters being presented at **Coffins in Context*** have been added to the website and are now available from the links 
+The online versions of posters presented at **Coffins in Context** are now available from the links 
 below. We have also provided the email addresses of the relevant corresponding author 
 who should be contacted to answer any questions relating to them.
 
