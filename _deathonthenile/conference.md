@@ -7,76 +7,76 @@ order: 6
 layout: coffins
 pdfs:
   -
-    file: nespawershefyt/Anderson.pdf
+    file: coffinsconf/Anderson.pdf
     title: "Averil Anderson: Biography of Coffins in the McManus: Dundee's Art Gallery and Museum."
   -
-    file: nespawershefyt/Belohoubkova.pdf
+    file: coffinsconf/Belohoubkova.pdf
     title: "Dana Belohoubkova, Ladislav Bares and Jiri Janak: Texts for Protection of the Body on Inner Sarcophagi of the Saite-Persian Period from Abusir."
   -
-    file: nespawershefyt/Boehme.pdf
+    file: coffinsconf/Boehme.pdf
     title: "Isa Bohme: Private Sarcophagi of the New Kingdom."
   -
-    file: nespawershefyt/Consonni.pdf
+    file: coffinsconf/Consonni.pdf
     title: "Anna Consonni and Tommaso Quirino: Reconstructing the Perishable: Perspectives on the Study of Coffins at the Temple of Amenhotep II in Western Thebes."
   -
-    file: nespawershefyt/Emmett.pdf
+    file: coffinsconf/Emmett.pdf
     title: "Trevor Emmett: Creating Egyptian Blue Pigment in the Laboratory: Practical Considerations and Insights into the Cuprorivaite-forming Reaction."
   -
-    file: nespawershefyt/Fetler.pdf
+    file: coffinsconf/Fetler.pdf
     title: "Stephane Fetler: Traces of Transition: Funerary Envelopes from K93.12 in Dra Abu el-Naga as Artistic Indicators of Political and Cultural Change."
   -
-    file: nespawershefyt/Griswold.pdf
+    file: coffinsconf/Griswold.pdf
     title: "Geneva Griswold: Examination of a Previously Untreated Polychrome Coffin and Mummy."
   -
-    file: nespawershefyt/Haladaj.pdf
+    file: coffinsconf/Haladaj.pdf
     title: "Dagmara Haladaj: Sail in Peace to the Beautiful West: Iconography of the Solar Barges Depicted on Qrsw Coffins from the Priests of Montu Group."
   -
-    file: nespawershefyt/Hunkeler.pdf
+    file: coffinsconf/Hunkeler.pdf
     title: "Charlotte Hunkeler: Rest in Pieces: Coffin Fragments from TT95."
   -
-    file: nespawershefyt/Ibrahim.pdf
+    file: coffinsconf/Ibrahim.pdf
     title: "Mohamed Ibrahim, Ahmed Ismail, Akram Abd el-Aziz, Ibrahim Salah and Eid Mertah: Coffin conservation treatment considerations."
   -
-    file: nespawershefyt/Kamel.pdf
+    file: coffinsconf/Kamel.pdf
     title: "Salwa Kamel: Unpublished Late Period Coffin from Giza Stored in the Museum of Civilization Magazine."
   -
-    file: nespawershefyt/Karner.pdf
+    file: coffinsconf/Karner.pdf
     title: "Sylvia Karner: But-Har-Chonsu's Coffin Lid (Dyn 21-22)."
   -
-    file: nespawershefyt/Lavrentyeva.pdf
+    file: coffinsconf/Lavrentyeva.pdf
     title: "Nika Lavrentyeva: The Ancient Egpyptian Perception of nb anx: Images of Coffins on Items from the Pushkin State Museum of Fine Arts Moscow."
   -
-    file: nespawershefyt/Prestipino.pdf
+    file: coffinsconf/Prestipino.pdf
     title: "Giovanna Prestipino: Experimenting with Adhesives and Consolidants for the Conservation of Egyptian Polychrome Wooden Objects."
   -
-    file: nespawershefyt/Schutz.pdf
+    file: coffinsconf/Schutz.pdf
     title: "Manon Schutz: From Beds and Coffins to Beds as Coffins?: Beds in the Funerary Context of Ancient Egypt from Predynastic Times to the Roman Period: An Overview."
   -
-    file: nespawershefyt/Sheikholeslami.pdf
+    file: coffinsconf/Sheikholeslami.pdf
     title: "Cynthia Sheikholeslami: Pakepu and the Choachytes."
   -
-    file: nespawershefyt/Siddall.pdf
+    file: coffinsconf/Siddall.pdf
     title: "Ruth Siddall: A Romano-Egyptian Mummy Footcase from Hawara in the Fitzwilliam Museum Cambridge ABSTRACT ONLY."
   -
-    file: nespawershefyt/Skinner.pdf
+    file: coffinsconf/Skinner.pdf
     title: "Lucy Skinner, Anna Stevens, Anders Bettum, Corina Rogge, Alexandra Winkels and Rainer Gerisch: Piecing Together Coffins of the Non-Elite at Amarna."
   -
-    file: nespawershefyt/Stevens.pdf
+    file: coffinsconf/Stevens.pdf
     title: "Marissa Stevens: Connecting Coffins and Papyri: Social Identity and 21st Dynasty Funerary Iconography."
   - 
-    file: nespawershefyt/Stoevesand.pdf
+    file: coffinsconf/Stoevesand.pdf
     title: "Katherina Stoevesand: Late Period Coffins from the Fayum Region: A Common Tradition?"
   - 
-    file: nespawershefyt/Tarasenko.pdf
+    file: coffinsconf/Tarasenko.pdf
     title: "Mykola Tarasenko: Mummy Cover Fragment Ar-227 in the Lviv Museum of History of Religion."
   -
-    file: nespawershefyt/Williams.pdf
+    file: coffinsconf/Williams.pdf
     title: "Alison Williams: Tradition, Innovation and Archaism on 25th and 26th Dynasty Coffins: Objects from the Liverpool World Museum Collection."
   -
-    file: nespawershefyt/Zaghloul.pdf
+    file: coffinsconf/Zaghloul.pdf
     title: "Zeinab Zaghloul Abd El-Azim: Three Fragments of the Wooden Coffin of Osiris Pa-aan from El-Ashmunein Magazine."
   -
-    file: nespawershefyt/Zidan.pdf
+    file: coffinsconf/Zidan.pdf
     title: "Eman Zidan et al: Documentation and Conservation Study of SS 37 Wooden Coffin and Mummy Cartonnage Egyptian Museum Cairo."
 images:
   -
