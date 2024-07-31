@@ -16,7 +16,7 @@ pdfs:
     file: coffinsconf/Boehme.pdf
     title: "Isa Bohme: Private Sarcophagi of the New Kingdom."
   -
-    file: coffinsconf/Consonni.pdf
+    file: coffinsconf/ConsonniQuirino.pdf
     title: "Anna Consonni and Tommaso Quirino: Reconstructing the Perishable: Perspectives on the Study of Coffins at the Temple of Amenhotep II in Western Thebes."
   -
     file: coffinsconf/Emmett.pdf
