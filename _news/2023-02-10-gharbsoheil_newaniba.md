@@ -13,14 +13,14 @@ images:
     image: news/Nubian_displacement.jpg
     caption: Nubian families carry possessions down to the river bank as they leave their homes (image from https://raseef22.net/article/1074777-nubia-and-the-nubians-the-untold-story, accessed 31 October 2024).
   -
-    image: news/CTunwrappingJan23.jpg
-    caption: Flavia Ravaioli lifts the final layer of tissue paper off the front of Nespawershefyt's mummy board.
+    image: news/Shellaly_stool_broken.jpg
+    caption: Husein Shellaly with very old, sadly broken, stool.
   -
-    image: news/CTscanningJan23.jpg
-    caption: CT Radiographer Lauren England checks the position of Nespawershefyt's mummy board in the CT scanner.
+    image: news/Stool_repairs.jpg.jpg
+    caption: Amr Orensa works to fix Husein Shellaly's stool using the replicas of ancient Egyptian tools from the pop-up museum.
   -
-    image: news/CTscanningunderwayJan23.jpg
-    caption: CT Radiographer Lauren England watches the progress of the first scan on a computer screen.
+    image: news/Shellaly_stool_fixed.jpg
+    caption: Amr and Shellaly with the repaired stool.
   -
     image: news/CTheadendJan23.jpg
     caption: Julie Dawson positions the head end of another yellow coffin (E.1.2004) for scanning.
@@ -34,14 +34,24 @@ on saving ancient Egyptian monuments (most famously the temples at Abu Simbel), 
 talking to people about our research on Egyptian coffins, our visit also provided an opportunity to talk to these communities about dispersed 
 Egyptian and Nubian heritage and its display in museums around the world (including within Egypt itself).  
 
-At Gharb Soheil, we met senior community members who kindly showed us important objects in their houses that reminded them of their traditional homes
+At Gharb Soheil, we met [senior community members](https://egyptiancoffins.org/images/news/Community_elders.jpg) who generously invited us into their
+houses and showed us important objects they had retained to remind them of their traditional homes
 in the flooded settlements left behind. One of these, Husein Shellaly, showed us a type of bed (called "angareeb"), typical of beds used in Nubia that
-bear a strong constructional resemblence to ancient Egyptian beds but that are now dying out. He also showed us [an old stool]
-(https://egyptiancoffins.org/images/news/Shellaly_stool_broken.jpg), which had been in his family for many generations but was now in a sorry state of
-repair. We invited him to bring it along to our pop-up museum the next day with the promise that 
-[Amr would attempt to repair it](https://egyptiancoffins.org/images/news/Stool_repairs.jpg) using the replicas of ancient Egyptian tools. You can see in the photos [how successful this was](https://egyptiancoffins.org/images/news/Shellaly_stool_fixed.jpg)! Husein is very active on social media and was live posting during our pop-up, which was a novelty for us. The pop-up itself was located next to a spice stall, and the stall holder, who initially was a little dubious about what we were up to, became our biggest advocate, urging his customers and any passers-by to come and take a look, and enthusiastically demonstrating and explaining everything on our tables.
+bear a strong constructional resemblence to ancient Egyptian beds but that are now dying out. He also showed us 
+[an old stool](https://egyptiancoffins.org/images/news/Shellaly_stool_broken.jpg), which had been in his family for many generations but was now in 
+a sorry state of repair. We invited him to bring it along to our pop-up museum the next day with the promise that 
+[Amr would attempt to repair it](https://egyptiancoffins.org/images/news/Stool_repairs.jpg) using the replicas of ancient Egyptian tools. You can see 
+in the photos [how successful this was](https://egyptiancoffins.org/images/news/Shellaly_stool_fixed.jpg)! Husein is very active on social media and 
+was live posting during our pop-up, which was a novelty for us. The pop-up itself was located next to a spice stall, and the stall holder, who 
+[initially was a little dubious](https://egyptiancoffins.org/images/news/spice_man_investigates_pop-up.jpg) about what we were up to, became our 
+biggest advocate, urging his customers and any passers-by to come and take a look, and enthusiastically demonstrating and explaining everything on 
+our tables.
 
-The settlement of Aniba was one of 44 Nubian villages that were abandoned at the time the High Dam was built. The local people were moved to an area named Nasr el-Nuba, where 44 new villages were created to house them. Sadly, the architecture of these villages did not reflect traditional Nubian houses and the local people we met at New Aniba felt that this had contributed to the disappearance of some  social and cultural traditions, including the layout of interiors and furniture. Younger community members feel that modern furniture is more appropriate for the new house designs, they said. We met one of the last angareeb makers, Abdel Ghani, who showed us how the traditional beds were made, including legs that are curved in a particular way to deter scorpions from climbing up - which sounds like a very good idea. Another senior community member, who identified himself only as Ibrahim showed us an ancient wooden lock and key, and how the position of the key would indicate whether the people inside were "at home" to visitors or not, and a wooden vase with a lid used at weddings, as well as traditional stringed instruments. We in turn showed them the replica tools that we had with us, which they instantly recognised and related to. We all felt that we would like to come back and do a pop-up museum activity for the whole community at some time in the future.
+The settlement of Aniba was one of the 44 Nubian villages that were abandoned at the time the High Dam was built. The local people were moved to an 
+area named Nasr el-Nuba, close to Kom Ombo, where 44 new villages were created to house them. Sadly, the architecture of these villages did not 
+reflect traditional Nubian houses and the local people we met at New Aniba felt that this had contributed to the disappearance of some social and 
+cultural traditions, including the layout of interiors and furniture. Younger community members feel that modern furniture is more appropriate for the 
+new house designs, they said. We met one of the last angareeb makers, Abdel Ghani, who showed us how the traditional beds were made, including legs that are [carved in a particular way](https://egyptiancoffins.org/images/news/Angareeb_legs.jpg) to deter scorpions from climbing up - which sounds like a very good idea. Another senior community member, who identified himself only as Ibrahim showed us an ancient wooden lock and key, and how the position of the key would indicate whether the people inside were "at home" to visitors or not, and a wooden vase with a lid used at weddings, as well as traditional stringed instruments. We in turn showed them the replica tools that we had with us, which they instantly recognised and related to. We all felt that we would like to come back and do a pop-up museum activity for the whole community at some time in the future.
 
 This morning, we were able to undertake new CT scanning of part of the [coffin set of Nespawershefyt](https://egyptiancoffins.org/coffins/nespawershefyt). Although we 
 have X-radiographed the mummy board in the past, its construction was not absolutely clear. Colleagues at [Addenbrooke's Hospital](https://www.cuh.nhs.uk/) 
