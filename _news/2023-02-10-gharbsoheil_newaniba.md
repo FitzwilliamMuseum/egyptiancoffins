@@ -37,7 +37,7 @@ images:
     image: news/Ibrahim_old_door.jpeg
     caption: An old Nubian door and its elaborate locking device, which shows whether the inhabitants are at home (ready to receive guests), at home (not ready to receive guests), or out.
   -
-    image: news/wedding_vase.jpg
+    image: news/Wedding_vase.jpg
     caption: A traditional Nubian lidded vase, used at wedding celebrations
 ---
 
@@ -58,7 +58,7 @@ a sorry state of repair. We invited him to bring it along to our pop-up museum t
 [Amr would attempt to repair it](https://egyptiancoffins.org/images/news/Stool_repairs.jpg) using the replicas of ancient Egyptian tools. You can see 
 in the photos [how successful this was](https://egyptiancoffins.org/images/news/Shellaly_stool_fixed.jpg)! Hussein is very active on social media and 
 was live posting during our pop-up, which was a novelty for us. The pop-up itself was located next to a spice stall, and the stall holder, who 
-[was, initially, a little dubious](https://egyptiancoffins.org/images/news/spice_man_investigates_pop-up.jpg) about what we were up to, became our 
+[was, initially, a little dubious](https://egyptiancoffins.org/images/news/Spice_man_investigates_pop-up.jpg) about what we were up to, became our 
 biggest advocate, urging his customers and any passers-by to come and take a look, and enthusiastically demonstrating and explaining everything on 
 our tables.
 
@@ -72,7 +72,7 @@ that are [carved in a particular way](https://egyptiancoffins.org/images/news/An
 like a very good idea. Another senior community member, 
 [Amm Ibrahim showed us an ancient wooden lock and key](https://egyptiancoffins.org/images/news/Ibrahim_old_door.jpeg), and how the position of the key 
 would indicate whether the people inside were "at home" to visitors or not, and a 
-[wooden vase with a lid used at weddings](https://egyptiancoffins.org/images/news/wedding_vase.jpg). We in turn showed them the replica tools that we
+[wooden vase with a lid used at weddings](https://egyptiancoffins.org/images/news/Wedding_vase.jpg). We in turn showed them the replica tools that we
 had with us, which they instantly recognised and related to. We all felt that we would like to come back and do a pop-up museum activity for the whole 
 community at some time in the future.
 
