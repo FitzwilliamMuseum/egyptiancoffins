@@ -34,7 +34,7 @@ images:
     image: news/Angareeb_legs.jpg
     caption: This apparently decorative element on the legs of traditional angareeb beds is intended to stop scorpions climbing up.
   -
-    image: news/Ibrahim_old_door.jpeg
+    image: news/Ibrahim_old_door.jpg
     caption: An old Nubian door and its elaborate locking device, which shows whether the inhabitants are at home (ready to receive guests), at home (not ready to receive guests), or out.
   -
     image: news/Wedding_vase.jpg
@@ -70,7 +70,7 @@ new house designs, they said. We met one of the last angareeb makers,
 [Abdel Ghani](https://egyptiancoffins.org/images/news/New_Aniba_group_photo.jpeg), who showed us how the traditional beds were made, including legs 
 that are [carved in a particular way](https://egyptiancoffins.org/images/news/Angareeb_legs.jpg) to deter scorpions from climbing up - which sounds 
 like a very good idea. Another senior community member, 
-[Amm Ibrahim showed us an ancient wooden lock and key](https://egyptiancoffins.org/images/news/Ibrahim_old_door.jpeg), and how the position of the key 
+[Amm Ibrahim showed us an ancient wooden lock and key](https://egyptiancoffins.org/images/news/Ibrahim_old_door.jpg), and how the position of the key 
 would indicate whether the people inside were "at home" to visitors or not, and a 
 [wooden vase with a lid used at weddings](https://egyptiancoffins.org/images/news/Wedding_vase.jpg). We in turn showed them the replica tools that we
 had with us, which they instantly recognised and related to. We all felt that we would like to come back and do a pop-up museum activity for the whole 
