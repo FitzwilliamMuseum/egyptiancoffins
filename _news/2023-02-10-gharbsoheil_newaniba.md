@@ -22,8 +22,11 @@ images:
     image: news/Shellaly_stool_fixed.jpg
     caption: Amr and Shellaly with the repaired stool.
   -
-    image: news/CTheadendJan23.jpg
-    caption: Julie Dawson positions the head end of another yellow coffin (E.1.2004) for scanning.
+    image: news/spice_man_investigates_pop-up.jpg
+    caption: Our neighbouring spice stall holder checks out what the pop-up museum is all about, before becoming our biggest advocate.
+  -
+    image: news/Angareeb_legs.jpg
+    caption: This apparently decorative element on the legs of traditional angareeb beds is intended to stop scorpions climbing up.
 ---
 
 In February 2023, as part of our pop-up museum activities, [Helen Strudwick, Sara Abed and Amr Orensa](https://egyptiancoffins.org/team/) visited 
