@@ -7,7 +7,7 @@ updated: 2023-01-08
 author: Helen Strudwick
 tags: [community engagement, pop-up, Nubia, Aswan, Gharb Soheil, New Aniba]
 permalink: /news/NubianCommunities
-thumbnail: /images/news/CTscanningJan23.jpg
+thumbnail: /images/news/Nubiancommunities.jpeg
 images:
   -
     image: news/Nubian_displacement.jpg
