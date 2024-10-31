@@ -13,14 +13,17 @@ images:
     image: news/Nubian_displacement.jpg
     caption: Nubian families carry possessions down to the river bank as they leave their homes (image from https://raseef22.net/article/1074777-nubia-and-the-nubians-the-untold-story, accessed 31 October 2024).
   -
+    image: news/Community_elders.jpg
+    caption: Senior members of the Nubian community in Gharb Soheil; from left to right, Amm Bashir, Hussein Shellaly and Haj Omar
+  -
     image: news/Shellaly_stool_broken.jpg
-    caption: Husein Shellaly with very old, sadly broken, stool.
+    caption: Hussein Shellaly with his very old, sadly broken, stool
   -
     image: news/Stool_repairs.jpg.jpg
-    caption: Amr Orensa works to fix Husein Shellaly's stool using the replicas of ancient Egyptian tools from the pop-up museum.
+    caption: Amr Orensa works to fix Hussein Shellaly's stool using the replicas of ancient Egyptian tools from the pop-up museum.
   -
     image: news/Shellaly_stool_fixed.jpg
-    caption: Amr and Shellaly with the repaired stool.
+    caption: Amr and Shellaly with the repaired stool
   -
     image: news/spice_man_investigates_pop-up.jpg
     caption: Our neighbouring spice stall holder checks out what the pop-up museum is all about, before becoming our biggest advocate.
@@ -29,25 +32,25 @@ images:
     caption: This apparently decorative element on the legs of traditional angareeb beds is intended to stop scorpions climbing up.
   -
     image: news/New_Aniba_group_photo.jpeg
-    caption: :Pop-up museum team with senior community members at New Aniba; right, Abdel Ghani and left, Amm Ibrahim).
+    caption: :Pop-up museum team with senior community members at New Aniba; left, Abdel Ghani and right, Amm Ibrahim)
 ---
 
 In February 2023, as part of our pop-up museum activities, [Helen Strudwick, Sara Abed and Amr Orensa](https://egyptiancoffins.org/team/) visited 
 Nubian communities at Gharb Soheil and New Aniba, in southern Egypt. It was a wonderful opportunity to talk to people whose lives had been completely
-overturned by the construction of the High Dam at Aswan in the 1960s and their [removal to new settlements]
-(https://egyptiancoffins.org/images/news/Nubian_displacement.jpg). While much of the western world was focussed 
+overturned by the construction of the High Dam at Aswan in the 1960s and their 
+[removal to new settlements](https://egyptiancoffins.org/images/news/Nubian_displacement.jpg). While much of the western world was focussed 
 on saving ancient Egyptian monuments (most famously the temples at Abu Simbel), about 50,000 Nubians lost their homes and livelihoods. As well as
 talking to people about our research on Egyptian coffins, our visit also provided an opportunity to talk to these communities about dispersed 
 Egyptian and Nubian heritage and its display in museums around the world (including within Egypt itself).  
 
 At Gharb Soheil, we met [senior community members](https://egyptiancoffins.org/images/news/Community_elders.jpg) who generously invited us into their
 houses and showed us important objects they had retained to remind them of their traditional homes
-in the flooded settlements left behind. One of these, Husein Shellaly, showed us a type of bed (called "angareeb"), typical of beds used in Nubia that
+in the flooded settlements left behind. One of these, Hussein Shellaly, showed us a type of bed (called "angareeb"), typical of beds used in Nubia that
 bear a strong constructional resemblence to ancient Egyptian beds but that are now dying out. He also showed us traditional stringed instruments and
 [an old stool](https://egyptiancoffins.org/images/news/Shellaly_stool_broken.jpg), which had been in his family for many generations but was now in 
 a sorry state of repair. We invited him to bring it along to our pop-up museum the next day with the promise that 
 [Amr would attempt to repair it](https://egyptiancoffins.org/images/news/Stool_repairs.jpg) using the replicas of ancient Egyptian tools. You can see 
-in the photos [how successful this was](https://egyptiancoffins.org/images/news/Shellaly_stool_fixed.jpg)! Husein is very active on social media and 
+in the photos [how successful this was](https://egyptiancoffins.org/images/news/Shellaly_stool_fixed.jpg)! Hussein is very active on social media and 
 was live posting during our pop-up, which was a novelty for us. The pop-up itself was located next to a spice stall, and the stall holder, who 
 [was, initially, a little dubious](https://egyptiancoffins.org/images/news/spice_man_investigates_pop-up.jpg) about what we were up to, became our 
 biggest advocate, urging his customers and any passers-by to come and take a look, and enthusiastically demonstrating and explaining everything on 
@@ -63,28 +66,8 @@ that are [carved in a particular way](https://egyptiancoffins.org/images/news/An
 like a very good idea. Another senior community member, 
 [Amm Ibrahim showed us an ancient wooden lock and key](https://egyptiancoffins.org/images/news/Ibrahim_old_door.jpeg), and how the position of the key 
 would indicate whether the people inside were "at home" to visitors or not, and a 
-[wooden vase with a lid used at weddings](https://egyptiancoffins.org/images/news/wedding_vase.jpg). We in turn showed them the replica tools that we had with us, which they instantly recognised and related to. We all felt that we would like to come back and do a pop-up museum activity for the whole community at some time in the future.
+[wooden vase with a lid used at weddings](https://egyptiancoffins.org/images/news/wedding_vase.jpg). We in turn showed them the replica tools that we
+had with us, which they instantly recognised and related to. We all felt that we would like to come back and do a pop-up museum activity for the whole 
+community at some time in the future.
 
-This morning, we were able to undertake new CT scanning of part of the [coffin set of Nespawershefyt](https://egyptiancoffins.org/coffins/nespawershefyt). Although we 
-have X-radiographed the mummy board in the past, its construction was not absolutely clear. Colleagues at [Addenbrooke's Hospital](https://www.cuh.nhs.uk/) 
-(part of Cambridge University Hospitals) generously offered to CT scan it out of hours, on a Sunday morning when the scanner would not normally be in use. 
-We were very conscious that the scanner might be needed if there was a call for an emergency CT scan to be carried out, in which case we would have immediately got 
-out of the way to allow that to happen. Happily nothing like that occurred. We were joined by our brilliant CT scanning advisor and friend 
-[Tom Turmezei](https://egyptiancoffins.org/team/tom-turmezei), Consultant Radiologist at Norfolk and Norwich University Hospital. 
 
-At Addenbrooke's, we were met by CT radiographer Lauren England who carried out the scanning using a relatively new Siemens scanner. This seemed to be really 
-speedy at scanning, and the results that appeared immediately on the computer screen looked amazingly detailed. 
-In particular, the scans seemed to show some interesting carpentry in the area of the face that had not been visible at all on the earlier
-X-radiographs. We are excited to see what detailed examination of the scans will show up about how this part of the mummy board was put together. 
-Something else we discovered (not about the mummy board)
-was that the sheets we had initially put underneath to support it appeared to be very similar in density to the wood, and this was likely to
-make the analysis of the scans a bit awkward. So we replaced them with pillows, and the problem disappeared -- a useful lesson learned!
-
-At the same time, we took another part of a coffin to be scanned: the [head end from a yellow coffin](https://data.fitzmuseum.cam.ac.uk/id/object/98444), which is
-of a similar date. We have not yet explored this object in a lot of detail. Again, the immediate results from the scans were really promising as we could see how 
-the wood had been worked to create the shape of the head end, and the way the holes for dowels had been angled. 
-
-We are hugely grateful to Tom and Lauren for giving up their Sunday mornings for this scanning, and to Rob Mackenzie, CT Scanning 
-Manager at Addenbrooke's for facilitating the visit today. The Fitzwilliam team consisted of [Flavia Ravaioli](https://egyptiancoffins.org/team/flavia-ravaioli/), 
-[Julie Dawson](https://egyptiancoffins.org/team/julie-dawson/) and 
-[Helen Strudwick](https://egyptiancoffins.org/team/helen-strudwick/).
