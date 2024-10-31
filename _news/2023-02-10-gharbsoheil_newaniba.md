@@ -11,7 +11,7 @@ thumbnail: /images/news/CTscanningJan23.jpg
 images:
   -
     image: news/Nubian_displacement.jpg
-    caption: Nubian families carry possessions to the river as they leave their homes (image from https://raseef22.net/article/1074777-nubia-and-the-nubians-the-untold-story, accessed 31 October 2024).
+    caption: Nubian families carry possessions to the river as they leave their homes (image from https://raseef22.net/article/1074777-nubia-and-the-nubians-the-untold-story).
   -
     image: news/Community_elders.jpg
     caption: Senior members of the Nubian community in Gharb Soheil; from left to right, Amm Bashir, Hussein Shellaly and Haj Omar
@@ -57,23 +57,32 @@ bear a strong constructional resemblence to ancient Egyptian beds but that are n
 a sorry state of repair. We invited him to bring it along to our pop-up museum the next day with the promise that 
 [Amr would attempt to repair it](https://egyptiancoffins.org/images/news/Stool_repairs.jpg) using the replicas of ancient Egyptian tools. You can see 
 in the photos [how successful this was](https://egyptiancoffins.org/images/news/Shellaly_stool_fixed.jpg)! Hussein is very active on social media and 
-was live posting during our pop-up, which was a novelty for us. The pop-up itself was located next to a spice stall, and the stall holder, who 
+was live posting during our pop-up, which was a novelty for us. When he posted the pop-up on his social media page that promotes for Nubian culture it 
+received a lot of exposure among Nubians who follow him, so that they got a virtual glimpse at what we do. 
+
+The pop-up itself was located in front of one of the houses in the village,
+where we were warmly welcomed by the family and their neighbours. We also found ourselves next to a spice stall; the stall holder, who 
 [was, initially, a little dubious](https://egyptiancoffins.org/images/news/Spice_man_investigates_pop-up.jpg) about what we were up to, became our 
 biggest advocate, urging his customers and any passers-by to come and take a look, and enthusiastically demonstrating and explaining everything on 
 our tables.
 
-The settlement of Aniba was one of the 44 Nubian villages that were abandoned at the time the High Dam was built. The local people were moved to an 
-area named Nasr el-Nuba, close to Kom Ombo, where 44 new villages were created to house them. Sadly, the architecture of these villages did not 
+The settlement of Aniba was one of the 44 Nubian villages that were flooded at the time the High Dam was built. The local people were moved to an 
+area named Nasr el-Nuba, close to Kom Ombo, where 44 new villages were created to house them. Sadly, these settlements are nowhere near the Nile, 
+and this separation has been very negative for these displaced people. In addition, the architecture of these villages did not 
 reflect traditional Nubian houses and the local people we met at New Aniba felt that this had contributed to the disappearance of some social and 
 cultural traditions, including the layout of interiors and furniture. Younger community members feel that modern furniture is more appropriate for the 
 new house designs, they said. We met one of the last angareeb makers, 
 [Abdel Ghani](https://egyptiancoffins.org/images/news/New_Aniba_group_photo.jpeg), who showed us how the traditional beds were made, including legs 
 that are [carved in a particular way](https://egyptiancoffins.org/images/news/Angareeb_legs.jpg) to deter scorpions from climbing up - which sounds 
-like a very good idea. Another senior community member, 
+like a very good idea. Another community leader, 
 [Amm Ibrahim showed us an ancient wooden lock and key](https://egyptiancoffins.org/images/news/Ibrahim_old_door.jpg), and how the position of the key 
-would indicate whether the people inside were "at home" to visitors or not, and a 
-[wooden vase with a lid used at weddings](https://egyptiancoffins.org/images/news/Wedding_vase.jpg). We in turn showed them the replica tools that we
-had with us, which they instantly recognised and related to. We all felt that we would like to come back and do a pop-up museum activity for the whole 
-community at some time in the future.
+would indicate whether the people inside were "at home" to visitors or not. These locks are still in use, although they are dying out nowadays, but 
+are similarities to locks that survive from ancient Egyptian times. He also showed us a 
+[wooden vase with a lid used at weddings](https://egyptiancoffins.org/images/news/Wedding_vase.jpg), which he still kept at home. 
+We in turn showed them the replica tools that we had with us, which they instantly recognised and related to.
+
+Many of the people we met, in both Gharb Soheil and New Aniba, felt the relevance and closeness of their Nubian culture to that of the ancient
+Egyptians. And they were keen for us to go back to talk to them some more and do more pop-ups in their communities, something that 
+-- on our side -- we all felt we would like to do.
 
 
