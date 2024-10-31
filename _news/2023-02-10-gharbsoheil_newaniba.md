@@ -11,7 +11,7 @@ thumbnail: /images/news/CTscanningJan23.jpg
 images:
   -
     image: news/Nubian_displacement.jpg
-    caption: Nubian families carry possessions down to the river bank as they leave their homes (image from https://raseef22.net/article/1074777-nubia-and-the-nubians-the-untold-story, accessed 31 October 2024).
+    caption: Nubian families carry possessions to the river as they leave their homes (image from https://raseef22.net/article/1074777-nubia-and-the-nubians-the-untold-story, accessed 31 October 2024).
   -
     image: news/Community_elders.jpg
     caption: Senior members of the Nubian community in Gharb Soheil; from left to right, Amm Bashir, Hussein Shellaly and Haj Omar
@@ -25,11 +25,11 @@ images:
     image: news/Shellaly_stool_fixed.jpg
     caption: Amr and Shellaly with the repaired stool
   -
-    image: news/spice_man_investigates_pop-up.jpg
+    image: news/Spice_man_investigates_pop-up.jpg
     caption: Our neighbouring spice stall holder checks out what the pop-up museum is all about, before becoming our biggest advocate.
   -
     image: news/New_Aniba_group_photo.jpeg
-    caption: :Pop-up museum team with senior community members at New Aniba; left, Abdel Ghani and right, Amm Ibrahim)
+    caption: Pop-up museum team with senior community members at New Aniba; left, Abdel Ghani and right, Amm Ibrahim)
   -
     image: news/Angareeb_legs.jpg
     caption: This apparently decorative element on the legs of traditional angareeb beds is intended to stop scorpions climbing up.
