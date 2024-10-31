@@ -19,7 +19,7 @@ images:
     image: news/Shellaly_stool_broken.jpg
     caption: Hussein Shellaly with his very old, sadly broken, stool
   -
-    image: news/Stool_repairs.jpg.jpg
+    image: news/Stool_repairs.jpg
     caption: Amr Orensa works to fix Hussein Shellaly's stool using the replicas of ancient Egyptian tools from the pop-up museum.
   -
     image: news/Shellaly_stool_fixed.jpg
@@ -28,11 +28,17 @@ images:
     image: news/spice_man_investigates_pop-up.jpg
     caption: Our neighbouring spice stall holder checks out what the pop-up museum is all about, before becoming our biggest advocate.
   -
+    image: news/New_Aniba_group_photo.jpeg
+    caption: :Pop-up museum team with senior community members at New Aniba; left, Abdel Ghani and right, Amm Ibrahim)
+  -
     image: news/Angareeb_legs.jpg
     caption: This apparently decorative element on the legs of traditional angareeb beds is intended to stop scorpions climbing up.
   -
-    image: news/New_Aniba_group_photo.jpeg
-    caption: :Pop-up museum team with senior community members at New Aniba; left, Abdel Ghani and right, Amm Ibrahim)
+    image: news/Ibrahim_old_door.jpeg
+    caption: An old Nubian door and its elaborate locking device, which shows whether the inhabitants are at home (ready to receive guests), at home (not ready to receive guests), or out.
+  -
+    image: news/wedding_vase.jpg
+    caption: A traditional Nubian lidded vase, used at wedding celebrations
 ---
 
 In February 2023, as part of our pop-up museum activities, [Helen Strudwick, Sara Abed and Amr Orensa](https://egyptiancoffins.org/team/) visited 
