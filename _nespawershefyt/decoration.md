@@ -10,6 +10,9 @@ technical:
     file: nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
   -
+    file: nespawershefyt/nespawershefytMummyBoarddec.pdf
+    title: Mummy board Decoration Summary
+  -
     file: nespawershefyt/Innercoffindecsummary.pdf
     title: Inner Coffin Box Decoration Summary
   -
