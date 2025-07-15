@@ -107,7 +107,7 @@ GEM
     securerandom (0.3.2)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
-    webrick (1.7.0)
+    webrick (1.8.2)
 
 PLATFORMS
   ruby
@@ -126,7 +126,7 @@ DEPENDENCIES
   minima (~> 2.0)
   nokogiri
   tzinfo-data
-  webrick (~> 1.7.0)
+  webrick (~> 1.8.2)
 
 BUNDLED WITH
    2.1.4
