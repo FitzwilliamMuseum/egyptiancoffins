@@ -11,7 +11,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.9.0"
 gem "kramdown", ">= 2.3.0"
 gem "kramdown-parser-gfm"
-gem "nokogiri"
+gem "nokogiri", ">= 1.18.9"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
