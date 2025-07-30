@@ -24,7 +24,7 @@ gem "minima", "~> 2.0"
 group :jekyll_plugins do
   gem "jekyll-feed", ">= 0.16.0"
   gem 'jekyll-sitemap'
-  gem 'jekyll-seo-tag', '>= 2.8.0'
+  gem 'jekyll-seo-tag', '>= 2.8.0', '< 3.0'
   gem 'jemoji'
   gem 'jekyll-mentions'
   gem 'jekyll-paginate'
