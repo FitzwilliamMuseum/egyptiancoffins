@@ -22,7 +22,7 @@ gem "minima", "~> 2.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", ">= 0.16.0"
+  gem "jekyll-feed", ">= 0.16.0", "< 1.0"
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag', '>= 2.8.0', '< 3.0'
   gem 'jemoji'
