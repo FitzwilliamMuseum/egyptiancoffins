@@ -108,12 +108,12 @@ PLATFORMS
   x86_64-darwin-24
 
 DEPENDENCIES
-  jekyll (~> 3.9.0)
-  jekyll-feed
+  jekyll (~> 3.9.5)
+  jekyll-feed (>= 0.16.0)
   jekyll-mentions
   jekyll-paginate
   jekyll-redirect-from
-  jekyll-seo-tag
+  jekyll-seo-tag (>= 2.8.0)
   jekyll-sitemap
   jemoji
   kramdown (>= 2.3.0)
