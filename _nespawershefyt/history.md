@@ -9,6 +9,21 @@ technical:
   -
     file: nespawershefyt/nespawershefytComplete.pdf
     title: Complete Translations and Description
+  -
+    file: nespawershefyt/nespawershefytMummyBoarddec.pdf
+    title: Mummy board Decoration Summary
+  -
+    file: nespawershefyt/Innercoffindecsummary.pdf
+    title: Inner Coffin Box Decoration Summary
+  -
+    file: nespawershefyt/Innercoffinliddec.pdf
+    title: Inner Coffin Lid Decoration Summary
+  -
+    file: nespawershefyt/Outercoffinboxdec.pdf
+    title: Outer Coffin Box Decoration Summary
+  -
+    file: nespawershefyt/Outercoffinliddec.pdf
+    title: Outer Coffin Lid Decoration Summary
 ---
 
 Nespawershefyt’s coffin set was one of the first objects to be acquired into the
